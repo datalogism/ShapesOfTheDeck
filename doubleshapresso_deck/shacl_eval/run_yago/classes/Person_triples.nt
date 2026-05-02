@@ -1,0 +1,1368 @@
+<http://yago-knowledge.org/resource/Garret_Fitzmaurice> <http://www.w3.org/2000/01/rdf-schema#label> "Garret FitzMaurice"@es .
+<http://yago-knowledge.org/resource/Aleksandr_Efimov> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/James_Allen_Q75856193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#comment> "משפטן אמריקאי"@he .
+<http://yago-knowledge.org/resource/František_Pelzl> <http://www.w3.org/2000/01/rdf-schema#comment> "vězeň nacismu, nar. 1887-05-12"@cs .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "دبلوماسية ألمانية"@ar .
+<http://yago-knowledge.org/resource/Elizabeth_Pomeroy_Q75980371> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q110826981> .
+<http://yago-knowledge.org/resource/Tran_Lam_Hach> <http://www.w3.org/2000/01/rdf-schema#label> "Tran Lam Hach"@ga .
+<http://yago-knowledge.org/resource/Derek_Norris-Hill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Gde_Sugianyar_Dwi_Putra> <http://schema.org/url> "https://id.wikipedia.org/wiki/Gde_Sugianyar_Dwi_Putra"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/James_Allen_Q75856193> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Korshamn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AdministrativeArea> .
+<http://yago-knowledge.org/resource/Maria_Garcia_De_La_Rasilla_Y_De_Gortazar> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Alvaro_Garcia_De_La_Rasilla_Y_Pineda> .
+<http://yago-knowledge.org/resource/Etuhonge> <http://www.w3.org/2000/01/rdf-schema#label> "额图洪额"@zh-hans .
+<http://yago-knowledge.org/resource/Venice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Big_City_Q1549591> .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://schema.org/birthDate> "1689"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://schema.org/alternateName> "Randle Holmes"@en .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#label> "John T. Goolrick"@fr .
+<http://yago-knowledge.org/resource/Niels_Kowalzig> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Ryan_Cagle> <http://www.w3.org/2000/01/rdf-schema#comment> "редактор"@uk .
+<http://yago-knowledge.org/resource/Bochum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Big_City_Q1549591> .
+<http://yago-knowledge.org/resource/John_Alder_Q21547255> <http://schema.org/birthDate> "1712"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Lu_Huai_Q65821978> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q65821978> .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#label> "Syed Azizul Haque"@pt .
+<http://yago-knowledge.org/resource/John_Harris_Q75653891> <http://schema.org/alternateName> "Reverend John Harris"@en .
+<http://yago-knowledge.org/resource/Peter_John_Norris-Hill> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Derek_Norris-Hill> .
+<http://yago-knowledge.org/resource/Greece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Social_state> .
+<http://yago-knowledge.org/resource/Laurent_Iparraguirre> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Diocesan_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/High_school> .
+<http://yago-knowledge.org/resource/Hikmət_Bağırlı> <http://schema.org/deathPlace> <http://yago-knowledge.org/resource/Fuzuli_District> .
+<http://yago-knowledge.org/resource/Josef_Hoffmann_Q104810059> <http://schema.org/familyName> "Hoffmann" .
+<http://yago-knowledge.org/resource/Xiao_Shi_Q65838225> <http://www.w3.org/2000/01/rdf-schema#comment> "程註妻"@zh .
+<http://yago-knowledge.org/resource/Hans_Andreas_Schultz> <http://www.w3.org/2000/01/rdf-schema#comment> "(1867-1896) Norwegian sailor lost at sea"@en .
+<http://yago-knowledge.org/resource/United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federal_republic> .
+<http://yago-knowledge.org/resource/University_of_California_Berkeley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/United_Nations_Depository_Library> .
+<http://yago-knowledge.org/resource/Charlotte_Hodge_Q116187308> <http://www.w3.org/2000/01/rdf-schema#label> "Charlotte Hodge"@mul .
+<http://yago-knowledge.org/resource/Catherine_Violet_Hunter> <http://schema.org/alternateName> "Catherine Hunter"@en .
+<http://yago-knowledge.org/resource/Vienna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Statutory_city_Austria> .
+<http://yago-knowledge.org/resource/Garret_Fitzmaurice> <http://www.w3.org/2000/01/rdf-schema#label> "Garret FitzMaurice"@en .
+<http://yago-knowledge.org/resource/John_Alder_Q21547255> <http://schema.org/deathDate> "1780"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://schema.org/location> <http://yago-knowledge.org/resource/Alzey> .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://www.w3.org/2000/01/rdf-schema#label> "Iacopo Fabris"@fr .
+<http://yago-knowledge.org/resource/Carl_Edvard_Walleen> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q120784814> .
+<http://yago-knowledge.org/resource/František_Pelzl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Hans_Laagland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/James_P_Harrelson> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134312343> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "Alman diplomat"@tr .
+<http://yago-knowledge.org/resource/Alicia_Wykeham_Martin> <http://schema.org/spouse> <http://yago-knowledge.org/resource/William_Hamilton_Kindersley_Bradford> .
+<http://yago-knowledge.org/resource/Josef_Hoffmann_Q104810059> <http://www.w3.org/2000/01/rdf-schema#label> "Josef Hoffmann"@mul .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#label> "John T. Goolrick"@pt-br .
+<http://yago-knowledge.org/resource/Majdanek_concentration_camp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Military_Museum_Q2772772> .
+<http://yago-knowledge.org/resource/Gerald_Butler_Q75942641> <http://schema.org/familyName> "Butler" .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://schema.org/nationality> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Kong_Tan> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/James_Allen_Q75856193> <http://www.w3.org/2000/01/rdf-schema#label> "James Allen"@nl .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@da .
+<http://yago-knowledge.org/resource/Xiao_Shi_Q65838225> <http://www.w3.org/2000/01/rdf-schema#label> "萧氏"@zh-hans .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://www.w3.org/2000/01/rdf-schema#label> "Auguste Boyer"@ca .
+<http://yago-knowledge.org/resource/James_P_Harrelson> <http://schema.org/nationality> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Carmen_Maria_Dilger> <http://www.w3.org/2000/01/rdf-schema#label> "Carmen Maria Dilger"@mul .
+<http://yago-knowledge.org/resource/Bernard_Iii_D_Anduze> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "Saksamaa diplomaat"@et .
+<http://yago-knowledge.org/resource/Barry_Lewis_Coulton> <http://www.w3.org/2000/01/rdf-schema#label> "Barry Lewis Coulton"@pt-br .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://schema.org/birthPlace> <http://yago-knowledge.org/resource/Bochum> .
+<http://yago-knowledge.org/resource/Meike_Drescher> <http://www.w3.org/2000/01/rdf-schema#label> "Meike Drescher"@mul .
+<http://yago-knowledge.org/resource/Guo_Shi_Q65833685> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Cui_Siyue> <http://www.w3.org/2000/01/rdf-schema#label> "崔思约"@zh-hans .
+<http://yago-knowledge.org/resource/Robin_Graham_Brown> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132114715> .
+<http://yago-knowledge.org/resource/Klaus_Zwiorek> <http://schema.org/birthDate> "1975"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://www.w3.org/2000/01/rdf-schema#label> "Randle Holmes"@pt-br .
+<http://yago-knowledge.org/resource/Gerald_Butler_Q75942641> <http://schema.org/givenName> "Gerald" .
+<http://yago-knowledge.org/resource/Peter_John_Norris-Hill> <http://schema.org/birthDate> "1930"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Lenka_Línková> <http://www.w3.org/2000/01/rdf-schema#label> "Lenka Línková"@nl .
+<http://yago-knowledge.org/resource/Heinz-Otto_Weber> <http://schema.org/givenName> "Heinz-Otto" .
+<http://yago-knowledge.org/resource/Saarland_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Open-Access_Publisher> .
+<http://yago-knowledge.org/resource/Adolf_Schmid_Von_Schmidsfelden_Q94811109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Tran_Lam_Hach> <http://www.w3.org/2000/01/rdf-schema#label> "Tran Lam Hach"@en .
+<http://yago-knowledge.org/resource/Lu_Huai_Q65821978> <http://www.w3.org/2000/01/rdf-schema#label> "盧槐"@zh-hant .
+<http://yago-knowledge.org/resource/Thesea_Hilaria_Parker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Judith_Ludwig> <http://schema.org/familyName> "Ludwig" .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://schema.org/url> "https://fr.wikipedia.org/wiki/Auguste_Boyer"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bakchunmyeong> <http://schema.org/url> "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%B6%98%EB%AA%85"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Catherine_Violet_Hunter> <http://schema.org/spouse> <http://yago-knowledge.org/resource/Nicholas_Charles_Bingham> .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "politician din Bangladesh"@ro .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://schema.org/sameAs> "/g/11j0v0zwdd" .
+<http://yago-knowledge.org/resource/Catherine_Violet_Hunter> <http://schema.org/alternateName> "Catherine Bingham"@en .
+<http://yago-knowledge.org/resource/Sciences_Po> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Grands_établissements> .
+<http://yago-knowledge.org/resource/Adolf_Simons> <http://schema.org/deathDate> "1942-06-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Etuhonge> <http://www.w3.org/2000/01/rdf-schema#label> "Etuhonge"@ast .
+<http://yago-knowledge.org/resource/Maria_Garcia_De_La_Rasilla_Y_De_Gortazar> <http://schema.org/spouse> <http://yago-knowledge.org/resource/Konstantin-Assen_Prince_Of_Vidin> .
+<http://yago-knowledge.org/resource/Pierre_Vajda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Josef_Pollak_Q105574784> <http://www.w3.org/2000/01/rdf-schema#label> "Josef Pollak"@en .
+<http://yago-knowledge.org/resource/John_Hull_Q76251917> <http://schema.org/givenName> "John" .
+<http://yago-knowledge.org/resource/Barry_Lewis_Coulton> <http://schema.org/birthDate> "1940-09-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Xiao_Shi_Q65838225> <http://www.w3.org/2000/01/rdf-schema#comment> "wife of Chengzhu"@en .
+<http://yago-knowledge.org/resource/Anna_Magdalena_Von_Winter> <http://www.w3.org/2000/01/rdf-schema#label> "Anna Magdalena von Winter"@en .
+<http://yago-knowledge.org/resource/Hans_Andreas_Schultz> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q124989729> .
+<http://yago-knowledge.org/resource/Di_Boji_Q65919792> <http://www.w3.org/2000/01/rdf-schema#label> "狄博濟"@zh-hant .
+<http://yago-knowledge.org/resource/Charlotte_Hodge_Q116187308> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Elizabeth_Pomeroy_Q75980371> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Rev_John_Pomeroy> .
+<http://yago-knowledge.org/resource/Jean_Stewart_Q75734967> <http://schema.org/givenName> "Jean" .
+<http://yago-knowledge.org/resource/Pavel_Veniaminovich_Mihajlov> <http://www.w3.org/2000/01/rdf-schema#label> "Михайлов Павло Веніамінович"@uk .
+<http://yago-knowledge.org/resource/Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Country_Bordering_The_Baltic_Sea> .
+<http://yago-knowledge.org/resource/Elizabeth_Pomeroy_Q75980371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@pt-br .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "বাংলাদেশী রাজনীতিবিদ"@bn .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://schema.org/birthPlace> <http://yago-knowledge.org/resource/Venice> .
+<http://yago-knowledge.org/resource/Aleksandr_Efimov> <http://www.w3.org/2000/01/rdf-schema#label> "Aleksandr Efimov"@en .
+<http://yago-knowledge.org/resource/John_Goodryke_Of_Bolingbroke_Linc> <http://www.w3.org/2000/01/rdf-schema#comment> "- 1493"@en .
+<http://yago-knowledge.org/resource/Lady_Harriet_Butler_Q75653885> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Josef_Hoffmann_Q104810059> <http://schema.org/givenName> "Josef" .
+<http://yago-knowledge.org/resource/Felicjanna_Narwoysz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Pehr_Elfstrand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Shipbuilder> .
+<http://yago-knowledge.org/resource/Han_Yi_Q6700327> <http://www.w3.org/2000/01/rdf-schema#label> "Hàn Ế"@vi .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q90001124> .
+<http://yago-knowledge.org/resource/Ryan_Cagle> <http://www.w3.org/2000/01/rdf-schema#comment> "editor"@en .
+<http://yago-knowledge.org/resource/Gilles_Quentel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Catherine_Violet_Hunter> <http://schema.org/familyName> "Hunter" .
+<http://yago-knowledge.org/resource/Hans_Laagland> <http://schema.org/birthDate> "1976"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Adolf_Simons> <http://schema.org/birthDate> "1861-10-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://schema.org/deathPlace> <http://yago-knowledge.org/resource/Fredericksburg_Virginia> .
+<http://yago-knowledge.org/resource/Maria_Garcia_De_La_Rasilla_Y_De_Gortazar> <http://www.w3.org/2000/01/rdf-schema#label> "Maria Garcia de la Rasilla y de Gortazar"@nl .
+<http://yago-knowledge.org/resource/František_Pelzl> <http://schema.org/familyName> "Pelzl" .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://www.w3.org/2000/01/rdf-schema#label> "Philipp Fuchs"@fi .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@sv .
+<http://yago-knowledge.org/resource/Aleksandr_Efimov> <http://schema.org/birthDate> "1924-09-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://www.w3.org/2000/01/rdf-schema#label> "Iacopo Fabris"@pt-br .
+<http://yago-knowledge.org/resource/John_Hull_Q76251917> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#label> "John T. Goolrick"@pt .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://schema.org/givenName> "Auguste" .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q87316008> .
+<http://yago-knowledge.org/resource/Marina_Stefou> <http://schema.org/givenName> "Marina" .
+<http://yago-knowledge.org/resource/Reisel_Neuberg> <http://www.w3.org/2000/01/rdf-schema#comment> "oběť holokaustu, nar. 03. 09. 1863"@cs .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://schema.org/familyName> "Boyer" .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://schema.org/knowsLanguage> <http://yago-knowledge.org/resource/German_language_generic_instance> .
+<http://yago-knowledge.org/resource/Alzey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/District_Capital_Q134626> .
+<http://yago-knowledge.org/resource/Q31486720> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Guo_Shi_Q65833685> <http://www.w3.org/2000/01/rdf-schema#comment> "劉應時妻"@zh .
+<http://yago-knowledge.org/resource/Josef_Hoffmann_Q104810059> <http://www.w3.org/2000/01/rdf-schema#label> "Josef Hoffmann"@cs .
+<http://yago-knowledge.org/resource/Hou_Duo_Q45576143> <http://www.w3.org/2000/01/rdf-schema#label> "Hou Duo"@cy .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#label> "John T. Goolrick"@sv .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@da .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://www.w3.org/2000/01/rdf-schema#label> "Philipp Fuchs"@es .
+<http://yago-knowledge.org/resource/Marina_Stefou> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://schema.org/birthDate> "1887-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Peter_John_Norris-Hill> <http://www.w3.org/2000/01/rdf-schema#label> "Peter John Norris-Hill"@en .
+<http://yago-knowledge.org/resource/Jerzy_Kazimierz_Szemioth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Etuhonge> <http://schema.org/alternateName> "Shiqing"@en .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://schema.org/alternateName> "Elisabet Elfstrand"@sv .
+<http://yago-knowledge.org/resource/John_Harris_Q75653891> <http://yago-knowledge.org/resource/hasMother> <http://yago-knowledge.org/resource/Lady_Harriet_Butler_Q75653885> .
+<http://yago-knowledge.org/resource/Christian_Cotchobos> <http://schema.org/nationality> <http://yago-knowledge.org/resource/South_Africa> .
+<http://yago-knowledge.org/resource/Sir_Alexander_Jardine_Of_Applegirth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Hou_Duo_Q45576143> <http://www.w3.org/2000/01/rdf-schema#label> "Hou Duo"@es .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Hou_Duo_Q45576143> <http://www.w3.org/2000/01/rdf-schema#label> "侯鐸"@zh .
+<http://yago-knowledge.org/resource/Kong_Tan> <http://www.w3.org/2000/01/rdf-schema#label> "Kong Tan"@nl .
+<http://yago-knowledge.org/resource/Richard_William_Serjeantson> <http://schema.org/alternateName> "Richard Serjeantson"@en .
+<http://yago-knowledge.org/resource/Junsong_Jia> <http://www.w3.org/2000/01/rdf-schema#label> "Junsong Jia"@mul .
+<http://yago-knowledge.org/resource/Carl_Edvard_Walleen> <http://schema.org/nationality> <http://yago-knowledge.org/resource/Grand_Duchy_of_Finland> .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://www.w3.org/2000/01/rdf-schema#label> "Randle Holmes"@da .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "bangladeški političar"@hr .
+<http://yago-knowledge.org/resource/Tran_Lam_Hach> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q102352588> .
+<http://yago-knowledge.org/resource/Adolf_Schmid_Von_Schmidsfelden_Q94811109> <http://www.w3.org/2000/01/rdf-schema#label> "Adolf Schmid von Schmidsfelden"@sq .
+<http://yago-knowledge.org/resource/Ludwik_Szemioth> <http://www.w3.org/2000/01/rdf-schema#comment> "(XVIII ст.) стражнік крамянецкі"@be .
+<http://yago-knowledge.org/resource/Michael_Andramonov> <http://schema.org/givenName> "Michael" .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://schema.org/deathDate> "1948-07-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Lucy_Jane_Synge> <http://yago-knowledge.org/resource/hasMother> <http://yago-knowledge.org/resource/Mary_Mcelroy_Q75871881> .
+<http://yago-knowledge.org/resource/Miguel_Muñoz_Rubio> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q93428174> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "njemačka diplomatkinja"@hr .
+<http://yago-knowledge.org/resource/Q31486720> <http://schema.org/url> "https://te.wikipedia.org/wiki/%E0%B0%97%E0%B1%81%E0%B0%B0%E0%B1%8D%E0%B0%B0%E0%B0%BE%E0%B0%B2_%E0%B0%B5%E0%B1%86%E0%B0%82%E0%B0%95%E0%B0%9F_%E0%B0%B6%E0%B1%87%E0%B0%B7%E0%B1%81"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Tran_Lam_Hach> <http://www.w3.org/2000/01/rdf-schema#comment> "Ph. D. Hungarian Academy of Sciences 1984"@en .
+<http://yago-knowledge.org/resource/Josef_Hoffmann_Q104810059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Corrie_Kamminga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://schema.org/deathPlace> <http://yago-knowledge.org/resource/Jakob_And_Johannes_Parish> .
+<http://yago-knowledge.org/resource/Zhang_Mei_Q45489021> <http://www.w3.org/2000/01/rdf-schema#label> "張梅"@lzh .
+<http://yago-knowledge.org/resource/Michael_Andramonov> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Andramonov"@mul .
+<http://yago-knowledge.org/resource/Zhang_Mei_Q45489021> <http://schema.org/givenName> "Mei_Q96631729" .
+<http://yago-knowledge.org/resource/Jean_De_Bourbon_Q106984976> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q106984976> .
+<http://yago-knowledge.org/resource/Pierre_Vajda> <http://schema.org/familyName> "Vajda" .
+<http://yago-knowledge.org/resource/Peter_John_Norris-Hill> <http://www.w3.org/2000/01/rdf-schema#label> "Peter John Norris-Hill"@nl .
+<http://yago-knowledge.org/resource/Ann_Butler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Gde_Sugianyar_Dwi_Putra> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Han_Yi_Q6700327> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Sciences_Po> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Academic_Publisher> .
+<http://yago-knowledge.org/resource/Gde_Sugianyar_Dwi_Putra> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Engineer_s_degree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Academic_degree> .
+<http://yago-knowledge.org/resource/Indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Historical_Unrecognized_State> .
+<http://yago-knowledge.org/resource/Reid_Blake_Stevens> <http://schema.org/alumniOf> <http://yago-knowledge.org/resource/University_of_California_Berkeley> .
+<http://yago-knowledge.org/resource/Klaus_Zwiorek> <http://www.w3.org/2000/01/rdf-schema#label> "Klaus Zwiorek"@mul .
+<http://yago-knowledge.org/resource/Carl_Edvard_Walleen> <http://www.w3.org/2000/01/rdf-schema#comment> "suomalainen valtioneuvos ja vapaaherra"@fi .
+<http://yago-knowledge.org/resource/John_Goodryke_Of_Bolingbroke_Linc> <http://www.w3.org/2000/01/rdf-schema#label> "John Goodryke, of Bolingbroke, Linc"@mul .
+<http://yago-knowledge.org/resource/Marina_Stefou> <http://schema.org/nationality> <http://yago-knowledge.org/resource/Greece> .
+<http://yago-knowledge.org/resource/Miguel_Muñoz_Rubio> <http://www.w3.org/2000/01/rdf-schema#label> "Miguel Muñoz Rubio"@en .
+<http://yago-knowledge.org/resource/Anna_Magdalena_Von_Winter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#label> "John T. Goolrick"@nl .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://schema.org/nationality> <http://yago-knowledge.org/resource/Sweden> .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://www.w3.org/2000/01/rdf-schema#comment> "rechter"@nl .
+<http://yago-knowledge.org/resource/Judith_Ludwig> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Garret_Fitzmaurice> <http://www.w3.org/2000/01/rdf-schema#comment> "Peerage person ID=155987"@en .
+<http://yago-knowledge.org/resource/Han_Yi_Q6700327> <http://schema.org/url> "https://zh.wikipedia.org/wiki/%E8%B1%B7"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Lenka_Línková> <http://www.w3.org/2000/01/rdf-schema#label> "Lenka Línková"@sk .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://schema.org/familyName> "Östberg" .
+<http://yago-knowledge.org/resource/Johan_Van_Bylandt_Q108410149> <http://www.w3.org/2000/01/rdf-schema#label> "Johan van Bylandt"@mul .
+<http://yago-knowledge.org/resource/Heinz-Otto_Weber> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Q31486720> <http://schema.org/birthDate> "1945"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Niels_Kowalzig> <http://schema.org/familyName> "Kowalzig" .
+<http://yago-knowledge.org/resource/Reisel_Neuberg> <http://schema.org/familyName> "Neuberg" .
+<http://yago-knowledge.org/resource/Andy_Avellana> <http://www.w3.org/2000/01/rdf-schema#label> "Andy Avellana"@es .
+<http://yago-knowledge.org/resource/Judith_Ludwig> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q102438238> .
+<http://yago-knowledge.org/resource/Marina_Stefou> <http://www.w3.org/2000/01/rdf-schema#label> "Marina Stefou"@en .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://schema.org/deathDate> "1942-10-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#label> "John T. Goolrick"@gl .
+<http://yago-knowledge.org/resource/Thomasine_Hooker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Historical_Unrecognized_State> .
+<http://yago-knowledge.org/resource/Hans_Andreas_Schultz> <http://schema.org/familyName> "Schultz" .
+<http://yago-knowledge.org/resource/Xuan_Qi_Q15940933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Lenka_Línková> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q95473537> .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q75744389> .
+<http://yago-knowledge.org/resource/Richard_William_Serjeantson> <http://www.w3.org/2000/01/rdf-schema#label> "Richard William Serjeantson"@en .
+<http://yago-knowledge.org/resource/Barry_Lewis_Coulton> <http://www.w3.org/2000/01/rdf-schema#label> "Barry Lewis Coulton"@pt .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://schema.org/birthDate> "1861-03-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Margaret_Drennan_Q75856187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Bakchunmyeong> <http://schema.org/sameAs> "/g/122092rw" .
+<http://yago-knowledge.org/resource/Etuhonge> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Zany_Butschowitz> <http://www.w3.org/2000/01/rdf-schema#label> "Zany Butschowitz"@de .
+<http://yago-knowledge.org/resource/James_Allen_Q75856193> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q75856193> .
+<http://yago-knowledge.org/resource/Patrick_Fitzmaurice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Junsong_Jia> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q137077922> .
+<http://yago-knowledge.org/resource/Johan_Van_Bylandt_Q108410149> <http://www.w3.org/2000/01/rdf-schema#comment> "- Bef 1565"@en .
+<http://yago-knowledge.org/resource/Alvaro_Garcia_De_La_Rasilla_Y_Pineda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Helma_Jebe> <http://www.w3.org/2000/01/rdf-schema#label> "Helma Jebe"@de .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://www.w3.org/2000/01/rdf-schema#comment> "(1570/71–1655)"@cy .
+<http://yago-knowledge.org/resource/Theresienstadt_Ghetto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Nazi_concentration_camps> .
+<http://yago-knowledge.org/resource/Carl_Edvard_Walleen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Cui_Siyue> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q45437515> .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:John_T._Goolrick"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Carl_Edvard_Walleen> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Etuhonge> <http://www.w3.org/2000/01/rdf-schema#label> "額圖洪額"@zh-hant .
+<http://yago-knowledge.org/resource/Andy_Avellana> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Mou_Leyuan> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q65804326> .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "político bangladesí"@gl .
+<http://yago-knowledge.org/resource/Josef_Pollak_Q105574784> <http://schema.org/givenName> "Josef" .
+<http://yago-knowledge.org/resource/František_Pelzl> <http://www.w3.org/2000/01/rdf-schema#label> "František Pelzl"@de .
+<http://yago-knowledge.org/resource/Ludwik_Szemioth> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://schema.org/sameAs> "/g/11b7xs6595" .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#comment> "jurist amerikan"@sq .
+<http://yago-knowledge.org/resource/Marina_Stefou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Elsie_Murdoch> <http://schema.org/spouse> <http://yago-knowledge.org/resource/Angus_Macdonell_Q76072002> .
+<http://yago-knowledge.org/resource/Heinz-Otto_Weber> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q137031922> .
+<http://yago-knowledge.org/resource/Bernard_Iii_D_Anduze> <http://www.w3.org/2000/01/rdf-schema#label> "Bernard III d'Anduze"@en .
+<http://yago-knowledge.org/resource/Elsie_Murdoch> <http://schema.org/familyName> "Murdoch" .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://schema.org/deathDate> "1655"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Aleksandr_Efimov> <http://www.w3.org/2000/01/rdf-schema#label> "Ефимов, Александр Ефимович"@ru .
+<http://yago-knowledge.org/resource/Catherine_Violet_Hunter> <http://www.w3.org/2000/01/rdf-schema#label> "Catherine Violet Hunter"@en .
+<http://yago-knowledge.org/resource/James_P_Harrelson> <http://schema.org/birthDate> "1919-06-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Roli_Arioli> <http://www.w3.org/2000/01/rdf-schema#label> "Roli Arioli"@fr .
+<http://yago-knowledge.org/resource/Lenka_Línková> <http://schema.org/givenName> "Lenka" .
+<http://yago-knowledge.org/resource/Xia_dynasty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/FictionalEntity> .
+<http://yago-knowledge.org/resource/National_and_Kapodistrian_University_of_Athens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/University> .
+<http://yago-knowledge.org/resource/Venice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Port_City_Q2264924> .
+<http://yago-knowledge.org/resource/Kong_Tan> <http://www.w3.org/2000/01/rdf-schema#label> "孔坦"@zh-hans .
+<http://yago-knowledge.org/resource/Garret_Fitzmaurice> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Han_Yi_Q6700327> <http://www.w3.org/2000/01/rdf-schema#label> "Han Yi"@en .
+<http://yago-knowledge.org/resource/Johan_Van_Bylandt_Q108410149> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Roeleman_Von_Bylandt> .
+<http://yago-knowledge.org/resource/Lucy_Jane_Synge> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Pieter_Blom> <http://www.w3.org/2000/01/rdf-schema#label> "Pieter Blom"@en .
+<http://yago-knowledge.org/resource/Adolf_Schmid_Von_Schmidsfelden_Q94811109> <http://www.w3.org/2000/01/rdf-schema#label> "Adolf Schmid von Schmidsfelden"@nl .
+<http://yago-knowledge.org/resource/Gde_Sugianyar_Dwi_Putra> <http://schema.org/nationality> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Lu_Huai_Q65821978> <http://www.w3.org/2000/01/rdf-schema#comment> "person, CBDB ID = 416621"@en .
+<http://yago-knowledge.org/resource/Volmari_Treyden_Lord_Of_Samma> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Greece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Member_state_of_the_European_Union> .
+<http://yago-knowledge.org/resource/Richard_Svensson_Q133600145> <http://schema.org/birthDate> "1981"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Alicia_Wykeham_Martin> <http://schema.org/givenName> "Alicia" .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://schema.org/givenName> "Philipp" .
+<http://yago-knowledge.org/resource/Ann_Kirke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Mou_Leyuan> <http://www.w3.org/2000/01/rdf-schema#label> "Mou Leyuan"@en .
+<http://yago-knowledge.org/resource/Adolf_Simons> <http://www.w3.org/2000/01/rdf-schema#label> "Adolf Simons"@en .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://schema.org/alternateName> "John Tackett Goolrick"@en .
+<http://yago-knowledge.org/resource/Lucy_Jane_Synge> <http://www.w3.org/2000/01/rdf-schema#comment> "(1872-1953)"@en .
+<http://yago-knowledge.org/resource/Cui_Siyue> <http://www.w3.org/2000/01/rdf-schema#comment> "Tang dynasty person CBDB = 150267"@en .
+<http://yago-knowledge.org/resource/Sciences_Po> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Grande_école> .
+<http://yago-knowledge.org/resource/Zany_Butschowitz> <http://schema.org/birthDate> "1870-02-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Elsie_Murdoch> <http://schema.org/givenName> "Elsie" .
+<http://yago-knowledge.org/resource/Reisel_Neuberg> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q105469997> .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://schema.org/givenName> "Elisabet" .
+<http://yago-knowledge.org/resource/Niels_Kowalzig> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/John_Alder_Q21547255> <http://schema.org/familyName> "Alder" .
+<http://yago-knowledge.org/resource/Indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Unitary_state> .
+<http://yago-knowledge.org/resource/Robert_Sidney_Latham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Marina_Stefou> <http://www.w3.org/2000/01/rdf-schema#comment> "Greek civil servant"@en .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "políticu bangladexín"@ast .
+<http://yago-knowledge.org/resource/Johann_Von_Uexküll-Gyllenband> <http://schema.org/deathDate> "1729"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/František_Pelzl> <http://www.w3.org/2000/01/rdf-schema#label> "František Pelzl"@en .
+<http://yago-knowledge.org/resource/Pierre_Vajda> <http://www.w3.org/2000/01/rdf-schema#label> "Pierre Vajda"@ast .
+<http://yago-knowledge.org/resource/Gde_Sugianyar_Dwi_Putra> <http://schema.org/birthPlace> <http://yago-knowledge.org/resource/Gianyar_Regency> .
+<http://yago-knowledge.org/resource/Reid_Blake_Stevens> <http://www.w3.org/2000/01/rdf-schema#label> "Reid Blake Stevens"@nl .
+<http://yago-knowledge.org/resource/Michael_Andramonov> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q102431997> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://schema.org/familyName> "Goolrick" .
+<http://yago-knowledge.org/resource/John_Harris_Q75653891> <http://schema.org/givenName> "John" .
+<http://yago-knowledge.org/resource/Elsie_Murdoch> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q76072006> .
+<http://yago-knowledge.org/resource/Reid_Blake_Stevens> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q103116998> .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://www.w3.org/2000/01/rdf-schema#label> "Randle Holme"@en .
+<http://yago-knowledge.org/resource/Guo_Shi_Q65833685> <http://www.w3.org/2000/01/rdf-schema#label> "Guo Shi"@en .
+<http://yago-knowledge.org/resource/Tran_Lam_Hach> <http://www.w3.org/2000/01/rdf-schema#label> "Tran Lam Hach"@mul .
+<http://yago-knowledge.org/resource/Zany_Butschowitz> <http://www.w3.org/2000/01/rdf-schema#comment> "Holocaust victim (born 1870)"@en .
+<http://yago-knowledge.org/resource/Kong_Tan> <http://www.w3.org/2000/01/rdf-schema#comment> "person, CBDB ID = 396921"@en .
+<http://yago-knowledge.org/resource/Cui_Sizhen_Q45458100> <http://schema.org/nationality> <http://yago-knowledge.org/resource/Tang_dynasty> .
+<http://yago-knowledge.org/resource/Meike_Drescher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Maria_Garcia_De_La_Rasilla_Y_De_Gortazar> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q75275520> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "German diplomat"@en-gb .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "politico bengalese"@it .
+<http://yago-knowledge.org/resource/University_of_Ballarat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Public_university> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#comment> "Ameerika Ühendriikide jurist"@et .
+<http://yago-knowledge.org/resource/Max_Kury> <http://schema.org/givenName> "Max" .
+<http://yago-knowledge.org/resource/Lucy_Jane_Synge> <http://schema.org/familyName> "Pearson" .
+<http://yago-knowledge.org/resource/Zany_Butschowitz> <http://www.w3.org/2000/01/rdf-schema#label> "Zany Butschowitz"@es .
+<http://yago-knowledge.org/resource/Q31486720> <http://schema.org/memberOf> <http://yago-knowledge.org/resource/Indian_National_Congress> .
+<http://yago-knowledge.org/resource/Gilles_Quentel> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132917642> .
+<http://yago-knowledge.org/resource/Gde_Sugianyar_Dwi_Putra> <http://www.w3.org/2000/01/rdf-schema#label> "Gde Sugianyar Dwi Putra"@id .
+<http://yago-knowledge.org/resource/Di_Boji_Q65919792> <http://www.w3.org/2000/01/rdf-schema#label> "Di Boji"@nl .
+<http://yago-knowledge.org/resource/Zhang_Mei_Q45489021> <http://schema.org/nationality> <http://yago-knowledge.org/resource/Ming_dynasty> .
+<http://yago-knowledge.org/resource/Adolf_Schmid_Von_Schmidsfelden_Q94811109> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Josef_Pollak_Q105574784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/University_of_Cape_Town> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Open-Access_Publisher> .
+<http://yago-knowledge.org/resource/Greece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Unitary_state> .
+<http://yago-knowledge.org/resource/František_Pelzl> <http://schema.org/givenName> "František" .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://www.w3.org/2000/01/rdf-schema#label> "Philipp Fuchs"@de .
+<http://yago-knowledge.org/resource/Charlotte_Hodge_Q116187308> <http://yago-knowledge.org/resource/hasMother> <http://yago-knowledge.org/resource/Ann_Kirke> .
+<http://yago-knowledge.org/resource/Miguel_Muñoz_Rubio> <http://www.w3.org/2000/01/rdf-schema#label> "Miguel Muñoz Rubio"@de .
+<http://yago-knowledge.org/resource/John_Goodryke_Of_Bolingbroke_Linc> <http://www.w3.org/2000/01/rdf-schema#label> "John Goodryke, of Bolingbroke, Linc"@en .
+<http://yago-knowledge.org/resource/Jean_Stewart_Q75734967> <http://www.w3.org/2000/01/rdf-schema#label> "Jean Stewart"@en .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://www.w3.org/2000/01/rdf-schema#label> "Огюст Буайе"@ru .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://www.w3.org/2000/01/rdf-schema#comment> "deutscher Verwaltungsbeamter und Richter"@de .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#label> "John T. Goolrick"@it .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Josef_Pollak_Q105574784> <http://www.w3.org/2000/01/rdf-schema#label> "Josef Pollak"@mul .
+<http://yago-knowledge.org/resource/Artemesia_Piccolomini> <http://www.w3.org/2000/01/rdf-schema#label> "Artemesia Piccolomini"@en .
+<http://yago-knowledge.org/resource/John_Hull_Q76251917> <http://schema.org/familyName> "Hull_surname" .
+<http://yago-knowledge.org/resource/Mou_Leyuan> <http://www.w3.org/2000/01/rdf-schema#label> "某樂淵"@lzh .
+<http://yago-knowledge.org/resource/Jean_Stewart_Q75734967> <http://schema.org/spouse> <http://yago-knowledge.org/resource/Sir_Alexander_Jardine_Of_Applegirth> .
+<http://yago-knowledge.org/resource/Roli_Arioli> <http://www.w3.org/2000/01/rdf-schema#label> "Roli Arioli"@de .
+<http://yago-knowledge.org/resource/Majdanek_concentration_camp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Extermination_camp> .
+<http://yago-knowledge.org/resource/Andy_Avellana> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q108417877> .
+<http://yago-knowledge.org/resource/Peter_John_Norris-Hill> <http://www.w3.org/2000/01/rdf-schema#comment> "(1930-2007)"@en .
+<http://yago-knowledge.org/resource/Cui_Sizhen_Q45458100> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q45458100> .
+<http://yago-knowledge.org/resource/Maria_Garcia_De_La_Rasilla_Y_De_Gortazar> <http://www.w3.org/2000/01/rdf-schema#label> "Maria Garcia de la Rasilla y de Gortazar"@en .
+<http://yago-knowledge.org/resource/Etuhonge> <http://www.w3.org/2000/01/rdf-schema#label> "Etuhonge"@es .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://www.w3.org/2000/01/rdf-schema#label> "Elsa Östberg"@en .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#label> "Syed Azizul Haque"@es .
+<http://yago-knowledge.org/resource/Indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Island_country> .
+<http://yago-knowledge.org/resource/Ryan_Cagle> <http://www.w3.org/2000/01/rdf-schema#label> "Ryan Cagle"@mul .
+<http://yago-knowledge.org/resource/Gilles_Quentel> <http://schema.org/familyName> "Quentel" .
+<http://yago-knowledge.org/resource/Jean_Stewart_Q75734967> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/James_Stewart_5th_Lord_Innermeath> .
+<http://yago-knowledge.org/resource/Zany_Butschowitz> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Michael_Harris_Q75551892> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/J_J_Heath-Caldwell> <http://www.w3.org/2000/01/rdf-schema#label> "J. J. Heath-Caldwell"@mul .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://www.w3.org/2000/01/rdf-schema#label> "Randle Holmes"@ca .
+<http://yago-knowledge.org/resource/Marina_Stefou> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130611786> .
+<http://yago-knowledge.org/resource/English_language_generic_instance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/English_language> .
+<http://yago-knowledge.org/resource/Cui_Sizhen_Q45458100> <http://schema.org/familyName> "Cuī" .
+<http://yago-knowledge.org/resource/John_Harris_Q75653891> <http://schema.org/familyName> "Harris" .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://www.w3.org/2000/01/rdf-schema#comment> "oběť holokaustu, nar. 22. 03. 1861"@cs .
+<http://yago-knowledge.org/resource/John_Alder_Q21547255> <http://www.w3.org/2000/01/rdf-schema#label> "John Alder"@ast .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@nl .
+<http://yago-knowledge.org/resource/Johan_Van_Bylandt_Q108410149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Lu_Huai_Q65821978> <http://www.w3.org/2000/01/rdf-schema#label> "Lu Huai"@ast .
+<http://yago-knowledge.org/resource/Saarland_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Campus_university> .
+<http://yago-knowledge.org/resource/Josef_Pollak_Q105574784> <http://yago-knowledge.org/resource/academicDegree> <http://yago-knowledge.org/resource/Engineer_s_degree> .
+<http://yago-knowledge.org/resource/Han_Yi_Q6700327> <http://schema.org/nationality> <http://yago-knowledge.org/resource/Xia_dynasty> .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Klaus_Zwiorek> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132985172> .
+<http://yago-knowledge.org/resource/Pierre_Vajda> <http://www.w3.org/2000/01/rdf-schema#label> "Pierre Vajda"@es .
+<http://yago-knowledge.org/resource/Vienna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Enclave> .
+<http://yago-knowledge.org/resource/Josef_Hoffmann_Q104810059> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q104810059> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://www.w3.org/2000/01/rdf-schema#label> "Elsa Östberg"@ast .
+<http://yago-knowledge.org/resource/Reisel_Neuberg> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Pierre_Vajda> <http://schema.org/givenName> "Pierre" .
+<http://yago-knowledge.org/resource/Richard_William_Serjeantson> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@pt-br .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@nb .
+<http://yago-knowledge.org/resource/Pierre_Vajda> <http://www.w3.org/2000/01/rdf-schema#label> "Pierre Vajda"@fr .
+<http://yago-knowledge.org/resource/Jean_Stewart_Q75734967> <http://schema.org/familyName> "Stewart" .
+<http://yago-knowledge.org/resource/Johann_Von_Uexküll-Gyllenband> <http://www.w3.org/2000/01/rdf-schema#label> "Johann von Uexküll-Gyllenband"@en .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://www.w3.org/2000/01/rdf-schema#comment> "Праведник народів світу з Франції"@uk .
+<http://yago-knowledge.org/resource/Reisel_Neuberg> <http://www.w3.org/2000/01/rdf-schema#label> "Reisel Neuberg"@en .
+<http://yago-knowledge.org/resource/Cui_Sizhen_Q45458100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Nigel_Stuart_Hunter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Vienna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/States_of_Austria> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://schema.org/nationality> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/John_Goodryke_Of_Bolingbroke_Linc> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116026819> .
+<http://yago-knowledge.org/resource/Richard_William_Serjeantson> <http://www.w3.org/2000/01/rdf-schema#comment> "історик"@uk .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@fr .
+<http://yago-knowledge.org/resource/Cui_Sizhen_Q45458100> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Cui_Xuanmo> .
+<http://yago-knowledge.org/resource/Charlotte_Hodge_Q116187308> <http://www.w3.org/2000/01/rdf-schema#comment> "(1846-1927)"@uk .
+<http://yago-knowledge.org/resource/University_of_Cape_Town> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Public_university> .
+<http://yago-knowledge.org/resource/Wagner_Group_generic_instance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Wagner_Group> .
+<http://yago-knowledge.org/resource/Max_Kury> <http://www.w3.org/2000/01/rdf-schema#label> "Max Kury"@mul .
+<http://yago-knowledge.org/resource/University_of_California_Berkeley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Land-grant_university> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://schema.org/birthDate> "1843-09-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Martin_Kaltschmidt> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Cui_Siyue> <http://www.w3.org/2000/01/rdf-schema#label> "崔思約"@zh-hant .
+<http://yago-knowledge.org/resource/Alicia_Wykeham_Martin> <http://www.w3.org/2000/01/rdf-schema#label> "Alicia Wykeham Martin"@nl .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "homme politique bangladais"@fr .
+<http://yago-knowledge.org/resource/Andrew_Andai_Chien> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Zhang_Mei_Q45489021> <http://www.w3.org/2000/01/rdf-schema#label> "Zhang Mei"@en .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "dịplọ́màt nke Germany"@ig .
+<http://yago-knowledge.org/resource/Zhang_Mei_Q45489021> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q45489021> .
+<http://yago-knowledge.org/resource/Johann_Von_Uexküll-Gyllenband> <http://schema.org/birthDate> "1662"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Catherine_Violet_Hunter> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Di_Boji_Q65919792> <http://www.w3.org/2000/01/rdf-schema#label> "Di Boji"@en .
+<http://yago-knowledge.org/resource/Q12564163> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Di_Boji_Q65919792> <http://schema.org/familyName> "Di_surname" .
+<http://yago-knowledge.org/resource/Elizabeth_Pomeroy_Q75980371> <http://www.w3.org/2000/01/rdf-schema#label> "Elizabeth Pomeroy"@nl .
+<http://yago-knowledge.org/resource/Roeleman_Von_Bylandt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Zhang_Mei_Q45489021> <http://www.w3.org/2000/01/rdf-schema#comment> "persona de la dinastía Ming"@ast .
+<http://yago-knowledge.org/resource/Lenka_Línková> <http://www.w3.org/2000/01/rdf-schema#label> "Lenka Línková"@cs .
+<http://yago-knowledge.org/resource/Han_Yi_Q6700327> <http://schema.org/url> "https://vi.wikipedia.org/wiki/H%C3%A0n_%E1%BA%BE"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Cui_Siyue> <http://schema.org/nationality> <http://yago-knowledge.org/resource/Tang_dynasty> .
+<http://yago-knowledge.org/resource/James_Stewart_5th_Lord_Innermeath> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Hans_Andreas_Schultz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Michael_Andramonov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Han_Yi_Q6700327> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Han_Zhuo> .
+<http://yago-knowledge.org/resource/Junsong_Jia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Adolf_Simons> <http://www.w3.org/2000/01/rdf-schema#label> "Adolf Simons"@cs .
+<http://yago-knowledge.org/resource/University_of_California_Berkeley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Public_Educational_Institution_Of_The_United_States> .
+<http://yago-knowledge.org/resource/Lucy_Jane_Synge> <http://schema.org/givenName> "Lucy" .
+<http://yago-knowledge.org/resource/Bakchunmyeong> <http://www.w3.org/2000/01/rdf-schema#label> "Bakchunmyeong"@fr .
+<http://yago-knowledge.org/resource/Michael_Andramonov> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://www.w3.org/2000/01/rdf-schema#label> "Philipp Fuchs"@sq .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://www.w3.org/2000/01/rdf-schema#label> "Auguste Boyer"@es .
+<http://yago-knowledge.org/resource/Andy_Avellana> <http://www.w3.org/2000/01/rdf-schema#label> "Andy Avellana"@de .
+<http://yago-knowledge.org/resource/Mou_Leyuan> <http://www.w3.org/2000/01/rdf-schema#label> "Mou Leyuan"@nl .
+<http://yago-knowledge.org/resource/Mary_Mcelroy_Q75871881> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Gävle_Parish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Parishes_of_the_Church_of_Sweden> .
+<http://yago-knowledge.org/resource/Garret_Fitzmaurice> <http://www.w3.org/2000/01/rdf-schema#label> "Garret FitzMaurice"@de .
+<http://yago-knowledge.org/resource/Catherine_Violet_Hunter> <http://www.w3.org/2000/01/rdf-schema#comment> "Peerage person ID=52461"@en .
+<http://yago-knowledge.org/resource/Niels_Kowalzig> <http://schema.org/givenName> "Niels" .
+<http://yago-knowledge.org/resource/Josef_Hoffmann_Q104810059> <http://schema.org/deathDate> "1942-09-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Josef_Pollak_Q105574784> <http://schema.org/birthDate> "1885-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Andy_Avellana> <http://schema.org/url> "https://en.wikipedia.org/wiki/Andy_Avellana"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Zany_Butschowitz> <http://www.w3.org/2000/01/rdf-schema#label> "Zany Butschowitz"@nl .
+<http://yago-knowledge.org/resource/Carl_Edvard_Walleen> <http://schema.org/url> "https://fi.wikipedia.org/wiki/Carl_Edvard_Walleen"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "פוליטיקאי בנגלי"@he .
+<http://yago-knowledge.org/resource/University_of_California_Berkeley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Public_Research_University> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://schema.org/url> "https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%80%D1%83%D1%81,_%D0%9B%D0%B8%D0%B7%D0%B5%D0%BB%D0%BE%D1%80%D0%B5"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Alicia_Wykeham_Martin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Ming_dynasty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Historical_Chinese_State> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#comment> "حقوقي أمريكي"@ar .
+<http://yago-knowledge.org/resource/Miguel_Muñoz_Rubio> <http://schema.org/birthDate> "1959"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@co .
+<http://yago-knowledge.org/resource/Niels_Kowalzig> <http://www.w3.org/2000/01/rdf-schema#label> "Niels Kowalzig"@en .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#comment> "juriste américain"@fr .
+<http://yago-knowledge.org/resource/Peter_John_Norris-Hill> <http://schema.org/givenName> "Peter" .
+<http://yago-knowledge.org/resource/Mou_Leyuan> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Hou_Duo_Q45576143> <http://www.w3.org/2000/01/rdf-schema#label> "Hou Duo"@en .
+<http://yago-knowledge.org/resource/Gerald_Butler_Q75942641> <http://schema.org/deathDate> "1798"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Elizabeth_Pomeroy_Q75980371> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q75980371> .
+<http://yago-knowledge.org/resource/Simon_Maurice_William_Latham> <http://schema.org/givenName> "Maurice" .
+<http://yago-knowledge.org/resource/Xiao_Shi_Q65838225> <http://www.w3.org/2000/01/rdf-schema#label> "蕭氏"@zh-hant .
+<http://yago-knowledge.org/resource/Lu_Huai_Q65821978> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Ulrika_Magdalena_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Bakchunmyeong> <http://www.w3.org/2000/01/rdf-schema#label> "박춘명"@ko .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://www.w3.org/2000/01/rdf-schema#label> "Iacopo Fabris"@pt .
+<http://yago-knowledge.org/resource/Carmen_Maria_Dilger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Andy_Avellana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Cui_Sizhen_Q45458100> <http://www.w3.org/2000/01/rdf-schema#label> "Cui Sizhen"@es .
+<http://yago-knowledge.org/resource/Peter_John_Norris-Hill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Grand_Duchy_of_Finland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> .
+<http://yago-knowledge.org/resource/Pavel_Veniaminovich_Mihajlov> <http://schema.org/birthDate> "1974-05-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "diplomazialari alemaniarra"@eu .
+<http://yago-knowledge.org/resource/Zany_Butschowitz> <http://www.w3.org/2000/01/rdf-schema#label> "Zany Butschowitz"@ca .
+<http://yago-knowledge.org/resource/Niels_Kowalzig> <http://schema.org/alumniOf> <http://yago-knowledge.org/resource/Utrecht_University> .
+<http://yago-knowledge.org/resource/John_Goodryke_Of_Bolingbroke_Linc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Xiao_Shi_Q65838225> <http://www.w3.org/2000/01/rdf-schema#label> "蕭氏"@zh .
+<http://yago-knowledge.org/resource/Andrew_Andai_Chien> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133769265> .
+<http://yago-knowledge.org/resource/Lucy_Jane_Synge> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Richard_Synge_Q75871879> .
+<http://yago-knowledge.org/resource/Ryan_Cagle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Reid_Blake_Stevens> <http://www.w3.org/2000/01/rdf-schema#label> "Reid Blake Stevens"@mul .
+<http://yago-knowledge.org/resource/Anna-Nicole_Ziesche> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Maria_Garcia_De_La_Rasilla_Y_De_Gortazar> <http://schema.org/givenName> "Maria" .
+<http://yago-knowledge.org/resource/Barry_Lewis_Coulton> <http://www.w3.org/2000/01/rdf-schema#label> "Barry Lewis Coulton"@es .
+<http://yago-knowledge.org/resource/Simon_Maurice_William_Latham> <http://www.w3.org/2000/01/rdf-schema#label> "Simon Maurice William Latham"@en .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://schema.org/nationality> <http://yago-knowledge.org/resource/Republic_of_Venice> .
+<http://yago-knowledge.org/resource/Mou_Leyuan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Christian_Cotchobos> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134716806> .
+<http://yago-knowledge.org/resource/Cui_Siyue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/John_Alder_Q21547255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#comment> "American jurist"@en .
+<http://yago-knowledge.org/resource/Bernard_Iii_D_Anduze> <http://www.w3.org/2000/01/rdf-schema#comment> "Lord of Anduze, Portes, and Leques"@en .
+<http://yago-knowledge.org/resource/Klaus_Zwiorek> <http://schema.org/givenName> "Klaus" .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Imperial_College_London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Building> .
+<http://yago-knowledge.org/resource/Majdanek_concentration_camp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Architectural_Heritage_Monument> .
+<http://yago-knowledge.org/resource/Johann_Von_Uexküll-Gyllenband> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q94796527> .
+<http://yago-knowledge.org/resource/Lucy_Jane_Synge> <http://schema.org/deathDate> "1953-04-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://schema.org/alumniOf> <http://yago-knowledge.org/resource/Saarland_University> .
+<http://yago-knowledge.org/resource/Aix-en-Provence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Communes_of_France> .
+<http://yago-knowledge.org/resource/Johan_Van_Bylandt_Q108410149> <http://www.w3.org/2000/01/rdf-schema#label> "Johan van Bylandt"@nl .
+<http://yago-knowledge.org/resource/Carl_Sprinchorn_Q87315659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Hovapotekare_I_Kungliga_Läkarstaten> .
+<http://yago-knowledge.org/resource/Guo_Shi_Q65833685> <http://www.w3.org/2000/01/rdf-schema#label> "Guo Shi"@nl .
+<http://yago-knowledge.org/resource/Ludwik_Szemioth> <http://www.w3.org/2000/01/rdf-schema#label> "Ludwik Szemioth"@pl .
+<http://yago-knowledge.org/resource/Han_Yi_Q6700327> <http://yago-knowledge.org/resource/siteLinks> "3"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Gerald_Butler_Q75942641> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Grand_Duchy_of_Finland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Grand_duchy> .
+<http://yago-knowledge.org/resource/Adolf_Schmid_Von_Schmidsfelden_Q94811109> <http://www.w3.org/2000/01/rdf-schema#label> "Adolf Schmid von Schmidsfelden"@en .
+<http://yago-knowledge.org/resource/Reid_Blake_Stevens> <http://www.w3.org/2000/01/rdf-schema#comment> "Ph.D. University of California, Berkeley 2015"@en .
+<http://yago-knowledge.org/resource/Jean_Stewart_Q75734967> <http://www.w3.org/2000/01/rdf-schema#comment> "Peerage person ID=307970"@en .
+<http://yago-knowledge.org/resource/Maria_Garcia_De_La_Rasilla_Y_De_Gortazar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Bochum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/College_town> .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://www.w3.org/2000/01/rdf-schema#label> "Emma Sonnenberger"@mul .
+<http://yago-knowledge.org/resource/Miguel_Muñoz_Rubio> <http://www.w3.org/2000/01/rdf-schema#label> "Miguel Muñoz Rubio"@mul .
+<http://yago-knowledge.org/resource/Richard_Svensson_Q133600145> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133600145> .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://schema.org/knowsLanguage> <http://yago-knowledge.org/resource/Swedish_language_generic_instance> .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://schema.org/alternateName> "Emma Koch"@en .
+<http://yago-knowledge.org/resource/Pierre_Vajda> <http://schema.org/birthDate> "1939-03-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Lucy_Jane_Synge> <http://schema.org/spouse> <http://yago-knowledge.org/resource/George_Francis_Pearson> .
+<http://yago-knowledge.org/resource/Adolf_Simons> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/James_P_Harrelson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Mou_Shuang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Andy_Avellana> <http://www.w3.org/2000/01/rdf-schema#label> "Andy Avellana"@pt-br .
+<http://yago-knowledge.org/resource/Cui_Junsu_Q45437452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Politician> .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@br .
+<http://yago-knowledge.org/resource/Kong_Tan> <http://schema.org/familyName> "Kong_surname" .
+<http://yago-knowledge.org/resource/Zany_Butschowitz> <http://www.w3.org/2000/01/rdf-schema#label> "Zany Butschowitz"@mul .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#label> "Syed Azizul Haque"@pt-br .
+<http://yago-knowledge.org/resource/Lu_Huai_Q65821978> <http://www.w3.org/2000/01/rdf-schema#label> "盧槐"@zh .
+<http://yago-knowledge.org/resource/Norwegian_language_generic_instance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Norwegian_language> .
+<http://yago-knowledge.org/resource/Barry_Lewis_Coulton> <http://www.w3.org/2000/01/rdf-schema#label> "Barry Lewis Coulton"@it .
+<http://yago-knowledge.org/resource/Garret_Fitzmaurice> <http://schema.org/spouse> <http://yago-knowledge.org/resource/Lady_Lucy_Tuchet> .
+<http://yago-knowledge.org/resource/George_Francis_Pearson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Josef_Hoffmann_Q104810059> <http://www.w3.org/2000/01/rdf-schema#label> "Josef Hoffmann"@nl .
+<http://yago-knowledge.org/resource/Garret_Fitzmaurice> <http://schema.org/deathDate> "1632-09-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/James_P_Harrelson> <http://www.w3.org/2000/01/rdf-schema#label> "James P. Harrelson"@de .
+<http://yago-knowledge.org/resource/Anna-Nicole_Ziesche> <http://schema.org/birthDate> "1972"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Peter_Fluess> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133727406> .
+<http://yago-knowledge.org/resource/Pierre_Vajda> <http://schema.org/knowsLanguage> <http://yago-knowledge.org/resource/French_language_generic_instance> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@en .
+<http://yago-knowledge.org/resource/Miguel_Muñoz_Rubio> <http://www.w3.org/2000/01/rdf-schema#label> "Miguel Muñoz Rubio"@fr .
+<http://yago-knowledge.org/resource/Lu_Huai_Q65821978> <http://www.w3.org/2000/01/rdf-schema#label> "Lu Huai"@nl .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@nn .
+<http://yago-knowledge.org/resource/James_Allen_Q75856193> <http://schema.org/familyName> "Allen" .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://schema.org/knowsLanguage> <http://yago-knowledge.org/resource/German_language_generic_instance> .
+<http://yago-knowledge.org/resource/Mou_Leyuan> <http://www.w3.org/2000/01/rdf-schema#label> "某樂淵"@zh-hant .
+<http://yago-knowledge.org/resource/Hans_Andreas_Schultz> <http://www.w3.org/2000/01/rdf-schema#label> "Hans Andreas Schultz"@ast .
+<http://yago-knowledge.org/resource/Judith_Ludwig> <http://www.w3.org/2000/01/rdf-schema#label> "Judith Ludwig"@en .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://www.w3.org/2000/01/rdf-schema#label> "Randle Holmes"@it .
+<http://yago-knowledge.org/resource/Bernard_Iii_D_Anduze> <http://www.w3.org/2000/01/rdf-schema#label> "Bernard III d'Anduze, Sire d'Anduze, de Portes et de Leques"@nl .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "taidhleoir Gearmánach"@ga .
+<http://yago-knowledge.org/resource/Johan_Van_Bylandt_Q108410149> <http://yago-knowledge.org/resource/hasMother> <http://yago-knowledge.org/resource/Barbara_Von_Virmond> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "German diplomat"@en .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "Bangladeshi politician"@en-gb .
+<http://yago-knowledge.org/resource/Pieter_Blom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Helma_Jebe> <http://www.w3.org/2000/01/rdf-schema#label> "Helma Jebe"@en .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "politikari bangladeshtarra"@eu .
+<http://yago-knowledge.org/resource/Elizabeth_Pomeroy_Q75980371> <http://schema.org/deathDate> "1780-10-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Colonial_Power> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "diplomata alemã"@pt .
+<http://yago-knowledge.org/resource/Jean_De_Bourbon_Q106984976> <http://yago-knowledge.org/resource/hasMother> <http://yago-knowledge.org/resource/Catherine_Of_Armagnac> .
+<http://yago-knowledge.org/resource/Anna_Magdalena_Von_Winter> <http://www.w3.org/2000/01/rdf-schema#label> "Anna Magdalena von Winter"@nl .
+<http://yago-knowledge.org/resource/Josef_Hoffmann_Q104810059> <http://www.w3.org/2000/01/rdf-schema#comment> "holocaust victim, b. 1910-07-26"@en .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://schema.org/alternateName> "Цирус, Лизелоре"@ru .
+<http://yago-knowledge.org/resource/Richard_William_Serjeantson> <http://www.w3.org/2000/01/rdf-schema#label> "Richard William Serjeantson"@mul .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://schema.org/givenName> "Emma" .
+<http://yago-knowledge.org/resource/Tang_dynasty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Historical_Chinese_State> .
+<http://yago-knowledge.org/resource/Vienna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Largest_City> .
+<http://yago-knowledge.org/resource/Zany_Butschowitz> <http://www.w3.org/2000/01/rdf-schema#comment> "oběť holokaustu, nar. 18. 02. 1870"@cs .
+<http://yago-knowledge.org/resource/Mou_Leyuan> <http://www.w3.org/2000/01/rdf-schema#comment> "某汪父"@zh .
+<http://yago-knowledge.org/resource/Ludwik_Szemioth> <http://yago-knowledge.org/resource/hasMother> <http://yago-knowledge.org/resource/Felicjanna_Narwoysz> .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "diplomática alemá"@gl .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q55227304> .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://www.w3.org/2000/01/rdf-schema#label> "Randle Holmes"@sv .
+<http://yago-knowledge.org/resource/Tries_Nainggolan> <http://www.w3.org/2000/01/rdf-schema#comment> "Director, Minahasa Cahaya Lestari"@en .
+<http://yago-knowledge.org/resource/Jean_Stewart_Q75734967> <http://www.w3.org/2000/01/rdf-schema#label> "জিন স্টুয়ার্ট"@bn .
+<http://yago-knowledge.org/resource/South_Africa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Robin_Graham_Brown> <http://www.w3.org/2000/01/rdf-schema#comment> "penulis"@id .
+<http://yago-knowledge.org/resource/Mou_Leyuan> <http://www.w3.org/2000/01/rdf-schema#label> "某樂淵"@zh .
+<http://yago-knowledge.org/resource/Hou_Duo_Q45576143> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q45576143> .
+<http://yago-knowledge.org/resource/Anna_Magdalena_Von_Winter> <http://www.w3.org/2000/01/rdf-schema#label> "Anna Magdalena von Winter"@sq .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@it .
+<http://yago-knowledge.org/resource/Garret_Fitzmaurice> <http://www.w3.org/2000/01/rdf-schema#label> "Garret FitzMaurice"@pt-br .
+<http://yago-knowledge.org/resource/Ludwik_Szemioth> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Jerzy_Kazimierz_Szemioth> .
+<http://yago-knowledge.org/resource/Gerald_Butler_Q75942641> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q75942641> .
+<http://yago-knowledge.org/resource/Pieter_Blom> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q136276851> .
+<http://yago-knowledge.org/resource/Barry_Lewis_Coulton> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q108752840> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@sq .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://www.w3.org/2000/01/rdf-schema#label> "Philipp Fuchs"@en .
+<http://yago-knowledge.org/resource/Hou_Duo_Q45576143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Peter_John_Norris-Hill> <http://schema.org/deathDate> "2007-04-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#label> "Syed Azizul Haque"@de .
+<http://yago-knowledge.org/resource/Judith_Ludwig> <http://schema.org/givenName> "Judith" .
+<http://yago-knowledge.org/resource/Josef_Pollak_Q105574784> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Lenka_Línková> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Cui_Sizhen_Q45458100> <http://www.w3.org/2000/01/rdf-schema#label> "Cui Sizhen"@en .
+<http://yago-knowledge.org/resource/Judith_Ludwig> <http://www.w3.org/2000/01/rdf-schema#label> "Judith Ludwig"@nl .
+<http://yago-knowledge.org/resource/Adolf_Schmid_Von_Schmidsfelden_Q94811109> <http://www.w3.org/2000/01/rdf-schema#label> "Adolf Schmid von Schmidsfelden"@de .
+<http://yago-knowledge.org/resource/Artemesia_Piccolomini> <http://www.w3.org/2000/01/rdf-schema#comment> "former owner of Philadelphia, Free Library, Lewis E 118"@en .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://schema.org/familyName> "Fabris" .
+<http://yago-knowledge.org/resource/Zhang_Mei_Q45489021> <http://www.w3.org/2000/01/rdf-schema#comment> "Ming dynasty person CBDB = 299864"@en .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@ca .
+<http://yago-knowledge.org/resource/John_Harris_Q75653891> <http://www.w3.org/2000/01/rdf-schema#label> "John Harris"@en .
+<http://yago-knowledge.org/resource/Peter_John_Norris-Hill> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q76286741> .
+<http://yago-knowledge.org/resource/John_Hull_Q76251917> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Bochum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_District_Of_North_Rhine-Westphalia> .
+<http://yago-knowledge.org/resource/Johann_Von_Uexküll-Gyllenband> <http://www.w3.org/2000/01/rdf-schema#label> "Johann von Uexküll-Gyllenband"@de .
+<http://yago-knowledge.org/resource/Gde_Sugianyar_Dwi_Putra> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Kepala%20Badan%20Narkotika%20Nasional%20Bali%20Gde%20Sugianyar%20Dwi%20Putra.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "Bangladeshi politician"@en-ca .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18530708> .
+<http://yago-knowledge.org/resource/Simon_Maurice_William_Latham> <http://schema.org/givenName> "William" .
+<http://yago-knowledge.org/resource/Bakchunmyeong> <http://www.w3.org/2000/01/rdf-schema#label> "Bakchunmyeong"@en .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "diplomática alemana"@es .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "німецька жінка-дипломат"@uk .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://schema.org/birthDate> "1859-03-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "diplomate gjermane"@sq .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://www.w3.org/2000/01/rdf-schema#label> "Iacopo Fabris"@de .
+<http://yago-knowledge.org/resource/Gilles_Quentel> <http://schema.org/givenName> "Gilles" .
+<http://yago-knowledge.org/resource/Q31486720> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Di_Boji_Q65919792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://schema.org/givenName> "Elsa" .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://www.w3.org/2000/01/rdf-schema#label> "Emma Sonnenberger"@en .
+<http://yago-knowledge.org/resource/České_Budějovice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_With_Authorized_Municipal_Office> .
+<http://yago-knowledge.org/resource/Johann_Von_Uexküll-Gyllenband> <http://schema.org/givenName> "Johann" .
+<http://yago-knowledge.org/resource/Johan_Van_Bylandt_Q108410149> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Martin_Kaltschmidt> <http://www.w3.org/2000/01/rdf-schema#label> "Martin Kaltschmidt"@mul .
+<http://yago-knowledge.org/resource/Di_Boji_Q65919792> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "bangladeŝa politikisto"@eo .
+<http://yago-knowledge.org/resource/Johan_Van_Bylandt_Q108410149> <http://schema.org/givenName> "Johan" .
+<http://yago-knowledge.org/resource/Klaus_Zwiorek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Richard_Svensson_Q133600145> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Svensson"@mul .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://schema.org/award> <http://yago-knowledge.org/resource/Righteous_Among_the_Nations> .
+<http://yago-knowledge.org/resource/James_P_Harrelson> <http://schema.org/url> "https://en.wikipedia.org/wiki/James_P._Harrelson"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Q12564163> <http://schema.org/birthDate> "1936"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Tran_Lam_Hach> <http://schema.org/alumniOf> <http://yago-knowledge.org/resource/Hungarian_Academy_of_Sciences> .
+<http://yago-knowledge.org/resource/Gerald_Butler_Q75942641> <http://www.w3.org/2000/01/rdf-schema#label> "Gerald Butler"@en .
+<http://yago-knowledge.org/resource/Cui_Sizhen_Q45458100> <http://www.w3.org/2000/01/rdf-schema#comment> "Tang dynasty person CBDB = 177159"@en .
+<http://yago-knowledge.org/resource/Cui_Siyue> <http://www.w3.org/2000/01/rdf-schema#label> "Cui Siyue"@en .
+<http://yago-knowledge.org/resource/Hans_Andreas_Schultz> <http://schema.org/birthPlace> <http://yago-knowledge.org/resource/Korshamn> .
+<http://yago-knowledge.org/resource/Di_Boji_Q65919792> <http://www.w3.org/2000/01/rdf-schema#label> "狄博濟"@lzh .
+<http://yago-knowledge.org/resource/Gerald_Butler_Q75942641> <http://www.w3.org/2000/01/rdf-schema#comment> "Peerage person ID=418502"@en .
+<http://yago-knowledge.org/resource/Kong_Tan> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q65863102> .
+<http://yago-knowledge.org/resource/Adolf_Simons> <http://www.w3.org/2000/01/rdf-schema#label> "Adolf Simons"@und .
+<http://yago-knowledge.org/resource/Junsong_Jia> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Cui_Sizhen_Q45458100> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Marina_Stefou> <http://schema.org/alumniOf> <http://yago-knowledge.org/resource/Panteion_University> .
+<http://yago-knowledge.org/resource/Q12564163> <http://schema.org/url> "https://kk.wikipedia.org/wiki/%D0%A1%D3%99%D1%83%D0%BB%D0%B5%D1%82_%D0%A2%D3%A9%D0%BB%D0%B5%D0%B3%D0%B5%D0%BD%D2%B1%D0%BB%D1%8B"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Jean_Stewart_Q75734967> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q75734967> .
+<http://yago-knowledge.org/resource/Etuhonge> <http://www.w3.org/2000/01/rdf-schema#label> "Etuhonge"@nl .
+<http://yago-knowledge.org/resource/Helma_Jebe> <http://schema.org/givenName> "Helma" .
+<http://yago-knowledge.org/resource/James_Allen_Q75856193> <http://www.w3.org/2000/01/rdf-schema#label> "James Allen"@en .
+<http://yago-knowledge.org/resource/J_J_Heath-Caldwell> <http://schema.org/url> "https://jjhc.info/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Reisel_Neuberg> <http://www.w3.org/2000/01/rdf-schema#label> "Reisel Neuberg"@cs .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://www.w3.org/2000/01/rdf-schema#label> "Randle Holme"@fr .
+<http://yago-knowledge.org/resource/Guo_Shi_Q65833685> <http://www.w3.org/2000/01/rdf-schema#label> "郭氏"@zh-hant .
+<http://yago-knowledge.org/resource/Reisel_Neuberg> <http://www.w3.org/2000/01/rdf-schema#label> "Reisel Neuberg"@mul .
+<http://yago-knowledge.org/resource/Aleksandr_Efimov> <http://schema.org/deathDate> "1991-09-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@pt .
+<http://yago-knowledge.org/resource/Anna-Nicole_Ziesche> <http://www.w3.org/2000/01/rdf-schema#label> "Anna-Nicole Ziesche"@mul .
+<http://yago-knowledge.org/resource/Bochum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Major_Regional_Center> .
+<http://yago-knowledge.org/resource/Josef_Pollak_Q105574784> <http://schema.org/location> <http://yago-knowledge.org/resource/Praha_Xiv> .
+<http://yago-knowledge.org/resource/Pehr_Elfstrand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Politician> .
+<http://yago-knowledge.org/resource/James_P_Harrelson> <http://www.w3.org/2000/01/rdf-schema#label> "James P. Harrelson"@pt .
+<http://yago-knowledge.org/resource/Etuhonge> <http://www.w3.org/2000/01/rdf-schema#label> "Etuhonge"@en .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@ro .
+<http://yago-knowledge.org/resource/Roli_Arioli> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130253241> .
+<http://yago-knowledge.org/resource/Miguel_Muñoz_Rubio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#label> "Syed Azizul Haque"@nl .
+<http://yago-knowledge.org/resource/Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Rechtsstaat> .
+<http://yago-knowledge.org/resource/Jean_De_Bourbon_Q106984976> <http://www.w3.org/2000/01/rdf-schema#label> "Jean de Bourbon"@nl .
+<http://yago-knowledge.org/resource/Miguel_Muñoz_Rubio> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://www.w3.org/2000/01/rdf-schema#label> "Randle Holmes"@es .
+<http://yago-knowledge.org/resource/Henry_Hunter_Murdoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Artemesia_Piccolomini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Hikmət_Bağırlı> <http://schema.org/deathDate> "2020-09-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Peter_John_Norris-Hill> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/John_Hull_Q76251917> <http://www.w3.org/2000/01/rdf-schema#label> "John Hull"@en .
+<http://yago-knowledge.org/resource/Ermengarde_De_Melgueil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Meike_Drescher> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Josef_Pollak_Q105574784> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q105574784> .
+<http://yago-knowledge.org/resource/Q12564163> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12564163> .
+<http://yago-knowledge.org/resource/John_Goodryke_Of_Bolingbroke_Linc> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#label> "Syed Azizul Haque"@en .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://schema.org/deathDate> "1995-08-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Barry_Lewis_Coulton> <http://www.w3.org/2000/01/rdf-schema#label> "Barry Lewis Coulton"@mul .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@sl .
+<http://schema.org/Person> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/shacl#NodeShape> .
+<http://yago-knowledge.org/resource/Etuhonge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Guo_Shi_Q65833685> <http://www.w3.org/2000/01/rdf-schema#label> "郭氏"@lzh .
+<http://yago-knowledge.org/resource/Elsie_Murdoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Han_Yi_Q6700327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Bakchunmyeong> <http://www.w3.org/2000/01/rdf-schema#comment> "Theaterdirektor aus Südkorea."@de .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "diplomàtica alemanya"@ca .
+<http://yago-knowledge.org/resource/Guo_Shi_Q65833685> <http://www.w3.org/2000/01/rdf-schema#label> "郭氏"@zh .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://www.w3.org/2000/01/rdf-schema#label> "Рэндл Холм"@ru .
+<http://yago-knowledge.org/resource/Venice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Car-free_city> .
+<http://yago-knowledge.org/resource/Charles_Hodge_Q116187309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Han_Yi_Q6700327> <http://schema.org/sameAs> "/g/155pbnl1" .
+<http://yago-knowledge.org/resource/Cui_Sizhen_Q45458100> <http://www.w3.org/2000/01/rdf-schema#label> "崔思貞"@zh .
+<http://yago-knowledge.org/resource/Corrie_Kamminga> <http://schema.org/birthDate> "1973"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Andy_Avellana> <http://schema.org/sameAs> "/g/11rxjhmbx3" .
+<http://yago-knowledge.org/resource/Alicia_Wykeham_Martin> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q76346134> .
+<http://yago-knowledge.org/resource/James_P_Harrelson> <http://schema.org/deathDate> "2003-04-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Jane_Roche_Q75456821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Etuhonge> <http://schema.org/nationality> <http://yago-knowledge.org/resource/Qing_dynasty> .
+<http://yago-knowledge.org/resource/Mou_Leyuan> <http://www.w3.org/2000/01/rdf-schema#label> "Mou Leyuan (Mouwangfu)"@es .
+<http://yago-knowledge.org/resource/Ryan_Cagle> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q113022809> .
+<http://yago-knowledge.org/resource/Lu_Huai_Q65821978> <http://www.w3.org/2000/01/rdf-schema#label> "Lu Huai"@en .
+<http://yago-knowledge.org/resource/Liu_Yingshi_Q22078890> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Politician> .
+<http://yago-knowledge.org/resource/Heinz-Otto_Weber> <http://schema.org/familyName> "Weber" .
+<http://yago-knowledge.org/resource/Zhang_Mei_Q45489021> <http://www.w3.org/2000/01/rdf-schema#label> "张梅"@zh-hans .
+<http://yago-knowledge.org/resource/Venice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Comune> .
+<http://yago-knowledge.org/resource/Lucy_Jane_Synge> <http://www.w3.org/2000/01/rdf-schema#label> "Lucy Jane Synge"@en .
+<http://yago-knowledge.org/resource/Ludwik_Szemioth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Andy_Avellana> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Lu_Huai_Q65821978> <http://www.w3.org/2000/01/rdf-schema#label> "盧槐"@lzh .
+<http://yago-knowledge.org/resource/České_Budějovice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Capital_Of_Region> .
+<http://yago-knowledge.org/resource/Jean_De_Bourbon_Q106984976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Zany_Butschowitz> <http://schema.org/familyName> "Butschowitz" .
+<http://yago-knowledge.org/resource/John_Harris_Q75653891> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q75653891> .
+<http://yago-knowledge.org/resource/Alzey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/Zany_Butschowitz> <http://www.w3.org/2000/01/rdf-schema#label> "Zany Butschowitz"@en .
+<http://yago-knowledge.org/resource/Norway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Niels_Kowalzig> <http://www.w3.org/2000/01/rdf-schema#comment> "Ph.D. Universiteit Utrecht 2009"@en .
+<http://yago-knowledge.org/resource/John_Alder_Q21547255> <http://www.w3.org/2000/01/rdf-schema#label> "John Alder"@es .
+<http://yago-knowledge.org/resource/Lucy_Jane_Synge> <http://schema.org/birthDate> "1872-04-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://schema.org/birthDate> "1571"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Guo_Shi_Q65833685> <http://schema.org/familyName> "郭" .
+<http://yago-knowledge.org/resource/Garret_Fitzmaurice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Xiao_Shi_Q65838225> <http://www.w3.org/2000/01/rdf-schema#label> "Xiao Shi"@nl .
+<http://yago-knowledge.org/resource/Elizabeth_Pomeroy_Q75980371> <http://www.w3.org/2000/01/rdf-schema#label> "Elizabeth Pomeroy"@en .
+<http://yago-knowledge.org/resource/John_Alder_Q21547255> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Lady_Lucy_Tuchet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Cui_Siyue> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Cui_Junsu_Q45437452> .
+<http://yago-knowledge.org/resource/Q12564163> <http://schema.org/alternateName> "Төлегенұлы Сәулет"@kk .
+<http://yago-knowledge.org/resource/Gerald_Butler_Q75942641> <http://www.w3.org/2000/01/rdf-schema#label> "Gerald Butler"@nl .
+<http://yago-knowledge.org/resource/Panteion_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/University> .
+<http://yago-knowledge.org/resource/Elsie_Murdoch> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Henry_Hunter_Murdoch> .
+<http://yago-knowledge.org/resource/Hou_Duo_Q45576143> <http://www.w3.org/2000/01/rdf-schema#label> "侯鐸"@zh-hant .
+<http://yago-knowledge.org/resource/Bakchunmyeong> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Social_state> .
+<http://yago-knowledge.org/resource/Q12564163> <http://schema.org/alternateName> "Сәулет Төлеген ұлы"@kk .
+<http://yago-knowledge.org/resource/Aleksandr_Efimov> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q126622288> .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://www.w3.org/2000/01/rdf-schema#label> "Iacopo Fabris"@it .
+<http://yago-knowledge.org/resource/Bochum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Lists_of_former_Hansa_cities> .
+<http://yago-knowledge.org/resource/Cui_Sizhen_Q45458100> <http://www.w3.org/2000/01/rdf-schema#label> "Cui Sizhen"@nl .
+<http://yago-knowledge.org/resource/Indian_National_Congress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Political_party> .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://schema.org/birthDate> "1819-12-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Q31486720> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q31486720> .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Pehr_Elfstrand> .
+<http://yago-knowledge.org/resource/Reisel_Neuberg> <http://schema.org/location> <http://yago-knowledge.org/resource/Vienna> .
+<http://yago-knowledge.org/resource/Etuhonge> <http://www.w3.org/2000/01/rdf-schema#comment> "Qing dynasty person CBDB = 65354"@en .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://schema.org/knowsLanguage> <http://yago-knowledge.org/resource/English_language_generic_instance> .
+<http://yago-knowledge.org/resource/Zhang_Mei_Q45489021> <http://schema.org/familyName> "Zhang_surname" .
+<http://yago-knowledge.org/resource/Cui_Sizhen_Q45458100> <http://www.w3.org/2000/01/rdf-schema#label> "崔思貞"@lzh .
+<http://yago-knowledge.org/resource/Hou_Duo_Q45576143> <http://www.w3.org/2000/01/rdf-schema#label> "Hou Duo"@ast .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "német diplomata"@hu .
+<http://yago-knowledge.org/resource/Charlotte_Hodge_Q116187308> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116187308> .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://schema.org/url> "https://en.wikipedia.org/wiki/Syed_Azizul_Haque"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Edith_Sheila_Frances_Garton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Reisel_Neuberg> <http://schema.org/givenName> "Reisel" .
+<http://yago-knowledge.org/resource/Lucy_Jane_Synge> <http://www.w3.org/2000/01/rdf-schema#label> "Lucy Jane Synge"@nl .
+<http://yago-knowledge.org/resource/Guo_Shi_Q65833685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Lenka_Línková> <http://www.w3.org/2000/01/rdf-schema#label> "Lenka Línková"@en .
+<http://yago-knowledge.org/resource/Max_Kury> <http://schema.org/birthDate> "1983"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Cologne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Metropolis> .
+<http://yago-knowledge.org/resource/Marina_Stefou> <http://schema.org/alumniOf> <http://yago-knowledge.org/resource/National_and_Kapodistrian_University_of_Athens> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#label> "John T. Goolrick"@mul .
+<http://yago-knowledge.org/resource/Corrie_Kamminga> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133578211> .
+<http://yago-knowledge.org/resource/Zany_Butschowitz> <http://schema.org/location> <http://yago-knowledge.org/resource/Vienna> .
+<http://yago-knowledge.org/resource/Helma_Jebe> <http://schema.org/birthDate> "1945"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Volmari_Treyden_Lord_Of_Samma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Cui_Sizhen_Q45458100> <http://schema.org/deathDate> "0710"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Adolf_Simons> <http://www.w3.org/2000/01/rdf-schema#label> "Adolf Simons"@nl .
+<http://yago-knowledge.org/resource/Bernard_Iii_D_Anduze> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q99304077> .
+<http://yago-knowledge.org/resource/J_J_Heath-Caldwell> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q135854970> .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://www.w3.org/2000/01/rdf-schema#label> "Elsa Östberg"@mul .
+<http://yago-knowledge.org/resource/Reid_Blake_Stevens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Catherine_Violet_Hunter> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q75307015> .
+<http://yago-knowledge.org/resource/William_Carlyon_Q75980204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Pavel_Veniaminovich_Mihajlov> <http://www.w3.org/2000/01/rdf-schema#label> "Pavel Veniaminovich Mihajlov"@en .
+<http://schema.org/Person> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://yago-knowledge.org/resource/Cui_Siyue> <http://www.w3.org/2000/01/rdf-schema#label> "Cui Siyue"@ast .
+<http://yago-knowledge.org/resource/Hikmət_Bağırlı> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q105823492> .
+<http://yago-knowledge.org/resource/Reisel_Neuberg> <http://www.w3.org/2000/01/rdf-schema#label> "Reisel Neuberg"@und .
+<http://yago-knowledge.org/resource/Hans_Andreas_Schultz> <http://schema.org/knowsLanguage> <http://yago-knowledge.org/resource/Norwegian_language_generic_instance> .
+<http://yago-knowledge.org/resource/Sweden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Country_Bordering_The_Baltic_Sea> .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://schema.org/alternateName> "Elsa Skoglund"@sv .
+<http://yago-knowledge.org/resource/Peter_Fluess> <http://www.w3.org/2000/01/rdf-schema#label> "Peter Fluess"@mul .
+<http://yago-knowledge.org/resource/Carl_Edvard_Walleen> <http://www.w3.org/2000/01/rdf-schema#label> "Carl Edvard Walleen"@en .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://schema.org/givenName> "John" .
+<http://yago-knowledge.org/resource/Simon_Maurice_William_Latham> <http://www.w3.org/2000/01/rdf-schema#comment> "Peerage person ID=566682"@en .
+<http://yago-knowledge.org/resource/Grand_Duchy_of_Finland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Governorate-General_Russian_Empire> .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://schema.org/knowsLanguage> <http://yago-knowledge.org/resource/French_language_generic_instance> .
+<http://yago-knowledge.org/resource/Elsie_Murdoch> <http://www.w3.org/2000/01/rdf-schema#comment> "Peerage person ID=510582"@en .
+<http://yago-knowledge.org/resource/Reisel_Neuberg> <http://www.w3.org/2000/01/rdf-schema#comment> "Holocaust victim (born 1863)"@en .
+<http://yago-knowledge.org/resource/Josef_Pollak_Q105574784> <http://www.w3.org/2000/01/rdf-schema#label> "Josef Pollak"@cs .
+<http://yago-knowledge.org/resource/Josef_Hoffmann_Q104810059> <http://schema.org/birthDate> "1910-07-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@es .
+<http://yago-knowledge.org/resource/Etuhonge> <http://schema.org/alternateName> "石卿"@lzh .
+<http://yago-knowledge.org/resource/Marjorie_Rosamund_Benson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Angus_Macdonell_Q76072002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Charlotte_Hodge_Q116187308> <http://schema.org/birthDate> "1846"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Corrie_Kamminga> <http://www.w3.org/2000/01/rdf-schema#label> "Corrie Kamminga"@mul .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116305284> .
+<http://yago-knowledge.org/resource/Xiao_Shi_Q65838225> <http://schema.org/familyName> "蕭" .
+<http://yago-knowledge.org/resource/Simon_Maurice_William_Latham> <http://schema.org/givenName> "Simon" .
+<http://yago-knowledge.org/resource/Charlotte_Hodge_Q116187308> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Charles_Hodge_Q116187309> .
+<http://yago-knowledge.org/resource/Laurent_Iparraguirre> <http://schema.org/givenName> "Laurent" .
+<http://yago-knowledge.org/resource/John_Hull_Q76251917> <http://www.w3.org/2000/01/rdf-schema#comment> "18th cent."@en .
+<http://yago-knowledge.org/resource/Cologne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_District_Of_North_Rhine-Westphalia> .
+<http://yago-knowledge.org/resource/Josef_Pollak_Q105574784> <http://www.w3.org/2000/01/rdf-schema#label> "Josef Pollak"@nl .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Carl_Edvard_Walleen> <http://www.w3.org/2000/01/rdf-schema#label> "Carl Edvard Walleen"@fi .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#label> "John T. Goolrick"@en .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://www.w3.org/2000/01/rdf-schema#label> "Randle Holmes"@nl .
+<http://yago-knowledge.org/resource/Volmari_Treyden_Lord_Of_Samma> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131446492> .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://www.w3.org/2000/01/rdf-schema#label> "Elsa Östberg"@sl .
+<http://yago-knowledge.org/resource/Utrecht_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Public_Research_University> .
+<http://yago-knowledge.org/resource/Robin_Graham_Brown> <http://www.w3.org/2000/01/rdf-schema#label> "Robin Graham Brown"@id .
+<http://yago-knowledge.org/resource/Reisel_Neuberg> <http://schema.org/deathDate> "1942-10-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Jean_Stewart_Q75734967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Zany_Butschowitz> <http://schema.org/deathDate> "1942-10-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Sweden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Unitary_state> .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#comment> "maka Carl Sprinchorn"@sv .
+<http://yago-knowledge.org/resource/Di_Boji_Q65919792> <http://www.w3.org/2000/01/rdf-schema#label> "Di Boji"@ast .
+<http://yago-knowledge.org/resource/Zhang_Mei_Q45489021> <http://www.w3.org/2000/01/rdf-schema#label> "張梅"@zh .
+<http://yago-knowledge.org/resource/Pieter_Blom> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Guo_Shi_Q65833685> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q65833685> .
+<http://yago-knowledge.org/resource/Hou_Duo_Q45576143> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/John_Harris_Q75653891> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Volmari_Treyden_Q131446493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Barry_Lewis_Coulton> <http://www.w3.org/2000/01/rdf-schema#label> "Barry Lewis Coulton"@en .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Richard_William_Serjeantson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Fredericksburg_Virginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Independent_city_United_States> .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://www.w3.org/2000/01/rdf-schema#label> "Auguste Boyer"@nl .
+<http://yago-knowledge.org/resource/Q31486720> <http://www.w3.org/2000/01/rdf-schema#label> "గుర్రాల వెంకట శేషు"@te .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://schema.org/deathPlace> <http://yago-knowledge.org/resource/Aix-en-Provence> .
+<http://yago-knowledge.org/resource/Alicia_Wykeham_Martin> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://www.w3.org/2000/01/rdf-schema#label> "Philipp Fuchs"@ast .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@nds .
+<http://yago-knowledge.org/resource/Ludwik_Szemioth> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q135427650> .
+<http://yago-knowledge.org/resource/Garret_Fitzmaurice> <http://www.w3.org/2000/01/rdf-schema#label> "Garret FitzMaurice"@nl .
+<http://yago-knowledge.org/resource/Charlotte_Hodge_Q116187308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Pehr_Elfstrand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Ship-owner> .
+<http://yago-knowledge.org/resource/Hungarian_Academy_of_Sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/National_academy> .
+<http://yago-knowledge.org/resource/James_P_Harrelson> <http://www.w3.org/2000/01/rdf-schema#label> "James P. Harrelson"@es .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#comment> "মার্কিন বিচারক"@bn .
+<http://yago-knowledge.org/resource/Gerald_Butler_Q75942641> <http://schema.org/birthDate> "1740"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://www.w3.org/2000/01/rdf-schema#label> "Elsa Östberg"@sv .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Xiao_Shi_Q65838225> <http://schema.org/spouse> <http://yago-knowledge.org/resource/Cheng_Zhu_Q28409749> .
+<http://yago-knowledge.org/resource/Greece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Rechtsstaat> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "diplomática alemana"@ast .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://www.w3.org/2000/01/rdf-schema#label> "Randle Holme"@de .
+<http://yago-knowledge.org/resource/Josef_Hoffmann_Q104810059> <http://schema.org/birthPlace> <http://yago-knowledge.org/resource/České_Budějovice> .
+<http://yago-knowledge.org/resource/Hans_Andreas_Schultz> <http://schema.org/alternateName> "Hans Andreas Carlsen Schultz"@en .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@sv .
+<http://yago-knowledge.org/resource/Klaus_Zwiorek> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Richard_William_Serjeantson> <http://www.w3.org/2000/01/rdf-schema#comment> "historian"@en .
+<http://yago-knowledge.org/resource/Catherine_Violet_Hunter> <http://www.w3.org/2000/01/rdf-schema#label> "Catherine Violet Hunter"@nl .
+<http://yago-knowledge.org/resource/Righteous_Among_the_Nations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Title_of_honor> .
+<http://yago-knowledge.org/resource/Vienna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Metropolis> .
+<http://yago-knowledge.org/resource/Josef_Hoffmann_Q104810059> <http://schema.org/deathPlace> <http://yago-knowledge.org/resource/Majdanek_concentration_camp> .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://www.w3.org/2000/01/rdf-schema#label> "Iacopo Fabris"@en .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@it .
+<http://yago-knowledge.org/resource/Cui_Siyue> <http://schema.org/familyName> "Cuī" .
+<http://yago-knowledge.org/resource/Anna_Magdalena_Von_Winter> <http://schema.org/birthDate> "1646"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://schema.org/url> "https://de.wikipedia.org/wiki/Philipp_Fuchs"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Michael_Andramonov> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Andramonov"@nl .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "polític bangladeshià"@ca .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://schema.org/deathDate> "1925-09-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Pierre_Vajda> <http://schema.org/alumniOf> <http://yago-knowledge.org/resource/Sciences_Po> .
+<http://yago-knowledge.org/resource/Judith_Ludwig> <http://www.w3.org/2000/01/rdf-schema#comment> "Ph.D. Imperial College London 2014"@en .
+<http://yago-knowledge.org/resource/Bakchunmyeong> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12597265> .
+<http://yago-knowledge.org/resource/Han_Yi_Q6700327> <http://www.w3.org/2000/01/rdf-schema#label> "豷"@ja .
+<http://yago-knowledge.org/resource/James_Allen_Q75856186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Hou_Duo_Q45576143> <http://www.w3.org/2000/01/rdf-schema#label> "Hou Duo"@nl .
+<http://yago-knowledge.org/resource/Tries_Nainggolan> <http://www.w3.org/2000/01/rdf-schema#label> "Tries Nainggolan"@en .
+<http://yago-knowledge.org/resource/Zany_Butschowitz> <http://www.w3.org/2000/01/rdf-schema#label> "Zany Butschowitz"@cs .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Anna_Magdalena_Von_Winter> <http://www.w3.org/2000/01/rdf-schema#label> "Anna Magdalena von Winter"@de .
+<http://yago-knowledge.org/resource/John_Alder_Q21547255> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q21547255> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "Duits diplomate"@nl .
+<http://yago-knowledge.org/resource/Anna_Magdalena_Von_Winter> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Adolf_Simons> <http://www.w3.org/2000/01/rdf-schema#label> "Adolf Simons"@mul .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://www.w3.org/2000/01/rdf-schema#comment> "hustru till Ragnar Östberg"@sv .
+<http://yago-knowledge.org/resource/Anna-Nicole_Ziesche> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133717585> .
+<http://yago-knowledge.org/resource/Martin_Kaltschmidt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Barry_Lewis_Coulton> <http://schema.org/deathDate> "2004-03-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Pierre_Vajda> <http://www.w3.org/2000/01/rdf-schema#label> "Pierre Vajda"@de .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://www.w3.org/2000/01/rdf-schema#label> "Auguste Boyer"@sl .
+<http://yago-knowledge.org/resource/Adolf_Simons> <http://schema.org/givenName> "Adolf" .
+<http://yago-knowledge.org/resource/Tries_Nainggolan> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q120778251> .
+<http://yago-knowledge.org/resource/Q12564163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "דיפלומטית גרמנייה"@he .
+<http://yago-knowledge.org/resource/Etuhonge> <http://www.w3.org/2000/01/rdf-schema#label> "額圖洪額"@zh .
+<http://yago-knowledge.org/resource/Lu_Huai_Q65821978> <http://schema.org/familyName> "Lu_Q709486" .
+<http://yago-knowledge.org/resource/Adolf_Simons> <http://schema.org/deathPlace> <http://yago-knowledge.org/resource/Theresienstadt_Ghetto> .
+<http://yago-knowledge.org/resource/Miguel_Muñoz_Rubio> <http://www.w3.org/2000/01/rdf-schema#label> "Miguel Muñoz Rubio"@es .
+<http://yago-knowledge.org/resource/Johan_Van_Bylandt_Q108410149> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q108410149> .
+<http://yago-knowledge.org/resource/Lu_Huai_Q65821978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/John_Hull_Q76251917> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q76251917> .
+<http://yago-knowledge.org/resource/Lucy_Jane_Synge> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q75871989> .
+<http://yago-knowledge.org/resource/James_Allen_Q75856193> <http://yago-knowledge.org/resource/hasMother> <http://yago-knowledge.org/resource/Margaret_Drennan_Q75856187> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://www.w3.org/2000/01/rdf-schema#label> "Randle Holmes"@pt .
+<http://yago-knowledge.org/resource/Roli_Arioli> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Cologne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Roman_City> .
+<http://yago-knowledge.org/resource/Pavel_Veniaminovich_Mihajlov> <http://www.w3.org/2000/01/rdf-schema#label> "Михайлов Павел Вениаминович"@ru .
+<http://yago-knowledge.org/resource/Hou_Duo_Q45576143> <http://schema.org/nationality> <http://yago-knowledge.org/resource/Ming_dynasty> .
+<http://yago-knowledge.org/resource/John_Harris_Q75653891> <http://www.w3.org/2000/01/rdf-schema#comment> "Peerage person ID=274435"@en .
+<http://yago-knowledge.org/resource/Christian_Cotchobos> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/John_Alder_Q21547255> <http://www.w3.org/2000/01/rdf-schema#label> "John Alder"@en .
+<http://yago-knowledge.org/resource/Josef_Pollak_Q105574784> <http://www.w3.org/2000/01/rdf-schema#comment> "oběť holokaustu, nar. 19. 09. 1885"@cs .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "бангладеський політик"@uk .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://yago-knowledge.org/resource/burialPlace> <http://yago-knowledge.org/resource/Fredericksburg_City_Cemetery> .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://www.w3.org/2000/01/rdf-schema#label> "Auguste Boyer"@en .
+<http://yago-knowledge.org/resource/Hans_Laagland> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Anna-Nicole_Ziesche> <http://schema.org/familyName> "Ziesche" .
+<http://yago-knowledge.org/resource/United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Pavel_Veniaminovich_Mihajlov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Gde_Sugianyar_Dwi_Putra> <http://www.w3.org/2000/01/rdf-schema#label> "Gde Sugianyar Dwi Putra"@es .
+<http://yago-knowledge.org/resource/Maria_Garcia_De_La_Rasilla_Y_De_Gortazar> <http://www.w3.org/2000/01/rdf-schema#comment> "(born 1970)"@en .
+<http://yago-knowledge.org/resource/Gde_Sugianyar_Dwi_Putra> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16177801> .
+<http://yago-knowledge.org/resource/Xiao_Shi_Q65838225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Cologne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Lists_of_former_Hansa_cities> .
+<http://yago-knowledge.org/resource/Artemesia_Piccolomini> <http://www.w3.org/2000/01/rdf-schema#label> "Artemesia Piccolomini"@mul .
+<http://yago-knowledge.org/resource/Mathilde_Sophie_Amalia_Pedersen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Housewife> .
+<http://yago-knowledge.org/resource/Rhodes_Scholarship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Scholarship> .
+<http://yago-knowledge.org/resource/Helma_Jebe> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Cui_Siyue> <http://www.w3.org/2000/01/rdf-schema#label> "崔思約"@zh .
+<http://yago-knowledge.org/resource/James_P_Harrelson> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Female_gender> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Gender> .
+<http://yago-knowledge.org/resource/Gerald_Butler_Q75942641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Xiao_Shi_Q65838225> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q65838225> .
+<http://yago-knowledge.org/resource/Di_Boji_Q65919792> <http://www.w3.org/2000/01/rdf-schema#comment> "person, CBDB ID = 383040"@en .
+<http://yago-knowledge.org/resource/Venice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Italian_city-states> .
+<http://yago-knowledge.org/resource/Niels_Kowalzig> <http://www.w3.org/2000/01/rdf-schema#label> "Niels Kowalzig"@ga .
+<http://yago-knowledge.org/resource/Jean_De_Bourbon_Q106984976> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Garret_Fitzmaurice> <http://www.w3.org/2000/01/rdf-schema#label> "Garret FitzMaurice"@pt .
+<http://yago-knowledge.org/resource/Rev_John_Pomeroy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Ming_dynasty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/František_Pelzl> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Heinz-Otto_Weber> <http://www.w3.org/2000/01/rdf-schema#label> "Heinz-Otto Weber"@mul .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@ga .
+<http://yago-knowledge.org/resource/Judith_Ludwig> <http://www.w3.org/2000/01/rdf-schema#label> "Judith Ludwig"@ga .
+<http://yago-knowledge.org/resource/Vienna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federal_capital> .
+<http://yago-knowledge.org/resource/Greece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Mediterranean_Country> .
+<http://yago-knowledge.org/resource/Judith_Ludwig> <http://www.w3.org/2000/01/rdf-schema#label> "Judith Ludwig"@mul .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://schema.org/deathDate> "1888-05-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Michael_Andramonov> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Andramonov"@en .
+<http://yago-knowledge.org/resource/Pierre_Vajda> <http://www.w3.org/2000/01/rdf-schema#label> "Pierre Vajda"@en .
+<http://yago-knowledge.org/resource/France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Mediterranean_Country> .
+<http://yago-knowledge.org/resource/Miguel_Muñoz_Rubio> <http://schema.org/givenName> "Miguel" .
+<http://yago-knowledge.org/resource/Christian_Cotchobos> <http://schema.org/alumniOf> <http://yago-knowledge.org/resource/Diocesan_College> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@fi .
+<http://yago-knowledge.org/resource/Roli_Arioli> <http://www.w3.org/2000/01/rdf-schema#comment> "artist"@en .
+<http://yago-knowledge.org/resource/Guo_Shi_Q65833685> <http://www.w3.org/2000/01/rdf-schema#comment> "wife of Liuyingshi"@en .
+<http://yago-knowledge.org/resource/Josef_Hoffmann_Q104810059> <http://www.w3.org/2000/01/rdf-schema#comment> "oběť holokaustu, nar. 26. 07. 1910"@cs .
+<http://yago-knowledge.org/resource/Nicholas_Charles_Bingham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://schema.org/birthPlace> <http://yago-knowledge.org/resource/Hedvig_Eleonora_Parish> .
+<http://yago-knowledge.org/resource/Simon_Maurice_William_Latham> <http://www.w3.org/2000/01/rdf-schema#label> "Simon Maurice William Latham"@nl .
+<http://yago-knowledge.org/resource/Richard_William_Serjeantson> <http://www.w3.org/2000/01/rdf-schema#label> "Richard William Serjeantson"@nl .
+<http://yago-knowledge.org/resource/Meike_Drescher> <http://schema.org/familyName> "Drescher" .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://schema.org/birthPlace> <http://yago-knowledge.org/resource/Alzey> .
+<http://yago-knowledge.org/resource/Alicia_Wykeham_Martin> <http://www.w3.org/2000/01/rdf-schema#comment> "Peerage person ID=703894"@en .
+<http://yago-knowledge.org/resource/František_Pelzl> <http://schema.org/birthDate> "1887-05-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Laurent_Iparraguirre> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q94765276> .
+<http://yago-knowledge.org/resource/Niels_Kowalzig> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q102410707> .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q105457604> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Judge%20John%20T.%20Goolrick%20LCCN2014686471%20%28cropped%29.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://yago-knowledge.org/resource/hasMother> <http://yago-knowledge.org/resource/Ulrika_Magdalena_Valley> .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://www.w3.org/2000/01/rdf-schema#label> "Auguste Boyer"@de .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://schema.org/birthPlace> <http://yago-knowledge.org/resource/Gävle_Parish> .
+<http://yago-knowledge.org/resource/Guo_Shi_Q65833685> <http://schema.org/spouse> <http://yago-knowledge.org/resource/Liu_Yingshi_Q22078890> .
+<http://yago-knowledge.org/resource/Adolf_Simons> <http://schema.org/familyName> "Simons" .
+<http://yago-knowledge.org/resource/Zhang_Mei_Q45489021> <http://www.w3.org/2000/01/rdf-schema#label> "Zhang Mei"@nl .
+<http://yago-knowledge.org/resource/Cui_Siyue> <http://www.w3.org/2000/01/rdf-schema#label> "崔思約"@lzh .
+<http://yago-knowledge.org/resource/Mou_Leyuan> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Mou_Shuang> .
+<http://yago-knowledge.org/resource/Hans_Andreas_Schultz> <http://schema.org/spouse> <http://yago-knowledge.org/resource/Mathilde_Sophie_Amalia_Pedersen> .
+<http://yago-knowledge.org/resource/Jean_Stewart_Q75734967> <http://www.w3.org/2000/01/rdf-schema#label> "Jean Stewart"@nl .
+<http://yago-knowledge.org/resource/Max_Kury> <http://schema.org/familyName> "Kury" .
+<http://yago-knowledge.org/resource/Hans_Andreas_Schultz> <http://schema.org/birthDate> "1867-09-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Josef_Pollak_Q105574784> <http://schema.org/deathDate> "1940"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Gilles_Quentel> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Han_Zhuo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Politician> .
+<http://yago-knowledge.org/resource/Pierre_Vajda> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Lucy_Jane_Synge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Zany_Butschowitz> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q104420759> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "diplomată germană"@ro .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://schema.org/givenName> "Iacopo" .
+<http://yago-knowledge.org/resource/Vienna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/City-state> .
+<http://yago-knowledge.org/resource/Gianyar_Regency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Regency_Indonesia> .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://schema.org/spouse> <http://yago-knowledge.org/resource/Ragnar_Östberg> .
+<http://yago-knowledge.org/resource/Jean_Stewart_Q75734967> <http://yago-knowledge.org/resource/hasMother> <http://yago-knowledge.org/resource/Helen_Ogilvy_Q75389529> .
+<http://yago-knowledge.org/resource/František_Pelzl> <http://www.w3.org/2000/01/rdf-schema#label> "František Pelzl"@mul .
+<http://yago-knowledge.org/resource/Adolf_Simons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Maria_Garcia_De_La_Rasilla_Y_De_Gortazar> <http://www.w3.org/2000/01/rdf-schema#comment> "(1970 року народження)"@uk .
+<http://yago-knowledge.org/resource/Garret_Fitzmaurice> <http://www.w3.org/2000/01/rdf-schema#label> "Garret FitzMaurice"@fr .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://schema.org/nationality> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Cui_Siyue> <http://www.w3.org/2000/01/rdf-schema#label> "Cui Siyue"@nl .
+<http://yago-knowledge.org/resource/Gde_Sugianyar_Dwi_Putra> <http://schema.org/birthDate> "1964-09-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "Bangladeshi politician"@en .
+<http://yago-knowledge.org/resource/Bəydili_Bilasuvar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AdministrativeArea> .
+<http://yago-knowledge.org/resource/Fredericksburg_City_Cemetery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Cemetery> .
+<http://yago-knowledge.org/resource/Anna_Vanessa_Stempel> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Lenka_Línková> <http://schema.org/birthDate> "1973-04-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/James_Allen_Q75856193> <http://schema.org/givenName> "James" .
+<http://yago-knowledge.org/resource/Michael_Andramonov> <http://www.w3.org/2000/01/rdf-schema#comment> "Ph.D. University of Ballarat 2001"@en .
+<http://yago-knowledge.org/resource/Saarland_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Comprehensive_University> .
+<http://yago-knowledge.org/resource/Cui_Sizhen_Q45458100> <http://www.w3.org/2000/01/rdf-schema#label> "崔思貞"@zh-hant .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20171906> .
+<http://yago-knowledge.org/resource/Andrew_Andai_Chien> <http://schema.org/birthDate> "1964"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Barbara_Von_Virmond> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/František_Pelzl> <http://www.w3.org/2000/01/rdf-schema#label> "František Pelzl"@cs .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://schema.org/deathPlace> <http://yago-knowledge.org/resource/Oscar_Parish> .
+<http://yago-knowledge.org/resource/Bernard_Iii_D_Anduze> <http://schema.org/givenName> "Bernard" .
+<http://yago-knowledge.org/resource/Elsie_Murdoch> <http://www.w3.org/2000/01/rdf-schema#label> "Elsie Murdoch"@nl .
+<http://yago-knowledge.org/resource/Pavel_Veniaminovich_Mihajlov> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q120853377> .
+<http://yago-knowledge.org/resource/Gerald_Butler_Q75942641> <http://schema.org/spouse> <http://yago-knowledge.org/resource/Ann_Butler> .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://schema.org/familyName> "Koch" .
+<http://yago-knowledge.org/resource/Carmen_Maria_Dilger> <http://schema.org/birthDate> "1956"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Simon_Maurice_William_Latham> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Robert_Sidney_Latham> .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@tr .
+<http://yago-knowledge.org/resource/Max_Kury> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133057851> .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://schema.org/deathDate> "1931-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "জার্মান কূটনীতিক"@bn .
+<http://yago-knowledge.org/resource/Helma_Jebe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Catherine_Violet_Hunter> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Nigel_Stuart_Hunter> .
+<http://yago-knowledge.org/resource/Simon_Maurice_William_Latham> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q76152109> .
+<http://yago-knowledge.org/resource/James_Allen_Q75856193> <http://www.w3.org/2000/01/rdf-schema#comment> "Peerage person ID=358696"@en .
+<http://yago-knowledge.org/resource/John_Hull_Q76251917> <http://www.w3.org/2000/01/rdf-schema#label> "John Hull"@nl .
+<http://yago-knowledge.org/resource/Hikmət_Bağırlı> <http://schema.org/birthPlace> <http://yago-knowledge.org/resource/Bəydili_Bilasuvar> .
+<http://yago-knowledge.org/resource/Saarland_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Public_university> .
+<http://yago-knowledge.org/resource/Hikmət_Bağırlı> <http://schema.org/birthDate> "2001-09-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Barry_Lewis_Coulton> <http://www.w3.org/2000/01/rdf-schema#label> "Barry Lewis Coulton"@nl .
+<http://yago-knowledge.org/resource/Elizabeth_Pomeroy_Q75980371> <http://schema.org/birthDate> "1726"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Cui_Siyue> <http://www.w3.org/2000/01/rdf-schema#label> "Cui Siyue"@es .
+<http://yago-knowledge.org/resource/Hikmət_Bağırlı> <http://www.w3.org/2000/01/rdf-schema#label> "Hikmət Bağırlı"@mul .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@nl .
+<http://yago-knowledge.org/resource/Mou_Leyuan> <http://www.w3.org/2000/01/rdf-schema#comment> "Mouwangfu"@en .
+<http://yago-knowledge.org/resource/Hedvig_Eleonora_Parish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Parishes_of_the_Church_of_Sweden> .
+<http://yago-knowledge.org/resource/Catherine_Violet_Hunter> <http://schema.org/givenName> "Catherine" .
+<http://yago-knowledge.org/resource/Reisel_Neuberg> <http://schema.org/birthDate> "1863-09-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://www.w3.org/2000/01/rdf-schema#label> "Auguste Boyer"@ast .
+<http://yago-knowledge.org/resource/Raymond_I_D_Anduze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://schema.org/birthDate> "1914-05-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/John_Harris_Q75653891> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Michael_Harris_Q75551892> .
+<http://yago-knowledge.org/resource/James_P_Harrelson> <http://www.w3.org/2000/01/rdf-schema#label> "James P. Harrelson"@en .
+<http://yago-knowledge.org/resource/Garret_Fitzmaurice> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q75460313> .
+<http://yago-knowledge.org/resource/Helma_Jebe> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130832694> .
+<http://yago-knowledge.org/resource/Kong_Tan> <http://www.w3.org/2000/01/rdf-schema#label> "孔坦"@lzh .
+<http://yago-knowledge.org/resource/Barry_Lewis_Coulton> <http://www.w3.org/2000/01/rdf-schema#label> "Barry Lewis Coulton"@gl .
+<http://yago-knowledge.org/resource/J_J_Heath-Caldwell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Max_Kury> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Xia_dynasty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Ancient_Chinese_states> .
+<http://yago-knowledge.org/resource/Elizabeth_Pomeroy_Q75980371> <http://schema.org/givenName> "Elizabeth" .
+<http://yago-knowledge.org/resource/Etuhonge> <http://schema.org/alternateName> "石卿"@zh-hant .
+<http://yago-knowledge.org/resource/Hou_Duo_Q45576143> <http://schema.org/familyName> "Hou_surname" .
+<http://yago-knowledge.org/resource/Andrew_Andai_Chien> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Andai Chien"@mul .
+<http://yago-knowledge.org/resource/Elsie_Murdoch> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Max_Kury> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Maria_Garcia_De_La_Rasilla_Y_De_Gortazar> <http://www.w3.org/2000/01/rdf-schema#label> "María García de la Rasilla"@es .
+<http://yago-knowledge.org/resource/Charlotte_Hodge_Q116187308> <http://www.w3.org/2000/01/rdf-schema#comment> "1846 - 1927"@en .
+<http://yago-knowledge.org/resource/Kong_Tan> <http://www.w3.org/2000/01/rdf-schema#label> "孔坦"@zh-hant .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@ast .
+<http://yago-knowledge.org/resource/Pavel_Veniaminovich_Mihajlov> <http://www.w3.org/2000/01/rdf-schema#comment> "member of the Wagner PMC 1974-05-09"@en .
+<http://yago-knowledge.org/resource/Di_Boji_Q65919792> <http://www.w3.org/2000/01/rdf-schema#label> "狄博济"@zh-hans .
+<http://yago-knowledge.org/resource/Hans_Andreas_Schultz> <http://schema.org/nationality> <http://yago-knowledge.org/resource/Norway> .
+<http://yago-knowledge.org/resource/Maria_Garcia_De_La_Rasilla_Y_De_Gortazar> <http://www.w3.org/2000/01/rdf-schema#comment> "Princesa de Vidin"@es .
+<http://yago-knowledge.org/resource/Josef_Pollak_Q105574784> <http://www.w3.org/2000/01/rdf-schema#label> "Ing. Josef Pollak"@und .
+<http://yago-knowledge.org/resource/Fuzuli_District> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/District_Of_Azerbaijan> .
+<http://yago-knowledge.org/resource/Oscar_Parish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Parishes_of_the_Church_of_Sweden> .
+<http://yago-knowledge.org/resource/Anna_Magdalena_Von_Winter> <http://schema.org/givenName> "Anna" .
+<http://yago-knowledge.org/resource/Adolf_Schmid_Von_Schmidsfelden_Q94811109> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q94811109> .
+<http://yago-knowledge.org/resource/František_Pelzl> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q111978484> .
+<http://yago-knowledge.org/resource/Ryan_Cagle> <http://www.w3.org/2000/01/rdf-schema#label> "Ryan Cagle"@en .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@sl .
+<http://yago-knowledge.org/resource/Cui_Sizhen_Q45458100> <http://www.w3.org/2000/01/rdf-schema#label> "崔思贞"@zh-hans .
+<http://yago-knowledge.org/resource/James_Allen_Q75856193> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/James_Allen_Q75856186> .
+<http://yago-knowledge.org/resource/Pavel_Veniaminovich_Mihajlov> <http://www.w3.org/2000/01/rdf-schema#comment> "Член ЧВК Вагнера 1974-05-09"@ru .
+<http://yago-knowledge.org/resource/Josef_Hoffmann_Q104810059> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Barry_Lewis_Coulton> <http://www.w3.org/2000/01/rdf-schema#label> "Barry Lewis Coulton"@fr .
+<http://yago-knowledge.org/resource/Hikmət_Bağırlı> <http://www.w3.org/2000/01/rdf-schema#label> "Hikmət Bağırlı"@az .
+<http://yago-knowledge.org/resource/John_II_Duke_of_Bourbon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Constable_of_France> .
+<http://yago-knowledge.org/resource/Catherine_Of_Armagnac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Aristocracy_class> .
+<http://yago-knowledge.org/resource/Josef_Hoffmann_Q104810059> <http://www.w3.org/2000/01/rdf-schema#label> "Josef Hoffmann"@en .
+<http://yago-knowledge.org/resource/Adolf_Simons> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q105392922> .
+<http://yago-knowledge.org/resource/Ludwik_Szemioth> <http://www.w3.org/2000/01/rdf-schema#comment> "(XVIII ст.) стражнік крамянецкі"@be-tarask .
+<http://yago-knowledge.org/resource/Tries_Nainggolan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Elsie_Murdoch> <http://schema.org/alternateName> "Elsie Macdonell"@en .
+<http://yago-knowledge.org/resource/Swedish_language_generic_instance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Swedish_language> .
+<http://yago-knowledge.org/resource/Peter_Fluess> <http://schema.org/birthDate> "1954"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Carmen_Maria_Dilger> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133023565> .
+<http://yago-knowledge.org/resource/Judith_Ludwig> <http://schema.org/alumniOf> <http://yago-knowledge.org/resource/Imperial_College_London> .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "Bangladeshi poliitik"@et .
+<http://yago-knowledge.org/resource/Niels_Kowalzig> <http://www.w3.org/2000/01/rdf-schema#label> "Niels Kowalzig"@nl .
+<http://yago-knowledge.org/resource/Anna_Vanessa_Stempel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Andy_Avellana> <http://www.w3.org/2000/01/rdf-schema#label> "Andy Avellana"@nl .
+<http://yago-knowledge.org/resource/Pavel_Veniaminovich_Mihajlov> <http://www.w3.org/2000/01/rdf-schema#comment> "член ПВК Вагнера 1974-05-09"@uk .
+<http://yago-knowledge.org/resource/Zhang_Mei_Q45489021> <http://www.w3.org/2000/01/rdf-schema#label> "張梅"@zh-hant .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://www.w3.org/2000/01/rdf-schema#label> "Iacopo Fabris"@nl .
+<http://yago-knowledge.org/resource/John_Harris_Q75653891> <http://www.w3.org/2000/01/rdf-schema#label> "জন হ্যারিস"@bn .
+<http://yago-knowledge.org/resource/Weinheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Greater_District_Town_In_Baden-Württemberg> .
+<http://yago-knowledge.org/resource/German_language_generic_instance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/German_language> .
+<http://yago-knowledge.org/resource/Police_Academy_Of_The_Republic_Of_Indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Police_academy> .
+<http://yago-knowledge.org/resource/Qing_dynasty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Historical_Chinese_State> .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@en .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://schema.org/alternateName> "Emma Koch"@de .
+<http://yago-knowledge.org/resource/Catherine_Violet_Hunter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://www.w3.org/2000/01/rdf-schema#label> "Emma Sonnenberger"@nl .
+<http://yago-knowledge.org/resource/Laurent_Iparraguirre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#comment> "jurista estatunidenc"@ca .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://schema.org/deathPlace> <http://yago-knowledge.org/resource/Theresienstadt_Ghetto> .
+<http://yago-knowledge.org/resource/William_Hamilton_Kindersley_Bradford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@ty .
+<http://yago-knowledge.org/resource/Marina_Stefou> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Stefou%20Marina%20EYCS%2023-11-2023.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Maria_Garcia_De_La_Rasilla_Y_De_Gortazar> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Christian_Cotchobos> <http://schema.org/award> <http://yago-knowledge.org/resource/Rhodes_Scholarship> .
+<http://yago-knowledge.org/resource/Bernard_Iii_D_Anduze> <http://www.w3.org/2000/01/rdf-schema#comment> "seigneur d'Anduze"@fr .
+<http://yago-knowledge.org/resource/Hikmət_Bağırlı> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Imperial_College_London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Public_Research_University> .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://www.w3.org/2000/01/rdf-schema#label> "Iacopo Fabris"@tr .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "diplomatica tedesca"@it .
+<http://yago-knowledge.org/resource/John_Harris_Q75653891> <http://www.w3.org/2000/01/rdf-schema#label> "John Harris"@nl .
+<http://yago-knowledge.org/resource/Jean_De_Bourbon_Q106984976> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/John_II_Duke_of_Bourbon> .
+<http://yago-knowledge.org/resource/Guo_Shi_Q65833685> <http://www.w3.org/2000/01/rdf-schema#label> "Guo Shi"@ast .
+<http://yago-knowledge.org/resource/Xiao_Shi_Q65838225> <http://www.w3.org/2000/01/rdf-schema#label> "Xiao Shi"@en .
+<http://yago-knowledge.org/resource/Cui_Xuanmo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Richard_Svensson_Q133600145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Johan_Van_Bylandt_Q108410149> <http://www.w3.org/2000/01/rdf-schema#label> "Johan van Bylandt"@en .
+<http://yago-knowledge.org/resource/Zhang_Mei_Q45489021> <http://www.w3.org/2000/01/rdf-schema#label> "Zhang Mei"@es .
+<http://yago-knowledge.org/resource/Carl_Edvard_Walleen> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://www.w3.org/2000/01/rdf-schema#label> "Randle Holme"@cy .
+<http://yago-knowledge.org/resource/Gde_Sugianyar_Dwi_Putra> <http://www.w3.org/2000/01/rdf-schema#label> "Gde Sugianyar Dwi Putra"@en .
+<http://yago-knowledge.org/resource/Richard_Svensson_Q133600145> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Gilles_Quentel> <http://www.w3.org/2000/01/rdf-schema#label> "Gilles Quentel"@mul .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@pt .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://www.w3.org/2000/01/rdf-schema#comment> "French Righteous Among the Nations"@en .
+<http://yago-knowledge.org/resource/Simon_Maurice_William_Latham> <http://schema.org/spouse> <http://yago-knowledge.org/resource/Thesea_Hilaria_Parker> .
+<http://yago-knowledge.org/resource/Peter_Fluess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://schema.org/familyName> "Fuchs" .
+<http://yago-knowledge.org/resource/Han_Yi_Q6700327> <http://www.w3.org/2000/01/rdf-schema#comment> "Xia dynasty politician"@en .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://www.w3.org/2000/01/rdf-schema#comment> "judge"@en .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#label> "John T. Goolrick"@es .
+<http://yago-knowledge.org/resource/Bernard_Iii_D_Anduze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Jakob_And_Johannes_Parish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Parishes_of_the_Church_of_Sweden> .
+<http://yago-knowledge.org/resource/Judith_Ludwig> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Josef_Pollak_Q105574784> <http://www.w3.org/2000/01/rdf-schema#comment> "holocaust victim, b. 1885-09-19"@en .
+<http://yago-knowledge.org/resource/Maria_Garcia_De_La_Rasilla_Y_De_Gortazar> <http://schema.org/birthDate> "1970-05-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Michael_Andramonov> <http://schema.org/alumniOf> <http://yago-knowledge.org/resource/University_of_Ballarat> .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "político bangladesí"@es .
+<http://yago-knowledge.org/resource/Lenka_Línková> <http://www.w3.org/2000/01/rdf-schema#comment> "Narozena 13.4.1973. Publikace v oborech Stavebnictví, Navigace, spojení, detekce a protiopatření, Pozemní dopravní systémy a zařízení, Elektronika a optoelektronika, elektrotechnika, Zemský magnetismus, geodesie, geografie,."@cs .
+<http://yago-knowledge.org/resource/Republic_of_Venice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Maritime_Republic> .
+<http://yago-knowledge.org/resource/Han_Yi_Q6700327> <http://www.w3.org/2000/01/rdf-schema#label> "豷"@zh .
+<http://yago-knowledge.org/resource/Josef_Pollak_Q105574784> <http://schema.org/familyName> "Pollak" .
+<http://yago-knowledge.org/resource/Hans_Andreas_Schultz> <http://www.w3.org/2000/01/rdf-schema#label> "Hans Andreas Schultz"@en .
+<http://yago-knowledge.org/resource/Bakchunmyeong> <http://www.w3.org/2000/01/rdf-schema#comment> "directeur de théâtre dans la Corée du Sud"@fr .
+<http://yago-knowledge.org/resource/Peter_John_Norris-Hill> <http://schema.org/spouse> <http://yago-knowledge.org/resource/Marjorie_Rosamund_Benson> .
+<http://yago-knowledge.org/resource/Qing_dynasty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Conquest_dynasty> .
+<http://yago-knowledge.org/resource/Xia_dynasty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Dynasties_of_China> .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://www.w3.org/2000/01/rdf-schema#label> "Emma Sonnenberger"@cs .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "político bangladechiano"@pt .
+<http://yago-knowledge.org/resource/Bernard_Iii_D_Anduze> <http://schema.org/alternateName> "Bernard d'Anduze"@fr .
+<http://yago-knowledge.org/resource/Roli_Arioli> <http://www.w3.org/2000/01/rdf-schema#label> "Roli Arioli"@en .
+<http://yago-knowledge.org/resource/Qing_dynasty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Bernard_Iii_D_Anduze> <http://www.w3.org/2000/01/rdf-schema#label> "Bernard III d'Anduze"@fr .
+<http://yago-knowledge.org/resource/Barry_Lewis_Coulton> <http://www.w3.org/2000/01/rdf-schema#label> "Barry Lewis Coulton"@de .
+<http://yago-knowledge.org/resource/Xiao_Shi_Q65838225> <http://www.w3.org/2000/01/rdf-schema#label> "Xiao Shi"@ast .
+<http://yago-knowledge.org/resource/Kong_Tan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Miguel_Muñoz_Rubio> <http://www.w3.org/2000/01/rdf-schema#label> "Miguel Muñoz Rubio"@nl .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://schema.org/deathDate> "1761-12-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Di_Boji_Q65919792> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q65919792> .
+<http://yago-knowledge.org/resource/Etuhonge> <http://www.w3.org/2000/01/rdf-schema#label> "額圖洪額"@lzh .
+<http://yago-knowledge.org/resource/Hans_Andreas_Schultz> <http://schema.org/deathDate> "1896"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Charlotte_Hodge_Q116187308> <http://schema.org/deathDate> "1927"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/České_Budějovice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/District_Town> .
+<http://yago-knowledge.org/resource/Volmari_Treyden_Lord_Of_Samma> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Volmari_Treyden_Q131446493> .
+<http://yago-knowledge.org/resource/Tries_Nainggolan> <http://www.w3.org/2000/01/rdf-schema#label> "Tries Nainggolan"@mul .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@es .
+<http://yago-knowledge.org/resource/Michael_Andramonov> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Andramonov"@ga .
+<http://yago-knowledge.org/resource/Etuhonge> <http://schema.org/alternateName> "石卿"@zh .
+<http://yago-knowledge.org/resource/Mou_Leyuan> <http://www.w3.org/2000/01/rdf-schema#label> "某乐渊"@zh-hans .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://www.w3.org/2000/01/rdf-schema#comment> "personnalité française reconnue Juste parmi les nations"@fr .
+<http://yago-knowledge.org/resource/Barry_Lewis_Coulton> <http://www.w3.org/2000/01/rdf-schema#comment> "b.22 September 1940 d.20 March 2004"@en .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "diplomate allemande"@fr .
+<http://yago-knowledge.org/resource/Elizabeth_Pomeroy_Q75980371> <http://yago-knowledge.org/resource/hasMother> <http://yago-knowledge.org/resource/Thomasine_Hooker> .
+<http://yago-knowledge.org/resource/Alicia_Wykeham_Martin> <http://www.w3.org/2000/01/rdf-schema#label> "Alicia Wykeham Martin"@en .
+<http://yago-knowledge.org/resource/Andy_Avellana> <http://www.w3.org/2000/01/rdf-schema#label> "Andy Avellana"@en .
+<http://yago-knowledge.org/resource/Adolf_Simons> <http://schema.org/location> <http://yago-knowledge.org/resource/Cologne> .
+<http://yago-knowledge.org/resource/Jean_Stewart_Q75734967> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Christian_Cotchobos> <http://schema.org/alumniOf> <http://yago-knowledge.org/resource/University_of_Cape_Town> .
+<http://yago-knowledge.org/resource/Christian_Cotchobos> <http://www.w3.org/2000/01/rdf-schema#comment> "South African Rhodes Scholar"@en .
+<http://yago-knowledge.org/resource/John_Alder_Q21547255> <http://www.w3.org/2000/01/rdf-schema#label> "John Alder"@fr .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Andy_Avellana> <http://www.w3.org/2000/01/rdf-schema#label> "Andy Avellana"@pt .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://www.w3.org/2000/01/rdf-schema#comment> "holocaust victim, b. 1861-03-22"@en .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Martin_Kaltschmidt> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q136577763> .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://www.w3.org/2000/01/rdf-schema#label> "Emma Sonnenberger"@und .
+<http://yago-knowledge.org/resource/Ludwik_Szemioth> <http://www.w3.org/2000/01/rdf-schema#label> "Людвік Шэмет"@be .
+<http://yago-knowledge.org/resource/Barry_Lewis_Coulton> <http://www.w3.org/2000/01/rdf-schema#label> "Barry Lewis Coulton"@sv .
+<http://yago-knowledge.org/resource/Zany_Butschowitz> <http://schema.org/deathPlace> <http://yago-knowledge.org/resource/Theresienstadt_Ghetto> .
+<http://yago-knowledge.org/resource/Laurent_Iparraguirre> <http://www.w3.org/2000/01/rdf-schema#label> "Laurent Iparraguirre"@en .
+<http://yago-knowledge.org/resource/Han_Yi_Q6700327> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A4_(%E5%A4%8F)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Richard_William_Serjeantson> <http://schema.org/givenName> "Richard" .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "دیپلمات آلمانی"@fa .
+<http://yago-knowledge.org/resource/Richard_Synge_Q75871879> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Tran_Lam_Hach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Anna_Vanessa_Stempel> <http://www.w3.org/2000/01/rdf-schema#label> "Anna Vanessa Stempel"@mul .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://schema.org/spouse> <http://yago-knowledge.org/resource/Carl_Sprinchorn_Q87315659> .
+<http://yago-knowledge.org/resource/Jean_De_Bourbon_Q106984976> <http://www.w3.org/2000/01/rdf-schema#comment> "(1487-1487)"@en .
+<http://yago-knowledge.org/resource/Emma_Sonnenberger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Andy_Avellana> <http://www.w3.org/2000/01/rdf-schema#label> "Andy Avellana"@fr .
+<http://yago-knowledge.org/resource/Artemesia_Piccolomini> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q122873517> .
+<http://yago-knowledge.org/resource/Niels_Kowalzig> <http://www.w3.org/2000/01/rdf-schema#label> "Niels Kowalzig"@mul .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@hu .
+<http://yago-knowledge.org/resource/Volmari_Treyden_Lord_Of_Samma> <http://www.w3.org/2000/01/rdf-schema#label> "Volmari Treyden, lord of Samma"@en .
+<http://yago-knowledge.org/resource/Lu_Huai_Q65821978> <http://www.w3.org/2000/01/rdf-schema#label> "卢槐"@zh-hans .
+<http://yago-knowledge.org/resource/Pavel_Veniaminovich_Mihajlov> <http://schema.org/memberOf> <http://yago-knowledge.org/resource/Wagner_Group_generic_instance> .
+<http://yago-knowledge.org/resource/Reid_Blake_Stevens> <http://www.w3.org/2000/01/rdf-schema#label> "Reid Blake Stevens"@en .
+<http://yago-knowledge.org/resource/Bakchunmyeong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#label> "Syed Azizul Haque"@fr .
+<http://yago-knowledge.org/resource/Guo_Shi_Q65833685> <http://www.w3.org/2000/01/rdf-schema#label> "郭氏"@zh-hans .
+<http://yago-knowledge.org/resource/Gde_Sugianyar_Dwi_Putra> <http://schema.org/sameAs> "/g/11_ym370z" .
+<http://yago-knowledge.org/resource/Gde_Sugianyar_Dwi_Putra> <http://www.w3.org/2000/01/rdf-schema#label> "Gde Sugianyar Dwi Putra"@ast .
+<http://yago-knowledge.org/resource/James_Allen_Q75856193> <http://www.w3.org/2000/01/rdf-schema#label> "জেমস অ্যালেন"@bn .
+<http://yago-knowledge.org/resource/Richard_William_Serjeantson> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q109909080> .
+<http://yago-knowledge.org/resource/Reisel_Neuberg> <http://schema.org/deathPlace> <http://yago-knowledge.org/resource/Theresienstadt_Ghetto> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#comment> "jurist american"@ro .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "politikan bangladeshas"@sq .
+<http://yago-knowledge.org/resource/Simon_Maurice_William_Latham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/České_Budějovice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_With_Town_Privileges_In_The_Czech_Republic> .
+<http://yago-knowledge.org/resource/Christian_Cotchobos> <http://www.w3.org/2000/01/rdf-schema#label> "Christian Cotchobos"@en .
+<http://yago-knowledge.org/resource/Josef_Hoffmann_Q104810059> <http://schema.org/location> <http://yago-knowledge.org/resource/České_Budějovice> .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Elsie_Murdoch> <http://www.w3.org/2000/01/rdf-schema#label> "Elsie Murdoch"@en .
+<http://yago-knowledge.org/resource/Simon_Maurice_William_Latham> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://www.w3.org/2000/01/rdf-schema#comment> "13 Nov 1887 - certain 27 Jul 1948"@en .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Cui_Sizhen_Q45458100> <http://www.w3.org/2000/01/rdf-schema#label> "Cui Sizhen"@ast .
+<http://yago-knowledge.org/resource/Andy_Avellana> <http://www.w3.org/2000/01/rdf-schema#comment> "Filipino paratriathlete and high jumper"@en .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "deutsche Diplomatin"@de .
+<http://yago-knowledge.org/resource/Ludwik_Szemioth> <http://www.w3.org/2000/01/rdf-schema#label> "Людвік Шэмет"@be-tarask .
+<http://yago-knowledge.org/resource/Reid_Blake_Stevens> <http://www.w3.org/2000/01/rdf-schema#label> "Reid Blake Stevens"@ga .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#comment> "German diplomat"@en-ca .
+<http://yago-knowledge.org/resource/Reisel_Neuberg> <http://www.w3.org/2000/01/rdf-schema#label> "Reisel Neuberg"@nl .
+<http://yago-knowledge.org/resource/Aleksandr_Efimov> <http://schema.org/alternateName> "Aleksandr Efimovich Efimov"@en .
+<http://yago-knowledge.org/resource/Bernard_Iii_D_Anduze> <http://yago-knowledge.org/resource/hasMother> <http://yago-knowledge.org/resource/Ermengarde_De_Melgueil> .
+<http://yago-knowledge.org/resource/Helma_Jebe> <http://www.w3.org/2000/01/rdf-schema#label> "Helma Jebe"@mul .
+<http://yago-knowledge.org/resource/Anna_Vanessa_Stempel> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133410882> .
+<http://yago-knowledge.org/resource/Kong_Tan> <http://www.w3.org/2000/01/rdf-schema#label> "孔坦"@zh .
+<http://yago-knowledge.org/resource/Carl_Edvard_Walleen> <http://www.w3.org/2000/01/rdf-schema#label> "Carl Edvard Walleen"@mul .
+<http://yago-knowledge.org/resource/Jean_De_Bourbon_Q106984976> <http://www.w3.org/2000/01/rdf-schema#label> "Jean de Bourbon"@mul .
+<http://yago-knowledge.org/resource/Elizabeth_Pomeroy_Q75980371> <http://www.w3.org/2000/01/rdf-schema#comment> "(1726-1780)"@en .
+<http://yago-knowledge.org/resource/Hans_Laagland> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133594574> .
+<http://yago-knowledge.org/resource/Republic_of_Venice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@ast .
+<http://yago-knowledge.org/resource/Tang_dynasty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Dynasties_of_China> .
+<http://yago-knowledge.org/resource/Lucy_Jane_Synge> <http://schema.org/alternateName> "Lucy Pearson"@en .
+<http://yago-knowledge.org/resource/Meike_Drescher> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133377170> .
+<http://yago-knowledge.org/resource/French_language_generic_instance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/French_language> .
+<http://yago-knowledge.org/resource/Aix-en-Provence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Big_City_Q1549591> .
+<http://yago-knowledge.org/resource/Jean_De_Bourbon_Q106984976> <http://schema.org/birthDate> "1487-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Elizabeth_Pomeroy_Q75980371> <http://schema.org/spouse> <http://yago-knowledge.org/resource/William_Carlyon_Q75980204> .
+<http://yago-knowledge.org/resource/Cheng_Zhu_Q28409749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Politician> .
+<http://yago-knowledge.org/resource/Anna_Magdalena_Von_Winter> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q94768166> .
+<http://yago-knowledge.org/resource/Q12564163> <http://www.w3.org/2000/01/rdf-schema#label> "Сәулет Төлегенұлы"@kk .
+<http://yago-knowledge.org/resource/Gde_Sugianyar_Dwi_Putra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Konstantin-Assen_Prince_Of_Vidin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Aristocracy_class> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@de .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://www.w3.org/2000/01/rdf-schema#label> "Iacopo Fabris"@es .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#comment> "jurista estadounidense"@es .
+<http://yago-knowledge.org/resource/Hou_Duo_Q45576143> <http://www.w3.org/2000/01/rdf-schema#label> "侯鐸"@lzh .
+<http://yago-knowledge.org/resource/Gerald_Butler_Q75942641> <http://www.w3.org/2000/01/rdf-schema#label> "জেরাল্ড বাটলার"@bn .
+<http://yago-knowledge.org/resource/Xiao_Shi_Q65838225> <http://schema.org/gender> <http://yago-knowledge.org/resource/Female_gender> .
+<http://yago-knowledge.org/resource/Bakchunmyeong> <http://www.w3.org/2000/01/rdf-schema#comment> "Theater director from South Korea."@en .
+<http://yago-knowledge.org/resource/Hans_Andreas_Schultz> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Peter_John_Norris-Hill> <http://yago-knowledge.org/resource/hasMother> <http://yago-knowledge.org/resource/Edith_Sheila_Frances_Garton> .
+<http://yago-knowledge.org/resource/Adolf_Simons> <http://www.w3.org/2000/01/rdf-schema#comment> "Holocaust victim (born 1861)"@en .
+<http://yago-knowledge.org/resource/Heinz-Otto_Weber> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/John_Harris_Q75653891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://schema.org/birthDate> "1951-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#label> "John T. Goolrick"@de .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@de .
+<http://yago-knowledge.org/resource/Hou_Duo_Q45576143> <http://www.w3.org/2000/01/rdf-schema#comment> "Ming dynasty person CBDB = 328140"@en .
+<http://yago-knowledge.org/resource/Gde_Sugianyar_Dwi_Putra> <http://schema.org/alumniOf> <http://yago-knowledge.org/resource/Police_Academy_Of_The_Republic_Of_Indonesia> .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://schema.org/birthPlace> <http://yago-knowledge.org/resource/Aix-en-Provence> .
+<http://yago-knowledge.org/resource/Lenka_Línková> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Xiao_Shi_Q65838225> <http://www.w3.org/2000/01/rdf-schema#label> "蕭氏"@lzh .
+<http://yago-knowledge.org/resource/Reisel_Neuberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Lieselore Cyrus"@fr .
+<http://yago-knowledge.org/resource/Zhang_Mei_Q45489021> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Philipp_Fuchs> <http://schema.org/birthPlace> <http://yago-knowledge.org/resource/Weinheim> .
+<http://yago-knowledge.org/resource/Iacopo_Fabris> <http://www.w3.org/2000/01/rdf-schema#label> "Iacopo Fabris"@ast .
+<http://yago-knowledge.org/resource/Anna_Magdalena_Von_Winter> <http://schema.org/deathDate> "1650"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Robin_Graham_Brown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/John_Alder_Q21547255> <http://schema.org/givenName> "John" .
+<http://yago-knowledge.org/resource/John_Alder_Q21547255> <http://www.w3.org/2000/01/rdf-schema#label> "John Alder"@nl .
+<http://yago-knowledge.org/resource/Jean_De_Bourbon_Q106984976> <http://www.w3.org/2000/01/rdf-schema#label> "Jean de Bourbon"@en .
+<http://yago-knowledge.org/resource/Hungarian_Academy_of_Sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Public_Body> .
+<http://yago-knowledge.org/resource/Han_Yi_Q6700327> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6700327> .
+<http://yago-knowledge.org/resource/Johann_Von_Uexküll-Gyllenband> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Bernard_Iii_D_Anduze> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Raymond_I_D_Anduze> .
+<http://yago-knowledge.org/resource/Syed_Azizul_Haque> <http://www.w3.org/2000/01/rdf-schema#comment> "سياسي بنغلاديشي"@ar .
+<http://yago-knowledge.org/resource/Hans_Laagland> <http://www.w3.org/2000/01/rdf-schema#label> "Hans Laagland"@mul .
+<http://yago-knowledge.org/resource/Cui_Siyue> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Charlotte_Hodge_Q116187308> <http://www.w3.org/2000/01/rdf-schema#label> "Charlotte Hodge"@en .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2000/01/rdf-schema#label> "Лизелоре Цирус"@ru .
+<http://yago-knowledge.org/resource/Etuhonge> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q45707650> .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://schema.org/url> "https://de.wikipedia.org/wiki/Lieselore_Cyrus"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Zany_Butschowitz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Mou_Leyuan> <http://schema.org/familyName> "Mou_Q94243409" .
+<http://yago-knowledge.org/resource/Elsa_Östberg> <http://schema.org/nationality> <http://yago-knowledge.org/resource/Sweden> .
+<http://yago-knowledge.org/resource/Zhang_Mei_Q45489021> <http://www.w3.org/2000/01/rdf-schema#label> "Zhang Mei"@cy .
+<http://yago-knowledge.org/resource/Lenka_Línková> <http://www.w3.org/2000/01/rdf-schema#label> "Lenka Línková"@de .
+<http://yago-knowledge.org/resource/Hungarian_Academy_of_Sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Academy_of_sciences> .
+<http://yago-knowledge.org/resource/Elisabet_Sprinchorn> <http://www.w3.org/2000/01/rdf-schema#label> "Elisabet Sprinchorn"@id .
+<http://yago-knowledge.org/resource/Ragnar_Östberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Architect> .
+<http://yago-knowledge.org/resource/Male_gender> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Gender> .
+<http://yago-knowledge.org/resource/Andy_Avellana> <http://www.w3.org/2000/01/rdf-schema#label> "Andy Avellana"@mul .
+<http://yago-knowledge.org/resource/Jean_De_Bourbon_Q106984976> <http://schema.org/deathDate> "1487-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Simon_Maurice_William_Latham> <http://schema.org/alternateName> "Simon Latham"@en .
+<http://yago-knowledge.org/resource/Lucy_Jane_Synge> <http://schema.org/alternateName> "Lucy Synge"@en .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://schema.org/sameAs> "/g/123727_v" .
+<http://yago-knowledge.org/resource/Han_Yi_Q6700327> <http://yago-knowledge.org/resource/hasMother> <http://yago-knowledge.org/resource/Xuan_Qi_Q15940933> .
+<http://yago-knowledge.org/resource/Di_Boji_Q65919792> <http://www.w3.org/2000/01/rdf-schema#label> "狄博濟"@zh .
+<http://yago-knowledge.org/resource/Roli_Arioli> <http://www.w3.org/2000/01/rdf-schema#label> "Roli Arioli"@it .
+<http://yago-knowledge.org/resource/Kong_Tan> <http://www.w3.org/2000/01/rdf-schema#label> "Kong Tan"@ast .
+<http://yago-knowledge.org/resource/Hou_Duo_Q45576143> <http://www.w3.org/2000/01/rdf-schema#label> "侯铎"@zh-hans .
+<http://yago-knowledge.org/resource/Zhang_Mei_Q45489021> <http://www.w3.org/2000/01/rdf-schema#label> "Zhang Mei"@ast .
+<http://yago-knowledge.org/resource/Barry_Lewis_Coulton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Garret_Fitzmaurice> <http://yago-knowledge.org/resource/hasFather> <http://yago-knowledge.org/resource/Patrick_Fitzmaurice> .
+<http://yago-knowledge.org/resource/Garret_Fitzmaurice> <http://yago-knowledge.org/resource/hasMother> <http://yago-knowledge.org/resource/Jane_Roche_Q75456821> .
+<http://yago-knowledge.org/resource/Zhang_Mei_Q45489021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/James_P_Harrelson> <http://www.w3.org/2000/01/rdf-schema#label> "James P. Harrelson"@fr .
+<http://yago-knowledge.org/resource/Johann_Von_Uexküll-Gyllenband> <http://www.w3.org/2000/01/rdf-schema#label> "Johann von Uexküll-Gyllenband"@nl .
+<http://yago-knowledge.org/resource/John_Harris_Q75653891> <http://www.w3.org/2000/01/rdf-schema#label> "Τζον Χάρις"@el .
+<http://yago-knowledge.org/resource/Martin_Kaltschmidt> <http://schema.org/birthDate> "1971"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Praha_Xiv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/1923_District_Of_Prague> .
+<http://yago-knowledge.org/resource/Auguste_Boyer_Q75744389> <http://www.w3.org/2000/01/rdf-schema#label> "Auguste Boyer"@fr .
+<http://yago-knowledge.org/resource/John_T_Goolrick> <http://www.w3.org/2000/01/rdf-schema#comment> "xurista estadounidense"@gl .
+<http://yago-knowledge.org/resource/Johann_Von_Uexküll-Gyllenband> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Laurent_Iparraguirre> <http://www.w3.org/2000/01/rdf-schema#label> "Laurent Iparraguirre"@nl .
+<http://yago-knowledge.org/resource/Elsie_Murdoch> <http://schema.org/deathDate> "1940-11-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Bakchunmyeong> <http://www.w3.org/2000/01/rdf-schema#label> "Bakchunmyeong"@de .
+<http://yago-knowledge.org/resource/Randle_Holme_Q18530708> <http://www.w3.org/2000/01/rdf-schema#comment> "(1570/71–1655), English herald"@en .
+<http://yago-knowledge.org/resource/Indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Helen_Ogilvy_Q75389529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/České_Budějovice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Czech_Municipality_With_Expanded_Powers> .
+<http://yago-knowledge.org/resource/Kong_Tan> <http://www.w3.org/2000/01/rdf-schema#label> "Kong Tan"@en .
+<http://yago-knowledge.org/resource/Lieselore_Cyrus> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1824298> .
+<http://yago-knowledge.org/resource/Adolf_Simons> <http://www.w3.org/2000/01/rdf-schema#comment> "oběť holokaustu, nar. 26. 10. 1861"@cs .
+<http://yago-knowledge.org/resource/Aleksandr_Efimov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Christian_Cotchobos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/James_P_Harrelson> <http://schema.org/gender> <http://yago-knowledge.org/resource/Male_gender> .
+<http://yago-knowledge.org/resource/Pierre_Vajda> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q41982172> .

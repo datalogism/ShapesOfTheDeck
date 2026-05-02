@@ -1,0 +1,1200 @@
+<http://yago-knowledge.org/resource/Wed_J_Bekkers_Zoon> <http://schema.org/alternateName> "Bekkers & zoon"@nl .
+<http://yago-knowledge.org/resource/Di5_Tech> <http://www.w3.org/2000/01/rdf-schema#comment> "česká firma"@cs .
+<http://yago-knowledge.org/resource/Media_Tenor> <http://www.w3.org/2000/01/rdf-schema#label> "Media Tenor"@de .
+<http://yago-knowledge.org/resource/Denmark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Colonial_Power> .
+<http://yago-knowledge.org/resource/Casetext> <http://schema.org/alternateName> "Jake Heller"@en .
+<http://yago-knowledge.org/resource/Pi_Americká_Akciová> <http://www.w3.org/2000/01/rdf-schema#comment> "чеська компанія"@uk .
+<http://yago-knowledge.org/resource/Nettbuss_Vest> <http://www.w3.org/2000/01/rdf-schema#label> "Nettbuss Vest"@nb .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@et .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://www.w3.org/2000/01/rdf-schema#label> "Maxon Motor"@fr .
+<http://yago-knowledge.org/resource/Q10876013> <http://schema.org/url> "https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%88%AA%E8%88%88%E6%A5%AD"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Vanzetka> <http://www.w3.org/2000/01/rdf-schema#label> "Vanzetka"@nl .
+<http://yago-knowledge.org/resource/Sogeti_France> <http://www.w3.org/2000/01/rdf-schema#label> "Sogeti (France)"@en .
+<http://yago-knowledge.org/resource/Great_Western_Attractions> <http://www.w3.org/2000/01/rdf-schema#comment> "American entertainment company in Seattle, Washington"@en .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2000/01/rdf-schema#label> "رایتز"@fa .
+<http://yago-knowledge.org/resource/Remixpoint_Inc> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Czech_Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Successor_State> .
+<http://yago-knowledge.org/resource/Pi_Americká_Akciová> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Publishing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Service_economics> .
+<http://yago-knowledge.org/resource/ParkWhiz> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Great_Western_Attractions> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Q22125746> <http://schema.org/sameAs> "/g/11bv6310j7" .
+<http://yago-knowledge.org/resource/Gennbio_Inc> <http://www.w3.org/2000/01/rdf-schema#comment> "biotech company"@en .
+<http://yago-knowledge.org/resource/Sogeti_France> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Frankrijk"@nl .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://www.w3.org/2000/01/rdf-schema#label> "Flyeralarm"@it .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://www.w3.org/2000/01/rdf-schema#label> "Maxon Motor"@nl .
+<http://yago-knowledge.org/resource/Leipomo_Rosten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Residence_Building_Management> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://yago-knowledge.org/resource/siteLinks> "3"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/New_Deal_Q11324887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federal_republic> .
+<http://yago-knowledge.org/resource/New_Deal_Q11324887> <http://schema.org/dateCreated> "1998-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://schema.org/dateCreated> "1979"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Konstrukta_-_Industry_Slovakia> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q30297515> .
+<http://yago-knowledge.org/resource/Nazmiyal_collection> <http://www.w3.org/2000/01/rdf-schema#label> "Nazmiyal collection"@fr .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://www.w3.org/2000/01/rdf-schema#label> "Schlitterbahn"@es .
+<http://yago-knowledge.org/resource/Metna_United_States> <http://schema.org/dateCreated> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Good_On_You> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة أسترالية"@ar .
+<http://yago-knowledge.org/resource/Q60986406> <http://schema.org/sameAs> "/g/11fj3289f7" .
+<http://yago-knowledge.org/resource/Switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Confederation> .
+<http://yago-knowledge.org/resource/Residence_Building_Management> <http://schema.org/url> "http://www.r-b-m.co.jp/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Giulio_Cesare_E_Giovanni_Battista_Malatesta> <http://www.w3.org/2000/01/rdf-schema#label> "Giulio Cesare e Giovanni Battista Malatesta"@it .
+<http://yago-knowledge.org/resource/ParkWhiz> <http://www.w3.org/2000/01/rdf-schema#label> "ParkWhiz"@fr .
+<http://yago-knowledge.org/resource/Q60986406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Nettbuss_Vest> <http://www.w3.org/2000/01/rdf-schema#label> "Nettbuss Vest"@en .
+<http://yago-knowledge.org/resource/Invest_Financial_Corporation> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16997246> .
+<http://yago-knowledge.org/resource/Nettbuss_Vest> <http://www.w3.org/2000/01/rdf-schema#label> "Nettbuss Vest"@fi .
+<http://yago-knowledge.org/resource/Slovakia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Landlocked_country> .
+<http://yago-knowledge.org/resource/Metna_United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Zenrin_Datacom> <http://schema.org/url> "http://www.zenrin-datacom.net/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Vanzetka> <http://www.w3.org/2000/01/rdf-schema#label> "Vanzetka"@fr .
+<http://yago-knowledge.org/resource/Nazmiyal_collection> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة"@ar .
+<http://yago-knowledge.org/resource/Pi_Americká_Akciová> <http://schema.org/location> <http://yago-knowledge.org/resource/Czech_Republic> .
+<http://yago-knowledge.org/resource/EcoZoom> <http://schema.org/url> "https://en.wikipedia.org/wiki/EcoZoom"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Native_American_Technologies_United_States> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q64142144> .
+<http://yago-knowledge.org/resource/Wed_J_Bekkers_Zoon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Illy_Q15831312> <http://schema.org/url> "http://www.illycafe.ch/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Daikure> <http://schema.org/location> <http://yago-knowledge.org/resource/Japan> .
+<http://yago-knowledge.org/resource/Datastat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Frameworks_Entertainment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Nittetsu_Hitachi_Systems_Engineering> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Ge_Medical_Systems_Global_Technology> <http://yago-knowledge.org/resource/ownedBy> <http://yago-knowledge.org/resource/GE_HealthCare> .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://schema.org/alternateName> "Maxon Motor AG"@de .
+<http://yago-knowledge.org/resource/Vehicle_Control_Technologies_United_States> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Oita_Liquefied_Natural_Gas> <http://schema.org/sameAs> "/g/11r7pl2zj" .
+<http://yago-knowledge.org/resource/Nazmiyal_collection> <http://schema.org/url> "http://nazmiyalantiquerugs.com/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Hudson_s_Bay_Trading_Company> <http://schema.org/dateCreated> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Nazmiyal_collection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Konstrukta_-_Industry_Slovakia> <http://www.w3.org/2000/01/rdf-schema#label> "Konstrukta - Industry (Slovakia)"@en .
+<http://yago-knowledge.org/resource/Sistema_Clube_De_Comunicação> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Broadcaster_Q15265344> .
+<http://yago-knowledge.org/resource/Mykon_Og> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://schema.org/Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/shacl#NodeShape> .
+<http://yago-knowledge.org/resource/Ukraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Rechtsstaat> .
+<http://yago-knowledge.org/resource/Mykon_Og> <http://schema.org/location> <http://yago-knowledge.org/resource/Austria> .
+<http://yago-knowledge.org/resource/Holtron_Ventures> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Slovakia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Tuokslahden_Paperitehdas> <http://www.w3.org/2000/01/rdf-schema#label> "Tuokslahden paperitehdas"@fi .
+<http://yago-knowledge.org/resource/Nittetsu_Hitachi_Systems_Engineering> <http://www.w3.org/2000/01/rdf-schema#label> "Nittetsu Hitachi Systems Engineering"@en .
+<http://yago-knowledge.org/resource/Thalesnano> <http://yago-knowledge.org/resource/leader> <http://yago-knowledge.org/resource/Ferenc_Darvas_Q54867131> .
+<http://yago-knowledge.org/resource/Daikure> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Orano_Canada> <http://yago-knowledge.org/resource/ownedBy> <http://yago-knowledge.org/resource/Orano_Mining> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2000/01/rdf-schema#label> "RITES"@fi .
+<http://yago-knowledge.org/resource/Vehicle_Control_Technologies_United_States> <http://schema.org/dateCreated> "1993"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Q22125746> <http://www.w3.org/2000/01/rdf-schema#label> "錦城食品"@ja .
+<http://yago-knowledge.org/resource/Conitor_Terra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Hannan_Ribiyo> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Sweden_Models> <http://www.w3.org/2000/01/rdf-schema#label> "Sweden Models"@en .
+<http://yago-knowledge.org/resource/Nettbuss_Vest> <http://www.w3.org/2000/01/rdf-schema#label> "Nettbuss Vest"@sv .
+<http://yago-knowledge.org/resource/Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Country_Bordering_The_Baltic_Sea> .
+<http://yago-knowledge.org/resource/Q60986406> <http://www.w3.org/2000/01/rdf-schema#label> "Уманьгаз"@uk .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://www.w3.org/2000/01/rdf-schema#comment> "corporation owning a group of theme parks"@en .
+<http://yago-knowledge.org/resource/EcoZoom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@li .
+<http://yago-knowledge.org/resource/Leipomo_Rosten> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Ge_Medical_Systems_Global_Technology> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Invest_Financial_Corporation> <http://schema.org/url> "https://www.investfinancial.com/private/Welcome.nph"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Universal_Audio_company> <http://schema.org/url> "https://uk.wikipedia.org/wiki/Universal_Audio_(%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%8F)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Ovenstone_Agencies> <http://www.w3.org/2000/01/rdf-schema#comment> "South African fishing and shipping company"@en .
+<http://yago-knowledge.org/resource/Thalesnano> <http://www.w3.org/2000/01/rdf-schema#label> "ThalesNano Zrt."@hu .
+<http://yago-knowledge.org/resource/Kitanihon_Gas> <http://www.w3.org/2000/01/rdf-schema#label> "Kitanihon Gas"@en .
+<http://yago-knowledge.org/resource/Q131189064> <http://schema.org/location> <http://yago-knowledge.org/resource/South_Korea> .
+<http://yago-knowledge.org/resource/Velodyne> <http://schema.org/dateCreated> "1983"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Q10344458> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة"@ar .
+<http://yago-knowledge.org/resource/Q22125746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Fremantle_Gas_and_Coke_Company> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Fremantle_Gas_and_Coke_Company"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Quantopian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Kitanihon_Gas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Horizion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Media_Tenor> <http://schema.org/dateCreated> "2005"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://schema.org/url> "https://fr.wikipedia.org/wiki/Schlitterbahn"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Konstrukta_-_Industry_Slovakia> <http://schema.org/dateCreated> "1953"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Blue_Point_It_Solutions_Romania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Nettbuss_Vest> <http://www.w3.org/2000/01/rdf-schema#label> "Nettbuss Vest"@nl .
+<http://yago-knowledge.org/resource/EcoZoom> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bartex_Europe> <http://www.w3.org/2000/01/rdf-schema#comment> "Czech company"@en .
+<http://yago-knowledge.org/resource/Atout_Vent_France> <http://www.w3.org/2000/01/rdf-schema#comment> "company in Fuveau, France"@en .
+<http://yago-knowledge.org/resource/A_Zweesaardt_En_Zoon> <http://www.w3.org/2000/01/rdf-schema#label> "A. Zweesaardt en Zoon"@nl .
+<http://yago-knowledge.org/resource/Q11479198> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Nazmiyal_collection> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Invest_Financial_Corporation> <http://www.w3.org/2000/01/rdf-schema#label> "Invest Financial Corporation"@fr .
+<http://yago-knowledge.org/resource/Spain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Nation_state> .
+<http://yago-knowledge.org/resource/Quantopian> <http://schema.org/dateCreated> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Williams_College_Investment_Office> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q23018410> .
+<http://yago-knowledge.org/resource/Prevac> <http://schema.org/location> <http://yago-knowledge.org/resource/Poland> .
+<http://yago-knowledge.org/resource/Universal_Audio_company> <http://schema.org/dateCreated> "1958"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://schema.org/dateCreated> "2002"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Fremantle_Gas_and_Coke_Company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Frameworks_Entertainment> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q48756357> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@an .
+<http://yago-knowledge.org/resource/ParkWhiz> <http://schema.org/url> "http://www.parkwhiz.com"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Czech_Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Tokyo_Rika_Kogyo> <http://schema.org/dateCreated> "1946-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Vehicle_Control_Technologies_United_States> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Verenigde Staten van Amerika"@nl .
+<http://yago-knowledge.org/resource/Oncomatryx> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12197575> .
+<http://yago-knowledge.org/resource/Stephens_Inc> <http://www.w3.org/2000/01/rdf-schema#label> "استفن"@fa .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://www.w3.org/2000/01/rdf-schema#label> "Schlitterbahn"@ru .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://www.w3.org/2000/01/rdf-schema#comment> "motor company"@en .
+<http://yago-knowledge.org/resource/Zenrin_Datacom> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11315052> .
+<http://yago-knowledge.org/resource/Japan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Island_country> .
+<http://yago-knowledge.org/resource/Von_Zeppelin_En_Co_Apeldoornsche_Nettenfabriek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Ferenc_Darvas_Q54867131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/OCESA> <http://schema.org/url> "https://www.ocesa.com.mx/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Mežgāzis> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q126093091> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://schema.org/sameAs> "/m/06ksn0" .
+<http://yago-knowledge.org/resource/Sweden_Models> <http://schema.org/location> <http://yago-knowledge.org/resource/Sweden> .
+<http://yago-knowledge.org/resource/Shenzhen_Kitten_Tech_Company_Limited> <http://schema.org/url> "https://www.kittenbot.cc/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Jewellery_store> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://yago-knowledge.org/resource/Q60986406> <http://schema.org/url> "https://uk.wikipedia.org/wiki/%D0%A3%D0%BC%D0%B0%D0%BD%D1%8C%D0%B3%D0%B0%D0%B7"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://yago-knowledge.org/resource/siteLinks> "5"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Hudson_s_Bay_Trading_Company> <http://schema.org/dissolutionDate> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Vanzetka> <http://www.w3.org/2000/01/rdf-schema#label> "Vanzetka"@de .
+<http://yago-knowledge.org/resource/Q48934552> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/OCESA> <http://www.w3.org/2000/01/rdf-schema#comment> "promotora de conciertos mexicana"@es .
+<http://yago-knowledge.org/resource/Universal_Audio_company> <http://schema.org/award> <http://yago-knowledge.org/resource/Technical_Grammy_Award> .
+<http://yago-knowledge.org/resource/Velodyne> <http://schema.org/url> "https://en.wikipedia.org/wiki/Velodyne"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://schema.org/location> <http://yago-knowledge.org/resource/Bangladesh> .
+<http://yago-knowledge.org/resource/Hudson_s_Bay_Trading_Company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Metna_United_States> <http://www.w3.org/2000/01/rdf-schema#label> "Metna (United States)"@en .
+<http://yago-knowledge.org/resource/Casetext> <http://schema.org/alternateName> "Casetext, Inc."@en .
+<http://yago-knowledge.org/resource/Konstrukta_-_Industry_Slovakia> <http://schema.org/location> <http://yago-knowledge.org/resource/Slovakia> .
+<http://yago-knowledge.org/resource/Prevac> <http://www.w3.org/2000/01/rdf-schema#label> "PREVAC"@en .
+<http://yago-knowledge.org/resource/Philex> <http://schema.org/url> "https://de.wikipedia.org/wiki/Philex"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/ParkWhiz> <http://schema.org/locationCreated> <http://yago-knowledge.org/resource/Chicago> .
+<http://yago-knowledge.org/resource/United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Historical_Unrecognized_State> .
+<http://yago-knowledge.org/resource/Nippon_Chuzo> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%8B%B3%E9%80%A0"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@sr-el .
+<http://yago-knowledge.org/resource/Hudson_s_Bay_Trading_Company> <http://www.w3.org/2000/01/rdf-schema#label> "Hudson's Bay Trading Company"@fr .
+<http://yago-knowledge.org/resource/Prevac> <http://schema.org/url> "https://www.prevac.eu/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Mykon_Og> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q108281168> .
+<http://yago-knowledge.org/resource/Di5_Tech> <http://www.w3.org/2000/01/rdf-schema#comment> "чеська компанія"@uk .
+<http://yago-knowledge.org/resource/Tootal> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Mežgāzis> <http://schema.org/dateCreated> "2021-04-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/New_Deal_Q11324887> <http://schema.org/sameAs> "/g/122rvkgl" .
+<http://yago-knowledge.org/resource/Bank_Przemysłowców> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Quantopian> <http://schema.org/logo> "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20of%20Quantopian.png"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/ParkWhiz> <http://schema.org/sameAs> "/m/0y6589w" .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@fi .
+<http://yago-knowledge.org/resource/Di5_Tech> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Metso_United_States> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q30713723> .
+<http://yago-knowledge.org/resource/Metso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Public_company> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@ie .
+<http://yago-knowledge.org/resource/Vehicle_Control_Technologies_United_States> <http://schema.org/url> "http://www.vctinc.com/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Leipomo_Rosten> <http://www.w3.org/2000/01/rdf-schema#label> "Leipomo Rosten"@fi .
+<http://yago-knowledge.org/resource/Vanzetka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Thalesnano> <http://schema.org/url> "http://www.thalesnano.com/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Good_On_You> <http://www.w3.org/2000/01/rdf-schema#comment> "australian sustainability rating company"@en .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15840374> .
+<http://yago-knowledge.org/resource/Q11299723> <http://schema.org/location> <http://yago-knowledge.org/resource/Japan> .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://www.w3.org/2000/01/rdf-schema#label> "Maxon Motor"@es .
+<http://yago-knowledge.org/resource/Horizion> <http://schema.org/url> "https://www.horizononline.com/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/New_Deal_Q11324887> <http://www.w3.org/2000/01/rdf-schema#comment> "企業"@ja .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@en-ca .
+<http://yago-knowledge.org/resource/Thalesnano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Leipomo_Rosten> <http://schema.org/url> "https://fi.wikipedia.org/wiki/Leipomo_Rosten"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://schema.org/memberOf> <http://yago-knowledge.org/resource/Bridge_Alliance> .
+<http://yago-knowledge.org/resource/Native_American_Technologies_United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Ge_Medical_Systems_Global_Technology> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q21168536> .
+<http://yago-knowledge.org/resource/United_Kingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Island_country> .
+<http://yago-knowledge.org/resource/Di5_Tech> <http://www.w3.org/2000/01/rdf-schema#label> "Di5.Tech"@cs .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@af .
+<http://yago-knowledge.org/resource/Mykon_Og> <http://www.w3.org/2000/01/rdf-schema#label> "MYKON OG"@en .
+<http://yago-knowledge.org/resource/OCESA> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q105162857> .
+<http://yago-knowledge.org/resource/Q48934552> <http://schema.org/url> "https://zh.wikipedia.org/wiki/%E6%AC%A7%E4%BA%9A%E6%97%B6%E6%8A%A5%E7%A4%BE"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/ParkWhiz> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16962736> .
+<http://yago-knowledge.org/resource/Nittetsu_Hitachi_Systems_Engineering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Pi_Americká_Akciová> <http://schema.org/leiCode> "315700J5UN9NS1VOP182" .
+<http://yago-knowledge.org/resource/Velodyne> <http://www.w3.org/2000/01/rdf-schema#comment> "audio equipment manufacturer"@en .
+<http://yago-knowledge.org/resource/Kadmon_Corporation> <http://schema.org/sameAs> "/g/11bwdwsr39" .
+<http://yago-knowledge.org/resource/Illy_Q15831312> <http://schema.org/sameAs> "/g/155smjmf" .
+<http://yago-knowledge.org/resource/Cape_Town> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Legislative_Capital> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@ga .
+<http://yago-knowledge.org/resource/Ovenstone_Agencies> <http://schema.org/location> <http://yago-knowledge.org/resource/Cape_Town> .
+<http://yago-knowledge.org/resource/Mežgāzis> <http://www.w3.org/2000/01/rdf-schema#label> "Mežgāzis"@lv .
+<http://yago-knowledge.org/resource/Invest_Financial_Corporation> <http://schema.org/url> "https://en.wikipedia.org/wiki/Invest_Financial_Corporation"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Orano_Canada> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4653658> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://schema.org/url> "https://mr.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%9F%E0%A5%8D%E0%A4%B8_%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@da .
+<http://yago-knowledge.org/resource/Vanzetka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Jewellery_store> .
+<http://yago-knowledge.org/resource/De_Naeyer_Nv> <http://www.w3.org/2000/01/rdf-schema#label> "De Naeyer NV"@nl .
+<http://yago-knowledge.org/resource/Citigroup_Global_Markets> <http://www.w3.org/2000/01/rdf-schema#comment> "UK company"@en .
+<http://yago-knowledge.org/resource/Shenzhen_Kitten_Tech_Company_Limited> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Tootal> <http://schema.org/sameAs> "/g/11crxrjkz2" .
+<http://yago-knowledge.org/resource/Zenrin_Datacom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Courtesy_Graphics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Nettbuss_Vest> <http://www.w3.org/2000/01/rdf-schema#label> "Nettbuss Vest"@it .
+<http://yago-knowledge.org/resource/Q11299723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Nazmiyal_collection> <http://schema.org/sameAs> "/m/0glq0cm" .
+<http://yago-knowledge.org/resource/EcoZoom> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16834576> .
+<http://yago-knowledge.org/resource/Casetext> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q123137077> .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://www.w3.org/2000/01/rdf-schema#label> "एयरटेल बङ्गलादेश"@ne .
+<http://yago-knowledge.org/resource/Courtesy_Graphics> <http://www.w3.org/2000/01/rdf-schema#label> "Courtesy Graphics"@nl .
+<http://yago-knowledge.org/resource/Tootal> <http://schema.org/url> "https://da.wikipedia.org/wiki/Tootal"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://www.w3.org/2000/01/rdf-schema#label> "এয়ারটেল (বাংলাদেশ)"@bn .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@nb .
+<http://yago-knowledge.org/resource/Tootal> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q28401377> .
+<http://yago-knowledge.org/resource/Good_On_You> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Universal_Audio_company> <http://schema.org/founder> <http://yago-knowledge.org/resource/Bill_Putnam> .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Nittetsu_Hitachi_Systems_Engineering> <http://www.w3.org/2000/01/rdf-schema#label> "日鉄日立システムエンジニアリング"@ja .
+<http://yago-knowledge.org/resource/Citigroup_Global_Markets> <http://schema.org/url> "http://www.citibank.com"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/EcoZoom> <http://www.w3.org/2000/01/rdf-schema#label> "EcoZoom"@ru .
+<http://yago-knowledge.org/resource/Vanzetka> <http://www.w3.org/2000/01/rdf-schema#label> "Vanzetka"@en .
+<http://yago-knowledge.org/resource/Philex> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة"@ar .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://www.w3.org/2000/01/rdf-schema#label> "Maxon Motor"@en .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://yago-knowledge.org/resource/siteLinks> "4"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/OCESA> <http://schema.org/url> "https://pt.wikipedia.org/wiki/OCESA"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@it .
+<http://yago-knowledge.org/resource/Holtron_Ventures> <http://schema.org/sameAs> "/g/122sgnj2" .
+<http://yago-knowledge.org/resource/Invest_Financial_Corporation> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Rechtsstaat> .
+<http://yago-knowledge.org/resource/Williams_College_Investment_Office> <http://www.w3.org/2000/01/rdf-schema#label> "Williams College Investment Office"@en .
+<http://yago-knowledge.org/resource/Q11479198> <http://www.w3.org/2000/01/rdf-schema#label> "川越鄉村俱樂部"@zh .
+<http://yago-knowledge.org/resource/Nazmiyal_collection> <http://schema.org/url> "https://en.wikipedia.org/wiki/Nazmiyal_collection"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Amalgamated_Power_Engineering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Orano_Canada> <http://www.w3.org/2000/01/rdf-schema#comment> "compagnie minière filiale d'Orano"@fr .
+<http://yago-knowledge.org/resource/Nettbuss_Vest> <http://www.w3.org/2000/01/rdf-schema#label> "Nettbuss Vest"@fr .
+<http://yago-knowledge.org/resource/Cyprus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Mediterranean_Country> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "ఫికామ్"@te .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2000/01/rdf-schema#label> "印度鐵路技術及經濟服務公司"@zh-hant .
+<http://yago-knowledge.org/resource/Tootal> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/Calico_Printers_Association> .
+<http://yago-knowledge.org/resource/ParkWhiz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@ast .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://www.w3.org/2000/01/rdf-schema#label> "Schlitterbahn"@en .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@nn .
+<http://yago-knowledge.org/resource/Q85881343> <http://www.w3.org/2000/01/rdf-schema#comment> "明治、大正時代の電力会社"@ja .
+<http://yago-knowledge.org/resource/Hannan_Ribiyo> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Hannan_Ribiyo"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Daikure> <http://schema.org/dateCreated> "1951"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%82%BD%E3%83%B3%E3%83%A2%E3%83%BC%E3%82%BF"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Q10876013> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2000/01/rdf-schema#comment> "company"@en .
+<http://yago-knowledge.org/resource/Oita_Liquefied_Natural_Gas> <http://www.w3.org/2000/01/rdf-schema#label> "大分エル・エヌ・ジー"@ja .
+<http://yago-knowledge.org/resource/A_Zweesaardt_En_Zoon> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q135242255> .
+<http://yago-knowledge.org/resource/Hannan_Ribiyo> <http://www.w3.org/2000/01/rdf-schema#label> "阪南理美容"@ja .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@nds-nl .
+<http://yago-knowledge.org/resource/Shenzhen_Kitten_Tech_Company_Limited> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q114713186> .
+<http://yago-knowledge.org/resource/Nippon_Chuzo> <http://schema.org/location> <http://yago-knowledge.org/resource/Japan> .
+<http://yago-knowledge.org/resource/Nettbuss_Vest> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q57081774> .
+<http://yago-knowledge.org/resource/Hudson_s_Bay_Trading_Company> <http://schema.org/sameAs> "/m/04_0vcx" .
+<http://yago-knowledge.org/resource/New_Deal_Q11324887> <http://schema.org/alternateName> "リキッドオーディオ・ジャパン"@ja .
+<http://yago-knowledge.org/resource/Spain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Mediterranean_Country> .
+<http://yago-knowledge.org/resource/Belgium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federation> .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://schema.org/url> "http://www.maxonmotor.ch/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2000/01/rdf-schema#comment> "perusahaan asal India"@id .
+<http://yago-knowledge.org/resource/Orano_Canada> <http://www.w3.org/2000/01/rdf-schema#label> "Orano Canada"@fr .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2000/01/rdf-schema#label> "राइट्स लिमिटेड"@mr .
+<http://yago-knowledge.org/resource/Gennbio_Inc> <http://schema.org/alternateName> "GenNBio"@en .
+<http://yago-knowledge.org/resource/Media_Tenor> <http://schema.org/location> <http://yago-knowledge.org/resource/Switzerland> .
+<http://yago-knowledge.org/resource/Native_American_Technologies_United_States> <http://www.w3.org/2000/01/rdf-schema#label> "Native American Technologies (United States)"@en .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://www.w3.org/2000/01/rdf-schema#label> "Schlitterbahn"@nl .
+<http://yago-knowledge.org/resource/Mežgāzis> <http://www.w3.org/2000/01/rdf-schema#label> "Mežgāzis"@en .
+<http://yago-knowledge.org/resource/Kitanihon_Gas> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11401852> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@sco .
+<http://yago-knowledge.org/resource/Velodyne> <http://schema.org/logo> "http://commons.wikimedia.org/wiki/Special:FilePath/Velodyne%20Company%20logo.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Tootal> <http://schema.org/url> "https://en.wikipedia.org/wiki/Tootal"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Kitanihon_Gas> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%97%A5%E6%9C%AC%E3%82%AC%E3%82%B9"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sistema_Clube_De_Comunicação> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20053372> .
+<http://yago-knowledge.org/resource/Jumperism_Limited> <http://schema.org/dateCreated> "2011-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Fremantle_Gas_and_Coke_Company> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Tokyo_Rika_Kogyo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Konstrukta_-_Industry_Slovakia> <http://www.w3.org/2000/01/rdf-schema#comment> "company in Trenčín, Slovakia"@en .
+<http://yago-knowledge.org/resource/De_Naeyer_Nv> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit België"@nl .
+<http://yago-knowledge.org/resource/Sistema_Clube_De_Comunicação> <http://www.w3.org/2000/01/rdf-schema#label> "Sistema Clube de Comunicação"@es .
+<http://yago-knowledge.org/resource/De_Naeyer_Nv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Hudson_s_Bay_Trading_Company> <http://schema.org/url> "https://en.wikipedia.org/wiki/Hudson%27s_Bay_Trading_Company"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sistema_Clube_De_Comunicação> <http://schema.org/url> "http://www.clube.com.br/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bartex_Europe> <http://www.w3.org/2000/01/rdf-schema#comment> "чеська компанія"@uk .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://www.w3.org/2000/01/rdf-schema#label> "گروه ماکسون"@fa .
+<http://yago-knowledge.org/resource/Universal_Audio_company> <http://www.w3.org/2000/01/rdf-schema#label> "Universal Audio (компанія)"@uk .
+<http://yago-knowledge.org/resource/Jumperism_Limited> <http://www.w3.org/2000/01/rdf-schema#label> "Jumperism Limited"@en .
+<http://yago-knowledge.org/resource/Q60986406> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q60986406> .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://schema.org/url> "http://bd.airtel.com/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/EcoZoom> <http://schema.org/url> "https://ru.wikipedia.org/wiki/EcoZoom"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Leipomo_Rosten> <http://schema.org/location> <http://yago-knowledge.org/resource/Finland> .
+<http://yago-knowledge.org/resource/Q10344458> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Gromatex> <http://www.w3.org/2000/01/rdf-schema#label> "Gromatex"@en .
+<http://yago-knowledge.org/resource/Bangladesh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Ferronordic> <http://www.w3.org/2000/01/rdf-schema#label> "Ferronordic"@sv .
+<http://yago-knowledge.org/resource/Nippon_Chuzo> <http://schema.org/sameAs> "/m/0clk4pj" .
+<http://yago-knowledge.org/resource/Leipomo_Rosten> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة في فنلندا"@ar .
+<http://yago-knowledge.org/resource/Di5_Tech> <http://schema.org/alternateName> "di5.Tech s.r.o."@cs .
+<http://yago-knowledge.org/resource/Momie> <http://schema.org/url> "https://fr.wikipedia.org/wiki/Momie_(enseigne)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Oita_Liquefied_Natural_Gas> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/EcoZoom> <http://www.w3.org/2000/01/rdf-schema#label> "EcoZoom"@fr .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@ro .
+<http://yago-knowledge.org/resource/OCESA> <http://schema.org/url> "https://en.wikipedia.org/wiki/OCESA"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Nittetsu_Hitachi_Systems_Engineering> <http://schema.org/url> "http://www.nhs.co.jp/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sistema_Clube_De_Comunicação> <http://www.w3.org/2000/01/rdf-schema#label> "Sistema Clube de Comunicação"@pt .
+<http://yago-knowledge.org/resource/Momie> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@nys .
+<http://yago-knowledge.org/resource/Gennbio_Inc> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Zuid-Korea"@nl .
+<http://yago-knowledge.org/resource/Slovakia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Successor_State> .
+<http://yago-knowledge.org/resource/Orano_Canada> <http://schema.org/alternateName> "AREVA Resources Canada"@fr .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@is .
+<http://yago-knowledge.org/resource/Ge_Medical_Systems_Global_Technology> <http://www.w3.org/2000/01/rdf-schema#comment> "R&D Subsidiary of GE Healthcare"@en .
+<http://yago-knowledge.org/resource/Media_Tenor> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة"@ar .
+<http://yago-knowledge.org/resource/OCESA> <http://www.w3.org/2000/01/rdf-schema#comment> "Mexican concert promoter (e. 1990)"@en .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@ms .
+<http://yago-knowledge.org/resource/Wed_J_Bekkers_Zoon> <http://www.w3.org/2000/01/rdf-schema#label> "Wed. J. Bekkers & Zoon"@nl .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@sv .
+<http://yago-knowledge.org/resource/Q131189064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Metna_United_States> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q30298269> .
+<http://yago-knowledge.org/resource/Momie> <http://www.w3.org/2000/01/rdf-schema#label> "Momie"@fr .
+<http://yago-knowledge.org/resource/Q11299723> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%A1%E3%83%B3%E3%83%88"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Nettbuss_Vest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Q131189064> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131189064> .
+<http://yago-knowledge.org/resource/Vehicle_Control_Technologies_United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Phicomm> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Bird-C_Gmbh> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Oostenrijk"@nl .
+<http://yago-knowledge.org/resource/OCESA> <http://schema.org/sameAs> "/g/11f017nncz" .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://www.w3.org/2000/01/rdf-schema#label> "Flyeralarm"@fr .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://schema.org/sameAs> "/m/02q48v3" .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4699035> .
+<http://yago-knowledge.org/resource/United_Kingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Colonial_Power> .
+<http://yago-knowledge.org/resource/Hannan_Ribiyo> <http://schema.org/url> "http://www.plage-bb.co.jp/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Finland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Country_Bordering_The_Baltic_Sea> .
+<http://yago-knowledge.org/resource/Switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Samuel_D_Waksal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Immunologist> .
+<http://yago-knowledge.org/resource/OCESA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Native_American_Technologies_United_States> <http://schema.org/alternateName> "NA Tech"@en .
+<http://yago-knowledge.org/resource/Metna_United_States> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Verenigde Staten van Amerika"@nl .
+<http://yago-knowledge.org/resource/New_Deal_Q11324887> <http://schema.org/alternateName> "リキッドオーディオジャパン"@ja .
+<http://yago-knowledge.org/resource/Hogervorst> <http://schema.org/location> <http://yago-knowledge.org/resource/Netherlands> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@sc .
+<http://yago-knowledge.org/resource/Hudson_s_Bay_Trading_Company> <http://www.w3.org/2000/01/rdf-schema#comment> "Geschäftsbetrieb in Kanada"@de .
+<http://yago-knowledge.org/resource/GE_HealthCare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Business_enterprise> .
+<http://yago-knowledge.org/resource/Good_On_You> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Australië"@nl .
+<http://yago-knowledge.org/resource/Remixpoint_Inc> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q30937410> .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3475433> .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://www.w3.org/2000/01/rdf-schema#comment> "Onlinedruckerei und Marketingservices mit Sitz in Würzburg"@de .
+<http://yago-knowledge.org/resource/Invest_Financial_Corporation> <http://schema.org/sameAs> "/m/0_xc0zz" .
+<http://yago-knowledge.org/resource/Ge_Medical_Systems_Global_Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Bird-C_Gmbh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/ParkWhiz> <http://schema.org/logo> "http://commons.wikimedia.org/wiki/Special:FilePath/ParkWhiz%20Logo%20CMYK%20ForWhtBG%20Horizontal.png"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Kadmon_Corporation> <http://www.w3.org/2000/01/rdf-schema#label> "Kadmon Corporation"@en .
+<http://yago-knowledge.org/resource/Nettbuss_Vest> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bird-C_Gmbh> <http://schema.org/location> <http://yago-knowledge.org/resource/Austria> .
+<http://yago-knowledge.org/resource/Q60986406> <http://schema.org/dateCreated> "1997"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Finland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Unitary_state> .
+<http://yago-knowledge.org/resource/Sagawa_Printing> <http://schema.org/location> <http://yago-knowledge.org/resource/Japan> .
+<http://yago-knowledge.org/resource/Vanzetka> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة هولندية"@ar .
+<http://yago-knowledge.org/resource/Tokyo_Rika_Kogyo> <http://schema.org/sameAs> "/g/12321dvl" .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2000/01/rdf-schema#label> "RITES"@sw .
+<http://yago-knowledge.org/resource/Q10344458> <http://schema.org/url> "https://zh.wikipedia.org/wiki/%E6%9D%B1%E6%BD%A4%E6%8B%93%E5%B1%95%E9%9B%86%E5%9C%98"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Velodyne> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q39052226> .
+<http://yago-knowledge.org/resource/Tootal> <http://www.w3.org/2000/01/rdf-schema#label> "Tootal"@de .
+<http://yago-knowledge.org/resource/Media_Tenor> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Velodyne> <http://schema.org/url> "https://www.velodyneacoustics.com/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://schema.org/url> "http://www.schlitterbahn.com"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Vehicle_Control_Technologies_United_States> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q30298674> .
+<http://yago-knowledge.org/resource/New_Deal_Q11324887> <http://schema.org/alternateName> "リキッド・オーディオ・ジャパン"@ja .
+<http://yago-knowledge.org/resource/Fremantle_Gas_and_Coke_Company> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q22271706> .
+<http://yago-knowledge.org/resource/Netherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> .
+<http://yago-knowledge.org/resource/Velodyne> <http://schema.org/url> "https://it.wikipedia.org/wiki/Velodyne"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Metso_United_States> <http://www.w3.org/2000/01/rdf-schema#label> "Metso (United States)"@en .
+<http://yago-knowledge.org/resource/Sagawa_Printing> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Citigroup_Global_Markets> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Media_Tenor> <http://schema.org/founder> <http://yago-knowledge.org/resource/Roland_Schatz_Q136528304> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@vi .
+<http://yago-knowledge.org/resource/Q131189064> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Media_Tenor> <http://www.w3.org/2000/01/rdf-schema#label> "Media Tenor"@mul .
+<http://yago-knowledge.org/resource/Metna_United_States> <http://schema.org/url> "http://www.metnaco.com/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Phicomm> <http://schema.org/dateCreated> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/ParkWhiz> <http://www.w3.org/2000/01/rdf-schema#label> "ParkWhiz"@en .
+<http://yago-knowledge.org/resource/Casetext> <http://www.w3.org/2000/01/rdf-schema#comment> "legal AI product"@en .
+<http://yago-knowledge.org/resource/Citigroup_Global_Markets> <http://schema.org/alternateName> "Citigroup Global Markets Limited"@en .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@rm .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://schema.org/sameAs> "/m/0809xwj" .
+<http://yago-knowledge.org/resource/Q85881343> <http://www.w3.org/2000/01/rdf-schema#label> "松江電灯"@ja .
+<http://yago-knowledge.org/resource/Bartex_Europe> <http://www.w3.org/2000/01/rdf-schema#label> "Bartex Europe"@cs .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://schema.org/url> "https://nl.wikipedia.org/wiki/Flyeralarm"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@scn .
+<http://yago-knowledge.org/resource/Jumperism_Limited> <http://schema.org/location> <http://yago-knowledge.org/resource/Cyprus> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1584018> .
+<http://yago-knowledge.org/resource/Universal_Audio_company> <http://www.w3.org/2000/01/rdf-schema#comment> "americká firma"@cs .
+<http://yago-knowledge.org/resource/Oncomatryx> <http://schema.org/location> <http://yago-knowledge.org/resource/Spain> .
+<http://yago-knowledge.org/resource/Universal_Audio_company> <http://www.w3.org/2000/01/rdf-schema#label> "Universal Audio"@en .
+<http://yago-knowledge.org/resource/Phicomm> <http://schema.org/sameAs> "/g/12lqj92rh" .
+<http://yago-knowledge.org/resource/Quantopian> <http://schema.org/url> "https://en.wikipedia.org/wiki/Quantopian"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Tuokslahden_Paperitehdas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Kadmon_Corporation> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Citigroup_Global_Markets> <http://schema.org/leiCode> "XKZZ2JZF41MRHTR1V493" .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة بنغلاديشية"@ar .
+<http://yago-knowledge.org/resource/Q131189064> <http://www.w3.org/2000/01/rdf-schema#label> "폴라리스세원"@ko .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://schema.org/url> "https://en.wikipedia.org/wiki/Schlitterbahn"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Illy_Q15831312> <http://www.w3.org/2000/01/rdf-schema#comment> "Schweizer Kaffeeröster"@de .
+<http://yago-knowledge.org/resource/Frans_Buff_Zonen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/EcoZoom> <http://schema.org/url> "http://ecozoomstove.com"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Tokyo_Rika_Kogyo> <http://schema.org/alternateName> "Kawakin Die Casting Industries Co., Ltd."@en .
+<http://yago-knowledge.org/resource/Casetext> <http://schema.org/url> "https://casetext.com/about"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Oncomatryx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/OCESA> <http://www.w3.org/2000/01/rdf-schema#label> "OCESA"@pt .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@gl .
+<http://yago-knowledge.org/resource/Orano_Canada> <http://schema.org/alternateName> "AREVA Resources Canada"@en .
+<http://yago-knowledge.org/resource/Kitanihon_Gas> <http://schema.org/sameAs> "/g/120lqbgj" .
+<http://yago-knowledge.org/resource/Mykon_Og> <http://www.w3.org/2000/01/rdf-schema#label> "MYKON OG"@de .
+<http://yago-knowledge.org/resource/France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Colonial_Power> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@ia .
+<http://yago-knowledge.org/resource/Q131189064> <http://schema.org/url> "http://www.polaris-sewon.com/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://www.w3.org/2000/01/rdf-schema#label> "Flyeralarm"@ro .
+<http://yago-knowledge.org/resource/Q10876013> <http://www.w3.org/2000/01/rdf-schema#label> "中航興業"@zh .
+<http://yago-knowledge.org/resource/Bank_Przemysłowców> <http://schema.org/url> "https://pl.wikipedia.org/wiki/Bank_Przemys%C5%82owc%C3%B3w"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Nettbuss_Vest> <http://www.w3.org/2000/01/rdf-schema#label> "Nettbuss Vest"@da .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@fr .
+<http://yago-knowledge.org/resource/Hogervorst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Sagawa_Printing> <http://schema.org/dateCreated> "1976-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Amalgamated_Power_Engineering> <http://www.w3.org/2000/01/rdf-schema#label> "Amalgamated Power Engineering"@en .
+<http://yago-knowledge.org/resource/Thorsten_Fischer_Q133092220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Powermart_Aps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Thalesnano> <http://www.w3.org/2000/01/rdf-schema#label> "ThalesNano"@fr .
+<http://yago-knowledge.org/resource/Stephens_Inc> <http://schema.org/url> "https://en.wikipedia.org/wiki/Stephens_Inc."^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1434546> .
+<http://yago-knowledge.org/resource/South_Africa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Orano_Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Q60986406> <http://schema.org/location> <http://yago-knowledge.org/resource/Ukraine> .
+<http://yago-knowledge.org/resource/Zenrin_Datacom> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%B3%E3%83%AA%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B3%E3%83%A0"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@nds .
+<http://yago-knowledge.org/resource/Broadcaster_Q15265344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://yago-knowledge.org/resource/GE_HealthCare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Medical_Device_Company> .
+<http://yago-knowledge.org/resource/Sweden_Models> <http://www.w3.org/2000/01/rdf-schema#comment> "svensk modellagentur"@sv .
+<http://yago-knowledge.org/resource/India> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Dominion> .
+<http://yago-knowledge.org/resource/Hannan_Ribiyo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Amalgamated_Power_Engineering> <http://schema.org/sameAs> "/m/0_v4bzy" .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://www.w3.org/2000/01/rdf-schema#label> "Flyeralarm"@nl .
+<http://yago-knowledge.org/resource/Q10344458> <http://www.w3.org/2000/01/rdf-schema#label> "東潤拓展集團"@zh .
+<http://yago-knowledge.org/resource/Holtron_Ventures> <http://www.w3.org/2000/01/rdf-schema#label> "Holtron Ventures"@fi .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://www.w3.org/2000/01/rdf-schema#comment> "Online printing and marketing services company located in Wuerzburg Germany"@en .
+<http://yago-knowledge.org/resource/Atout_Vent_France> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q30289783> .
+<http://yago-knowledge.org/resource/Philex> <http://www.w3.org/2000/01/rdf-schema#label> "Philex"@fr .
+<http://yago-knowledge.org/resource/Q85881343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Nippon_Chuzo> <http://schema.org/alternateName> "Nippon Chuzo K.K."@en .
+<http://yago-knowledge.org/resource/Oita_Liquefied_Natural_Gas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@kg .
+<http://yago-knowledge.org/resource/Bartex_Europe> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116895329> .
+<http://yago-knowledge.org/resource/London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/National_Capital> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@eo .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://schema.org/founder> <http://yago-knowledge.org/resource/Thorsten_Fischer_Q133092220> .
+<http://yago-knowledge.org/resource/Metso_United_States> <http://yago-knowledge.org/resource/ownedBy> <http://yago-knowledge.org/resource/Metso> .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://yago-knowledge.org/resource/ownedBy> <http://yago-knowledge.org/resource/Bharti_Airtel> .
+<http://yago-knowledge.org/resource/Mykon_Og> <http://schema.org/url> "https://mykon.at/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Calico_Printers_Association> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Wed_J_Bekkers_Zoon> <http://schema.org/location> <http://yago-knowledge.org/resource/Netherlands> .
+<http://yago-knowledge.org/resource/Ferronordic> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Belgium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Hogervorst> <http://www.w3.org/2000/01/rdf-schema#label> "Hogervorst"@en .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@nrm .
+<http://yago-knowledge.org/resource/Universal_Audio_company> <http://schema.org/sameAs> "/m/043twk_" .
+<http://yago-knowledge.org/resource/Q22125746> <http://schema.org/url> "http://www.kinjyoshokuhin.com/index.htm"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bailiwick_of_Guernsey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Bailiwick> .
+<http://yago-knowledge.org/resource/Nippon_Chuzo> <http://www.w3.org/2000/01/rdf-schema#label> "Nippon Chuzo"@en .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Robi%20corporate%20office.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Q11479198> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11479198> .
+<http://yago-knowledge.org/resource/Conitor_Terra> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Guernsey"@nl .
+<http://yago-knowledge.org/resource/Ge_Medical_Systems_Global_Technology> <http://www.w3.org/2000/01/rdf-schema#label> "GE Medical Systems Global Technology"@fr .
+<http://yago-knowledge.org/resource/Daikure> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11316748> .
+<http://yago-knowledge.org/resource/Vanzetka> <http://www.w3.org/2000/01/rdf-schema#label> "Vanzetka"@es .
+<http://yago-knowledge.org/resource/Oncomatryx> <http://www.w3.org/2000/01/rdf-schema#comment> "Pharmaceutical company"@en .
+<http://yago-knowledge.org/resource/Q131187934> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Wed_J_Bekkers_Zoon> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q87669109> .
+<http://yago-knowledge.org/resource/Quantopian> <http://schema.org/sameAs> "/m/0130svnt" .
+<http://yago-knowledge.org/resource/Datastat> <http://www.w3.org/2000/01/rdf-schema#comment> "americká firma"@cs .
+<http://yago-knowledge.org/resource/Chicago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/City_Of_Illinois> .
+<http://yago-knowledge.org/resource/De_Naeyer_Nv> <http://schema.org/location> <http://yago-knowledge.org/resource/Belgium> .
+<http://yago-knowledge.org/resource/Hogervorst> <http://schema.org/url> "https://shie.nl/bedrijven/hogervorst-brandstoffen-1896/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/ParkWhiz> <http://schema.org/dateCreated> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Amalgamated_Power_Engineering> <http://schema.org/url> "https://en.wikipedia.org/wiki/Amalgamated_Power_Engineering"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Amalgamated_Power_Engineering> <http://schema.org/dateCreated> "1968"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Belgium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Realm> .
+<http://yago-knowledge.org/resource/Datastat> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q30268568> .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://www.w3.org/2000/01/rdf-schema#label> "airtel Bangladesh"@de .
+<http://yago-knowledge.org/resource/Vanzetka> <http://www.w3.org/2000/01/rdf-schema#comment> "Nederlands bedrijf in sieraden"@nl .
+<http://yago-knowledge.org/resource/Quantopian> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q23759346> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@min .
+<http://yago-knowledge.org/resource/Metso_United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Ukraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Frameworks_Entertainment> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Stephens_Inc> <http://schema.org/url> "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D9%81%D9%86"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Frameworks_Entertainment> <http://www.w3.org/2000/01/rdf-schema#label> "フレームワークス・エンターテインメント"@ja .
+<http://yago-knowledge.org/resource/Jumperism_Limited> <http://schema.org/alternateName> "JUMPERISM LIMITED"@en .
+<http://yago-knowledge.org/resource/Ukraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Social_state> .
+<http://yago-knowledge.org/resource/Remixpoint_Inc> <http://schema.org/location> <http://yago-knowledge.org/resource/Japan> .
+<http://yago-knowledge.org/resource/Gromatex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://schema.org/logo> "http://commons.wikimedia.org/wiki/Special:FilePath/Maxon%20logo.svg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bartex_Europe> <http://schema.org/dateCreated> "1991-06-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Ferronordic> <http://schema.org/dateCreated> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Mežgāzis> <http://schema.org/address> "'Straumes' - 11, Abavnieki, Jaunsātu pag., Tukuma nov., LV-3128" .
+<http://yago-knowledge.org/resource/Q85881343> <http://schema.org/location> <http://yago-knowledge.org/resource/Empire_of_Japan> .
+<http://yago-knowledge.org/resource/Universal_Audio_company> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Residence_Building_Management> <http://schema.org/location> <http://yago-knowledge.org/resource/Japan> .
+<http://yago-knowledge.org/resource/Q48934552> <http://www.w3.org/2000/01/rdf-schema#label> "欧亚时报社"@zh .
+<http://yago-knowledge.org/resource/Poland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Successor_State> .
+<http://yago-knowledge.org/resource/Mežgāzis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Q11299723> <http://schema.org/sameAs> "/g/12333l7h" .
+<http://yago-knowledge.org/resource/Kitanihon_Gas> <http://schema.org/url> "http://www.kitanihon-gas.co.jp/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Oncomatryx> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Spanje"@nl .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@mg .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://schema.org/url> "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%DB%8C%D8%AA%D8%B2"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@de-at .
+<http://yago-knowledge.org/resource/Kadmon_Corporation> <http://schema.org/alternateName> "Kadmon Pharmaceuticals"@en-gb .
+<http://yago-knowledge.org/resource/Bartex_Europe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Sagawa_Printing> <http://schema.org/url> "http://www.spcom.co.jp"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Media_Tenor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Ovenstone_Agencies> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q114515190> .
+<http://yago-knowledge.org/resource/Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Rechtsstaat> .
+<http://yago-knowledge.org/resource/Stephens_Inc> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7610954> .
+<http://yago-knowledge.org/resource/Tuokslahden_Paperitehdas> <http://schema.org/url> "https://fi.wikipedia.org/wiki/Tuokslahden_paperitehdas"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة ألمانية"@ar .
+<http://yago-knowledge.org/resource/A_Reusch> <http://www.w3.org/2000/01/rdf-schema#label> "A. Reusch"@nl .
+<http://yago-knowledge.org/resource/Remixpoint_Inc> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sagawa_Printing> <http://www.w3.org/2000/01/rdf-schema#label> "佐川印刷"@ja .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://www.w3.org/2000/01/rdf-schema#label> "Schlitterbahn Waterparks"@de .
+<http://yago-knowledge.org/resource/Remixpoint_Inc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Horizion> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q127402402> .
+<http://yago-knowledge.org/resource/Bartex_Europe> <http://www.w3.org/2000/01/rdf-schema#label> "Bartex Europe"@en .
+<http://yago-knowledge.org/resource/Nettbuss_Vest> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Noorwegen"@nl .
+<http://yago-knowledge.org/resource/Gennbio_Inc> <http://schema.org/url> "http://www.gennbio.co.kr/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Casetext> <http://schema.org/alternateName> "CoCounsel"@en .
+<http://yago-knowledge.org/resource/Puttick_And_Simpson> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Vehicle_Control_Technologies_United_States> <http://www.w3.org/2000/01/rdf-schema#comment> "company in Reston, United States"@en .
+<http://yago-knowledge.org/resource/Residence_Building_Management> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Giulio_Cesare_E_Giovanni_Battista_Malatesta> <http://yago-knowledge.org/resource/fieldOfWork> <http://yago-knowledge.org/resource/Publishing> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@vec .
+<http://yago-knowledge.org/resource/Bank_Przemysłowców> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11687309> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@co .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@cy .
+<http://yago-knowledge.org/resource/Nippon_Chuzo> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11509319> .
+<http://yago-knowledge.org/resource/Stephens_Inc> <http://www.w3.org/2000/01/rdf-schema#comment> "private equity firm"@en .
+<http://yago-knowledge.org/resource/Media_Tenor> <http://schema.org/url> "https://de.wikipedia.org/wiki/Media_Tenor"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/A_Reusch> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة"@ar .
+<http://yago-knowledge.org/resource/Pi_Americká_Akciová> <http://www.w3.org/2000/01/rdf-schema#comment> "česká firma"@cs .
+<http://yago-knowledge.org/resource/Mežgāzis> <http://schema.org/numberOfEmployees> "6"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Illy_Q15831312> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Prevac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Ferronordic> <http://schema.org/url> "https://sv.wikipedia.org/wiki/Ferronordic"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Hogervorst> <http://www.w3.org/2000/01/rdf-schema#comment> "Hogervorst, brandstoffen (1896 - ?)"@nl .
+<http://yago-knowledge.org/resource/Pi_Americká_Akciová> <http://schema.org/dateCreated> "2021-08-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Remixpoint_Inc> <http://schema.org/url> "http://www.remixpoint.co.jp/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Tootal> <http://www.w3.org/2000/01/rdf-schema#label> "Tootal"@fr .
+<http://yago-knowledge.org/resource/Tootal> <http://www.w3.org/2000/01/rdf-schema#label> "Tootal"@it .
+<http://yago-knowledge.org/resource/Media_Tenor> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1740824> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2000/01/rdf-schema#label> "రైట్స్ లిమిటెడ్"@te .
+<http://yago-knowledge.org/resource/Ovenstone_Agencies> <http://www.w3.org/2000/01/rdf-schema#label> "Ovenstone Agencies"@en .
+<http://yago-knowledge.org/resource/Citigroup_Global_Markets> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة بريطانية"@ar .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة"@ar .
+<http://yago-knowledge.org/resource/India> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/ParkWhiz> <http://www.w3.org/2000/01/rdf-schema#comment> "e-parking service"@en .
+<http://yago-knowledge.org/resource/Holtron_Ventures> <http://schema.org/url> "https://fi.wikipedia.org/wiki/Holtron_Ventures"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Kopalnia_Galmanu_Kawia_Góra> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@gsw .
+<http://yago-knowledge.org/resource/Kitanihon_Gas> <http://schema.org/dateCreated> "1967-09-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/A_Reusch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Velodyne> <http://schema.org/sameAs> "/g/11d_vs6yl5" .
+<http://yago-knowledge.org/resource/Hannan_Ribiyo> <http://www.w3.org/2000/01/rdf-schema#label> "Hannan Ribiyo"@en .
+<http://yago-knowledge.org/resource/Oncomatryx> <http://schema.org/url> "https://en.wikipedia.org/wiki/Oncomatryx"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sagawa_Printing> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11383154> .
+<http://yago-knowledge.org/resource/Mežgāzis> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة لاتيفية"@ar .
+<http://yago-knowledge.org/resource/Chicago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Global_city> .
+<http://yago-knowledge.org/resource/Norway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://www.w3.org/2000/01/rdf-schema#comment> "telecommunication company in Bangladesh"@en .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://schema.org/url> "https://bn.wikipedia.org/wiki/%E0%A6%8F%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A6%9F%E0%A7%87%E0%A6%B2_(%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Q22125746> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q22125746> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#comment> "business enterprise"@en .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@en .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://www.w3.org/2000/01/rdf-schema#comment> "amerikanisches Unternehmen, das Wasserparks und an diese angeschlossene Resorts betreibt"@de .
+<http://yago-knowledge.org/resource/De_Naeyer_Nv> <http://www.w3.org/2000/01/rdf-schema#label> "De Naeyer NV"@it .
+<http://yago-knowledge.org/resource/Q60986406> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Hudson_s_Bay_Trading_Company> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5928469> .
+<http://yago-knowledge.org/resource/Tootal> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/Mcintyre_Hogg_Marsh_And_Co> .
+<http://yago-knowledge.org/resource/Pi_Americká_Akciová> <http://www.w3.org/2000/01/rdf-schema#label> "PI americká akciová"@en .
+<http://yago-knowledge.org/resource/Universal_Audio_company> <http://schema.org/url> "https://en.wikipedia.org/wiki/Universal_Audio_(company)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Williams_College_Investment_Office> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Tootal> <http://www.w3.org/2000/01/rdf-schema#label> "Tootal"@nl .
+<http://yago-knowledge.org/resource/Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federation> .
+<http://yago-knowledge.org/resource/Wed_J_Bekkers_Zoon> <http://www.w3.org/2000/01/rdf-schema#label> "Wed. J. Bekkers & Zoon"@en .
+<http://yago-knowledge.org/resource/Courtesy_Graphics> <http://www.w3.org/2000/01/rdf-schema#label> "Courtesy Graphics"@en .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://schema.org/url> "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%88%D9%87_%D9%85%D8%A7%DA%A9%D8%B3%D9%88%D9%86"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Hannan_Ribiyo> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11656634> .
+<http://yago-knowledge.org/resource/Quantopian> <http://www.w3.org/2000/01/rdf-schema#label> "Quantopian"@en .
+<http://yago-knowledge.org/resource/Zenrin_Datacom> <http://www.w3.org/2000/01/rdf-schema#label> "Zenrin Datacom"@en .
+<http://yago-knowledge.org/resource/Atout_Vent_France> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Frankrijk"@nl .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://www.w3.org/2000/01/rdf-schema#comment> "রবির অধীনস্থ বাংলাদেশের টেলিযোগাযোগ কোম্পানি"@bn .
+<http://yago-knowledge.org/resource/A_Zweesaardt_En_Zoon> <http://schema.org/location> <http://yago-knowledge.org/resource/Netherlands> .
+<http://yago-knowledge.org/resource/Q10876013> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q10876013> .
+<http://yago-knowledge.org/resource/Holtron_Ventures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Mežgāzis> <http://www.w3.org/2000/01/rdf-schema#comment> "uzņēmums Latvijā"@lv .
+<http://yago-knowledge.org/resource/Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Social_state> .
+<http://yago-knowledge.org/resource/Di5_Tech> <http://schema.org/location> <http://yago-knowledge.org/resource/Czech_Republic> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://schema.org/url> "https://id.wikipedia.org/wiki/Rail_India_Technological_and_Economic_Services"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/New_Deal_Q11324887> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Native_American_Technologies_United_States> <http://www.w3.org/2000/01/rdf-schema#comment> "company in Golden, United States"@en .
+<http://yago-knowledge.org/resource/Hannan_Ribiyo> <http://schema.org/alternateName> "美容プラージュ"@ja .
+<http://yago-knowledge.org/resource/Daikure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Stephens_Inc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Blue_Point_It_Solutions_Romania> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Roemenië"@nl .
+<http://yago-knowledge.org/resource/Bank_Przemysłowców> <http://schema.org/dateCreated> "1861"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Kadmon_Corporation> <http://schema.org/dateCreated> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Illy_Q15831312> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15831312> .
+<http://yago-knowledge.org/resource/Thalesnano> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7709608> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@nl .
+<http://yago-knowledge.org/resource/Gromatex> <http://www.w3.org/2000/01/rdf-schema#label> "Gromatex"@nl .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2000/01/rdf-schema#label> "RITES"@de .
+<http://yago-knowledge.org/resource/Mežgāzis> <http://www.w3.org/2000/01/rdf-schema#comment> "company based in Latvia"@en .
+<http://yago-knowledge.org/resource/Bartex_Europe> <http://schema.org/alternateName> "Bartex Europe a.s."@cs .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://schema.org/dateCreated> "1961-12-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Tootal> <http://schema.org/dateCreated> "1799"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Daikure> <http://www.w3.org/2000/01/rdf-schema#label> "大吳"@zh .
+<http://yago-knowledge.org/resource/Mežgāzis> <http://schema.org/alternateName> "SIA Mežgāzis"@lv .
+<http://yago-knowledge.org/resource/Frameworks_Entertainment> <http://schema.org/location> <http://yago-knowledge.org/resource/Japan> .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://schema.org/url> "https://de.wikipedia.org/wiki/Flyeralarm"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://www.w3.org/2000/01/rdf-schema#label> "シュリッターバーン"@ja .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@pl .
+<http://yago-knowledge.org/resource/Konstrukta_-_Industry_Slovakia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://www.w3.org/2000/01/rdf-schema#comment> "americká firma"@cs .
+<http://yago-knowledge.org/resource/De_Naeyer_Nv> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q49961238> .
+<http://yago-knowledge.org/resource/Native_American_Technologies_United_States> <http://schema.org/url> "http://www.natech-inc.com/index.htm"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/New_Deal_Q11324887> <http://schema.org/alternateName> "サイバー・ミュージックエンタテイメント"@ja .
+<http://yago-knowledge.org/resource/Von_Zeppelin_En_Co_Apeldoornsche_Nettenfabriek> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q124411736> .
+<http://yago-knowledge.org/resource/Sweden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Country_Bordering_The_Baltic_Sea> .
+<http://yago-knowledge.org/resource/Roland_Schatz_Q136528304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@es .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@gd .
+<http://yago-knowledge.org/resource/Nazmiyal_collection> <http://www.w3.org/2000/01/rdf-schema#label> "Nazmiyal collection"@en .
+<http://yago-knowledge.org/resource/Ferronordic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Courtesy_Graphics> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q106084966> .
+<http://yago-knowledge.org/resource/Cyprus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Disputed_territory> .
+<http://yago-knowledge.org/resource/De_Naeyer_Nv> <http://www.w3.org/2000/01/rdf-schema#label> "De Naeyer NV"@de .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://schema.org/logo> "http://commons.wikimedia.org/wiki/Special:FilePath/Flyeralarm%20Logo%202018.svg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Frans_Buff_Zonen> <http://www.w3.org/2000/01/rdf-schema#label> "Frans Buff & Zonen"@en .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://schema.org/dateCreated> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Q85881343> <http://schema.org/sameAs> "/g/11fs9yhz3z" .
+<http://yago-knowledge.org/resource/Frameworks_Entertainment> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Kitanihon_Gas> <http://www.w3.org/2000/01/rdf-schema#label> "北日本瓦斯"@zh .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://schema.org/logo> "http://commons.wikimedia.org/wiki/Special:FilePath/RITES%20green%20logo.svg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Fremantle_Gas_and_Coke_Company> <http://www.w3.org/2000/01/rdf-schema#label> "Fremantle Gas and Coke Company"@en .
+<http://yago-knowledge.org/resource/OCESA> <http://www.w3.org/2000/01/rdf-schema#label> "OCESA"@es .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#comment> "బిజినెస్ సంస్థ"@te .
+<http://yago-knowledge.org/resource/Datastat> <http://www.w3.org/2000/01/rdf-schema#label> "Datastat"@en .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://www.w3.org/2000/01/rdf-schema#label> "Flyeralarm"@de .
+<http://yago-knowledge.org/resource/Hannan_Ribiyo> <http://schema.org/alternateName> "理容プラージュ"@ja .
+<http://yago-knowledge.org/resource/Kadmon_Corporation> <http://www.w3.org/2000/01/rdf-schema#label> "Kadmon Pharmaceuticals"@fr .
+<http://yago-knowledge.org/resource/Brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Stephens_Inc> <http://schema.org/sameAs> "/m/0gpgk6" .
+<http://yago-knowledge.org/resource/London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Largest_City> .
+<http://yago-knowledge.org/resource/Sagawa_Printing> <http://schema.org/alternateName> "Sagawa Printing Co.,LTD."@en .
+<http://yago-knowledge.org/resource/Datastat> <http://schema.org/url> "https://www.datastat.com/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Kadmon_Corporation> <http://www.w3.org/2000/01/rdf-schema#label> "Kadmon Corporation"@en-gb .
+<http://yago-knowledge.org/resource/Great_Western_Attractions> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q126934178> .
+<http://yago-knowledge.org/resource/Good_On_You> <http://www.w3.org/2000/01/rdf-schema#label> "Good On You"@en .
+<http://yago-knowledge.org/resource/Hannan_Ribiyo> <http://schema.org/sameAs> "/g/1232jpch" .
+<http://yago-knowledge.org/resource/Sweden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Unitary_state> .
+<http://yago-knowledge.org/resource/Datastat> <http://www.w3.org/2000/01/rdf-schema#comment> "company in Ann Arbor, United States"@en .
+<http://yago-knowledge.org/resource/Hogervorst> <http://schema.org/dateCreated> "1896"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Cyprus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Divided_Territory> .
+<http://yago-knowledge.org/resource/OCESA> <http://yago-knowledge.org/resource/siteLinks> "3"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Illy_Q15831312> <http://schema.org/location> <http://yago-knowledge.org/resource/Switzerland> .
+<http://yago-knowledge.org/resource/Q11479198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Williams_College_Investment_Office> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Datastat> <http://www.w3.org/2000/01/rdf-schema#label> "Datastat"@fr .
+<http://yago-knowledge.org/resource/Remixpoint_Inc> <http://www.w3.org/2000/01/rdf-schema#comment> "日本の情報通信会社"@ja .
+<http://yago-knowledge.org/resource/Kitanihon_Gas> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2000/01/rdf-schema#label> "Rail India Technological and Economic Services"@id .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://www.w3.org/2000/01/rdf-schema#label> "Flyeralarm"@es .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Schlitterbahn"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@pt-br .
+<http://yago-knowledge.org/resource/Konstrukta_-_Industry_Slovakia> <http://schema.org/url> "http://www.konstrukta.sk/en/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Q22125746> <http://schema.org/location> <http://yago-knowledge.org/resource/Japan> .
+<http://yago-knowledge.org/resource/Tokyo_Rika_Kogyo> <http://schema.org/url> "http://www.tokyorika.co.jp/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Q11299723> <http://schema.org/dateCreated> "2010-06-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:RITES"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Dominion> .
+<http://yago-knowledge.org/resource/Austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Landlocked_country> .
+<http://yago-knowledge.org/resource/South_Korea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Jumperism_Limited> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q112155236> .
+<http://yago-knowledge.org/resource/Orano_Canada> <http://www.w3.org/2000/01/rdf-schema#comment> "Mining Company"@en .
+<http://yago-knowledge.org/resource/OCESA> <http://www.w3.org/2000/01/rdf-schema#comment> "promotora mexicana de concertos"@pt .
+<http://yago-knowledge.org/resource/Kitanihon_Gas> <http://schema.org/location> <http://yago-knowledge.org/resource/Japan> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@de-ch .
+<http://yago-knowledge.org/resource/Frameworks_Entertainment> <http://www.w3.org/2000/01/rdf-schema#label> "Frameworks Entertainment"@nb .
+<http://yago-knowledge.org/resource/Kadmon_Corporation> <http://schema.org/url> "http://www.kadmon.com"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Remixpoint_Inc> <http://www.w3.org/2000/01/rdf-schema#label> "Remixpoint,inc."@en .
+<http://yago-knowledge.org/resource/Kopalnia_Galmanu_Kawia_Góra> <http://schema.org/location> <http://yago-knowledge.org/resource/Poland> .
+<http://yago-knowledge.org/resource/Sistema_Clube_De_Comunicação> <http://schema.org/location> <http://yago-knowledge.org/resource/Brazil> .
+<http://yago-knowledge.org/resource/Fremantle_Gas_and_Coke_Company> <http://schema.org/url> "https://en.wikipedia.org/wiki/Fremantle_Gas_and_Coke_Company"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sweden_Models> <http://www.w3.org/2000/01/rdf-schema#label> "Sweden Models"@sv .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2000/01/rdf-schema#comment> "indisches Staatsunternehmen für Verkehrsanlagen"@de .
+<http://yago-knowledge.org/resource/ParkWhiz> <http://schema.org/url> "https://en.wikipedia.org/wiki/ParkWhiz"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://schema.org/url> "https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B1%88%E0%B0%9F%E0%B1%8D%E0%B0%B8%E0%B1%8D_%E0%B0%B2%E0%B0%BF%E0%B0%AE%E0%B0%BF%E0%B0%9F%E0%B1%86%E0%B0%A1%E0%B1%8D"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://schema.org/url> "https://en.wikipedia.org/wiki/Maxon_Group"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Thalesnano> <http://schema.org/sameAs> "/m/0554vl8" .
+<http://yago-knowledge.org/resource/Conitor_Terra> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q56452964> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@lij .
+<http://yago-knowledge.org/resource/Q22125746> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Nippon_Chuzo> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Media_Tenor> <http://schema.org/url> "http://de.mediatenor.com/de"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/A_Zweesaardt_En_Zoon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Oita_Liquefied_Natural_Gas> <http://www.w3.org/2000/01/rdf-schema#label> "Oita Liquefied Natural Gas"@en .
+<http://yago-knowledge.org/resource/Puttick_And_Simpson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Q48934552> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q48934552> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@br .
+<http://yago-knowledge.org/resource/Quantopian> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Q11479198> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E3%82%AB%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Q48934552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Jumperism_Limited> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Bill_Putnam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Audio_engineer> .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1914293> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://schema.org/numberOfEmployees> "2000"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@sk .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@lb .
+<http://yago-knowledge.org/resource/De_Naeyer_Nv> <http://www.w3.org/2000/01/rdf-schema#label> "De Naeyer NV"@es .
+<http://yago-knowledge.org/resource/Frameworks_Entertainment> <http://schema.org/sameAs> "/g/11hb7f6wrn" .
+<http://yago-knowledge.org/resource/Latvia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Country_Bordering_The_Baltic_Sea> .
+<http://yago-knowledge.org/resource/Wed_J_Bekkers_Zoon> <http://schema.org/alternateName> "Wed. J. en Zoon Bekkers"@nl .
+<http://yago-knowledge.org/resource/Pi_Americká_Akciová> <http://www.w3.org/2000/01/rdf-schema#comment> "չեխական ընկերություն"@hy .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2000/01/rdf-schema#label> "RITES"@en .
+<http://yago-knowledge.org/resource/Mykon_Og> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة نمساوية"@ar .
+<http://yago-knowledge.org/resource/Austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Stephens_Inc> <http://schema.org/url> "http://www.stephens.com/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/CDAX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Stock_market_index> .
+<http://yago-knowledge.org/resource/Conitor_Terra> <http://schema.org/dissolutionDate> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Ferronordic> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q106600140> .
+<http://yago-knowledge.org/resource/A_Reusch> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q107284570> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@wa .
+<http://yago-knowledge.org/resource/Velodyne> <http://yago-knowledge.org/resource/siteLinks> "3"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@vo .
+<http://yago-knowledge.org/resource/Powermart_Aps> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q113466072> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@cs .
+<http://yago-knowledge.org/resource/Q22125746> <http://schema.org/dateCreated> "1960-09-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Gennbio_Inc> <http://www.w3.org/2000/01/rdf-schema#label> "GenNBio Inc"@en .
+<http://yago-knowledge.org/resource/Horizion> <http://www.w3.org/2000/01/rdf-schema#label> "Horizion"@en .
+<http://yago-knowledge.org/resource/Jumperism_Limited> <http://www.w3.org/2000/01/rdf-schema#comment> "Cypriot company"@en .
+<http://yago-knowledge.org/resource/Fremantle_Gas_and_Coke_Company> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Fremantle%20Gas%20and%20Coke%20Co%2C%20SLWA%20b2307093%205%20%28cropped%29.png"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Ge_Medical_Systems_Global_Technology> <http://schema.org/leiCode> "BVZ9C3Z2IMZSW0J47840" .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@io .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@sl .
+<http://yago-knowledge.org/resource/Illy_Q15831312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Sogeti_France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Cape_Town> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Port_City_Q2264924> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@bar .
+<http://yago-knowledge.org/resource/Atout_Vent_France> <http://www.w3.org/2000/01/rdf-schema#label> "Atout Vent (France)"@en .
+<http://yago-knowledge.org/resource/Velodyne> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Ovenstone_Agencies> <http://schema.org/location> <http://yago-knowledge.org/resource/South_Africa> .
+<http://yago-knowledge.org/resource/Hogervorst> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q110561798> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@pt .
+<http://yago-knowledge.org/resource/Tokyo_Rika_Kogyo> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11525029> .
+<http://yago-knowledge.org/resource/Williams_College_Investment_Office> <http://schema.org/url> "https://en.wikipedia.org/wiki/Williams_College_Investment_Office"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Vanzetka> <http://www.w3.org/2000/01/rdf-schema#label> "Vanzetka"@it .
+<http://yago-knowledge.org/resource/Shenzhen_Kitten_Tech_Company_Limited> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة"@ar .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@pcd .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://schema.org/numberOfEmployees> "2500"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Conitor_Terra> <http://www.w3.org/2000/01/rdf-schema#comment> "holding company"@en .
+<http://yago-knowledge.org/resource/Courtesy_Graphics> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة"@ar .
+<http://yago-knowledge.org/resource/Media_Tenor> <http://schema.org/sameAs> "/g/1218d0wr" .
+<http://yago-knowledge.org/resource/Universal_Audio_company> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة أمريكية"@ar .
+<http://yago-knowledge.org/resource/Frans_Buff_Zonen> <http://www.w3.org/2000/01/rdf-schema#label> "Frans Buff & Zonen"@nl .
+<http://yago-knowledge.org/resource/Shenzhen_Kitten_Tech_Company_Limited> <http://www.w3.org/2000/01/rdf-schema#comment> "electronics company"@en .
+<http://yago-knowledge.org/resource/Hogervorst> <http://www.w3.org/2000/01/rdf-schema#label> "Hogervorst"@nl .
+<http://yago-knowledge.org/resource/Philex> <http://schema.org/sameAs> "/g/121g736v" .
+<http://yago-knowledge.org/resource/New_Deal_Q11324887> <http://www.w3.org/2000/01/rdf-schema#label> "ニューディール"@ja .
+<http://yago-knowledge.org/resource/Metso_United_States> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Bank_Przemysłowców> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Fremantle_Gas_and_Coke_Company> <http://schema.org/sameAs> "/g/11bxb8ybnk" .
+<http://yago-knowledge.org/resource/Kadmon_Corporation> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة"@ar .
+<http://yago-knowledge.org/resource/Good_On_You> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q108330215> .
+<http://yago-knowledge.org/resource/Ukraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Unitary_state> .
+<http://yago-knowledge.org/resource/Daikure> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%82%AF%E3%83%AC"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Hudson_s_Bay_Trading_Company> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Phicomm> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/CDAX> .
+<http://yago-knowledge.org/resource/Hannan_Ribiyo> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E9%98%AA%E5%8D%97%E7%90%86%E7%BE%8E%E5%AE%B9"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sweden_Models> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة سويدية"@ar .
+<http://yago-knowledge.org/resource/Di5_Tech> <http://www.w3.org/2000/01/rdf-schema#label> "Di5.Tech"@en .
+<http://yago-knowledge.org/resource/Thalesnano> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Horizion> <http://yago-knowledge.org/resource/fieldOfWork> <http://yago-knowledge.org/resource/Therapeutic_irrigation_generic_instance> .
+<http://yago-knowledge.org/resource/Romania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Residence_Building_Management> <http://www.w3.org/2000/01/rdf-schema#label> "レジデンス・ビルディングマネジメント"@ja .
+<http://yago-knowledge.org/resource/Technical_Grammy_Award> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Award> .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://www.w3.org/2000/01/rdf-schema#comment> "tipografie din Würzburg"@ro .
+<http://yago-knowledge.org/resource/NRDC_Equity_Partners> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Q11479198> <http://www.w3.org/2000/01/rdf-schema#label> "川越カントリークラブ"@ja .
+<http://yago-knowledge.org/resource/Casetext> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة"@ar .
+<http://yago-knowledge.org/resource/Mežgāzis> <http://schema.org/location> <http://yago-knowledge.org/resource/Latvia> .
+<http://yago-knowledge.org/resource/Sagawa_Printing> <http://www.w3.org/2000/01/rdf-schema#label> "Sagawa Printing"@en .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://schema.org/url> "http://www.flyeralarm.com/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/EcoZoom> <http://www.w3.org/2000/01/rdf-schema#label> "EcoZoom"@en .
+<http://yago-knowledge.org/resource/Amalgamated_Power_Engineering> <http://www.w3.org/2000/01/rdf-schema#label> "Amalgamated Power Engineering"@fr .
+<http://yago-knowledge.org/resource/Kopalnia_Galmanu_Kawia_Góra> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16567776> .
+<http://yago-knowledge.org/resource/Powermart_Aps> <http://schema.org/leiCode> "315700JRJVJSQCXWMU45" .
+<http://yago-knowledge.org/resource/Mykon_Og> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Oostenrijk"@nl .
+<http://yago-knowledge.org/resource/Remixpoint_Inc> <http://www.w3.org/2000/01/rdf-schema#label> "リミックスポイント"@ja .
+<http://yago-knowledge.org/resource/Remixpoint_Inc> <http://schema.org/sameAs> "/m/0clkd5x" .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2000/01/rdf-schema#label> "RITES"@nl .
+<http://yago-knowledge.org/resource/Tootal> <http://www.w3.org/2000/01/rdf-schema#label> "Tootal"@en .
+<http://yago-knowledge.org/resource/Nittetsu_Hitachi_Systems_Engineering> <http://schema.org/location> <http://yago-knowledge.org/resource/Japan> .
+<http://yago-knowledge.org/resource/Ferronordic> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Zweden"@nl .
+<http://yago-knowledge.org/resource/Stephens_Inc> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Casetext> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://schema.org/url> "https://es.wikipedia.org/wiki/Maxon_Motor"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Tuokslahden_Paperitehdas> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11898604> .
+<http://yago-knowledge.org/resource/Puttick_And_Simpson> <http://www.w3.org/2000/01/rdf-schema#label> "Puttick and Simpson"@en .
+<http://yago-knowledge.org/resource/Nittetsu_Hitachi_Systems_Engineering> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11510683> .
+<http://yago-knowledge.org/resource/Atout_Vent_France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة هندية"@ar .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Vehicle_Control_Technologies_United_States> <http://www.w3.org/2000/01/rdf-schema#comment> "americká firma"@cs .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/Holtron_Ventures> <http://www.w3.org/2000/01/rdf-schema#label> "Holtron Ventures"@fr .
+<http://yago-knowledge.org/resource/France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Mediterranean_Country> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://schema.org/dateCreated> "1974"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Q11299723> <http://schema.org/url> "http://cross-enter.co.jp/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Great_Western_Attractions> <http://www.w3.org/2000/01/rdf-schema#label> "Great Western Attractions"@en .
+<http://yago-knowledge.org/resource/Bangladesh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/People_s_republic> .
+<http://yago-knowledge.org/resource/Invest_Financial_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Q131187934> <http://schema.org/location> <http://yago-knowledge.org/resource/South_Korea> .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://schema.org/url> "https://fr.wikipedia.org/wiki/Flyeralarm"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://schema.org/sameAs> "/g/1232bwz1" .
+<http://yago-knowledge.org/resource/Von_Zeppelin_En_Co_Apeldoornsche_Nettenfabriek> <http://schema.org/location> <http://yago-knowledge.org/resource/Netherlands> .
+<http://yago-knowledge.org/resource/Philex> <http://www.w3.org/2000/01/rdf-schema#label> "Philex"@de .
+<http://yago-knowledge.org/resource/Bank_Przemysłowców> <http://www.w3.org/2000/01/rdf-schema#label> "Bank Przemysłowców"@pl .
+<http://yago-knowledge.org/resource/Vanzetka> <http://www.w3.org/2000/01/rdf-schema#label> "Vanzetka"@pt .
+<http://yago-knowledge.org/resource/Brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Secular_state> .
+<http://yago-knowledge.org/resource/Kopalnia_Galmanu_Kawia_Góra> <http://schema.org/url> "https://pl.wikipedia.org/wiki/Kopalnia_galmanu_Kawia_G%C3%B3ra"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Gromatex> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q124410452> .
+<http://yago-knowledge.org/resource/De_Naeyer_Nv> <http://www.w3.org/2000/01/rdf-schema#comment> "Geschäftsbetrieb in Belgien"@de .
+<http://yago-knowledge.org/resource/Citigroup_Global_Markets> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q113466025> .
+<http://yago-knowledge.org/resource/Zenrin_Datacom> <http://www.w3.org/2000/01/rdf-schema#label> "ゼンリンデータコム"@ja .
+<http://yago-knowledge.org/resource/Orano_Canada> <http://schema.org/url> "https://en.wikipedia.org/wiki/Orano_Canada"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Good_On_You> <http://schema.org/location> <http://yago-knowledge.org/resource/Australia> .
+<http://yago-knowledge.org/resource/Denmark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Autonomous_Country_Within_The_Kingdom_Of_Denmark> .
+<http://yago-knowledge.org/resource/Universal_Audio_company> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Holtron_Ventures> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18688798> .
+<http://yago-knowledge.org/resource/Q10876013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Ferronordic> <http://schema.org/location> <http://yago-knowledge.org/resource/Sweden> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://schema.org/url> "https://en.wikipedia.org/wiki/RITES_Limited"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Zenrin_Datacom> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Von_Zeppelin_En_Co_Apeldoornsche_Nettenfabriek> <http://www.w3.org/2000/01/rdf-schema#label> "von Zeppelin en Co. Apeldoornsche Nettenfabriek"@nl .
+<http://yago-knowledge.org/resource/Therapeutic_irrigation_generic_instance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Therapeutic_irrigation> .
+<http://yago-knowledge.org/resource/Q11299723> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Nettbuss_Vest> <http://www.w3.org/2000/01/rdf-schema#label> "Nettbuss Vest"@de .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@fur .
+<http://yago-knowledge.org/resource/Hudson_s_Bay_Trading_Company> <http://www.w3.org/2000/01/rdf-schema#comment> "American portfolio company"@en .
+<http://yago-knowledge.org/resource/Shenzhen_Kitten_Tech_Company_Limited> <http://www.w3.org/2000/01/rdf-schema#label> "Shenzhen Kitten Tech Company, Limited"@en .
+<http://yago-knowledge.org/resource/Orano_Canada> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة"@ar .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://www.w3.org/2000/01/rdf-schema#label> "Flyeralarm"@en .
+<http://yago-knowledge.org/resource/A_Reusch> <http://www.w3.org/2000/01/rdf-schema#label> "A. Reusch"@en .
+<http://yago-knowledge.org/resource/Metso_United_States> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Verenigde Staten van Amerika"@nl .
+<http://yago-knowledge.org/resource/London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Financial_centre> .
+<http://yago-knowledge.org/resource/Q85881343> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q85881343> .
+<http://yago-knowledge.org/resource/A_Zweesaardt_En_Zoon> <http://schema.org/alternateName> "A. Zweesaardt en Zoon"@nl .
+<http://yago-knowledge.org/resource/Residence_Building_Management> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11349594> .
+<http://yago-knowledge.org/resource/OCESA> <http://schema.org/url> "https://es.wikipedia.org/wiki/OCESA"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Citigroup_Global_Markets> <http://www.w3.org/2000/01/rdf-schema#label> "Citigroup Global Markets"@en .
+<http://yago-knowledge.org/resource/Q131187934> <http://schema.org/url> "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%85%B8%EA%B7%B8%EB%A6%AC%EB%93%9C"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://schema.org/url> "https://de.wikipedia.org/wiki/RITES"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Orano_Canada> <http://schema.org/location> <http://yago-knowledge.org/resource/Canada> .
+<http://yago-knowledge.org/resource/Puttick_And_Simpson> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q120869287> .
+<http://yago-knowledge.org/resource/Bill_Putnam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Songwriter> .
+<http://yago-knowledge.org/resource/Nippon_Chuzo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Sagawa_Printing> <http://schema.org/sameAs> "/g/122jqljv" .
+<http://yago-knowledge.org/resource/Chicago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Big_City_Q1549591> .
+<http://yago-knowledge.org/resource/Czech_Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Landlocked_country> .
+<http://yago-knowledge.org/resource/Giulio_Cesare_E_Giovanni_Battista_Malatesta> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة"@ar .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@en-gb .
+<http://yago-knowledge.org/resource/Wed_J_Bekkers_Zoon> <http://schema.org/alternateName> "Wed. J. en Zoon Bekkers"@en .
+<http://yago-knowledge.org/resource/Sistema_Clube_De_Comunicação> <http://schema.org/url> "https://pt.wikipedia.org/wiki/Sistema_Clube_de_Comunica%C3%A7%C3%A3o"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Kadmon_Corporation> <http://www.w3.org/2000/01/rdf-schema#comment> "biopharmeceutical company based in New York City"@en .
+<http://yago-knowledge.org/resource/Amalgamated_Power_Engineering> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Vanzetka> <http://schema.org/location> <http://yago-knowledge.org/resource/Netherlands> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@oc .
+<http://yago-knowledge.org/resource/London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Megacity> .
+<http://yago-knowledge.org/resource/Q10344458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Bailiwick_of_Guernsey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Crown_Dependencies> .
+<http://yago-knowledge.org/resource/Tootal> <http://www.w3.org/2000/01/rdf-schema#label> "Tootal"@da .
+<http://yago-knowledge.org/resource/ParkWhiz> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://www.w3.org/2000/01/rdf-schema#label> "マクソンモーター"@ja .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://www.w3.org/2000/01/rdf-schema#label> "Airtel Bangladesh"@fr .
+<http://yago-knowledge.org/resource/Tokyo_Rika_Kogyo> <http://schema.org/alternateName> "Tokyo Rika Kogyo Co., Ltd."@en .
+<http://yago-knowledge.org/resource/Poland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Country_Bordering_The_Baltic_Sea> .
+<http://yago-knowledge.org/resource/Universal_Audio_company> <http://www.w3.org/2000/01/rdf-schema#label> "Universal Audio"@fr .
+<http://yago-knowledge.org/resource/Frans_Buff_Zonen> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q106527564> .
+<http://yago-knowledge.org/resource/Bartex_Europe> <http://www.w3.org/2000/01/rdf-schema#comment> "česká firma"@cs .
+<http://yago-knowledge.org/resource/Momie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Horizion> <http://www.w3.org/2000/01/rdf-schema#comment> "Irrigation, outdoor living, landscape, equipment"@en .
+<http://yago-knowledge.org/resource/Philex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Tokyo_Rika_Kogyo> <http://schema.org/location> <http://yago-knowledge.org/resource/Japan> .
+<http://yago-knowledge.org/resource/Good_On_You> <http://schema.org/url> "https://goodonyou.eco/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Gennbio_Inc> <http://schema.org/location> <http://yago-knowledge.org/resource/South_Korea> .
+<http://yago-knowledge.org/resource/Momie> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125961579> .
+<http://yago-knowledge.org/resource/Oita_Liquefied_Natural_Gas> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11432605> .
+<http://schema.org/Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@frp .
+<http://yago-knowledge.org/resource/Metna_United_States> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Q10876013> <http://schema.org/sameAs> "/g/155qnjb7" .
+<http://yago-knowledge.org/resource/Courtesy_Graphics> <http://schema.org/location> <http://yago-knowledge.org/resource/Netherlands> .
+<http://yago-knowledge.org/resource/Conitor_Terra> <http://schema.org/location> <http://yago-knowledge.org/resource/Bailiwick_of_Guernsey> .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://www.w3.org/2000/01/rdf-schema#label> "Maxon Motor"@de .
+<http://yago-knowledge.org/resource/Hannan_Ribiyo> <http://schema.org/dateCreated> "1984-05-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Q85881343> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B1%9F%E9%9B%BB%E7%81%AF"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/New_Deal_Q11324887> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11324887> .
+<http://yago-knowledge.org/resource/Sweden_Models> <http://schema.org/url> "https://sv.wikipedia.org/wiki/Sweden_Models"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Tokyo_Rika_Kogyo> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Giulio_Cesare_E_Giovanni_Battista_Malatesta> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q118744701> .
+<http://yago-knowledge.org/resource/Cyprus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Island_country> .
+<http://yago-knowledge.org/resource/Thalesnano> <http://www.w3.org/2000/01/rdf-schema#comment> "magyar kémiai szolgáltatóvállalat"@hu .
+<http://yago-knowledge.org/resource/Datastat> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Universal_Audio_company> <http://www.w3.org/2000/01/rdf-schema#comment> "audio equipment manufacturer"@en .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://schema.org/url> "https://fi.wikipedia.org/wiki/RITES"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Metropolis> .
+<http://yago-knowledge.org/resource/Phicomm> <http://schema.org/url> "https://www.phicomm.de/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federation> .
+<http://yago-knowledge.org/resource/Sogeti_France> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q30292316> .
+<http://yago-knowledge.org/resource/Great_Western_Attractions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Quantopian> <http://www.w3.org/2000/01/rdf-schema#comment> "defunct American financial services provider"@en .
+<http://yago-knowledge.org/resource/Q11479198> <http://schema.org/sameAs> "/g/120rg03z" .
+<http://yago-knowledge.org/resource/Media_Tenor> <http://schema.org/alternateName> "Media Tenor International AG"@de .
+<http://yago-knowledge.org/resource/Cape_Town> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Big_City_Q1549591> .
+<http://yago-knowledge.org/resource/Tootal> <http://www.w3.org/2000/01/rdf-schema#comment> "textile company"@en .
+<http://yago-knowledge.org/resource/Puttick_And_Simpson> <http://schema.org/location> <http://yago-knowledge.org/resource/London> .
+<http://yago-knowledge.org/resource/Q10344458> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q10344458> .
+<http://yago-knowledge.org/resource/Nittetsu_Hitachi_Systems_Engineering> <http://schema.org/dateCreated> "1988-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Fremantle_Gas_and_Coke_Company> <http://schema.org/location> <http://yago-knowledge.org/resource/Australia> .
+<http://yago-knowledge.org/resource/Stephens_Inc> <http://schema.org/logo> "http://commons.wikimedia.org/wiki/Special:FilePath/Stephens-logo.PNG"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "斐讯"@zh .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://schema.org/alternateName> "Rail India Technical and Economic Services"@sw .
+<http://yago-knowledge.org/resource/Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federation> .
+<http://yago-knowledge.org/resource/Citigroup_Global_Markets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@nap .
+<http://yago-knowledge.org/resource/Tootal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Illy_Q15831312> <http://schema.org/url> "https://de.wikipedia.org/wiki/Illy_(Schweiz)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Denmark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Country_Bordering_The_Baltic_Sea> .
+<http://yago-knowledge.org/resource/Bartex_Europe> <http://schema.org/leiCode> "3157007PIVAVHWU79979" .
+<http://yago-knowledge.org/resource/Frans_Buff_Zonen> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة"@ar .
+<http://yago-knowledge.org/resource/Hudson_s_Bay_Trading_Company> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة كندية"@ar .
+<http://yago-knowledge.org/resource/Thalesnano> <http://schema.org/url> "https://hu.wikipedia.org/wiki/ThalesNano_Zrt."^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Tootal> <http://www.w3.org/2000/01/rdf-schema#label> "Tootal"@es .
+<http://yago-knowledge.org/resource/Pi_Americká_Akciová> <http://www.w3.org/2000/01/rdf-schema#label> "PI americká akciová"@cs .
+<http://yago-knowledge.org/resource/Kadmon_Corporation> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6345613> .
+<http://yago-knowledge.org/resource/Blue_Point_It_Solutions_Romania> <http://www.w3.org/2000/01/rdf-schema#comment> "company in Bucuresti, Romania"@en .
+<http://yago-knowledge.org/resource/Konstrukta_-_Industry_Slovakia> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Slowakije"@nl .
+<http://yago-knowledge.org/resource/Sagawa_Printing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Illy_Q15831312> <http://www.w3.org/2000/01/rdf-schema#label> "Illy"@de .
+<http://yago-knowledge.org/resource/Pi_Americká_Akciová> <http://www.w3.org/2000/01/rdf-schema#comment> "Czech company"@en .
+<http://yago-knowledge.org/resource/Cape_Town> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/National_Capital> .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Bangladesh"@nl .
+<http://yago-knowledge.org/resource/Stephens_Inc> <http://www.w3.org/2000/01/rdf-schema#label> "史蒂芬斯公司"@zh .
+<http://yago-knowledge.org/resource/Velodyne> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Velodyne"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Orano_Canada> <http://schema.org/sameAs> "/m/09gjn2q" .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://schema.org/url> "https://ne.wikipedia.org/wiki/%E0%A4%8F%E0%A4%AF%E0%A4%B0%E0%A4%9F%E0%A5%87%E0%A4%B2_%E0%A4%AC%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A4%B2%E0%A4%BE%E0%A4%A6%E0%A5%87%E0%A4%B6"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Oita_Liquefied_Natural_Gas> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%88%86%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%A8%E3%83%8C%E3%83%BB%E3%82%B8%E3%83%BC"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Horizion> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Nettbuss_Vest> <http://schema.org/location> <http://yago-knowledge.org/resource/Norway> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2000/01/rdf-schema#label> "RITES"@fr .
+<http://yago-knowledge.org/resource/Sweden_Models> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bartex_Europe> <http://schema.org/location> <http://yago-knowledge.org/resource/Czech_Republic> .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة أمريكية"@ar .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://schema.org/url> "https://de.wikipedia.org/wiki/Schlitterbahn_Waterparks"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Orano_Mining> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Business_enterprise> .
+<http://yago-knowledge.org/resource/Puttick_And_Simpson> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة في لندن"@ar .
+<http://yago-knowledge.org/resource/Gromatex> <http://schema.org/location> <http://yago-knowledge.org/resource/Netherlands> .
+<http://yago-knowledge.org/resource/Universal_Audio_company> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7893884> .
+<http://yago-knowledge.org/resource/Sogeti_France> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Kadmon_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Ovenstone_Agencies> <http://www.w3.org/2000/01/rdf-schema#label> "Ovenstone Agencies"@nb .
+<http://yago-knowledge.org/resource/New_Deal_Q11324887> <http://www.w3.org/2000/01/rdf-schema#label> "New Deal"@en .
+<http://yago-knowledge.org/resource/Q22125746> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E9%8C%A6%E5%9F%8E%E9%A3%9F%E5%93%81"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Residence_Building_Management> <http://www.w3.org/2000/01/rdf-schema#label> "Residence Building Management"@en .
+<http://yago-knowledge.org/resource/Bill_Putnam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Record_producer> .
+<http://yago-knowledge.org/resource/Frameworks_Entertainment> <http://www.w3.org/2000/01/rdf-schema#label> "Frameworks Entertainment"@en .
+<http://yago-knowledge.org/resource/Q131189064> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة في كوريا الجنوبية"@ar .
+<http://yago-knowledge.org/resource/Velodyne> <http://www.w3.org/2000/01/rdf-schema#label> "Velodyne"@en .
+<http://yago-knowledge.org/resource/Oncomatryx> <http://www.w3.org/2000/01/rdf-schema#label> "Oncomatrix"@es .
+<http://yago-knowledge.org/resource/Austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Successor_State> .
+<http://yago-knowledge.org/resource/Universal_Audio_company> <http://schema.org/logo> "http://commons.wikimedia.org/wiki/Special:FilePath/UA%20Logo.svg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Von_Zeppelin_En_Co_Apeldoornsche_Nettenfabriek> <http://www.w3.org/2000/01/rdf-schema#label> "von Zeppelin en Co. Apeldoornsche Nettenfabriek"@en .
+<http://yago-knowledge.org/resource/Zenrin_Datacom> <http://schema.org/sameAs> "/g/1218c_mg" .
+<http://yago-knowledge.org/resource/Illy_Q15831312> <http://schema.org/dateCreated> "1939"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Datastat> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Verenigde Staten van Amerika"@nl .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Phicomm> <http://schema.org/url> "https://zh.wikipedia.org/wiki/%E6%96%90%E8%AE%AF"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/India> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federal_republic> .
+<http://yago-knowledge.org/resource/Powermart_Aps> <http://schema.org/location> <http://yago-knowledge.org/resource/Denmark> .
+<http://yago-knowledge.org/resource/Hudson_s_Bay_Trading_Company> <http://www.w3.org/2000/01/rdf-schema#label> "Hudson's Bay Trading Company"@en .
+<http://yago-knowledge.org/resource/Tokyo_Rika_Kogyo> <http://www.w3.org/2000/01/rdf-schema#label> "Tokyo Rika Kogyo"@en .
+<http://yago-knowledge.org/resource/Nettbuss_Vest> <http://www.w3.org/2000/01/rdf-schema#label> "Nettbuss Vest"@nn .
+<http://yago-knowledge.org/resource/Oncomatryx> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Blue_Point_It_Solutions_Romania> <http://www.w3.org/2000/01/rdf-schema#label> "Blue Point IT Solutions (Romania)"@en .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://schema.org/url> "http://new.rites.com/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sweden_Models> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q126734857> .
+<http://yago-knowledge.org/resource/Puttick_And_Simpson> <http://www.w3.org/2000/01/rdf-schema#comment> "auctioneer firm based in London"@en .
+<http://yago-knowledge.org/resource/Oncomatryx> <http://www.w3.org/2000/01/rdf-schema#label> "Oncomatryx"@en .
+<http://yago-knowledge.org/resource/Daikure> <http://schema.org/sameAs> "/g/1226sln6" .
+<http://yago-knowledge.org/resource/Japan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Q131187934> <http://www.w3.org/2000/01/rdf-schema#label> "이노그리드"@ko .
+<http://yago-knowledge.org/resource/Nazmiyal_collection> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6983524> .
+<http://yago-knowledge.org/resource/Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Dominion> .
+<http://yago-knowledge.org/resource/Prevac> <http://schema.org/dateCreated> "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Tokyo_Rika_Kogyo> <http://www.w3.org/2000/01/rdf-schema#label> "東京理化工業所"@ja .
+<http://yago-knowledge.org/resource/Empire_of_Japan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Empire_Q48349> .
+<http://yago-knowledge.org/resource/Phicomm> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Nippon_Chuzo> <http://schema.org/dateCreated> "1948-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Powermart_Aps> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة دنماركية"@ar .
+<http://yago-knowledge.org/resource/Tuokslahden_Paperitehdas> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Vehicle_Control_Technologies_United_States> <http://www.w3.org/2000/01/rdf-schema#label> "Vehicle Control Technologies (United States)"@en .
+<http://yago-knowledge.org/resource/Metna_United_States> <http://www.w3.org/2000/01/rdf-schema#comment> "americká firma"@cs .
+<http://yago-knowledge.org/resource/Powermart_Aps> <http://www.w3.org/2000/01/rdf-schema#label> "PowerMart ApS"@en .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@hr .
+<http://yago-knowledge.org/resource/Casetext> <http://www.w3.org/2000/01/rdf-schema#label> "Casetext"@en .
+<http://yago-knowledge.org/resource/Bird-C_Gmbh> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q108305911> .
+<http://yago-knowledge.org/resource/Velodyne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Sistema_Clube_De_Comunicação> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Remixpoint_Inc> <http://schema.org/dateCreated> "2004-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Bird-C_Gmbh> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة نمساوية"@ar .
+<http://yago-knowledge.org/resource/Atout_Vent_France> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Orano_Canada> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/De_Naeyer_Nv> <http://www.w3.org/2000/01/rdf-schema#label> "De Naeyer NV"@fr .
+<http://yago-knowledge.org/resource/Hudson_s_Bay_Trading_Company> <http://yago-knowledge.org/resource/ownedBy> <http://yago-knowledge.org/resource/NRDC_Equity_Partners> .
+<http://yago-knowledge.org/resource/Nippon_Chuzo> <http://schema.org/url> "http://www.nipponchuzo.co.jp/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Williams_College_Investment_Office> <http://schema.org/dateCreated> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@de .
+<http://yago-knowledge.org/resource/Amalgamated_Power_Engineering> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16827762> .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://schema.org/alternateName> "ওয়ারিদ (বাংলাদেশ)"@bn .
+<http://yago-knowledge.org/resource/OCESA> <http://www.w3.org/2000/01/rdf-schema#label> "OCESA"@en .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://schema.org/numberOfEmployees> "1900"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@zu .
+<http://yago-knowledge.org/resource/De_Naeyer_Nv> <http://www.w3.org/2000/01/rdf-schema#label> "De Naeyer NV"@en .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://schema.org/url> "https://sw.wikipedia.org/wiki/RITES"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Fremantle_Gas_and_Coke_Company> <http://www.w3.org/2000/01/rdf-schema#comment> "former power company in Western Australia"@en .
+<http://yago-knowledge.org/resource/Ge_Medical_Systems_Global_Technology> <http://www.w3.org/2000/01/rdf-schema#label> "GE Medical Systems Global Technology"@en .
+<http://yago-knowledge.org/resource/Conitor_Terra> <http://schema.org/alternateName> "Conitor Terra Ltd"@en .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Oita_Liquefied_Natural_Gas> <http://schema.org/dateCreated> "1986-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2000/01/rdf-schema#comment> "компанія"@uk .
+<http://yago-knowledge.org/resource/Kitanihon_Gas> <http://www.w3.org/2000/01/rdf-schema#label> "北日本ガス"@ja .
+<http://yago-knowledge.org/resource/Gennbio_Inc> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q98680201> .
+<http://yago-knowledge.org/resource/Oita_Liquefied_Natural_Gas> <http://schema.org/url> "http://www.oitalng.co.jp/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Ovenstone_Agencies> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة جنوب أفريقية"@ar .
+<http://yago-knowledge.org/resource/Oncomatryx> <http://schema.org/sameAs> "/m/0_h2d41" .
+<http://yago-knowledge.org/resource/Hannan_Ribiyo> <http://schema.org/location> <http://yago-knowledge.org/resource/Japan> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@wo .
+<http://yago-knowledge.org/resource/Stephens_Inc> <http://www.w3.org/2000/01/rdf-schema#label> "Stephens Inc."@en .
+<http://yago-knowledge.org/resource/Q131187934> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Universal_Audio_company> <http://schema.org/url> "http://www.uaudio.com/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Ge_Medical_Systems_Global_Technology> <http://schema.org/alternateName> "GE Medical Systems Global Technology Company, L.L.C."@en .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2000/01/rdf-schema#label> "印度铁路技术及经济服务公司"@zh .
+<http://yago-knowledge.org/resource/Media_Tenor> <http://yago-knowledge.org/resource/leader> <http://yago-knowledge.org/resource/Roland_Schatz_Q136528304> .
+<http://yago-knowledge.org/resource/Nettbuss_Vest> <http://schema.org/dissolutionDate> "2009-09-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Q131187934> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131187934> .
+<http://yago-knowledge.org/resource/Philex> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Native_American_Technologies_United_States> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/New_Deal_Q11324887> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%87%E3%82%A3%E3%83%BC%E3%83%AB_(%E4%BC%81%E6%A5%AD)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Residence_Building_Management> <http://schema.org/dateCreated> "1990-03-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Thalesnano> <http://schema.org/logo> "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20thalesnano.gif"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Vanzetka> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q124261323> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@vls .
+<http://yago-knowledge.org/resource/Conitor_Terra> <http://www.w3.org/2000/01/rdf-schema#label> "Conitor Terra"@en .
+<http://yago-knowledge.org/resource/Oita_Liquefied_Natural_Gas> <http://schema.org/location> <http://yago-knowledge.org/resource/Japan> .
+<http://yago-knowledge.org/resource/Brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federal_republic> .
+<http://yago-knowledge.org/resource/Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Commonwealth_realm> .
+<http://yago-knowledge.org/resource/Spain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Realm> .
+<http://yago-knowledge.org/resource/Netherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Country_Of_The_Kingdom_Of_The_Netherlands> .
+<http://yago-knowledge.org/resource/Di5_Tech> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q121621765> .
+<http://yago-knowledge.org/resource/Nittetsu_Hitachi_Systems_Engineering> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%89%84%E6%97%A5%E7%AB%8B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Stephens_Inc> <http://schema.org/dateCreated> "1933"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Prevac> <http://www.w3.org/2000/01/rdf-schema#comment> "Polish vacuum technology company based in Rogów"@en .
+<http://yago-knowledge.org/resource/EcoZoom> <http://schema.org/sameAs> "/m/0_1n156" .
+<http://yago-knowledge.org/resource/Conitor_Terra> <http://schema.org/dateCreated> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Maxon_Group> <http://schema.org/url> "https://de.wikipedia.org/wiki/Maxon_Motor"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Tootal> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Q131187934> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة في كوريا الجنوبية"@ar .
+<http://yago-knowledge.org/resource/Daikure> <http://schema.org/url> "https://www.daikure.co.jp/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Flyeralarm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Q85881343> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Sagawa_Printing> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E4%BD%90%E5%B7%9D%E5%8D%B0%E5%88%B7"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Leipomo_Rosten> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132746554> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@eu .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://yago-knowledge.org/resource/siteLinks> "9"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://yago-knowledge.org/resource/siteLinks> "3"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Q10344458> <http://schema.org/sameAs> "/g/155s407x" .
+<http://yago-knowledge.org/resource/Thalesnano> <http://www.w3.org/2000/01/rdf-schema#label> "ThalesNano"@en .
+<http://yago-knowledge.org/resource/Switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Landlocked_country> .
+<http://yago-knowledge.org/resource/Datastat> <http://schema.org/dateCreated> "1988"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Hudson_s_Bay_Trading_Company> <http://schema.org/location> <http://yago-knowledge.org/resource/Canada> .
+<http://yago-knowledge.org/resource/Philex> <http://schema.org/url> "https://fr.wikipedia.org/wiki/Philex"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Stephens_Inc> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Pi_Americká_Akciová> <http://schema.org/alternateName> "PI americká akciová s.r.o."@cs .
+<http://yago-knowledge.org/resource/Orano_Canada> <http://www.w3.org/2000/01/rdf-schema#label> "Orano Canada"@en .
+<http://yago-knowledge.org/resource/Bird-C_Gmbh> <http://www.w3.org/2000/01/rdf-schema#label> "BIRD-C GmbH"@en .
+<http://yago-knowledge.org/resource/Great_Western_Attractions> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة أمريكية"@ar .
+<http://yago-knowledge.org/resource/Bridge_Alliance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://www.w3.org/2000/01/rdf-schema#label> "Schlitterbahn"@fr .
+<http://yago-knowledge.org/resource/Kadmon_Corporation> <http://schema.org/founder> <http://yago-knowledge.org/resource/Samuel_D_Waksal> .
+<http://yago-knowledge.org/resource/Prevac> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Polen"@nl .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@id .
+<http://yago-knowledge.org/resource/Tokyo_Rika_Kogyo> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E5%B7%9D%E9%87%91%E3%83%80%E3%82%A4%E3%82%AB%E3%82%B9%E3%83%88%E5%B7%A5%E6%A5%AD"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/A_Zweesaardt_En_Zoon> <http://www.w3.org/2000/01/rdf-schema#label> "A. Zweesaardt en Zoon"@en .
+<http://yago-knowledge.org/resource/Frans_Buff_Zonen> <http://schema.org/location> <http://yago-knowledge.org/resource/Netherlands> .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@ca .
+<http://yago-knowledge.org/resource/Giulio_Cesare_E_Giovanni_Battista_Malatesta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Sistema_Clube_De_Comunicação> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bharti_Airtel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Public_company> .
+<http://yago-knowledge.org/resource/Daikure> <http://www.w3.org/2000/01/rdf-schema#label> "Daikure"@en .
+<http://yago-knowledge.org/resource/Nettbuss_Vest> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Nettbuss_Vest"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://schema.org/url> "https://en.wikipedia.org/wiki/Airtel_Bangladesh"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Zenrin_Datacom> <http://schema.org/alternateName> "ZENRIN-Datacom CO., LTD."@en .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@pms .
+<http://yago-knowledge.org/resource/Bird-C_Gmbh> <http://www.w3.org/2000/01/rdf-schema#label> "BIRD-C GmbH"@de .
+<http://yago-knowledge.org/resource/Blue_Point_It_Solutions_Romania> <http://schema.org/location> <http://yago-knowledge.org/resource/Romania> .
+<http://yago-knowledge.org/resource/Orano_Canada> <http://schema.org/dateCreated> "1964"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Oncomatryx> <http://schema.org/url> "https://es.wikipedia.org/wiki/Oncomatryx"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sistema_Clube_De_Comunicação> <http://schema.org/sameAs> "/g/11b6s14vc4" .
+<http://yago-knowledge.org/resource/Pi_Americká_Akciová> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116891568> .
+<http://yago-knowledge.org/resource/Metna_United_States> <http://www.w3.org/2000/01/rdf-schema#comment> "company in Lansing, United States"@en .
+<http://yago-knowledge.org/resource/Sogeti_France> <http://www.w3.org/2000/01/rdf-schema#comment> "company in Issy-les-Moulineaux, France"@en .
+<http://yago-knowledge.org/resource/Thalesnano> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة"@ar .
+<http://yago-knowledge.org/resource/Q11299723> <http://www.w3.org/2000/01/rdf-schema#label> "クロスエンタテイメント"@ja .
+<http://yago-knowledge.org/resource/Native_American_Technologies_United_States> <http://schema.org/dateCreated> "1993"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Bird-C_Gmbh> <http://schema.org/url> "https://www.bird-c.at/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Ferronordic> <http://www.w3.org/2000/01/rdf-schema#comment> "svenskt handelsföretag"@sv .
+<http://yago-knowledge.org/resource/Stephens_Inc> <http://www.w3.org/2000/01/rdf-schema#label> "Stephens Inc."@fr .
+<http://yago-knowledge.org/resource/Nittetsu_Hitachi_Systems_Engineering> <http://schema.org/sameAs> "/g/1222j5p4" .
+<http://yago-knowledge.org/resource/Universal_Audio_company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Kadmon_Corporation> <http://schema.org/alternateName> "Kadmon Pharmaceuticals"@en .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@hu .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Bank_Przemysłowców> <http://schema.org/sameAs> "/g/12322vhxy" .
+<http://yago-knowledge.org/resource/Residence_Building_Management> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%93%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sweden_Models> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Velodyne> <http://www.w3.org/2000/01/rdf-schema#label> "Velodyne"@it .
+<http://yago-knowledge.org/resource/Q131189064> <http://schema.org/url> "https://ko.wikipedia.org/wiki/%ED%8F%B4%EB%9D%BC%EB%A6%AC%EC%8A%A4%EC%84%B8%EC%9B%90"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Philex> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2085935> .
+<http://yago-knowledge.org/resource/Kadmon_Corporation> <http://schema.org/url> "https://en.wikipedia.org/wiki/Kadmon_Corporation"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Verenigde Staten van Amerika"@nl .
+<http://yago-knowledge.org/resource/Mcintyre_Hogg_Marsh_And_Co> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Airtel_Bangladesh> <http://www.w3.org/2000/01/rdf-schema#label> "airtel Bangladesh"@en .
+<http://yago-knowledge.org/resource/Prevac> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q82078169> .
+<http://yago-knowledge.org/resource/Invest_Financial_Corporation> <http://www.w3.org/2000/01/rdf-schema#label> "Invest Financial Corporation"@en .
+<http://yago-knowledge.org/resource/Powermart_Aps> <http://www.w3.org/2000/01/rdf-schema#comment> "Danish company"@en .
+<http://yago-knowledge.org/resource/Schlitterbahn> <http://www.w3.org/2000/01/rdf-schema#label> "Schlitterbahn"@it .
+<http://yago-knowledge.org/resource/Zenrin_Datacom> <http://schema.org/dateCreated> "2000-04-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Stephens_Inc> <http://schema.org/leiCode> "213800LH6T9XDYZCA534" .
+<http://yago-knowledge.org/resource/Williams_College_Investment_Office> <http://schema.org/sameAs> "/g/11ckz700qz" .
+<http://yago-knowledge.org/resource/Gennbio_Inc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/RITES_Limited> <http://www.w3.org/2000/01/rdf-schema#label> "インド鉄道技術経済サービス"@ja .
+<http://yago-knowledge.org/resource/Jumperism_Limited> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة قبرصية"@ar .
+<http://yago-knowledge.org/resource/Di5_Tech> <http://www.w3.org/2000/01/rdf-schema#comment> "Czech company"@en .
+<http://yago-knowledge.org/resource/Q11299723> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11299723> .
+<http://yago-knowledge.org/resource/Blue_Point_It_Solutions_Romania> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q30255107> .
+<http://yago-knowledge.org/resource/Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Wed_J_Bekkers_Zoon> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة"@ar .
+<http://yago-knowledge.org/resource/Phicomm> <http://www.w3.org/2000/01/rdf-schema#label> "Phicomm"@sw .
+<http://yago-knowledge.org/resource/Kopalnia_Galmanu_Kawia_Góra> <http://www.w3.org/2000/01/rdf-schema#label> "Kopalnia galmanu Kawia Góra"@pl .
+<http://yago-knowledge.org/resource/Kopalnia_Galmanu_Kawia_Góra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Residence_Building_Management> <http://schema.org/sameAs> "/g/122916zr" .
+<http://yago-knowledge.org/resource/Daikure> <http://www.w3.org/2000/01/rdf-schema#label> "ダイクレ"@ja .
+<http://yago-knowledge.org/resource/Stephens_Inc> <http://www.w3.org/2000/01/rdf-schema#comment> "شركة"@ar .
+<http://yago-knowledge.org/resource/Ovenstone_Agencies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
+<http://yago-knowledge.org/resource/Sistema_Clube_De_Comunicação> <http://www.w3.org/2000/01/rdf-schema#label> "Sistema Clube de Comunicação"@en .
+<http://yago-knowledge.org/resource/Nippon_Chuzo> <http://www.w3.org/2000/01/rdf-schema#label> "日本鋳造"@ja .
+<http://yago-knowledge.org/resource/Native_American_Technologies_United_States> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Verenigde Staten van Amerika"@nl .
+<http://yago-knowledge.org/resource/Q60986406> <http://www.w3.org/2000/01/rdf-schema#comment> "bedrijf uit Oekraïne"@nl .
+<http://yago-knowledge.org/resource/Illy_Q15831312> <http://schema.org/numberOfEmployees> "30"^^<http://www.w3.org/2001/XMLSchema#int> .

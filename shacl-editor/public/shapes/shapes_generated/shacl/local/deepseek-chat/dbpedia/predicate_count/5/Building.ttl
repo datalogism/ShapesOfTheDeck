@@ -1,0 +1,182 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/shapes/BuildingShape>
+    a sh:NodeShape ;
+    sh:targetClass dbo:Building ;
+    sh:property [
+        sh:path rdf:type ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:hasValue owl:Thing ;
+        sh:hasValue dbo:Building ;
+        sh:hasValue dbo:ArchitecturalStructure ;
+        sh:hasValue wd:Q41176
+    ] ;
+    sh:property [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:alternativeName ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:openingDate ;
+        sh:datatype xsd:date ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:address ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:originalName ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:buildingEndDate ;
+        sh:datatype xsd:gYear ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:height ;
+        sh:datatype xsd:decimal ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:buildingStartDate ;
+        sh:datatype xsd:gYear ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:floorCount ;
+        sh:datatype xsd:integer ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:elevatorCount ;
+        sh:datatype xsd:integer ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:numberOfRooms ;
+        sh:datatype xsd:integer ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:owner ;
+        sh:nodeKind sh:IRI
+    ] ;
+    sh:property [
+        sh:path dbo:country ;
+        sh:nodeKind sh:IRI
+    ] ;
+    sh:property [
+        sh:path dbo:location ;
+        sh:nodeKind sh:IRI
+    ] ;
+    sh:property [
+        sh:path dbo:city ;
+        sh:nodeKind sh:IRI
+    ] ;
+    sh:property [
+        sh:path dbo:architect ;
+        sh:nodeKind sh:IRI
+    ] ;
+    sh:property [
+        sh:path dbo:developer ;
+        sh:nodeKind sh:IRI
+    ] ;
+    sh:property [
+        sh:path foaf:homepage ;
+        sh:nodeKind sh:IRI
+    ] ;
+    sh:property [
+        sh:path dbo:type ;
+        sh:nodeKind sh:IRI
+    ] ;
+    sh:property [
+        sh:path dbo:architecturalStyle ;
+        sh:nodeKind sh:IRI
+    ] ;
+    sh:property [
+        sh:path dbo:knownFor ;
+        sh:nodeKind sh:IRI
+    ] ;
+    sh:property [
+        sh:path dbo:cost ;
+        sh:datatype xsd:decimal ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:status ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:numberOfRestaurants ;
+        sh:datatype xsd:integer ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:classification ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:width ;
+        sh:datatype xsd:decimal ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:floorArea ;
+        sh:datatype xsd:decimal ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:numberOfParkingSpaces ;
+        sh:datatype xsd:integer ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:diameter ;
+        sh:datatype xsd:decimal ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:material ;
+        sh:nodeKind sh:IRI
+    ] ;
+    sh:property [
+        sh:path dbo:affiliation ;
+        sh:nodeKind sh:IRI
+    ] ;
+    sh:property [
+        sh:path dbo:chain ;
+        sh:nodeKind sh:IRI
+    ] ;
+    sh:property [
+        sh:path dbo:dateOfAbandonment ;
+        sh:datatype xsd:date ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:destructionDate ;
+        sh:datatype xsd:date ;
+        sh:nodeKind sh:Literal
+    ] ;
+    sh:property [
+        sh:path dbo:structuralSystem ;
+        sh:nodeKind sh:IRI
+    ] .

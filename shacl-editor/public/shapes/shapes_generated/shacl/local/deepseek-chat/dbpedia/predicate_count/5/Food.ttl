@@ -1,0 +1,123 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix shapes: <http://shaclshapes.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+shapes:FoodShape a sh:NodeShape ;
+    sh:targetClass dbo:Food ;
+    sh:property [
+        sh:path rdf:type ;
+        sh:minCount 1 ;
+        sh:hasValue dbo:Food ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Every Food instance must have rdf:type dbo:Food"@en
+    ], [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every Food must have exactly one foaf:name (string)"@en
+    ], [
+        sh:path dbo:ingredientName ;
+        sh:minCount 1 ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every Food must have at least one dbo:ingredientName (string)"@en
+    ], [
+        sh:path dbo:ingredient ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:ingredient values must be IRIs"@en
+    ], [
+        sh:path dbo:country ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:country values must be IRIs"@en
+    ], [
+        sh:path dbo:region ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:region values must be IRIs"@en
+    ], [
+        sh:path dbo:cuisine ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+        sh:message "dbo:cuisine values must be strings"@en
+    ], [
+        sh:path dbo:servingTemperature ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+        sh:message "dbo:servingTemperature values must be strings"@en
+    ], [
+        sh:path dc:type ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+        sh:message "dc:type values must be strings"@en
+    ], [
+        sh:path dbo:type ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:type values must be IRIs"@en
+    ], [
+        sh:path dbo:servingSize ;
+        sh:datatype xsd:decimal ;
+        sh:nodeKind sh:Literal ;
+        sh:message "dbo:servingSize values must be decimals"@en
+    ], [
+        sh:path dbo:protein ;
+        sh:datatype xsd:decimal ;
+        sh:nodeKind sh:Literal ;
+        sh:message "dbo:protein values must be decimals"@en
+    ], [
+        sh:path dbo:carbohydrate ;
+        sh:datatype xsd:decimal ;
+        sh:nodeKind sh:Literal ;
+        sh:message "dbo:carbohydrate values must be decimals"@en
+    ], [
+        sh:path dbo:fat ;
+        sh:datatype xsd:decimal ;
+        sh:nodeKind sh:Literal ;
+        sh:message "dbo:fat values must be decimals"@en
+    ], [
+        sh:path dbo:approximateCalories ;
+        sh:datatype xsd:decimal ;
+        sh:nodeKind sh:Literal ;
+        sh:message "dbo:approximateCalories values must be decimals"@en
+    ], [
+        sh:path dbo:year ;
+        sh:datatype xsd:gYear ;
+        sh:nodeKind sh:Literal ;
+        sh:message "dbo:year values must be gYear"@en
+    ], [
+        sh:path dbo:alias ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+        sh:message "dbo:alias values must be strings"@en
+    ], [
+        sh:path dbo:related ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:related values must be IRIs"@en
+    ], [
+        sh:path dbo:creatorOfDish ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:creatorOfDish values must be IRIs"@en
+    ], [
+        sh:path dbo:hasVariant ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:hasVariant values must be IRIs"@en
+    ], [
+        sh:path dbo:isPartOf ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:isPartOf values must be IRIs"@en
+    ], [
+        sh:path dbo:maxTime ;
+        sh:datatype xsd:integer ;
+        sh:nodeKind sh:Literal ;
+        sh:message "dbo:maxTime values must be integers"@en
+    ], [
+        sh:path dbo:minTime ;
+        sh:datatype xsd:integer ;
+        sh:nodeKind sh:Literal ;
+        sh:message "dbo:minTime values must be integers"@en
+    ] .

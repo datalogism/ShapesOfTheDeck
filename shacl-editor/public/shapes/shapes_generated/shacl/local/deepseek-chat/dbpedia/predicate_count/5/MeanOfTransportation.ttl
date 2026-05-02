@@ -1,0 +1,105 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix shapes: <http://shaclshapes.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:MeanOfTransportationShape a sh:NodeShape ;
+    sh:property [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path rdfs:label ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 1 ;
+            sh:path foaf:name ],
+        [ sh:datatype xsd:string ;
+            sh:path dbo:alternativeName ],
+        [ sh:datatype xsd:gYear ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:modelStartYear ],
+        [ sh:datatype xsd:gYear ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:modelEndYear ],
+        [ sh:datatype xsd:gYear ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:productionStartYear ],
+        [ sh:datatype xsd:gYear ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:productionEndYear ],
+        [ sh:datatype xsd:decimal ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:length ],
+        [ sh:datatype xsd:decimal ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:width ],
+        [ sh:datatype xsd:decimal ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:height ],
+        [ sh:datatype xsd:decimal ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:weight ],
+        [ sh:datatype xsd:decimal ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:wheelbase ],
+        [ sh:datatype xsd:string ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:transmission ],
+        [ sh:class dbo:Organisation ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:manufacturer ],
+        [ sh:class dbo:Person ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:designer ],
+        [ sh:class dbo:Organisation ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:designCompany ],
+        [ sh:class dbo:MeanOfTransportation ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:predecessor ],
+        [ sh:class dbo:MeanOfTransportation ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:successor ],
+        [ sh:class dbo:AutomobileClassification ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:class ],
+        [ sh:class dbo:BodyStyle ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:bodyStyle ],
+        [ sh:class dbo:Engine ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:engine ],
+        [ sh:class dbo:AutomobileLayout ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:layout ],
+        [ sh:class dbo:MeanOfTransportation ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:relatedMeanOfTransportation ],
+        [ sh:class dbo:Place ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:assembly ],
+        [ sh:class dbo:Platform ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:automobilePlatform ],
+        [ sh:class dbo:Sound ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:soundRecording ],
+        [ sh:class dbo:Sales ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:sales ] ;
+    sh:targetClass dbo:MeanOfTransportation .

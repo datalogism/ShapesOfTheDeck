@@ -1,0 +1,40 @@
+## Table T8 — All Models Matching Criteria — YAGO SHACL
+
+| Model | Setting | Node Constraint | Cardinality | P | R | F1 |
+|---|---|---|---|---|---|---|
+| GPT-4o mini | local | Exact | Exact | 0.481 | 0.376 | 0.419 |
+| GPT-4o mini | local | Exact | Loosened | 0.615 | 0.489 | 0.541 |
+| GPT-4o mini | local | Subclass | Exact | 0.542 | 0.424 | 0.473 |
+| GPT-4o mini | local | Subclass | Loosened | 0.677 | 0.538 | 0.596 |
+| GPT-4o mini | local | Datatype | Exact | 0.591 | 0.463 | 0.516 |
+| GPT-4o mini | local | Datatype | Loosened | 0.734 | 0.583 | 0.646 |
+| GPT-4o mini | global | Exact | Exact | 0.206 | 0.237 | 0.220 |
+| GPT-4o mini | global | Exact | Loosened | 0.276 | 0.318 | 0.295 |
+| GPT-4o mini | global | Subclass | Exact | 0.234 | 0.264 | 0.248 |
+| GPT-4o mini | global | Subclass | Loosened | 0.304 | 0.346 | 0.323 |
+| GPT-4o mini | global | Datatype | Exact | 0.471 | 0.527 | 0.496 |
+| GPT-4o mini | global | Datatype | Loosened | 0.597 | 0.672 | 0.631 |
+| GPT-4o mini | triples | Exact | Exact | 0.438 | 0.320 | 0.367 |
+| GPT-4o mini | triples | Exact | Loosened | 0.586 | 0.432 | 0.493 |
+| GPT-4o mini | triples | Subclass | Exact | 0.489 | 0.357 | 0.410 |
+| GPT-4o mini | triples | Subclass | Loosened | 0.643 | 0.473 | 0.540 |
+| GPT-4o mini | triples | Datatype | Exact | 0.543 | 0.399 | 0.456 |
+| GPT-4o mini | triples | Datatype | Loosened | 0.702 | 0.519 | 0.592 |
+| DeepSeek-V3 | local | Exact | Exact | 0.460 | 0.413 | 0.433 |
+| DeepSeek-V3 | local | Exact | Loosened | 0.563 | 0.512 | 0.533 |
+| DeepSeek-V3 | local | Subclass | Exact | 0.518 | 0.464 | 0.486 |
+| DeepSeek-V3 | local | Subclass | Loosened | 0.622 | 0.564 | 0.588 |
+| DeepSeek-V3 | local | Datatype | Exact | 0.574 | 0.515 | 0.539 |
+| DeepSeek-V3 | local | Datatype | Loosened | 0.680 | 0.617 | 0.642 |
+| DeepSeek-V3 | global | Exact | Exact | 0.399 | 0.458 | 0.426 |
+| DeepSeek-V3 | global | Exact | Loosened | 0.457 | 0.526 | 0.489 |
+| DeepSeek-V3 | global | Subclass | Exact | 0.450 | 0.512 | 0.478 |
+| DeepSeek-V3 | global | Subclass | Loosened | 0.508 | 0.580 | 0.541 |
+| DeepSeek-V3 | global | Datatype | Exact | 0.656 | 0.750 | 0.699 |
+| DeepSeek-V3 | global | Datatype | Loosened | 0.722 | 0.828 | 0.771 |
+| DeepSeek-V3 | triples | Exact | Exact | 0.471 | 0.414 | 0.436 |
+| DeepSeek-V3 | triples | Exact | Loosened | 0.559 | 0.489 | 0.516 |
+| DeepSeek-V3 | triples | Subclass | Exact | 0.516 | 0.451 | 0.476 |
+| DeepSeek-V3 | triples | Subclass | Loosened | 0.603 | 0.526 | 0.556 |
+| DeepSeek-V3 | triples | Datatype | Exact | 0.560 | 0.492 | 0.519 |
+| DeepSeek-V3 | triples | Datatype | Loosened | 0.654 | 0.573 | 0.605 |

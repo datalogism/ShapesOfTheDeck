@@ -1,0 +1,79 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix yago: <http://yago-knowledge.org/resource/> .
+
+<http://shaclshapes.org/PersonShape> a sh:NodeShape ;
+    sh:property [ sh:node <http://shaclshapes.org/PersonShape> ;
+            sh:path schema:memberOf ],
+        [ sh:class <http://dbpedia.org/ontology/Organisation> ;
+            sh:path schema:worksFor ],
+        [ sh:datatype <rdf:langString> ;
+            sh:path schema:alternateName ],
+        [ sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:sameAs ],
+        [ sh:datatype <xsd:dateTime> ;
+            sh:path schema:deathDate ],
+        [ sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/PersonShape> ;
+            sh:path rdf:type ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path yago:beliefSystem ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:path schema:url ],
+        [ sh:node <http://shaclshapes.org/PersonShape> ;
+            sh:path schema:children ],
+        [ sh:node <http://shaclshapes.org/PersonShape> ;
+            sh:path schema:award ],
+        [ sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/PersonShape> ;
+            sh:path schema:nationality ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:minCount 1 ;
+            sh:path schema:image ],
+        [ sh:node <http://shaclshapes.org/PersonShape> ;
+            sh:path schema:spouse ],
+        [ sh:node <http://shaclshapes.org/PersonShape> ;
+            sh:path schema:birthPlace ],
+        [ sh:node <http://shaclshapes.org/PersonShape> ;
+            sh:path yago:academicDegree ],
+        [ sh:datatype <rdf:langString> ;
+            sh:path rdfs:comment ],
+        [ sh:node <http://shaclshapes.org/PersonShape> ;
+            sh:path schema:owns ],
+        [ sh:class <http://dbpedia.org/ontology/Organisation> ;
+            sh:path schema:affiliation ],
+        [ sh:datatype <rdf:langString> ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path schema:homeLocation ],
+        [ sh:datatype <xsd:string> ;
+            sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:path schema:sameAs ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:minCount 1 ;
+            sh:path schema:mainEntityOfPage ],
+        [ sh:class <http://dbpedia.org/ontology/Organisation> ;
+            sh:path schema:alumniOf ],
+        [ sh:datatype <xsd:dateTime> ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path schema:birthDate ],
+        [ sh:class <http://dbpedia.org/ontology/City> ;
+            sh:path schema:deathPlace ],
+        [ sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/PersonShape> ;
+            sh:path schema:gender ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path schema:knowsLanguage ] ;
+    sh:targetClass schema:Person .
+

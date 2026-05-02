@@ -1,0 +1,125 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix shapes: <http://shaclshapes.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:AirportShape a sh:NodeShape ;
+    sh:targetClass dbo:Airport ;
+    
+    sh:property [
+        sh:path foaf:name ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1 ;
+        sh:maxCount 3 ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:elevation ;
+        sh:datatype xsd:decimal ;
+        sh:minCount 1 ;
+        sh:maxCount 2 ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:runwayDesignation ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1 ;
+        sh:maxCount 5 ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:runwayLength ;
+        sh:datatype xsd:decimal ;
+        sh:minCount 1 ;
+        sh:maxCount 10 ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:runwaySurface ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1 ;
+        sh:maxCount 2 ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:icaoLocationIdentifier ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:iataLocationIdentifier ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:locationIdentifier ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:owner ;
+        sh:nodeKind sh:IRI ;
+        sh:minCount 1 ;
+        sh:maxCount 2 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:location ;
+        sh:nodeKind sh:IRI ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:city ;
+        sh:nodeKind sh:IRI ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path foaf:homepage ;
+        sh:datatype xsd:anyURI ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:operator ;
+        sh:nodeKind sh:IRI ;
+        sh:minCount 1 ;
+        sh:maxCount 2 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:type ;
+        sh:nodeKind sh:IRI ;
+        sh:minCount 1 ;
+        sh:maxCount 2 ;
+    ] ;
+    
+    sh:property [
+        sh:path <http://www.w3.org/ns/dcat#resource_identifier> ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ] .

@@ -1,0 +1,4 @@
+2026-04-23 16:07:20.969 | INFO     | __main__:main:314 - Total shapes found: 20
+2026-04-23 16:07:20.969 | INFO     | __main__:main:315 - Shapes to process: 0, skipped (already exist): 20
+2026-04-23 16:07:20.969 | INFO     | __main__:main:316 - Shape list: ['Airport', 'Artist', 'Astronaut', 'Athlete', 'Building', 'CelestialBody', 'City', 'ComicsCharacter', 'Company', 'Film', 'Food', 'MeanOfTransportation', 'Monument', 'MusicalWork', 'Person', 'Politician', 'Scientist', 'SportsTeam', 'University', 'WrittenWork']
+2026-04-23 16:07:21.283 | INFO     | __main__:main:377 - Running ShEx generation using model 'gpt-4o-mini'

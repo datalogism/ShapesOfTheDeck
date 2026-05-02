@@ -1,0 +1,74 @@
+[
+  {
+    "model": "sheXer",
+    "acc_min": 0.127,
+    "acc_max": 0.23,
+    "acc": 0.09
+  },
+  {
+    "model": "rdfshapeinduction",
+    "acc_min": null,
+    "acc_max": null,
+    "acc": null
+  },
+  {
+    "model": "GPT-4o mini (local)",
+    "acc_min": 0.269,
+    "acc_max": 0.14,
+    "acc": 0.082
+  },
+  {
+    "model": "GPT-4o mini (triples)",
+    "acc_min": 0.234,
+    "acc_max": 0.135,
+    "acc": 0.09
+  },
+  {
+    "model": "GPT-4o mini (global)",
+    "acc_min": 0.368,
+    "acc_max": 0.265,
+    "acc": 0.192
+  },
+  {
+    "model": "DeepSeek-V3 (local)",
+    "acc_min": 0.348,
+    "acc_max": 0.32,
+    "acc": 0.228
+  },
+  {
+    "model": "DeepSeek-V3 (triples)",
+    "acc_min": 0.355,
+    "acc_max": 0.357,
+    "acc": 0.271
+  },
+  {
+    "model": "DeepSeek-V3 (global)",
+    "acc_min": 0.283,
+    "acc_max": 0.334,
+    "acc": 0.174
+  },
+  {
+    "model": "RDFShapeInduction (DT)",
+    "acc_min": 0.237,
+    "acc_max": 0.232,
+    "acc": 0.146
+  },
+  {
+    "model": "RDFShapeInduction (MLP)",
+    "acc_min": 0.232,
+    "acc_max": 0.247,
+    "acc": 0.148
+  },
+  {
+    "model": "RDFShapeInduction (RF)",
+    "acc_min": 0.271,
+    "acc_max": 0.249,
+    "acc": 0.17
+  },
+  {
+    "model": "RDFShapeInduction (GB)",
+    "acc_min": 0.282,
+    "acc_max": 0.239,
+    "acc": 0.164
+  }
+]

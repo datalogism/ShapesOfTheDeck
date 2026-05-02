@@ -1,0 +1,129 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<file:///C:/Users/doccr/PycharmProjects/DoubleShapespresso/Athlete> a sh:NodeShape ;
+    sh:property [ sh:datatype xsd:gYear ;
+            sh:minCount 0 ;
+            sh:path dbo:activeYearsEndYear ],
+        [ sh:datatype xsd:gYear ;
+            sh:minCount 0 ;
+            sh:path dbo:activeYearsStartYear ],
+        [ sh:class dbo:Award ;
+            sh:minCount 0 ;
+            sh:path dbo:award ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path dbo:battingSide ],
+        [ sh:datatype xsd:date ;
+            sh:maxCount 1 ;
+            sh:minCount 0 ;
+            sh:path dbo:birthDate ],
+        [ sh:class dbo:Place ;
+            sh:minCount 0 ;
+            sh:path dbo:birthPlace ],
+        [ sh:datatype xsd:integer ;
+            sh:minCount 0 ;
+            sh:path dbo:birthYear ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path dbo:bowlingSide ],
+        [ sh:minCount 0 ;
+            sh:or ( [ sh:class dbo:CareerStation ] [ sh:class dbo:TimePeriod ] [ sh:class <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval> ] ) ;
+            sh:path dbo:careerStation ],
+        [ sh:minCount 0 ;
+            sh:or ( [ sh:class dbo:Organisation ] [ sh:class dbo:Agent ] [ sh:class owl:Thing ] ) ;
+            sh:path dbo:college ],
+        [ sh:datatype xsd:date ;
+            sh:maxCount 1 ;
+            sh:minCount 0 ;
+            sh:path dbo:deathDate ],
+        [ sh:minCount 0 ;
+            sh:or ( [ sh:class dbo:Place ] [ sh:class dbo:Location ] [ sh:class owl:Thing ] ) ;
+            sh:path dbo:deathPlace ],
+        [ sh:datatype xsd:integer ;
+            sh:minCount 0 ;
+            sh:path dbo:deathYear ],
+        [ sh:class dbo:Organisation ;
+            sh:minCount 0 ;
+            sh:path dbo:debutTeam ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path dbo:draftPick ],
+        [ sh:datatype xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 0 ;
+            sh:path dbo:draftRound ],
+        [ sh:class dbo:SportsTeam ;
+            sh:minCount 0 ;
+            sh:path dbo:draftTeam ],
+        [ sh:datatype xsd:gYear ;
+            sh:maxCount 1 ;
+            sh:minCount 0 ;
+            sh:path dbo:draftYear ],
+        [ sh:minCount 0 ;
+            sh:or ( [ sh:class dbo:Organisation ] [ sh:class dbo:Agent ] [ sh:class owl:Thing ] ) ;
+            sh:path dbo:formerTeam ],
+        [ sh:datatype xsd:double ;
+            sh:maxCount 1 ;
+            sh:minCount 0 ;
+            sh:path dbo:height ],
+        [ sh:class dbo:EducationalInstitution ;
+            sh:minCount 0 ;
+            sh:path dbo:highschool ],
+        [ sh:class dbo:Organisation ;
+            sh:minCount 0 ;
+            sh:path dbo:league ],
+        [ sh:minCount 0 ;
+            sh:or ( [ sh:class dbo:Country ] [ sh:class dbo:Location ] [ sh:class owl:Thing ] ) ;
+            sh:path dbo:nationality ],
+        [ sh:datatype xsd:integer ;
+            sh:maxCount 1 ;
+            sh:minCount 0 ;
+            sh:path dbo:number ],
+        [ sh:class owl:Thing ;
+            sh:minCount 0 ;
+            sh:path dbo:position ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path dbo:status ],
+        [ sh:class dbo:Organisation ;
+            sh:minCount 0 ;
+            sh:path dbo:team ],
+        [ sh:datatype xsd:gYear ;
+            sh:maxCount 1 ;
+            sh:minCount 0 ;
+            sh:path dbo:undraftedYear ],
+        [ sh:datatype xsd:double ;
+            sh:maxCount 1 ;
+            sh:minCount 0 ;
+            sh:path dbo:weight ],
+        [ sh:datatype xsd:integer ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path dbo:wikiPageRevisionID ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path foaf:name ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path foaf:nick ],
+        [ sh:datatype xsd:double ;
+            sh:minCount 0 ;
+            sh:path dcat:resource_identifier ],
+        [ sh:class dbo:Athlete ;
+            sh:minCount 1 ;
+            sh:path rdf:type ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path rdfs:comment ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass dbo:Athlete .
+

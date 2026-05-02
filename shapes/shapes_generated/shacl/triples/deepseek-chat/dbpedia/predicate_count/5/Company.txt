@@ -1,0 +1,136 @@
+```shacl
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:CompanyShape a sh:NodeShape ;
+    sh:targetClass dbo:Company ;
+    sh:property [
+        sh:path rdfs:label ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+    ], [
+        sh:path rdfs:comment ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+    ], [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+    ], [
+        sh:path dbo:wikiPageRevisionID ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer ;
+    ], [
+        sh:path dbo:foundingYear ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:gYear ;
+    ], [
+        sh:path dbo:foundingDate ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:date ;
+    ], [
+        sh:path dbo:industry ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Industry ;
+    ], [
+        sh:path dbo:type ;
+        sh:nodeKind sh:IRI ;
+    ], [
+        sh:path foaf:homepage ;
+        sh:nodeKind sh:IRI ;
+    ], [
+        sh:path dbo:location ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Place ;
+    ], [
+        sh:path dbo:locationCity ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:City ;
+    ], [
+        sh:path dbo:locationCountry ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Country ;
+    ], [
+        sh:path dbo:country ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Country ;
+    ], [
+        sh:path dbo:product ;
+        sh:nodeKind sh:IRI ;
+    ], [
+        sh:path dbo:numberOfEmployees ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer ;
+    ], [
+        sh:path dbo:numberOfLocations ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer ;
+    ], [
+        sh:path dbo:foundedBy ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+    ], [
+        sh:path dbo:keyPerson ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+    ], [
+        sh:path dbo:parentCompany ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Company ;
+    ], [
+        sh:path dbo:genre ;
+        sh:nodeKind sh:IRI ;
+    ], [
+        sh:path dbo:revenue ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:decimal ;
+    ], [
+        sh:path dbo:netIncome ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:decimal ;
+    ], [
+        sh:path dbo:equity ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:decimal ;
+    ], [
+        sh:path dbo:assets ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:decimal ;
+    ], [
+        sh:path dbo:regionServed ;
+        sh:nodeKind sh:IRI ;
+    ], [
+        sh:path dbo:headquarter ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Place ;
+    ], [
+        sh:path dbo:formerName ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+    ], [
+        sh:path dbo:service ;
+        sh:nodeKind sh:IRI ;
+    ], [
+        sh:path dbo:fate ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+    ], [
+        sh:path dbo:distributingCompany ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Company ;
+    ], [
+        sh:path dbo:distributingLabel ;
+        sh:nodeKind sh:IRI ;
+    ] .
+```

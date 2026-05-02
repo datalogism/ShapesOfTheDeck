@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema: <http://schema.org/> .
+@prefix yago: <http://yago-knowledge.org/resource/> .
+
+<http://shaclshapes.org/MusicCompositionShape> a sh:NodeShape ;
+    sh:targetClass schema:MusicComposition ;
+    sh:property [
+        sh:path rdf:type ;
+        sh:hasValue schema:MusicComposition ;
+        sh:minCount 1
+    ] ,
+    [
+        sh:path rdfs:label ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1
+    ] ,
+    [
+        sh:path rdfs:comment ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1
+    ] ,
+    [
+        sh:path schema:mainEntityOfPage ;
+        sh:datatype xsd:anyURI ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:sameAs ;
+        sh:datatype xsd:anyURI ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:genre ;
+        sh:class schema:MusicGenre ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:composer ;
+        sh:class schema:Person ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:dateCreated ;
+        sh:datatype xsd:date ;
+        sh:minCount 0 ;
+        sh:maxCount 1
+    ] ,
+    [
+        sh:path schema:duration ;
+        sh:datatype xsd:duration ;
+        sh:minCount 0 ;
+        sh:maxCount 1
+    ] ,
+    [
+        sh:path schema:recordedAt ;
+        sh:class schema:Place ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:musicArrangement ;
+        sh:class schema:MusicComposition ;
+        sh:minCount 0
+    ] .

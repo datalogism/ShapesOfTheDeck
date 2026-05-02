@@ -1,0 +1,134 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:BuildingShape a sh:NodeShape ;
+    sh:targetClass dbo:Building ;
+    sh:property [
+        sh:path rdfs:label ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+    ] ;
+    sh:property [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path rdfs:comment ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+    ] ;
+    sh:property [
+        sh:path dbo:wikiPageRevisionID ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer ;
+    ] ;
+    sh:property [
+        sh:path dbo:location ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Place ;
+    ] ;
+    sh:property [
+        sh:path dbo:country ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Country ;
+    ] ;
+    sh:property [
+        sh:path dbo:address ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path dbo:type ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:BuildingType ;
+    ] ;
+    sh:property [
+        sh:path dbo:architecturalStyle ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:ArchitecturalStyle ;
+    ] ;
+    sh:property [
+        sh:path dbo:floorCount ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer ;
+    ] ;
+    sh:property [
+        sh:path dbo:height ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double ;
+    ] ;
+    sh:property [
+        sh:path dbo:buildingEndDate ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:gYear ;
+    ] ;
+    sh:property [
+        sh:path dbo:buildingStartDate ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:gYear ;
+    ] ;
+    sh:property [
+        sh:path dbo:architect ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Architect ;
+    ] ;
+    sh:property [
+        sh:path dbo:status ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path dbo:floorArea ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double ;
+    ] ;
+    sh:property [
+        sh:path dbo:elevatorCount ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer ;
+    ] ;
+    sh:property [
+        sh:path dbo:owner ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Organisation ;
+    ] ;
+    sh:property [
+        sh:path dbo:alternativeName ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path dbo:developer ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Organisation ;
+    ] ;
+    sh:property [
+        sh:path dbo:formerName ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path dbo:seatingCapacity ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer ;
+    ] ;
+    sh:property [
+        sh:path foaf:homepage ;
+        sh:nodeKind sh:IRI ;
+        sh:datatype xsd:anyURI ;
+    ] ;
+    sh:property [
+        sh:path dbo:cost ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double ;
+    ] .

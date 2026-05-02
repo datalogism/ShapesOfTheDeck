@@ -1,0 +1,491 @@
+{
+  "@context": "http://www.w3.org/ns/shexje.jsonld",
+  "type": "Schema",
+  "prefixes": {
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "sh": "http://www.w3.org/ns/shacl#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "dbo": "http://dbpedia.org/ontology/",
+    "dbr": "http://dbpedia.org/resource/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "schema": "http://schema.org/",
+    "yago": "http://yago-knowledge.org/resource/",
+    "wd": "http://www.wikidata.org/entity/",
+    "wdt": "http://www.wikidata.org/prop/direct/"
+  },
+  "start": "Politician",
+  "shapes": [
+    {
+      "type": "Shape",
+      "id": "Politician",
+      "extra": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      ],
+      "expression": {
+        "type": "EachOf",
+        "expressions": [
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/birthDate",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:dateTime"
+            },
+            "min": 0,
+            "max": 1
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/birthPlace",
+            "valueExpr": "Place",
+            "min": 0,
+            "max": 1
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/gender",
+            "valueExpr": "Gender",
+            "min": 1,
+            "max": 1
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/mainEntityOfPage",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:anyURI"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/memberOf",
+            "valueExpr": "PoliticalParty",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/sameAs",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:string"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "valueExpr": "Politician",
+            "min": 1
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "rdf:langString"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "rdf:langString"
+            },
+            "min": 1
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "nodeKind": "iri"
+            },
+            "min": 1,
+            "max": 1
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/alternateName",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "rdf:langString"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/alumniOf",
+            "valueExpr": "EducationalInstitution",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/award",
+            "valueExpr": "Award",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/deathDate",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:dateTime"
+            },
+            "min": 0,
+            "max": 1
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/deathPlace",
+            "valueExpr": "Place",
+            "min": 0,
+            "max": 1
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/image",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:anyURI"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/nationality",
+            "valueExpr": "Country",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://yago-knowledge.org/resource/beliefSystem",
+            "valueExpr": "BeliefSystem",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/knowsLanguage",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "nodeKind": "iri"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://yago-knowledge.org/resource/candidateIn",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "nodeKind": "iri"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/worksFor",
+            "valueExpr": "Organization",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/affiliation",
+            "valueExpr": "Organization",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/children",
+            "valueExpr": "Person",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/url",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:anyURI"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/homeLocation",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "nodeKind": "iri"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://yago-knowledge.org/resource/academicDegree",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "nodeKind": "iri"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/spouse",
+            "valueExpr": "Person",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/owns",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "nodeKind": "iri"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://yago-knowledge.org/resource/playsIn",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "nodeKind": "iri"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://yago-knowledge.org/resource/influencedBy",
+            "valueExpr": "Person",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://yago-knowledge.org/resource/notableWork",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "nodeKind": "iri"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/author",
+            "valueExpr": "Person",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/performer",
+            "valueExpr": "Person",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://yago-knowledge.org/resource/appearsIn",
+            "valueExpr": "TVSeries",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://yago-knowledge.org/resource/studentOf",
+            "valueExpr": "Person",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://yago-knowledge.org/resource/sportNumber",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:string"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://yago-knowledge.org/resource/doctoralAdvisor",
+            "valueExpr": "Person",
+            "min": 0
+          }
+        ]
+      },
+      "targetClass": "http://yago-knowledge.org/resource/Politician"
+    },
+    {
+      "type": "Shape",
+      "id": "Place",
+      "extra": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      ],
+      "expression": {
+        "type": "TripleConstraint",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueExpr": {
+          "type": "NodeConstraint",
+          "values": [
+            "http://schema.org/Place"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Shape",
+      "id": "Gender",
+      "extra": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      ],
+      "expression": {
+        "type": "TripleConstraint",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueExpr": {
+          "type": "NodeConstraint",
+          "values": [
+            "http://yago-knowledge.org/resource/Male_gender",
+            "http://yago-knowledge.org/resource/Female__u0028_gender_u0029_"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Shape",
+      "id": "PoliticalParty",
+      "extra": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      ],
+      "expression": {
+        "type": "TripleConstraint",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueExpr": {
+          "type": "NodeConstraint",
+          "values": [
+            "http://yago-knowledge.org/resource/PoliticalParty"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Shape",
+      "id": "EducationalInstitution",
+      "extra": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      ],
+      "expression": {
+        "type": "TripleConstraint",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueExpr": {
+          "type": "NodeConstraint",
+          "values": [
+            "http://schema.org/EducationalOrganization"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Shape",
+      "id": "Award",
+      "extra": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      ],
+      "expression": {
+        "type": "TripleConstraint",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueExpr": {
+          "type": "NodeConstraint",
+          "values": [
+            "http://yago-knowledge.org/resource/Award"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Shape",
+      "id": "Country",
+      "extra": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      ],
+      "expression": {
+        "type": "TripleConstraint",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueExpr": {
+          "type": "NodeConstraint",
+          "values": [
+            "http://yago-knowledge.org/resource/Country"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Shape",
+      "id": "BeliefSystem",
+      "extra": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      ],
+      "expression": {
+        "type": "TripleConstraint",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueExpr": {
+          "type": "NodeConstraint",
+          "values": [
+            "http://yago-knowledge.org/resource/Tibetan_Buddhism_generic_instance",
+            "http://yago-knowledge.org/resource/Gelug_generic_instance",
+            "http://yago-knowledge.org/resource/Islam_generic_instance",
+            "http://yago-knowledge.org/resource/Atheism_generic_instance"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Shape",
+      "id": "Organization",
+      "extra": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      ],
+      "expression": {
+        "type": "TripleConstraint",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueExpr": {
+          "type": "NodeConstraint",
+          "values": [
+            "http://schema.org/Organization"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Shape",
+      "id": "Person",
+      "extra": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      ],
+      "expression": {
+        "type": "TripleConstraint",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueExpr": {
+          "type": "NodeConstraint",
+          "values": [
+            "http://schema.org/Person"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Shape",
+      "id": "TVSeries",
+      "extra": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      ],
+      "expression": {
+        "type": "TripleConstraint",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueExpr": {
+          "type": "NodeConstraint",
+          "values": [
+            "http://yago-knowledge.org/resource/TVSeries"
+          ]
+        }
+      }
+    }
+  ]
+}

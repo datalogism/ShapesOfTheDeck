@@ -1,0 +1,137 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix shapes: <http://shaclshapes.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:UniversityShape a sh:NodeShape ;
+    sh:targetClass dbo:University ;
+    sh:property [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+    ] ;
+    sh:property [
+        sh:path dbo:foundingDate ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:date ;
+    ] ;
+    sh:property [
+        sh:path dbo:formerName ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+    ] ;
+    sh:property [
+        sh:path foaf:nick ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+    ] ;
+    sh:property [
+        sh:path dbo:mascot ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+    ] ;
+    sh:property [
+        sh:path dbo:motto ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+    ] ;
+    sh:property [
+        sh:path dbo:officialSchoolColour ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+    ] ;
+    sh:property [
+        sh:path dbo:numberOfStudents ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer ;
+    ] ;
+    sh:property [
+        sh:path dbo:endowment ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:decimal ;
+    ] ;
+    sh:property [
+        sh:path dbo:numberOfUndergraduateStudents ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer ;
+    ] ;
+    sh:property [
+        sh:path dbo:numberOfPostgraduateStudents ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer ;
+    ] ;
+    sh:property [
+        sh:path dbo:numberOfDoctoralStudents ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer ;
+    ] ;
+    sh:property [
+        sh:path dbo:facultySize ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer ;
+    ] ;
+    sh:property [
+        sh:path dbo:country ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Country ;
+    ] ;
+    sh:property [
+        sh:path dbo:city ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:City ;
+    ] ;
+    sh:property [
+        sh:path dbo:state ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:AdministrativeRegion ;
+    ] ;
+    sh:property [
+        sh:path dbo:province ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Province ;
+    ] ;
+    sh:property [
+        sh:path dbo:affiliation ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Organisation ;
+    ] ;
+    sh:property [
+        sh:path foaf:homepage ;
+        sh:nodeKind sh:IRI ;
+        sh:datatype xsd:anyURI ;
+    ] ;
+    sh:property [
+        sh:path dbo:type ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:EducationalInstitutionType ;
+    ] ;
+    sh:property [
+        sh:path dbo:campus ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Place ;
+    ] ;
+    sh:property [
+        sh:path dbo:chancellor ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+    ] ;
+    sh:property [
+        sh:path dbo:viceChancellor ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+    ] ;
+    sh:property [
+        sh:path dbo:president ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+    ] ;
+    sh:property [
+        sh:path dbo:other ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer ;
+    ] .

@@ -1,0 +1,103 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix shapes: <http://shaclshapes.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:AstronautShape a sh:NodeShape ;
+    sh:targetClass dbo:Astronaut ;
+    
+    sh:property [
+        sh:path foaf:name ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:birthDate ;
+        sh:datatype xsd:date ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:deathDate ;
+        sh:datatype xsd:date ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:birthName ;
+        sh:datatype rdf:langString ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:status ;
+        sh:datatype rdf:langString ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:birthPlace ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:deathPlace ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:almaMater ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 5 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:occupation ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 3 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:mission ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 5 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:selection ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:timeInSpace ;
+        sh:datatype xsd:decimal ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:birthYear ;
+        sh:datatype xsd:gYear ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:deathYear ;
+        sh:datatype xsd:gYear ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path <http://www.w3.org/ns/dcat#resource_identifier> ;
+        sh:datatype rdf:langString ;
+        sh:maxCount 3 ;
+    ] .

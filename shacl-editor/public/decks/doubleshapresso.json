@@ -1,0 +1,81 @@
+{
+  "id": "doubleshapresso",
+  "name": "DoubleShapresso",
+  "icon": "☕",
+  "color": "#c89b3c",
+  "description": "Comparative evaluation deck: Ground Truth vs DeepSeek-V3 (local/triples) vs ShExer on DBpedia and YAGO knowledge graphs.",
+  "eval_base": "doubleshapresso_deck",
+  "slots": [
+    {
+      "id": "gt-dbpedia",
+      "label": "Ground Truth",
+      "kg": "dbpedia",
+      "icon": "👑",
+      "color": "#c89b3c",
+      "eval_run": "GT_aligned_calibrated",
+      "filter": { "source": "ground-truth", "kg": "dbpedia", "variant": "dbpedia-aligned" }
+    },
+    {
+      "id": "deepseek-local-dbpedia",
+      "label": "DeepSeek Local",
+      "kg": "dbpedia",
+      "icon": "🤖",
+      "color": "#06b6d4",
+      "eval_run": "Deep-seek-local",
+      "filter": { "source": "shapes_generated", "kg": "dbpedia", "gen_mode": "shacl/local", "model": "deepseek-chat" }
+    },
+    {
+      "id": "shexer-dbpedia",
+      "label": "ShExer",
+      "kg": "dbpedia",
+      "icon": "🔬",
+      "color": "#7c3aed",
+      "eval_run": "Shexer",
+      "filter": { "source": "shexer", "kg": "dbpedia" }
+    },
+    {
+      "id": "gt-yago",
+      "label": "Ground Truth",
+      "kg": "yago",
+      "icon": "👑",
+      "color": "#c89b3c",
+      "eval_run": "GT_yago",
+      "filter": { "source": "ground-truth", "kg": "yago" }
+    },
+    {
+      "id": "deepseek-triples-yago",
+      "label": "DeepSeek Triples",
+      "kg": "yago",
+      "icon": "🤖",
+      "color": "#06b6d4",
+      "eval_run": "ds_triples_yago",
+      "filter": { "source": "shapes_generated", "kg": "yago", "gen_mode": "shacl/triples", "model": "deepseek-chat" }
+    },
+    {
+      "id": "shexer-yago",
+      "label": "ShExer",
+      "kg": "yago",
+      "icon": "🔬",
+      "color": "#7c3aed",
+      "eval_run": "shexer_yago",
+      "filter": { "source": "shexer", "kg": "yago" }
+    }
+  ],
+  "classes": {
+    "dbpedia": [
+      "Airport","Artist","Astronaut","Athlete","Building","CelestialBody",
+      "City","ComicsCharacter","Company","Film","Food","MeanOfTransportation",
+      "Monument","MusicalWork","Person","Politician","Scientist","SportsTeam",
+      "University","WrittenWork"
+    ],
+    "yago": [
+      "AdministrativeArea","Airline","Airport","AstronomicalObject","Award",
+      "BeliefSystem","BodyOfWater","Book","City","Continent","Corporation",
+      "Country","CreativeWork","Creator","EducationalOrganization","Election",
+      "Event","FictionalEntity","Gender","HumanMadeGeographicalEntity","Landform",
+      "Language","Movie","MusicComposition","MusicGroup","Newspaper","Organization",
+      "PerformingGroup","Person","Politician","Product","Scientist","SportsPerson",
+      "TVSeries","Taxon","Way","Worker"
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+shacl
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:CompanyShape a sh:NodeShape ;
+    sh:targetClass dbo:Company ;
+    sh:property [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:datatype rdf:langString ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:foundingYear ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:gYear ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:foundingDate ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:date ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:numberOfEmployees ;
+        sh:minCount 1 ;
+        sh:datatype xsd:integer ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:revenue ;
+        sh:minCount 1 ;
+        sh:datatype xsd:decimal ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:netIncome ;
+        sh:datatype xsd:decimal ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:operatingIncome ;
+        sh:datatype xsd:decimal ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:equity ;
+        sh:datatype xsd:decimal ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:assets ;
+        sh:datatype xsd:decimal ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:revenueYear ;
+        sh:datatype xsd:gYear ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:type ;
+        sh:minCount 1 ;
+        sh:class dbo:CompanyType ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:industry ;
+        sh:minCount 1 ;
+        sh:class dbo:Industry ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:product ;
+        sh:class dbo:Product ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:keyPerson ;
+        sh:class dbo:Person ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:subsidiary ;
+        sh:class dbo:Company ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:owner ;
+        sh:class dbo:Organisation ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:owningCompany ;
+        sh:class dbo:Company ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:headquarter ;
+        sh:class dbo:Place ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:location ;
+        sh:class dbo:Place ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:locationCity ;
+        sh:class dbo:City ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:foundedBy ;
+        sh:class dbo:Person ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:predecessor ;
+        sh:class dbo:Company ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:successor ;
+        sh:class dbo:Company ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:division ;
+        sh:class dbo:Organisation ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:service ;
+        sh:class dbo:Service ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:regionServed ;
+        sh:class dbo:Place ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:fate ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:formerName ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:dissolutionDate ;
+        sh:datatype xsd:date ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:numberOfLocations ;
+        sh:datatype xsd:integer ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:production ;
+        sh:datatype xsd:integer ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path foaf:homepage ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+    ] .

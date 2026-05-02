@@ -1,0 +1,1263 @@
+{
+  "run": {
+    "timestamp": "2026-04-30T09:36:16.448521+00:00",
+    "random_seed": 42,
+    "budget_per_class": 1000,
+    "min_class_population": 30,
+    "tolerated_error_rate": 0.5,
+    "significance_level": 0.05,
+    "baseline_violation_rate": 0.0,
+    "data_size": 1000064,
+    "sample_size": 2660
+  },
+  "shapes": [
+    {
+      "shape_iri": "http://weso.es/shapes/AdministrativeArea",
+      "target_classes": [
+        "http://schema.org/AdministrativeArea"
+      ],
+      "property_coverage": 0.909091,
+      "generality_estimate": 0.084025,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 306,
+      "violations_per_failing_node": 3.06,
+      "dominant_component": "in",
+      "violations_by_component": {
+        "nodekind": 6,
+        "in": 100,
+        "maxcount": 100,
+        "mincount": 100
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/AdministrativeArea",
+          "n_sample": 100,
+          "class_population": 84030,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Airline",
+      "target_classes": [
+        "http://schema.org/Airline"
+      ],
+      "property_coverage": 0.923077,
+      "generality_estimate": 0.004216,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 3490,
+      "violations_per_failing_node": 34.9,
+      "dominant_component": "nodekind",
+      "violations_by_component": {
+        "mincount": 300,
+        "nodekind": 2284,
+        "in": 606,
+        "maxcount": 300
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Airline",
+          "n_sample": 100,
+          "class_population": 4216,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Airport",
+      "target_classes": [
+        "http://schema.org/Airport"
+      ],
+      "property_coverage": 0.916667,
+      "generality_estimate": 0.011291,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 765,
+      "violations_per_failing_node": 7.65,
+      "dominant_component": "nodekind",
+      "violations_by_component": {
+        "in": 132,
+        "maxcount": 101,
+        "mincount": 101,
+        "nodekind": 431
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Airport",
+          "n_sample": 100,
+          "class_population": 11292,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/AstronomicalObject",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/AstronomicalObject"
+      ],
+      "property_coverage": 0.8,
+      "generality_estimate": 3.7e-05,
+      "reach": 37,
+      "violating_node_count": 37,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 219,
+      "violations_per_failing_node": 5.9189,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "mincount": 114,
+        "in": 37,
+        "maxcount": 68
+      },
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/AstronomicalObject",
+          "n_sample": 37,
+          "class_population": 37,
+          "violations": 37,
+          "trust": 0.0,
+          "trust_ci_low": 0.0,
+          "trust_ci_high": 0.0940578258372025,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Award",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/Award"
+      ],
+      "property_coverage": 0.857143,
+      "generality_estimate": 0.008955,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 265,
+      "violations_per_failing_node": 2.65,
+      "dominant_component": "nodekind",
+      "violations_by_component": {
+        "mincount": 101,
+        "in": 4,
+        "maxcount": 2,
+        "nodekind": 158
+      },
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/Award",
+          "n_sample": 100,
+          "class_population": 8956,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/BodyOfWater",
+      "target_classes": [
+        "http://schema.org/BodyOfWater"
+      ],
+      "property_coverage": 0.875,
+      "generality_estimate": 0.000317,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 965,
+      "violations_per_failing_node": 9.65,
+      "dominant_component": "in",
+      "violations_by_component": {
+        "mincount": 321,
+        "in": 406,
+        "maxcount": 200,
+        "nodekind": 38
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/BodyOfWater",
+          "n_sample": 100,
+          "class_population": 317,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Book",
+      "target_classes": [
+        "http://schema.org/Book"
+      ],
+      "property_coverage": 0.857143,
+      "generality_estimate": 0.003283,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 626,
+      "violations_per_failing_node": 6.26,
+      "dominant_component": "in",
+      "violations_by_component": {
+        "mincount": 200,
+        "in": 226,
+        "maxcount": 200
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Book",
+          "n_sample": 100,
+          "class_population": 3283,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/City",
+      "target_classes": [
+        "http://schema.org/City"
+      ],
+      "property_coverage": 0.941176,
+      "generality_estimate": 0.006129,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 4095,
+      "violations_per_failing_node": 40.95,
+      "dominant_component": "nodekind",
+      "violations_by_component": {
+        "nodekind": 3079,
+        "in": 582,
+        "maxcount": 217,
+        "mincount": 217
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/City",
+          "n_sample": 100,
+          "class_population": 6129,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Continent",
+      "target_classes": [
+        "http://schema.org/Continent"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://schema.org/Continent",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Corporation",
+      "target_classes": [
+        "http://schema.org/Corporation"
+      ],
+      "property_coverage": 0.888889,
+      "generality_estimate": 0.047128,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 893,
+      "violations_per_failing_node": 8.93,
+      "dominant_component": "nodekind",
+      "violations_by_component": {
+        "nodekind": 287,
+        "mincount": 200,
+        "in": 206,
+        "maxcount": 200
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Corporation",
+          "n_sample": 100,
+          "class_population": 47131,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Country",
+      "target_classes": [
+        "http://schema.org/Country"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://schema.org/Country",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/CreativeWork",
+      "target_classes": [
+        "http://schema.org/CreativeWork"
+      ],
+      "property_coverage": 0.888889,
+      "generality_estimate": 0.000295,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 107,
+      "violations_per_failing_node": 1.07,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "maxcount": 3,
+        "nodekind": 3,
+        "mincount": 100,
+        "in": 1
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/CreativeWork",
+          "n_sample": 100,
+          "class_population": 295,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Creator",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/Creator"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/Creator",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/EducationalOrganization",
+      "target_classes": [
+        "http://schema.org/EducationalOrganization"
+      ],
+      "property_coverage": 0.875,
+      "generality_estimate": 0.000185,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 924,
+      "violations_per_failing_node": 9.24,
+      "dominant_component": "nodekind",
+      "violations_by_component": {
+        "nodekind": 288,
+        "mincount": 200,
+        "in": 236,
+        "maxcount": 200
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/EducationalOrganization",
+          "n_sample": 100,
+          "class_population": 185,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Election",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/Election"
+      ],
+      "property_coverage": 0.777778,
+      "generality_estimate": 0.010713,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 504,
+      "violations_per_failing_node": 5.04,
+      "dominant_component": "maxcount",
+      "violations_by_component": {
+        "maxcount": 204,
+        "in": 200,
+        "mincount": 100
+      },
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/Election",
+          "n_sample": 100,
+          "class_population": 10714,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Event",
+      "target_classes": [
+        "http://schema.org/Event"
+      ],
+      "property_coverage": 0.714286,
+      "generality_estimate": 0.00537,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 101,
+      "violations_per_failing_node": 1.01,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "maxcount": 1,
+        "mincount": 100
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Event",
+          "n_sample": 100,
+          "class_population": 5370,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/FictionalEntity",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/FictionalEntity"
+      ],
+      "property_coverage": 0.875,
+      "generality_estimate": 8.5e-05,
+      "reach": 85,
+      "violating_node_count": 34,
+      "conformance": 0.6,
+      "violation_rate": 0.4,
+      "total_result_count": 210,
+      "violations_per_failing_node": 6.1765,
+      "dominant_component": "in",
+      "violations_by_component": {
+        "in": 121,
+        "maxcount": 62,
+        "mincount": 27
+      },
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/FictionalEntity",
+          "n_sample": 85,
+          "class_population": 85,
+          "violations": 34,
+          "trust": 0.6,
+          "trust_ci_low": 0.4937144282253916,
+          "trust_ci_high": 0.6976376750117981,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "accepted",
+          "binomial_pvalue": 0.04102714979374356,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Gender",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/Gender"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/Gender",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/HumanMadeGeographicalEntity",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/HumanMadeGeographicalEntity"
+      ],
+      "property_coverage": 0.875,
+      "generality_estimate": 0.005872,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 213,
+      "violations_per_failing_node": 2.13,
+      "dominant_component": "in",
+      "violations_by_component": {
+        "nodekind": 13,
+        "in": 100,
+        "maxcount": 100
+      },
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/HumanMadeGeographicalEntity",
+          "n_sample": 100,
+          "class_population": 5872,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Landform",
+      "target_classes": [
+        "http://schema.org/Landform"
+      ],
+      "property_coverage": 0.9,
+      "generality_estimate": 0.000918,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 461,
+      "violations_per_failing_node": 4.61,
+      "dominant_component": "maxcount",
+      "violations_by_component": {
+        "in": 105,
+        "maxcount": 179,
+        "mincount": 149,
+        "nodekind": 28
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Landform",
+          "n_sample": 100,
+          "class_population": 918,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Language",
+      "target_classes": [
+        "http://schema.org/Language"
+      ],
+      "property_coverage": 0.833333,
+      "generality_estimate": 0.000503,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 100,
+      "violations_per_failing_node": 1.0,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "mincount": 100
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Language",
+          "n_sample": 100,
+          "class_population": 503,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Movie",
+      "target_classes": [
+        "http://schema.org/Movie"
+      ],
+      "property_coverage": 0.888889,
+      "generality_estimate": 0.141777,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 656,
+      "violations_per_failing_node": 6.56,
+      "dominant_component": "maxcount",
+      "violations_by_component": {
+        "in": 214,
+        "maxcount": 227,
+        "mincount": 215
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Movie",
+          "n_sample": 100,
+          "class_population": 141786,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/MusicComposition",
+      "target_classes": [
+        "http://schema.org/MusicComposition"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://schema.org/MusicComposition",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/MusicGroup",
+      "target_classes": [
+        "http://schema.org/MusicGroup"
+      ],
+      "property_coverage": 0.888889,
+      "generality_estimate": 0.00129,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 1049,
+      "violations_per_failing_node": 10.49,
+      "dominant_component": "nodekind",
+      "violations_by_component": {
+        "nodekind": 393,
+        "mincount": 201,
+        "in": 216,
+        "maxcount": 239
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/MusicGroup",
+          "n_sample": 100,
+          "class_population": 1290,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Newspaper",
+      "target_classes": [
+        "http://schema.org/Newspaper"
+      ],
+      "property_coverage": 0.888889,
+      "generality_estimate": 0.007516,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 708,
+      "violations_per_failing_node": 7.08,
+      "dominant_component": "in",
+      "violations_by_component": {
+        "mincount": 200,
+        "in": 214,
+        "maxcount": 200,
+        "nodekind": 94
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Newspaper",
+          "n_sample": 100,
+          "class_population": 7516,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Organization",
+      "target_classes": [
+        "http://schema.org/Organization"
+      ],
+      "property_coverage": 0.875,
+      "generality_estimate": 0.021535,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 125,
+      "violations_per_failing_node": 1.25,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "nodekind": 25,
+        "mincount": 100
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Organization",
+          "n_sample": 100,
+          "class_population": 21536,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/PerformingGroup",
+      "target_classes": [
+        "http://schema.org/PerformingGroup"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://schema.org/PerformingGroup",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Person",
+      "target_classes": [
+        "http://schema.org/Person"
+      ],
+      "property_coverage": 0.888889,
+      "generality_estimate": 0.13446,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 103,
+      "violations_per_failing_node": 1.03,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "mincount": 100,
+        "nodekind": 3
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Person",
+          "n_sample": 100,
+          "class_population": 134469,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Politician",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/Politician"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/Politician",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Product",
+      "target_classes": [
+        "http://schema.org/Product"
+      ],
+      "property_coverage": 0.4,
+      "generality_estimate": 8.2e-05,
+      "reach": 82,
+      "violating_node_count": 82,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 82,
+      "violations_per_failing_node": 1.0,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "mincount": 82
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Product",
+          "n_sample": 82,
+          "class_population": 82,
+          "violations": 82,
+          "trust": 0.0,
+          "trust_ci_low": 0.0,
+          "trust_ci_high": 0.04475062369010032,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/SportsPerson",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/SportsPerson"
+      ],
+      "property_coverage": 0.933333,
+      "generality_estimate": 5.6e-05,
+      "reach": 56,
+      "violating_node_count": 56,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 356,
+      "violations_per_failing_node": 6.3571,
+      "dominant_component": "in",
+      "violations_by_component": {
+        "mincount": 56,
+        "in": 181,
+        "maxcount": 119
+      },
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/SportsPerson",
+          "n_sample": 56,
+          "class_population": 56,
+          "violations": 56,
+          "trust": 0.0,
+          "trust_ci_low": 0.0,
+          "trust_ci_high": 0.06419393671876342,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/TVSeries",
+      "target_classes": [
+        "http://schema.org/TVSeries"
+      ],
+      "property_coverage": 0.9,
+      "generality_estimate": 0.037094,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 874,
+      "violations_per_failing_node": 8.74,
+      "dominant_component": "in",
+      "violations_by_component": {
+        "in": 266,
+        "maxcount": 233,
+        "nodekind": 175,
+        "mincount": 200
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/TVSeries",
+          "n_sample": 100,
+          "class_population": 37096,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Taxon",
+      "target_classes": [
+        "http://schema.org/Taxon"
+      ],
+      "property_coverage": 0.875,
+      "generality_estimate": 0.435781,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 107,
+      "violations_per_failing_node": 1.07,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "nodekind": 7,
+        "mincount": 100
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Taxon",
+          "n_sample": 100,
+          "class_population": 435809,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Way",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/Way"
+      ],
+      "property_coverage": 0.9,
+      "generality_estimate": 0.000466,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 247,
+      "violations_per_failing_node": 2.47,
+      "dominant_component": "in",
+      "violations_by_component": {
+        "nodekind": 47,
+        "in": 100,
+        "maxcount": 100
+      },
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/Way",
+          "n_sample": 100,
+          "class_population": 466,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://weso.es/shapes/Worker",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/Worker"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/Worker",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "target_coverage_overall": 0.962406,
+    "target_coverage_per_class": {
+      "http://schema.org/AdministrativeArea": 1.0,
+      "http://schema.org/Airline": 1.0,
+      "http://schema.org/Airport": 1.0,
+      "http://schema.org/BodyOfWater": 1.0,
+      "http://schema.org/Book": 1.0,
+      "http://schema.org/City": 1.0,
+      "http://schema.org/Corporation": 1.0,
+      "http://schema.org/CreativeWork": 1.0,
+      "http://schema.org/EducationalOrganization": 1.0,
+      "http://schema.org/Event": 1.0,
+      "http://schema.org/Landform": 1.0,
+      "http://schema.org/Language": 1.0,
+      "http://schema.org/Movie": 1.0,
+      "http://schema.org/MusicGroup": 1.0,
+      "http://schema.org/Newspaper": 1.0,
+      "http://schema.org/Organization": 1.0,
+      "http://schema.org/Person": 1.0,
+      "http://schema.org/Product": 1.0,
+      "http://schema.org/TVSeries": 1.0,
+      "http://schema.org/Taxon": 1.0,
+      "http://yago-knowledge.org/resource/AstronomicalObject": 1.0,
+      "http://yago-knowledge.org/resource/Award": 1.0,
+      "http://yago-knowledge.org/resource/Election": 1.0,
+      "http://yago-knowledge.org/resource/FictionalEntity": 1.0,
+      "http://yago-knowledge.org/resource/HumanMadeGeographicalEntity": 1.0,
+      "http://yago-knowledge.org/resource/Scientist": 0.0,
+      "http://yago-knowledge.org/resource/SportsPerson": 1.0,
+      "http://yago-knowledge.org/resource/Way": 1.0
+    }
+  },
+  "global": {
+    "total_violations": 18551,
+    "violated_shapes": 27,
+    "total_shapes": 27,
+    "violated_shapes_rate": 1.0,
+    "most_violated_shape": "http://weso.es/shapes/AdministrativeArea",
+    "violated_paths": 12,
+    "total_paths": 50,
+    "violated_paths_rate": 0.24,
+    "most_violated_path": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "violated_focus_nodes": 2609,
+    "most_violated_focus_node": "http://yago-knowledge.org/resource/Papeete",
+    "violated_components": 4,
+    "total_components": 5,
+    "violated_components_rate": 0.8,
+    "most_violated_component": "nodekind"
+  }
+}

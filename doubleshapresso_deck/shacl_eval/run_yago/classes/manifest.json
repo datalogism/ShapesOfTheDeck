@@ -1,0 +1,8 @@
+{
+  "random_seed": 42,
+  "budget_per_class": 100,
+  "min_class_population": 30,
+  "exclude_blank_nodes": true,
+  "max_neighbours_per_predicate": 100,
+  "endpoint_url": "https://yago-knowledge.org/sparql/qlever"
+}

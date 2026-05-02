@@ -1,0 +1,93 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix shapes: <http://shaclshapes.org/> .
+@prefix umbel: <http://umbel.org/umbel/rc/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:FoodShape a sh:NodeShape ;
+    sh:property [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path rdfs:label ],
+        [ sh:class dbo:Place ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:region ],
+        [ sh:datatype xsd:string ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:cuisine ],
+        [ sh:nodeKind sh:IRI ;
+            sh:or ( [ sh:class dbo:Agent ] [ sh:class dbo:EthnicGroup ] [ sh:class owl:Thing ] ) ;
+            sh:path dbo:creatorOfDish ],
+        [ sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:or ( [ sh:class dbo:Food ] [ sh:class dbo:Taxon ] [ sh:class umbel:BiologicalLivingObject ] ) ;
+            sh:path dbo:ingredient ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path foaf:name ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:ingredientName ],
+        [ sh:class dbo:Food ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:related ],
+        [ sh:class dbo:Food ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:hasVariant ],
+        [ sh:datatype rdf:langString ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:alias ],
+        [ sh:datatype xsd:double ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:protein ],
+        [ sh:datatype xsd:double ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:approximateCalories ],
+        [ sh:datatype xsd:double ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:servingSize ],
+        [ sh:datatype xsd:string ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:servingTemperature ],
+        [ sh:class dbo:Agent ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:manufacturer ],
+        [ sh:class dbo:Organisation ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:distributor ],
+        [ sh:class dbo:Image ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:picture ],
+        [ sh:datatype xsd:integer ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:wikiPageRevisionID ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path rdfs:comment ],
+        [ sh:datatype xsd:string ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:notes ],
+        [ sh:datatype xsd:gYear ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:year ],
+        [ sh:class dbo:Place ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:origin ],
+        [ sh:class dbo:Country ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:country ] ;
+    sh:targetClass dbo:Food .
+

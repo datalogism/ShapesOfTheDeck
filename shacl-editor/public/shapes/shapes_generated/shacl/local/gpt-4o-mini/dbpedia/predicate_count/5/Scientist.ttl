@@ -1,0 +1,128 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+sh:ScientistShape a sh:NodeShape ;
+    sh:targetClass dbo:Scientist ;
+    
+    sh:property [
+        sh:path rdf:type ;
+        sh:nodeKind sh:IRI ;
+        sh:hasValue dbo:Scientist ;
+        sh:message "Each Scientist must be of type dbo:Scientist."
+    ] ;
+    
+    sh:property [
+        sh:path foaf:name ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:message "Each Scientist must have a name."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:birthDate ;
+        sh:datatype xsd:date ;
+        sh:maxCount 1 ;
+        sh:message "Each Scientist may have a birth date."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:deathDate ;
+        sh:datatype xsd:date ;
+        sh:maxCount 1 ;
+        sh:message "Each Scientist may have a death date."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:birthPlace ;
+        sh:nodeKind sh:IRI ;
+        sh:minCount 1 ;
+        sh:message "Each Scientist must have a birth place."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:almaMater ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "Each Scientist may have an alma mater."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:institution ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "Each Scientist may have an institution."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:nationality ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "Each Scientist may have a nationality."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:knownFor ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "Each Scientist may have known contributions."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:award ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "Each Scientist may have received awards."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:doctoralAdvisor ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "Each Scientist may have a doctoral advisor."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:doctoralStudent ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "Each Scientist may have doctoral students."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:notableStudent ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "Each Scientist may have notable students."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:influencedBy ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "Each Scientist may have been influenced by others."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:influenced ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "Each Scientist may have influenced others."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:spouse ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "Each Scientist may have a spouse."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:deathPlace ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "Each Scientist may have a death place."
+    ] ;

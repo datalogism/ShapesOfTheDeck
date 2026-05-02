@@ -1,0 +1,216 @@
+{
+  "@context": "http://www.w3.org/ns/shexje.jsonld",
+  "type": "Schema",
+  "prefixes": {
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "sh": "http://www.w3.org/ns/shacl#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "dbo": "http://dbpedia.org/ontology/",
+    "dbr": "http://dbpedia.org/resource/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "schema": "http://schema.org/",
+    "yago": "http://yago-knowledge.org/resource/",
+    "wd": "http://www.wikidata.org/entity/",
+    "wdt": "http://www.wikidata.org/prop/direct/"
+  },
+  "start": "MusicGroup",
+  "shapes": [
+    {
+      "type": "Shape",
+      "id": "MusicGroup",
+      "extra": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      ],
+      "expression": {
+        "type": "EachOf",
+        "expressions": [
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/alternateName",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "rdf:langString"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/dateCreated",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:dateTime"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/mainEntityOfPage",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:anyURI"
+            },
+            "min": 1
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/sameAs",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:string"
+            },
+            "min": 1,
+            "max": 2
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/url",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:anyURI"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "valueExpr": "MusicGroup",
+            "min": 1,
+            "max": 2
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "rdf:langString"
+            },
+            "min": 1
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "rdf:langString"
+            },
+            "min": 1
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+            "valueExpr": "MusicGroup",
+            "min": 1,
+            "max": 1
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/image",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:anyURI"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/locationCreated",
+            "valueExpr": "MusicGroup",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/location",
+            "valueExpr": "MusicGroup",
+            "min": 1
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/recordLabel",
+            "valueExpr": "MusicGroup",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/dissolutionDate",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:dateTime"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://yago-knowledge.org/resource/influencedBy",
+            "valueExpr": "MusicGroup",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/knowsLanguage",
+            "valueExpr": "MusicGroup",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/award",
+            "valueExpr": "MusicGroup",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://yago-knowledge.org/resource/ownedBy",
+            "valueExpr": "MusicGroup",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://yago-knowledge.org/resource/notableWork",
+            "valueExpr": "MusicGroup",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/founder",
+            "valueExpr": "MusicGroup",
+            "min": 0,
+            "max": 2
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/logo",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:anyURI"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://yago-knowledge.org/resource/director",
+            "valueExpr": "MusicGroup",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/geo",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "geo:wktLiteral"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://yago-knowledge.org/resource/appearsIn",
+            "valueExpr": "MusicGroup",
+            "min": 0
+          }
+        ]
+      },
+      "targetClass": "http://schema.org/MusicGroup"
+    }
+  ]
+}

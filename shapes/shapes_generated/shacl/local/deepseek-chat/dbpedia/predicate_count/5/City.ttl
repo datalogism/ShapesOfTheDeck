@@ -1,0 +1,172 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix shapes: <http://shaclshapes.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:CityShape a sh:NodeShape ;
+    sh:targetClass dbo:City ;
+    sh:property [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString
+    ], [
+        sh:path dbo:areaTotal ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:foundingDate ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:date
+    ], [
+        sh:path dbo:populationTotal ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:elevation ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:utcOffset ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string
+    ], [
+        sh:path dbo:areaCode ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string
+    ], [
+        sh:path dbo:postalCode ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string
+    ], [
+        sh:path dbo:demonym ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString
+    ], [
+        sh:path foaf:nick ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString
+    ], [
+        sh:path dbo:motto ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString
+    ], [
+        sh:path dbo:populationDensity ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:populationTotalRanking ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:areaLand ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:maximumElevation ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:minimumElevation ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:populationMetro ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:areaMetro ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:areaWater ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:percentageOfAreaWater ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:areaUrban ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:populationUrban ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:populationMetroDensity ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:populationUrbanDensity ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:areaRural ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:governingBody ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Organisation
+    ], [
+        sh:path dbo:founder ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person
+    ], [
+        sh:path dbo:type ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Type
+    ], [
+        sh:path dbo:subdivision ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Place
+    ], [
+        sh:path dbo:governmentType ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:GovernmentType
+    ], [
+        sh:path dbo:politicalLeader ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:PoliticalFunction
+    ], [
+        sh:path dbo:timeZone ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:TimeZone
+    ], [
+        sh:path dbo:namedAfter ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person
+    ], [
+        sh:path dbo:anthem ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Song
+    ], [
+        sh:path dbo:country ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Country
+    ], [
+        sh:path foaf:homepage ;
+        sh:nodeKind sh:IRI ;
+        sh:datatype xsd:anyURI
+    ], [
+        sh:path dbo:synonym ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString
+    ], [
+        sh:path dbo:originalName ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString
+    ], [
+        sh:path dbo:length ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:width ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ] .

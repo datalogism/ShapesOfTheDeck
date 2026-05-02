@@ -1,0 +1,177 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/shapes/ScientistShape>
+    a sh:NodeShape ;
+    sh:targetClass dbo:Scientist ;
+    
+    # Core properties (present in all examples)
+    sh:property [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:datatype xsd:string ;
+        sh:description "The full name of the scientist."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:birthDate ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:date ;
+        sh:description "The date of birth."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:deathDate ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:date ;
+        sh:description "The date of death."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:birthYear ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:gYear ;
+        sh:description "The year of birth."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:deathYear ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:gYear ;
+        sh:description "The year of death."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:birthPlace ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:description "The place of birth."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:deathPlace ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:description "The place of death."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:knownFor ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:description "What the scientist is known for."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:academicDiscipline ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:description "The academic discipline(s) of the scientist."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:institution ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:description "Institutions the scientist was affiliated with."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:almaMater ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:description "Alma mater(s) of the scientist."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:award ;
+        sh:nodeKind sh:IRI ;
+        sh:description "Awards received by the scientist."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:doctoralAdvisor ;
+        sh:nodeKind sh:IRI ;
+        sh:description "Doctoral advisor(s) of the scientist."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:academicAdvisor ;
+        sh:nodeKind sh:IRI ;
+        sh:description "Academic advisor(s) of the scientist."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:doctoralStudent ;
+        sh:nodeKind sh:IRI ;
+        sh:description "Doctoral student(s) of the scientist."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:notableStudent ;
+        sh:nodeKind sh:IRI ;
+        sh:description "Notable student(s) of the scientist."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:influencedBy ;
+        sh:nodeKind sh:IRI ;
+        sh:description "People who influenced the scientist."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:influenced ;
+        sh:nodeKind sh:IRI ;
+        sh:description "People influenced by the scientist."
+    ] ;
+    
+    # Optional properties (present in some examples)
+    sh:property [
+        sh:path dbo:nationality ;
+        sh:nodeKind sh:IRI ;
+        sh:description "Nationality of the scientist."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:citizenship ;
+        sh:nodeKind sh:IRI ;
+        sh:description "Citizenship(s) of the scientist."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:spouse ;
+        sh:nodeKind sh:IRI ;
+        sh:description "Spouse(s) of the scientist."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:child ;
+        sh:nodeKind sh:IRI ;
+        sh:description "Child(ren) of the scientist."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:residence ;
+        sh:nodeKind sh:IRI ;
+        sh:description "Residence(s) of the scientist."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:birthName ;
+        sh:datatype xsd:string ;
+        sh:description "Birth name of the scientist."
+    ] ;
+    
+    sh:property [
+        sh:path dbo:alternativeName ;
+        sh:datatype xsd:string ;
+        sh:description "Alternative name(s) of the scientist."
+    ] .

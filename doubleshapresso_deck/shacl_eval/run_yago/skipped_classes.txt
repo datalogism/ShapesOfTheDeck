@@ -1,0 +1,9 @@
+http://schema.org/Continent	N_c=11
+http://schema.org/Country	N_c=17
+http://schema.org/MusicComposition	N_c=7
+http://schema.org/PerformingGroup	N_c=13
+http://schema.org/Politician	N_c=0
+http://yago-knowledge.org/resource/BeliefSystem	N_c=3
+http://yago-knowledge.org/resource/Creator	N_c=4
+http://yago-knowledge.org/resource/Gender	N_c=15
+http://yago-knowledge.org/resource/Worker	N_c=21

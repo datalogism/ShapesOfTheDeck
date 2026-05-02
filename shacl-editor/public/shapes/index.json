@@ -1,0 +1,5114 @@
+[
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/Airport.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "Airport"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/Artist.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "Artist"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/Astronaut.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "Astronaut"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/Athlete.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "Athlete"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/Building.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "Building"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/CelestialBody.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "CelestialBody"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/City.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "City"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/ComicsCharacter.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "ComicsCharacter"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/Company.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "Company"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/Film.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "Film"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/Food.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "Food"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/MeanOfTransportation.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "MeanOfTransportation"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/Monument.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "Monument"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/MusicalWork.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "MusicalWork"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/Person.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "Person"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/Politician.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "Politician"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/Scientist.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "Scientist"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/SportsTeam.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "SportsTeam"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/University.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "University"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-aligned/WrittenWork.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-aligned",
+    "class": "WrittenWork"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/Airport.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "Airport"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/Artist.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "Artist"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/Astronaut.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "Astronaut"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/Athlete.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "Athlete"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/Building.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "Building"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/CelestialBody.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "CelestialBody"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/City.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "City"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/ComicsCharacter.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "ComicsCharacter"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/Company.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "Company"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/Film.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "Film"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/Food.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "Food"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/MeanOfTransportation.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "MeanOfTransportation"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/Monument.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "Monument"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/MusicalWork.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "MusicalWork"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/Person.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "Person"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/Politician.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "Politician"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/Scientist.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "Scientist"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/SportsTeam.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "SportsTeam"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/University.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "University"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-complete/WrittenWork.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-complete",
+    "class": "WrittenWork"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/AirportShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "Airport"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/ArtistShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "Artist"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/AstronautShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "Astronaut"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/AthleteShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "Athlete"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/BuildingShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "Building"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/CelestialBodyShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "CelestialBody"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/CityShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "City"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/ComicsCharacterShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "ComicsCharacter"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/CompanyShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "Company"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/FilmShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "Film"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/FoodShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "Food"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/MeanOfTransportationShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "MeanOfTransportation"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/MonumentShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "Monument"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/MusicalWorkShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "MusicalWork"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/PoliticianShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "Politician"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/ScientistShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "Scientist"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/SportsTeamShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "SportsTeam"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/UniversityShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "University"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v0/WrittenWorkShapeTXT2KG_clean.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v0",
+    "class": "WrittenWork"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/Airport.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "Airport"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/Artist.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "Artist"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/Astronaut.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "Astronaut"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/Athlete.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "Athlete"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/Building.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "Building"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/CelestialBody.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "CelestialBody"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/City.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "City"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/ComicsCharacter.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "ComicsCharacter"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/Company.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "Company"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/Film.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "Film"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/Food.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "Food"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/MeanOfTransportation.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "MeanOfTransportation"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/Monument.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "Monument"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/MusicalWork.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "MusicalWork"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/Person.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "Person"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/Politician.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "Politician"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/Scientist.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "Scientist"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/SportsTeam.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "SportsTeam"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/University.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "University"
+  },
+  {
+    "path": "ground-truth/SHACL/dbpedia-v1/WrittenWork.ttl",
+    "source": "ground-truth",
+    "kg": "dbpedia",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "dbpedia-v1",
+    "class": "WrittenWork"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/AdministrativeArea.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "AdministrativeArea"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Airline.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Airline"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Airport.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Airport"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/AstronomicalObject.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "AstronomicalObject"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Award.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Award"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/BeliefSystem.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "BeliefSystem"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/BodyOfWater.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "BodyOfWater"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Book.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Book"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/City.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "City"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Continent.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Continent"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Corporation.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Corporation"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Country.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Country"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/CreativeWork.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "CreativeWork"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Creator.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Creator"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/EducationalOrganization.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "EducationalOrganization"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Election.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Election"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Event.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Event"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/FictionalEntity.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "FictionalEntity"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Gender.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Gender"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/HumanMadeGeographicalEntity.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "HumanMadeGeographicalEntity"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Landform.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Landform"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Language.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Language"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Movie.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Movie"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/MusicComposition.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "MusicComposition"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/MusicGroup.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "MusicGroup"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Newspaper.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Newspaper"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Organization.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Organization"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/PerformingGroup.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "PerformingGroup"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Person.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Person"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Politician.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Politician"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Product.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Product"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Scientist.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Scientist"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/SportsPerson.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "SportsPerson"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/TVSeries.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "TVSeries"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Taxon.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Taxon"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Way.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Way"
+  },
+  {
+    "path": "ground-truth/SHACL/yago/Worker.ttl",
+    "source": "ground-truth",
+    "kg": "yago",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "yago",
+    "class": "Worker"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/AdministrativeArea.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "AdministrativeArea"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Airline.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Airline"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Airport.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Airport"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/AstronomicalObject.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "AstronomicalObject"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Award.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Award"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/BeliefSystem.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "BeliefSystem"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/BodyOfWater.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "BodyOfWater"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Book.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Book"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/City.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "City"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Continent.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Continent"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Corporation.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Corporation"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Country.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Country"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/CreativeWork.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "CreativeWork"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Creator.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Creator"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/EducationalOrganization.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "EducationalOrganization"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Election.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Election"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Event.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Event"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/FictionalEntity.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "FictionalEntity"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Gender.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Gender"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/HumanMadeGeographicalEntity.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "HumanMadeGeographicalEntity"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Landform.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Landform"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Language.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Language"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Movie.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Movie"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/MusicComposition.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "MusicComposition"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/MusicGroup.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "MusicGroup"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Newspaper.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Newspaper"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Organization.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Organization"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/PerformingGroup.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "PerformingGroup"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Person.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Person"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Politician.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Politician"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Product.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Product"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/SportsPerson.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "SportsPerson"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/TVSeries.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "TVSeries"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Taxon.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Taxon"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Way.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Way"
+  },
+  {
+    "path": "shapes_generated/shacl/global/deepseek-chat/yago/predicate_count/5/Worker.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "deepseek-chat",
+    "variant": "shacl/global/deepseek-chat",
+    "class": "Worker"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/AdministrativeArea.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "AdministrativeArea"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Airline.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Airline"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Airport.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Airport"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/AstronomicalObject.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "AstronomicalObject"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Award.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Award"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/BeliefSystem.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "BeliefSystem"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/BodyOfWater.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "BodyOfWater"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Book.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Book"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/City.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "City"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Continent.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Continent"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Corporation.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Corporation"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Country.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Country"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/CreativeWork.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "CreativeWork"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Creator.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Creator"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/EducationalOrganization.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "EducationalOrganization"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Election.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Election"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Event.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Event"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/FictionalEntity.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "FictionalEntity"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Gender.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Gender"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/HumanMadeGeographicalEntity.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "HumanMadeGeographicalEntity"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Landform.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Landform"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Language.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Language"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Movie.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Movie"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/MusicComposition.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "MusicComposition"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/MusicGroup.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "MusicGroup"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Newspaper.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Newspaper"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Organization.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Organization"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/PerformingGroup.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "PerformingGroup"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Person.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Person"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Politician.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Politician"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Product.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Product"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/SportsPerson.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "SportsPerson"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/TVSeries.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "TVSeries"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Taxon.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Taxon"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Way.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Way"
+  },
+  {
+    "path": "shapes_generated/shacl/global/gpt-4o-mini/yago/predicate_count/5/Worker.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/global/gpt-4o-mini",
+    "class": "Worker"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/Airport.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Airport"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/Artist.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Artist"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/Astronaut.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Astronaut"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/Athlete.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Athlete"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/Building.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Building"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/CelestialBody.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "CelestialBody"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/City.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "City"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/ComicsCharacter.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "ComicsCharacter"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/Company.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Company"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/Film.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Film"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/Food.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Food"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/MeanOfTransportation.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "MeanOfTransportation"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/Monument.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Monument"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/MusicalWork.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "MusicalWork"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/Person.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Person"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/Politician.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Politician"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/Scientist.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Scientist"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/SportsTeam.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "SportsTeam"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/University.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "University"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/dbpedia/predicate_count/5/WrittenWork.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "WrittenWork"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/AdministrativeArea.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "AdministrativeArea"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Airline.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Airline"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Airport.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Airport"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/AstronomicalObject.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "AstronomicalObject"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Award.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Award"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/BeliefSystem.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "BeliefSystem"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/BodyOfWater.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "BodyOfWater"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Book.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Book"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/City.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "City"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Continent.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Continent"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Corporation.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Corporation"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Country.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Country"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/CreativeWork.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "CreativeWork"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Creator.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Creator"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/EducationalOrganization.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "EducationalOrganization"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Election.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Election"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Event.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Event"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/FictionalEntity.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "FictionalEntity"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Gender.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Gender"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/HumanMadeGeographicalEntity.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "HumanMadeGeographicalEntity"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Landform.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Landform"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Language.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Language"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Movie.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Movie"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/MusicComposition.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "MusicComposition"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/MusicGroup.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "MusicGroup"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Newspaper.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Newspaper"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Organization.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Organization"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/PerformingGroup.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "PerformingGroup"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Person.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Person"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Politician.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Politician"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Product.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Product"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/SportsPerson.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "SportsPerson"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/TVSeries.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "TVSeries"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Taxon.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Taxon"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Way.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Way"
+  },
+  {
+    "path": "shapes_generated/shacl/local/deepseek-chat/yago/predicate_count/5/Worker.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "deepseek-chat",
+    "variant": "shacl/local/deepseek-chat",
+    "class": "Worker"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/Airport.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Airport"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/Artist.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Artist"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/Astronaut.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Astronaut"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/Athlete.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Athlete"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/Building.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Building"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/CelestialBody.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "CelestialBody"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/City.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "City"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/ComicsCharacter.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "ComicsCharacter"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/Company.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Company"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/Film.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Film"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/Food.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Food"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/MeanOfTransportation.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "MeanOfTransportation"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/Monument.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Monument"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/MusicalWork.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "MusicalWork"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/Person.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Person"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/Politician.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Politician"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/Scientist.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Scientist"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/SportsTeam.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "SportsTeam"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/University.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "University"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/dbpedia/predicate_count/5/WrittenWork.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "WrittenWork"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/AdministrativeArea.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "AdministrativeArea"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Airline.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Airline"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Airport.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Airport"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/AstronomicalObject.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "AstronomicalObject"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Award.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Award"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/BeliefSystem.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "BeliefSystem"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/BodyOfWater.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "BodyOfWater"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Book.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Book"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/City.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "City"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Continent.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Continent"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Corporation.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Corporation"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Country.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Country"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/CreativeWork.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "CreativeWork"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Creator.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Creator"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/EducationalOrganization.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "EducationalOrganization"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Election.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Election"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Event.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Event"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/FictionalEntity.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "FictionalEntity"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Gender.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Gender"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/HumanMadeGeographicalEntity.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "HumanMadeGeographicalEntity"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Landform.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Landform"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Language.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Language"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Movie.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Movie"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/MusicComposition.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "MusicComposition"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/MusicGroup.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "MusicGroup"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Newspaper.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Newspaper"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Organization.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Organization"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/PerformingGroup.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "PerformingGroup"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Person.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Person"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Politician.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Politician"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Product.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Product"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/SportsPerson.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "SportsPerson"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/TVSeries.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "TVSeries"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Taxon.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Taxon"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Way.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Way"
+  },
+  {
+    "path": "shapes_generated/shacl/local/gpt-4o-mini/yago/predicate_count/5/Worker.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/local",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/local/gpt-4o-mini",
+    "class": "Worker"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/Airport.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Airport"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/Artist.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Artist"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/Astronaut.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Astronaut"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/Athlete.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Athlete"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/Building.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Building"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/CelestialBody.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "CelestialBody"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/City.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "City"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/ComicsCharacter.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "ComicsCharacter"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/Company.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Company"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/Film.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Film"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/Food.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Food"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/MeanOfTransportation.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "MeanOfTransportation"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/Monument.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Monument"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/MusicalWork.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "MusicalWork"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/Person.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Person"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/Politician.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Politician"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/Scientist.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Scientist"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/SportsTeam.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "SportsTeam"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/University.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "University"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/dbpedia/predicate_count/5/WrittenWork.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "WrittenWork"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/AdministrativeArea.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "AdministrativeArea"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Airline.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Airline"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Airport.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Airport"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/AstronomicalObject.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "AstronomicalObject"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Award.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Award"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/BeliefSystem.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "BeliefSystem"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/BodyOfWater.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "BodyOfWater"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Book.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Book"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/City.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "City"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Continent.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Continent"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Corporation.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Corporation"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Country.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Country"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/CreativeWork.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "CreativeWork"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Creator.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Creator"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/EducationalOrganization.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "EducationalOrganization"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Election.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Election"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Event.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Event"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/FictionalEntity.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "FictionalEntity"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Gender.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Gender"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/HumanMadeGeographicalEntity.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "HumanMadeGeographicalEntity"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Landform.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Landform"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Language.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Language"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Movie.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Movie"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/MusicComposition.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "MusicComposition"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/MusicGroup.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "MusicGroup"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Newspaper.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Newspaper"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Organization.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Organization"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/PerformingGroup.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "PerformingGroup"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Person.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Person"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Politician.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Politician"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Product.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Product"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/SportsPerson.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "SportsPerson"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/TVSeries.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "TVSeries"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Taxon.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Taxon"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Way.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Way"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/deepseek-chat/yago/predicate_count/5/Worker.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "deepseek-chat",
+    "variant": "shacl/triples/deepseek-chat",
+    "class": "Worker"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/Airport.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Airport"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/Artist.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Artist"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/Astronaut.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Astronaut"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/Athlete.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Athlete"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/Building.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Building"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/CelestialBody.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "CelestialBody"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/City.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "City"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/ComicsCharacter.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "ComicsCharacter"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/Company.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Company"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/Film.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Film"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/Food.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Food"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/MeanOfTransportation.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "MeanOfTransportation"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/Monument.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Monument"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/MusicalWork.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "MusicalWork"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/Person.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Person"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/Politician.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Politician"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/Scientist.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Scientist"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/SportsTeam.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "SportsTeam"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/University.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "University"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/dbpedia/predicate_count/5/WrittenWork.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "WrittenWork"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/AdministrativeArea.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "AdministrativeArea"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Airline.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Airline"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Airport.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Airport"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/AstronomicalObject.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "AstronomicalObject"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Award.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Award"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/BeliefSystem.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "BeliefSystem"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/BodyOfWater.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "BodyOfWater"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Book.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Book"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/City.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "City"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Continent.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Continent"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Corporation.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Corporation"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Country.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Country"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/CreativeWork.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "CreativeWork"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Creator.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Creator"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/EducationalOrganization.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "EducationalOrganization"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Election.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Election"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Event.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Event"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/FictionalEntity.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "FictionalEntity"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Gender.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Gender"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/HumanMadeGeographicalEntity.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "HumanMadeGeographicalEntity"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Landform.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Landform"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Language.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Language"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Movie.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Movie"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/MusicComposition.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "MusicComposition"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/MusicGroup.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "MusicGroup"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Newspaper.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Newspaper"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Organization.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Organization"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/PerformingGroup.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "PerformingGroup"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Person.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Person"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Politician.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Politician"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Product.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Product"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/SportsPerson.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "SportsPerson"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/TVSeries.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "TVSeries"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Taxon.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Taxon"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Way.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Way"
+  },
+  {
+    "path": "shapes_generated/shacl/triples/gpt-4o-mini/yago/predicate_count/5/Worker.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl/triples",
+    "model": "gpt-4o-mini",
+    "variant": "shacl/triples/gpt-4o-mini",
+    "class": "Worker"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/Airport.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "Airport"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/Artist.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "Artist"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/Astronaut.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "Astronaut"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/Athlete.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "Athlete"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/Building.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "Building"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/CelestialBody.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "CelestialBody"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/City.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "City"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/ComicsCharacter.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "ComicsCharacter"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/Company.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "Company"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/Film.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "Film"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/Food.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "Food"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/MeanOfTransportation.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "MeanOfTransportation"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/Monument.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "Monument"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/MusicalWork.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "MusicalWork"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/Politician.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "Politician"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/Scientist.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "Scientist"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/SportsTeam.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "SportsTeam"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/University.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "University"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/dbpedia/predicate_count/5/WrittenWork.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "WrittenWork"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/yago/predicate_count/5/Airport.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "Airport"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/yago/predicate_count/5/City.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "City"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/yago/predicate_count/5/Person.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "Person"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/deepseek-chat/yago/predicate_count/5/Politician.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl_orig/global",
+    "model": "deepseek-chat",
+    "variant": "shacl_orig/global/deepseek-chat",
+    "class": "Politician"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/Airport.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "Airport"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/Artist.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "Artist"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/Astronaut.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "Astronaut"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/Athlete.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "Athlete"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/Building.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "Building"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/CelestialBody.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "CelestialBody"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/City.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "City"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/ComicsCharacter.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "ComicsCharacter"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/Company.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "Company"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/Film.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "Film"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/Food.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "Food"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/MeanOfTransportation.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "MeanOfTransportation"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/Monument.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "Monument"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/MusicalWork.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "MusicalWork"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/Politician.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "Politician"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/Scientist.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "Scientist"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/SportsTeam.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "SportsTeam"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/University.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "University"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/dbpedia/predicate_count/5/WrittenWork.ttl",
+    "source": "shapes_generated",
+    "kg": "dbpedia",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "WrittenWork"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/yago/predicate_count/5/Airport.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "Airport"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/yago/predicate_count/5/City.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "City"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/yago/predicate_count/5/Person.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "Person"
+  },
+  {
+    "path": "shapes_generated/shacl_orig/global/gpt-4o-mini/yago/predicate_count/5/Politician.ttl",
+    "source": "shapes_generated",
+    "kg": "yago",
+    "gen_mode": "shacl_orig/global",
+    "model": "gpt-4o-mini",
+    "variant": "shacl_orig/global/gpt-4o-mini",
+    "class": "Politician"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/Airport.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Airport"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/Artist.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Artist"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/Astronaut.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Astronaut"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/Athlete.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Athlete"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/Building.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Building"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/CelestialBody.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "CelestialBody"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/City.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "City"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/ComicsCharacter.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "ComicsCharacter"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/Company.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Company"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/Film.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Film"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/Food.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Food"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/MeanOfTransportation.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "MeanOfTransportation"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/MeansOfTransport.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "MeansOfTransport"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/Monument.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Monument"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/MusicalWork.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "MusicalWork"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/Person.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Person"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/Politician.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Politician"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/Scientist.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Scientist"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/SportsTeam.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "SportsTeam"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/University.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "University"
+  },
+  {
+    "path": "shexer/dbpedia/shacl/WrittenWork.ttl",
+    "source": "shexer",
+    "kg": "dbpedia",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "WrittenWork"
+  },
+  {
+    "path": "shexer/yago/shacl/AdministrativeArea.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "AdministrativeArea"
+  },
+  {
+    "path": "shexer/yago/shacl/Airline.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Airline"
+  },
+  {
+    "path": "shexer/yago/shacl/Airport.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Airport"
+  },
+  {
+    "path": "shexer/yago/shacl/AstronomicalObject.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "AstronomicalObject"
+  },
+  {
+    "path": "shexer/yago/shacl/Award.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Award"
+  },
+  {
+    "path": "shexer/yago/shacl/BeliefSystem.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "BeliefSystem"
+  },
+  {
+    "path": "shexer/yago/shacl/BodyOfWater.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "BodyOfWater"
+  },
+  {
+    "path": "shexer/yago/shacl/Book.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Book"
+  },
+  {
+    "path": "shexer/yago/shacl/City.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "City"
+  },
+  {
+    "path": "shexer/yago/shacl/Continent.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Continent"
+  },
+  {
+    "path": "shexer/yago/shacl/Corporation.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Corporation"
+  },
+  {
+    "path": "shexer/yago/shacl/Country.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Country"
+  },
+  {
+    "path": "shexer/yago/shacl/CreativeWork.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "CreativeWork"
+  },
+  {
+    "path": "shexer/yago/shacl/Creator.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Creator"
+  },
+  {
+    "path": "shexer/yago/shacl/EducationalOrganization.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "EducationalOrganization"
+  },
+  {
+    "path": "shexer/yago/shacl/Election.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Election"
+  },
+  {
+    "path": "shexer/yago/shacl/Event.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Event"
+  },
+  {
+    "path": "shexer/yago/shacl/FictionalEntity.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "FictionalEntity"
+  },
+  {
+    "path": "shexer/yago/shacl/Gender.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Gender"
+  },
+  {
+    "path": "shexer/yago/shacl/HumanMadeGeographicalEntity.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "HumanMadeGeographicalEntity"
+  },
+  {
+    "path": "shexer/yago/shacl/Landform.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Landform"
+  },
+  {
+    "path": "shexer/yago/shacl/Language.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Language"
+  },
+  {
+    "path": "shexer/yago/shacl/Movie.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Movie"
+  },
+  {
+    "path": "shexer/yago/shacl/MusicComposition.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "MusicComposition"
+  },
+  {
+    "path": "shexer/yago/shacl/MusicGroup.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "MusicGroup"
+  },
+  {
+    "path": "shexer/yago/shacl/Newspaper.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Newspaper"
+  },
+  {
+    "path": "shexer/yago/shacl/Organization.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Organization"
+  },
+  {
+    "path": "shexer/yago/shacl/PerformingGroup.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "PerformingGroup"
+  },
+  {
+    "path": "shexer/yago/shacl/Person.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Person"
+  },
+  {
+    "path": "shexer/yago/shacl/Politician.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Politician"
+  },
+  {
+    "path": "shexer/yago/shacl/Product.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Product"
+  },
+  {
+    "path": "shexer/yago/shacl/SportsPerson.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "SportsPerson"
+  },
+  {
+    "path": "shexer/yago/shacl/TVSeries.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "TVSeries"
+  },
+  {
+    "path": "shexer/yago/shacl/Taxon.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Taxon"
+  },
+  {
+    "path": "shexer/yago/shacl/Way.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Way"
+  },
+  {
+    "path": "shexer/yago/shacl/Worker.ttl",
+    "source": "shexer",
+    "kg": "yago",
+    "gen_mode": "shexer",
+    "model": "",
+    "variant": "shexer",
+    "class": "Worker"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q110295396.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "type of musical instrument"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q115305900.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "large language model"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q1172284.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "data set"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q12136.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "disease"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q1248784.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "airport"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q1288568.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "modern language"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q12973014.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "sports team"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q130003.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "ski resort"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q13479982.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "cryptocurrency"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q1348589.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "lunar crater"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q142714.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "card game"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q15079786.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "ballet"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q15836568.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "computer network protocol"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q16510064.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "sporting event"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q174989.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "file system"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q175263.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "data structure"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q186516.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "national flag"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q193424.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "web service"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q194188.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "spaceport"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q198.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "war"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q2020153.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "academic conference"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q219239.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "recipe"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q2338524.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "motorsport racing track"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q24634210.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "podcast show"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q253623.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "patent"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q30612.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "clinical trial"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q3239681.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "scientific theory"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q324254.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "ontology"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q3314483.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "fruit"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q33506.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "museum"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q35666.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "glacier"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q37748.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "chromosome"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q3917681.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "embassy"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q4022.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "river"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q40231.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "public election"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q4182287.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "search engine"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q4220917.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "film award"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q46855.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "Hackathon"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q46970.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "Airline"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q483110.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "Stadium"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q5503.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "RapidTransit"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q55990535.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "ComputerModel"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q628179.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "Trail"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q7278.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "PoliticalParty"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q7889.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "VideoGame"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q7944.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "Earthquake"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q8054.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "Protein"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q8070.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "Tsunami"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q8072.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "Volcano"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q8081.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "Tornado"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q8366.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "Algorithm"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q9135.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "OperatingSystem"
+  },
+  {
+    "path": "ground-truth/SHACL/wes_shacl/Q9143.ttl",
+    "source": "ground-truth",
+    "kg": "wikidata",
+    "gen_mode": "ground-truth",
+    "model": "",
+    "variant": "wes_shacl",
+    "class": "ProgrammingLanguage"
+  }
+]

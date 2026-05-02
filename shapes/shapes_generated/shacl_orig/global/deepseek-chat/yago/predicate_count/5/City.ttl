@@ -1,0 +1,109 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema1: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix yago: <http://yago-knowledge.org/resource/> .
+
+<file:///C:/Users/doccr/PycharmProjects/DoubleShapespresso/City> a sh:NodeShape ;
+    sh:property [ sh:class schema1:City ;
+            sh:minCount 1 ;
+            sh:path owl:sameAs ],
+        [ sh:minCount 1 ;
+            sh:or ( [ sh:class schema1:City ] [ sh:class yago:Unincorporated_Community_In_The_United_States_Q17343829 ] [ sh:class yago:Gmina ] ) ;
+            sh:path rdf:type ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path rdfs:comment ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path schema1:address ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path schema1:alternateName ],
+        [ sh:class schema1:Award ;
+            sh:minCount 0 ;
+            sh:path schema1:award ],
+        [ sh:datatype xsd:dateTime ;
+            sh:maxCount 1 ;
+            sh:minCount 0 ;
+            sh:path schema1:dateCreated ],
+        [ sh:datatype xsd:dateTime ;
+            sh:maxCount 1 ;
+            sh:minCount 0 ;
+            sh:path schema1:dissolutionDate ],
+        [ sh:class schema1:Person ;
+            sh:minCount 0 ;
+            sh:path schema1:founder ],
+        [ sh:datatype geo:wktLiteral ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path schema1:geo ],
+        [ sh:datatype xsd:anyURI ;
+            sh:minCount 0 ;
+            sh:path schema1:image ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path schema1:leiCode ],
+        [ sh:class schema1:City ;
+            sh:minCount 0 ;
+            sh:path schema1:location ],
+        [ sh:datatype xsd:anyURI ;
+            sh:minCount 0 ;
+            sh:path schema1:logo ],
+        [ sh:datatype xsd:anyURI ;
+            sh:minCount 1 ;
+            sh:path schema1:mainEntityOfPage ],
+        [ sh:class schema1:Organization ;
+            sh:minCount 0 ;
+            sh:path schema1:memberOf ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path schema1:postalCode ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 1 ;
+            sh:path schema1:sameAs ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path schema1:slogan ],
+        [ sh:datatype xsd:anyURI ;
+            sh:minCount 0 ;
+            sh:path schema1:url ],
+        [ sh:class yago:Bible_generic_instance ;
+            sh:minCount 0 ;
+            sh:path yago:appearsIn ],
+        [ sh:datatype xsd:decimal ;
+            sh:minCount 0 ;
+            sh:path yago:area ],
+        [ sh:class schema1:City ;
+            sh:minCount 0 ;
+            sh:path yago:capital ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path yago:demonym ],
+        [ sh:datatype xsd:decimal ;
+            sh:minCount 0 ;
+            sh:path yago:elevation ],
+        [ sh:class yago:Mount_Tapochau ;
+            sh:minCount 0 ;
+            sh:path yago:highestPoint ],
+        [ sh:class schema1:Person ;
+            sh:minCount 0 ;
+            sh:path yago:leader ],
+        [ sh:class schema1:City ;
+            sh:minCount 0 ;
+            sh:path yago:neighbors ],
+        [ sh:datatype xsd:decimal ;
+            sh:minCount 0 ;
+            sh:path yago:populationNumber ],
+        [ sh:class schema1:City ;
+            sh:minCount 0 ;
+            sh:path yago:replaces ] ;
+    sh:targetClass dbo:City .
+

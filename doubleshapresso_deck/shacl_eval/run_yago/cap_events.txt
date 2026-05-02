@@ -1,0 +1,5 @@
+http://www.w3.org/2000/01/rdf-schema#label	http://yago-knowledge.org/resource/Oryol	112
+http://schema.org/url	http://yago-knowledge.org/resource/Papeete	101
+http://www.w3.org/2000/01/rdf-schema#label	http://yago-knowledge.org/resource/Papeete	146
+http://www.w3.org/2000/01/rdf-schema#label	http://yago-knowledge.org/resource/Disciples_production_team	217
+http://schema.org/actor	http://yago-knowledge.org/resource/History_of_the_World_Part_II	154

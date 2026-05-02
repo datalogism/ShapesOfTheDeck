@@ -1,0 +1,114 @@
+```shacl
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+shapes:FoodShape a sh:NodeShape ;
+    sh:targetClass dbo:Food ;
+    sh:property [
+        sh:path rdfs:label ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+        sh:message "Every Food must have at least one rdfs:label."
+    ], [
+        sh:path rdfs:comment ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+        sh:message "Every Food must have at least one rdfs:comment."
+    ], [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+        sh:message "Every Food must have at least one foaf:name."
+    ], [
+        sh:path dbo:wikiPageRevisionID ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer ;
+        sh:message "Every Food must have exactly one dbo:wikiPageRevisionID."
+    ], [
+        sh:path dbo:ingredientName ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+        sh:message "Every Food must have at least one dbo:ingredientName."
+    ], [
+        sh:path dbo:country ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Country ;
+        sh:message "Every Food must have at least one dbo:country."
+    ], [
+        sh:path dbo:type ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Every Food must have at least one dbo:type."
+    ], [
+        sh:path dbo:region ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Region ;
+        sh:message "Every Food may have dbo:region."
+    ], [
+        sh:path dbo:alias ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+        sh:message "Every Food may have dbo:alias."
+    ], [
+        sh:path dc:type ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+        sh:message "Every Food may have dc:type."
+    ], [
+        sh:path dbo:servingTemperature ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+        sh:message "Every Food may have dbo:servingTemperature."
+    ], [
+        sh:path dbo:origin ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Place ;
+        sh:message "Every Food may have dbo:origin."
+    ], [
+        sh:path dbo:related ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Every Food may have dbo:related."
+    ], [
+        sh:path foaf:homepage ;
+        sh:nodeKind sh:IRI ;
+        sh:datatype xsd:anyURI ;
+        sh:message "Every Food may have foaf:homepage."
+    ], [
+        sh:path dbo:cuisine ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+        sh:message "Every Food may have dbo:cuisine."
+    ], [
+        sh:path dbo:manufacturer ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Company ;
+        sh:message "Every Food may have dbo:manufacturer."
+    ], [
+        sh:path dbo:servingSize ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+        sh:message "Every Food may have dbo:servingSize."
+    ], [
+        sh:path dbo:creatorOfDish ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+        sh:message "Every Food may have dbo:creatorOfDish."
+    ], [
+        sh:path dbo:ingredient ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Every Food may have dbo:ingredient."
+    ] .
+```

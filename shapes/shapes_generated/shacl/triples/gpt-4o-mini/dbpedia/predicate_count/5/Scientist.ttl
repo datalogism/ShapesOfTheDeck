@@ -1,0 +1,106 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+sh:ScientistShape a sh:NodeShape ;
+    sh:targetClass dbo:Scientist ;
+    
+    sh:property [
+        sh:path foaf:name ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:birthDate ;
+        sh:datatype xsd:date ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:birthYear ;
+        sh:datatype xsd:gYear ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:deathDate ;
+        sh:datatype xsd:date ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:deathYear ;
+        sh:datatype xsd:gYear ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:birthPlace ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:almaMater ;
+        sh:nodeKind sh:IRI ;
+        sh:minCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:institution ;
+        sh:nodeKind sh:IRI ;
+        sh:minCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:academicDiscipline ;
+        sh:nodeKind sh:IRI ;
+        sh:minCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:nationality ;
+        sh:nodeKind sh:IRI ;
+        sh:minCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:knownFor ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 5 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:award ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 5 ;
+    ] ;
+    
+    sh:property [
+        sh:path foaf:homepage ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:doctoralAdvisor ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:doctoralStudent ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 5 ;
+    ] ;
+    
+    sh:property [
+        sh:path dbo:notableStudent ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 5 ;
+    ] .

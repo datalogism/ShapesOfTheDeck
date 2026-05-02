@@ -1,0 +1,11 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix yago: <http://yago-knowledge.org/resource/> .
+
+<http://shaclshapes.org/CreatorShape> a sh:NodeShape ;
+    sh:targetClass yago:Creator ;
+    sh:property [
+        sh:path rdf:type ;
+        sh:hasValue yago:Creator ;
+        sh:minCount 1
+    ] .

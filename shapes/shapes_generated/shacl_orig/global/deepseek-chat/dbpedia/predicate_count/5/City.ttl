@@ -1,0 +1,116 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<file:///C:/Users/doccr/PycharmProjects/DoubleShapespresso/City> a sh:NodeShape ;
+    sh:property [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path dbo:areaCode ],
+        [ sh:datatype xsd:double ;
+            sh:minCount 0 ;
+            sh:path dbo:areaLand ],
+        [ sh:datatype xsd:double ;
+            sh:minCount 0 ;
+            sh:path dbo:areaTotal ],
+        [ sh:datatype xsd:double ;
+            sh:minCount 0 ;
+            sh:path dbo:areaUrban ],
+        [ sh:datatype xsd:double ;
+            sh:minCount 0 ;
+            sh:path dbo:areaWater ],
+        [ sh:class dbo:Country ;
+            sh:minCount 0 ;
+            sh:path dbo:country ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path dbo:demonym ],
+        [ sh:datatype xsd:double ;
+            sh:minCount 0 ;
+            sh:path dbo:elevation ],
+        [ sh:datatype xsd:date ;
+            sh:minCount 0 ;
+            sh:path dbo:foundingDate ],
+        [ sh:class owl:Thing ;
+            sh:minCount 0 ;
+            sh:path dbo:governmentType ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path dbo:motto ],
+        [ sh:class dbo:City ;
+            sh:minCount 0 ;
+            sh:path dbo:namedAfter ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path dbo:originalName ],
+        [ sh:class dbo:PoliticalFunction ;
+            sh:minCount 0 ;
+            sh:path dbo:politicalLeader ],
+        [ sh:datatype xsd:double ;
+            sh:minCount 0 ;
+            sh:path dbo:populationDensity ],
+        [ sh:datatype xsd:integer ;
+            sh:minCount 0 ;
+            sh:path dbo:populationMetro ],
+        [ sh:datatype xsd:integer ;
+            sh:maxCount 1 ;
+            sh:minCount 0 ;
+            sh:path dbo:populationTotal ],
+        [ sh:datatype xsd:integer ;
+            sh:minCount 0 ;
+            sh:path dbo:populationUrban ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path dbo:postalCode ],
+        [ sh:class dbo:Place ;
+            sh:minCount 0 ;
+            sh:path dbo:subdivision ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path dbo:synonym ],
+        [ sh:class owl:Thing ;
+            sh:minCount 0 ;
+            sh:path dbo:timeZone ],
+        [ sh:class owl:Thing ;
+            sh:minCount 0 ;
+            sh:path dbo:type ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path dbo:utcOffset ],
+        [ sh:datatype xsd:integer ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path dbo:wikiPageRevisionID ],
+        [ sh:class foaf:Document ;
+            sh:minCount 0 ;
+            sh:path foaf:homepage ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:path foaf:name ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path foaf:nick ],
+        [ sh:datatype xsd:double ;
+            sh:maxCount 1 ;
+            sh:minCount 0 ;
+            sh:path dcat:resource_identifier ],
+        [ sh:class dbo:City ;
+            sh:maxCount 11 ;
+            sh:minCount 10 ;
+            sh:path rdf:type ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path rdfs:comment ],
+        [ sh:datatype rdf:langString ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ sh:class owl:Thing ;
+            sh:minCount 0 ;
+            sh:path rdfs:seeAlso ] ;
+    sh:targetClass dbo:City .
+

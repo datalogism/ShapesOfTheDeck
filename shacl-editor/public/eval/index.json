@@ -1,0 +1,44 @@
+[
+  {
+    "id": "dbpedia-deepseek",
+    "kg": "dbpedia",
+    "label": "DBpedia \u00b7 DeepSeek-local",
+    "source": "llm",
+    "path": "eval/dbpedia/deepseek/metrics.json"
+  },
+  {
+    "id": "dbpedia-gt",
+    "kg": "dbpedia",
+    "label": "DBpedia \u00b7 GT Aligned",
+    "source": "ground-truth",
+    "path": "eval/dbpedia/gt/metrics.json"
+  },
+  {
+    "id": "dbpedia-shexer",
+    "kg": "dbpedia",
+    "label": "DBpedia \u00b7 ShExer",
+    "source": "shexer",
+    "path": "eval/dbpedia/shexer/metrics.json"
+  },
+  {
+    "id": "yago-gt",
+    "kg": "yago",
+    "label": "YAGO \u00b7 Ground Truth",
+    "source": "ground-truth",
+    "path": "eval/yago/gt/metrics.json"
+  },
+  {
+    "id": "yago-ds-triples",
+    "kg": "yago",
+    "label": "YAGO \u00b7 DeepSeek Triples",
+    "source": "llm",
+    "path": "eval/yago/ds-triples/metrics.json"
+  },
+  {
+    "id": "yago-shexer",
+    "kg": "yago",
+    "label": "YAGO \u00b7 ShExer",
+    "source": "shexer",
+    "path": "eval/yago/shexer/metrics.json"
+  }
+]

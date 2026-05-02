@@ -1,0 +1,1130 @@
+<http://yago-knowledge.org/resource/Newchurch_Old_Refectory> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in Croft, Warrington, Cheshire, England, UK"@en .
+<http://yago-knowledge.org/resource/Marktplatz_11_Q110284897> <http://www.w3.org/2000/01/rdf-schema#comment> "Bauwerk in Schwäbisch Gmünd"@de .
+<http://yago-knowledge.org/resource/Haus_Auf_Dem_Graben_19> <http://schema.org/location> <http://yago-knowledge.org/resource/Nidda_river> .
+<http://yago-knowledge.org/resource/Damaschkestraße_10-20> <http://www.w3.org/2000/01/rdf-schema#label> "Damaschkestraße 10-20"@en .
+<http://yago-knowledge.org/resource/Hofheim_Hesse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/Kanzuk_House> <http://schema.org/location> <http://yago-knowledge.org/resource/Turkey> .
+<http://yago-knowledge.org/resource/Wrought_Iron_Screen_And_Railings_At_End_Of_Forty_Hill_Near_Junction_Of_Clay_Hill> <http://schema.org/geo> "POINT(-0.072647 51.667061)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Manor_Von_Anderlan> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in Salorno, Italië"@nl .
+<http://yago-knowledge.org/resource/Beylikdüzü> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Town> .
+<http://yago-knowledge.org/resource/Stafford_Farm> <http://www.w3.org/2000/01/rdf-schema#label> "Stafford Farm"@en .
+<http://yago-knowledge.org/resource/Steinau_an_der_Straße> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Town> .
+<http://yago-knowledge.org/resource/Haus_Wasenstraße_40> <http://schema.org/geo> "POINT(9.047387 50.329830)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Dahlem_Berlin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Locality_Of_Berlin> .
+<http://yago-knowledge.org/resource/3_Main_Street_Straiton> <http://www.w3.org/2000/01/rdf-schema#comment> "споруда в Шотландії, Велика Британія"@uk .
+<http://yago-knowledge.org/resource/Kirchstraße_13_Q116663787> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116663787> .
+<http://yago-knowledge.org/resource/Lochlands_Roman_Camps> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q56663244> .
+<http://yago-knowledge.org/resource/Beylikdüzü_Mübadele_Evi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Waun-Y-Fedwen> <http://www.w3.org/2000/01/rdf-schema#label> "Waun-y-fedwen"@en .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://schema.org/url> "https://en.wikipedia.org/wiki/Walls_of_Amsterdam"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/The_Old_Manse_Q26512054> <http://schema.org/geo> "POINT(-1.542446 50.757922)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federal_republic> .
+<http://yago-knowledge.org/resource/Haus_Neudorfgasse_6> <http://schema.org/geo> "POINT(8.349146 50.011842)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Kirchstraße_13_Q116663787> <http://www.w3.org/2000/01/rdf-schema#label> "Kirchstraße 13"@en .
+<http://yago-knowledge.org/resource/Haus_Bismarckstraße_48> <http://schema.org/geo> "POINT(8.680116 50.578740)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Haus_Forstweg_4> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في ألمانيا"@ar .
+<http://yago-knowledge.org/resource/The_Old_Manse_Q26512054> <http://www.w3.org/2000/01/rdf-schema#label> "The Old Manse"@en .
+<http://yago-knowledge.org/resource/Mikstat_Transmitter> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in Mikstat, Polen"@nl .
+<http://yago-knowledge.org/resource/Braunfels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Residenz> .
+<http://yago-knowledge.org/resource/Retaule_Ceràmic_De_Sant_Domènech_Motor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Mississippi_Post_Offices_1931-1941_Tr> <http://www.w3.org/2000/01/rdf-schema#label> "Mississippi Post Offices 1931-1941 TR"@en .
+<http://yago-knowledge.org/resource/Haus_Beunegasse_12> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Alcavó_De_La_Sèquia_Del_Port_01> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q117772646> .
+<http://yago-knowledge.org/resource/Marca_Palast> <http://schema.org/alternateName> "Palazzo a Marca"@de .
+<http://yago-knowledge.org/resource/Balsa_Polígono_9_Parcela_228B> <http://www.w3.org/2000/01/rdf-schema#comment> "Infraestructuras - Infraestructuras territoriales - Infraestructuras hidráulicas - Balsas de agua en ARAS DE LOS OLMOS"@es .
+<http://yago-knowledge.org/resource/Haus_Schwalbengasse_36> <http://www.w3.org/2000/01/rdf-schema#comment> "Kulturdenkmal in der Gemeinde Wald-Michelbach im Landkreis Bergstraße, Hessen, Deutschland"@de .
+<http://yago-knowledge.org/resource/Heimatring_13> <http://www.w3.org/2000/01/rdf-schema#label> "Heimatring 13"@de .
+<http://yago-knowledge.org/resource/Riccards_Spring> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Confederation> .
+<http://yago-knowledge.org/resource/Wrought_Iron_Screen_And_Railings_At_End_Of_Forty_Hill_Near_Junction_Of_Clay_Hill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Marca_Palast> <http://schema.org/geo> "POINT(9.221300 46.366360)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Glasgow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Lieutenancy_areas_of_Scotland> .
+<http://yago-knowledge.org/resource/Haus_Beunegasse_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Loxbeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Civil_parish> .
+<http://yago-knowledge.org/resource/Damaschkestraße_10-20> <http://schema.org/location> <http://yago-knowledge.org/resource/Ludewig-Siedlung> .
+<http://yago-knowledge.org/resource/Sunbury_Workshops> <http://schema.org/geo> "POINT(-0.074238 51.526835)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Corral_Del_Mas_Quemado> <http://www.w3.org/2000/01/rdf-schema#comment> "edificios agropecuarios - Corrales en SEGORBE"@es .
+<http://yago-knowledge.org/resource/Magdeburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Independent_City_Of_Saxony-Anhalt> .
+<http://yago-knowledge.org/resource/Flörsheim_am_Main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/Haus_Ringstraße_2_Q116710083> <http://schema.org/location> <http://yago-knowledge.org/resource/Bad_Arolsen> .
+<http://yago-knowledge.org/resource/Mississippi_Post_Offices_1931-1941_Tr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Haus_Bärengasse_9_Q116596397> <http://schema.org/location> <http://yago-knowledge.org/resource/Hofheim_Hesse> .
+<http://yago-knowledge.org/resource/Fachwerkwohnhaus_Hinterstraße_16> <http://www.w3.org/2000/01/rdf-schema#label> "Fachwerkwohnhaus, Hinterstraße 16"@de .
+<http://yago-knowledge.org/resource/Heimatring_13> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Shrewsbury> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Market_town> .
+<http://yago-knowledge.org/resource/Haus_Forstweg_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Riccards_Spring> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q26563940> .
+<http://yago-knowledge.org/resource/Hauptstraße_45> <http://www.w3.org/2000/01/rdf-schema#label> "Hauptstraße 45"@de .
+<http://yago-knowledge.org/resource/Mietshäuser_Muthesiusstraße_4_6_9_11_12_14> <http://www.w3.org/2000/01/rdf-schema#label> "Mietshäuser Muthesiusstraße 4/6, 9/11, 12/14"@de .
+<http://yago-knowledge.org/resource/Haus_Taunusstraße_37_Q116571267> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/37_Minto_Street_Edinburgh> <http://www.w3.org/2000/01/rdf-schema#label> "37 Minto Street, Edinburgh"@en .
+<http://yago-knowledge.org/resource/Lorch_am_Rhein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/Finestra_Bifora> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Heimatring_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Wrought_Iron_Screen_And_Railings_At_End_Of_Forty_Hill_Near_Junction_Of_Clay_Hill> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q27085624> .
+<http://yago-knowledge.org/resource/Haus_Kohlgasse_17> <http://schema.org/geo> "POINT(8.552281 50.491752)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Edinburgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/College_town> .
+<http://yago-knowledge.org/resource/Balsa_Polígono_9_Parcela_228B> <http://schema.org/location> <http://yago-knowledge.org/resource/Spain> .
+<http://yago-knowledge.org/resource/Haus_Taunusstraße_37_Q116571267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Pfarrbornstraße> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Untermainstraße_20> <http://schema.org/location> <http://yago-knowledge.org/resource/Flörsheim_am_Main> .
+<http://yago-knowledge.org/resource/Segorbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Of_The_Valencian_Community> .
+<http://yago-knowledge.org/resource/Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Country_Bordering_The_Baltic_Sea> .
+<http://yago-knowledge.org/resource/City_Of_Edinburgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Scottish_Council_Area> .
+<http://yago-knowledge.org/resource/The_Old_Manse_Q26512054> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q26512054> .
+<http://yago-knowledge.org/resource/Haus_Beunegasse_12> <http://schema.org/location> <http://yago-knowledge.org/resource/Roßdorf> .
+<http://yago-knowledge.org/resource/Shrewsbury> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/County_town> .
+<http://yago-knowledge.org/resource/Reading_Mra> <http://www.w3.org/2000/01/rdf-schema#comment> "тематичний ресурс у Національному реєстрі історичних місць США"@uk .
+<http://yago-knowledge.org/resource/Era_7> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q117784950> .
+<http://yago-knowledge.org/resource/Ortenberg_Hesse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Town> .
+<http://yago-knowledge.org/resource/Broadhempston> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Civil_parish> .
+<http://yago-knowledge.org/resource/Haus_Taunusstraße_37_Q116571267> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في دارمشتات، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Darmstadt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Big_City_Q1549591> .
+<http://yago-knowledge.org/resource/Adalar_Q14814766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Districts_of_Turkey> .
+<http://yago-knowledge.org/resource/Haus_Frankfurter_Straße_90_Q116571820> <http://schema.org/location> <http://yago-knowledge.org/resource/Darmstadt> .
+<http://yago-knowledge.org/resource/Grenzsteine_Der_Grenzlinie_Des_Hochgräflich_Hanauischen_Amtes_Windecken_Und_Der_Herrschaftlichen_Burg_Friedberg> <http://schema.org/geo> "POINT(8.889601 50.243543)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Haus_Barbarossastraße_14> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Stafford_Farm> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7596619> .
+<http://yago-knowledge.org/resource/Dorfschmiede_Haunsheim> <http://www.w3.org/2000/01/rdf-schema#label> "Dorfschmiede (Haunsheim)"@de .
+<http://yago-knowledge.org/resource/Dorfschmiede_Haunsheim> <http://schema.org/geo> "POINT(10.373640 48.599933)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Hauptstraße_45> <http://schema.org/geo> "POINT(9.093298 49.042074)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Balsa_Polígono_9_Parcela_228B> <http://schema.org/location> <http://yago-knowledge.org/resource/Aras_de_los_Olmos> .
+<http://yago-knowledge.org/resource/Pfarrbornstraße> <http://www.w3.org/2000/01/rdf-schema#comment> "Kulturdenkmal in Wallau (Hofheim am Taunus), Pfarrbornstraße 4"@de .
+<http://yago-knowledge.org/resource/Glasgow_City_Q55934339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/District_With_City_Status> .
+<http://yago-knowledge.org/resource/37_Minto_Street_Edinburgh> <http://www.w3.org/2000/01/rdf-schema#comment> "споруда в Шотландії, Велика Британія"@uk .
+<http://yago-knowledge.org/resource/Friedhofseingang_Mit_Ehrenmal> <http://schema.org/geo> "POINT(8.063054 50.250928)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Haus_Wasenstraße_40> <http://schema.org/location> <http://yago-knowledge.org/resource/Ortenberg_Hesse> .
+<http://yago-knowledge.org/resource/Haus_Krafftstraße_24> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Whatlington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Civil_parish> .
+<http://yago-knowledge.org/resource/Mietshäuser_Muthesiusstraße_4_6_9_11_12_14> <http://www.w3.org/2000/01/rdf-schema#comment> "Kulturdenkmal in Berlin"@de .
+<http://yago-knowledge.org/resource/Hatzfeld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/Casa_Piazza_Degli_Zingari_N_30_-_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Marktplatz_11_Q110284897> <http://schema.org/alternateName> "Marktplatz 11 (Schwäbisch Gmünd)"@de .
+<http://yago-knowledge.org/resource/Ilbeshausen_Ii_Hindenburgstraße> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Eschwege> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Town> .
+<http://yago-knowledge.org/resource/Haus_Barbarossastraße_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Frankfurt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Financial_centre> .
+<http://yago-knowledge.org/resource/Reading_Mra> <http://schema.org/location> <http://yago-knowledge.org/resource/Reading_Massachusetts> .
+<http://yago-knowledge.org/resource/8-24_Falfield_Street_Falfield_Cotton_Mill> <http://www.w3.org/2000/01/rdf-schema#comment> "споруда в Шотландії, Велика Британія"@uk .
+<http://yago-knowledge.org/resource/Vall_de_Almonacid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Of_The_Valencian_Community> .
+<http://yago-knowledge.org/resource/Ares_del_Maestrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Of_The_Valencian_Community> .
+<http://yago-knowledge.org/resource/London_Borough_of_Enfield> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/London_boroughs> .
+<http://yago-knowledge.org/resource/Bad_Arolsen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/Haus_Krafftstraße_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Haus_Ziegelgasse_8A> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116707967> .
+<http://yago-knowledge.org/resource/Haus_Frankfurter_Straße_90_Q116571820> <http://www.w3.org/2000/01/rdf-schema#comment> "Kulturdenkmal in Darmstadt, Hessen, Deutschland"@de .
+<http://yago-knowledge.org/resource/Corral_Del_Mas_Quemado> <http://schema.org/location> <http://yago-knowledge.org/resource/Segorbe> .
+<http://yago-knowledge.org/resource/Auerbacher_Burgkiefer> <http://www.w3.org/2000/01/rdf-schema#label> "Auerbacher Burgkiefer"@de .
+<http://yago-knowledge.org/resource/Haus_Kohlgasse_17> <http://schema.org/location> <http://yago-knowledge.org/resource/Hüttenberg> .
+<http://yago-knowledge.org/resource/Kanzuk_House> <http://schema.org/alternateName> "Dilberler Evi"@tr .
+<http://yago-knowledge.org/resource/37_Minto_Street_Edinburgh> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in Edinburgh, Verenigd Koninkrijk"@nl .
+<http://yago-knowledge.org/resource/Haus_Textorstraße_90> <http://schema.org/location> <http://yago-knowledge.org/resource/Frankfurt> .
+<http://yago-knowledge.org/resource/Dorfschmiede_Haunsheim> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Wohnhaus_Miquelstraße_58> <http://www.w3.org/2000/01/rdf-schema#label> "Wohnhaus Miquelstraße 58"@de .
+<http://yago-knowledge.org/resource/Spain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Nation_state> .
+<http://yago-knowledge.org/resource/St_Mary_S_College_Q26473617> <http://schema.org/location> <http://yago-knowledge.org/resource/City_of_Southampton> .
+<http://yago-knowledge.org/resource/Wrought_Iron_Screen_And_Railings_At_End_Of_Forty_Hill_Near_Junction_Of_Clay_Hill> <http://www.w3.org/2000/01/rdf-schema#label> "Wrought Iron Screen And Railings At End Of Forty Hill Near Junction Of Clay Hill"@en .
+<http://yago-knowledge.org/resource/Ilbeshausen_Ii_Hindenburgstraße> <http://schema.org/geo> "POINT(9.328649 50.522031)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Haus_Ringstraße_2_Q116710083> <http://www.w3.org/2000/01/rdf-schema#comment> "monument culturel à Bad Arolsen dans le quartier de Waldeck-Frankenberg en Hesse"@fr .
+<http://yago-knowledge.org/resource/Defunct_Yalı_No_157_Of_Arnavutköy> <http://schema.org/location> <http://yago-knowledge.org/resource/Marmara_region> .
+<http://yago-knowledge.org/resource/Veterinary_Surgery_And_Garage_Adjoining_To_West> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q26561023> .
+<http://yago-knowledge.org/resource/City_of_Southampton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/County_borough> .
+<http://yago-knowledge.org/resource/Friedhofseingang_Mit_Ehrenmal> <http://www.w3.org/2000/01/rdf-schema#comment> "Kulturdenkmal in Hausen über Aar, Oberstes Feldchen, Gemeinde Aarbergen, Rheingau-Taunus-Kreis, Hessen"@de .
+<http://yago-knowledge.org/resource/Konrad-Adenauer-Ufer_16> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Konrad-Adenauer-Ufer 16"@de .
+<http://yago-knowledge.org/resource/Haus_Kohlgasse_17> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Glynllifon_Estate> <http://www.w3.org/2000/01/rdf-schema#comment> "estate near Llandwrog, Gwynedd, Wales"@en .
+<http://yago-knowledge.org/resource/Domaine_Breen> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Domaine_Breen"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Friedhofseingang_Mit_Ehrenmal> <http://www.w3.org/2000/01/rdf-schema#comment> "cultural heritage monument in Hausen über Aar, Hesse, Germany"@en .
+<http://yago-knowledge.org/resource/Middlefoodie> <http://www.w3.org/2000/01/rdf-schema#comment> "споруда в Шотландії, Велика Британія"@uk .
+<http://yago-knowledge.org/resource/Case_Maldenti> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Haus_Kirchgasse_2_Q116706868> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Casa_Piazza_Degli_Zingari_N_30_-_31> <http://schema.org/url> "http://dati.beniculturali.it/iccd/schede/resource/CulturalInstituteOrSite/S015237_Casa_piazza_degli_Zingari_n__30_-_31"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Caseta_De_Aperos_Polígono_019_Parcela_246B> <http://www.w3.org/2000/01/rdf-schema#comment> "edificios agropecuarios - Almacenes en COFRENTES"@es .
+<http://yago-knowledge.org/resource/Domaine_Breen> <http://schema.org/location> <http://yago-knowledge.org/resource/Saint-Bruno-de-Guigues> .
+<http://yago-knowledge.org/resource/Kanzuk_House> <http://www.w3.org/2000/01/rdf-schema#label> "Kanzuk Evi"@tr .
+<http://yago-knowledge.org/resource/Dorfschmiede_Haunsheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Haus_Brunnenstraße_3_Q116650696> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116650696> .
+<http://yago-knowledge.org/resource/Untermainstraße_20> <http://www.w3.org/2000/01/rdf-schema#comment> "пам'ятка культурної спадщини в Гессені, Німеччина"@uk .
+<http://yago-knowledge.org/resource/Minerva_House_North_Crescent> <http://schema.org/location> <http://yago-knowledge.org/resource/London_Borough_of_Camden> .
+<http://yago-knowledge.org/resource/The_Old_Manse_Q26512054> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Haus_Textorstraße_90> <http://schema.org/geo> "POINT(8.680933 50.099793)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Craven_Bank_Listed_Building> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q26451148> .
+<http://yago-knowledge.org/resource/Haus_Gangstraße_28> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Casa_Piazza_Degli_Zingari_N_30_-_31> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q55184031> .
+<http://yago-knowledge.org/resource/Baker_Thornicroft_S_House_Country_Fayre> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in Harbury, Stratford-on-Avon, Warwickshire, England, UK"@en .
+<http://yago-knowledge.org/resource/Manor_Von_Anderlan> <http://schema.org/location> <http://yago-knowledge.org/resource/Italy> .
+<http://yago-knowledge.org/resource/Stafford_Farm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Retaule_Ceràmic_De_Sant_Domènech_Motor> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q117755154> .
+<http://yago-knowledge.org/resource/Haunsheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Without_Town_Privileges_In_Germany> .
+<http://yago-knowledge.org/resource/Lochlands_Roman_Camps> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Auerbacher_Burgkiefer> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Auerbacher_Burgkiefer"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Haus_Lindenstraße_7_Q116667261> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116667261> .
+<http://yago-knowledge.org/resource/Domaine_Breen> <http://schema.org/location> <http://yago-knowledge.org/resource/Canada> .
+<http://yago-knowledge.org/resource/Haus_Gangstraße_28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/shacl#NodeShape> .
+<http://yago-knowledge.org/resource/Reading_Mra> <http://www.w3.org/2000/01/rdf-schema#comment> "multiple listing in the U.S. National Register of Historic Places"@en .
+<http://yago-knowledge.org/resource/Darmstadt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Residenz> .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://schema.org/sameAs> "/m/0jwv5b6" .
+<http://yago-knowledge.org/resource/Haus_Brunnenstraße_3_Q116650696> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Damaschkestraße_10-20> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/Ludewig-Siedlung> .
+<http://yago-knowledge.org/resource/Gelnhausen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/Domaine_Breen> <http://www.w3.org/2000/01/rdf-schema#label> "Domaine Breen"@en .
+<http://yago-knowledge.org/resource/Mur_Subestació_Transformadora_Valldigna_01> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q117784208> .
+<http://yago-knowledge.org/resource/Kirchstraße_13_Q116663787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Historical_Unrecognized_State> .
+<http://yago-knowledge.org/resource/Haus_Schnurgasse_12B> <http://schema.org/geo> "POINT(9.326353 50.348961)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Laufdorfer_Straße_10> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q47530564> .
+<http://yago-knowledge.org/resource/Waun-Y-Fedwen> <http://www.w3.org/2000/01/rdf-schema#comment> "споруда у Великій Британії"@uk .
+<http://yago-knowledge.org/resource/Ilbeshausen_Ii_Hindenburgstraße> <http://www.w3.org/2000/01/rdf-schema#label> "Ilbeshausen II, Hindenburgstraße"@de .
+<http://yago-knowledge.org/resource/Mietshäuser_Muthesiusstraße_4_6_9_11_12_14> <http://schema.org/geo> "POINT(13.320840 52.459111)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Wallau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Ortsbezirk_Of_Germany> .
+<http://yago-knowledge.org/resource/Baker_Thornicroft_S_House_Country_Fayre> <http://www.w3.org/2000/01/rdf-schema#label> "Baker Thornicroft's House  Country Fayre"@en .
+<http://yago-knowledge.org/resource/Reading_Massachusetts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/New_England_town> .
+<http://yago-knowledge.org/resource/Damaschkestraße_10-20> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in Senftenberg, Duitsland"@nl .
+<http://yago-knowledge.org/resource/Wynne_Family_Q56186537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Family_Q8436> .
+<http://yago-knowledge.org/resource/Case_Maldenti> <http://schema.org/geo> "POINT(12.038242 44.225121)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Haus_Richard-Wolff-Straße_16> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في هسيش ليشتناو، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Sunbury_Workshops> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Laufdorfer_Straße_10> <http://www.w3.org/2000/01/rdf-schema#label> "Laufdorfer Straße 10"@de .
+<http://yago-knowledge.org/resource/Case_Maldenti> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3661629> .
+<http://yago-knowledge.org/resource/Hessisch_Lichtenau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/Konrad-Adenauer-Ufer_16> <http://schema.org/alternateName> "Konrad-Adenauer-Ufer 16"@de .
+<http://yago-knowledge.org/resource/Marca_Palast> <http://schema.org/location> <http://yago-knowledge.org/resource/Soazza> .
+<http://yago-knowledge.org/resource/Ilbeshausen_Ii_Hindenburgstraße> <http://schema.org/location> <http://yago-knowledge.org/resource/Grebenhain> .
+<http://yago-knowledge.org/resource/Newchurch_Old_Refectory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Haus_Wasenstraße_40> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116544173> .
+<http://yago-knowledge.org/resource/United_Kingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Island_country> .
+<http://yago-knowledge.org/resource/69_Gilmore_Place_Edinburgh> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in City of Edinburgh, Scotland, UK"@en .
+<http://yago-knowledge.org/resource/Domaine_Breen> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q27245492> .
+<http://yago-knowledge.org/resource/Haus_Taunusstraße_37_Q116571267> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116571267> .
+<http://yago-knowledge.org/resource/Haus_Bismarckstraße_48> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Bismarckstraße 48"@de .
+<http://yago-knowledge.org/resource/Haus_Schnurgasse_12B> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Lochlands_Roman_Camps> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in Falkirk, Scotland, UK"@en .
+<http://yago-knowledge.org/resource/Min-Yr-Afon> <http://yago-knowledge.org/resource/elevation> "+165.9"^^<http://yago-knowledge.org/resource/Metre> .
+<http://yago-knowledge.org/resource/Vicelinschule_Vicelinstraße_51> <http://www.w3.org/2000/01/rdf-schema#label> "Vicelinschule, Vicelinstraße 51"@de .
+<http://yago-knowledge.org/resource/Jakobstraße_4> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Glasgow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Big_City_Q1549591> .
+<http://yago-knowledge.org/resource/Marmara_region> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Geographical_regions_of_Turkey> .
+<http://yago-knowledge.org/resource/Craven_Bank_Listed_Building> <http://www.w3.org/2000/01/rdf-schema#comment> "historic building"@en .
+<http://yago-knowledge.org/resource/Adalar_Q14814766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Of_Turkey_Q2460358> .
+<http://yago-knowledge.org/resource/Hüttenberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Without_Town_Privileges_In_Germany> .
+<http://yago-knowledge.org/resource/Sunbury_Workshops> <http://www.w3.org/2000/01/rdf-schema#label> "Sunbury Workshops"@en .
+<http://yago-knowledge.org/resource/Marktplatz_11_Q110284897> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Marktplatz%2011%20Schw%C3%A4bisch%20Gm%C3%BCnd%2020200717%20035.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Haus_Lindenstraße_7_Q116667261> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في هيربشتاين، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Haus_Kirchgasse_2_Q116706868> <http://schema.org/geo> "POINT(8.159760 50.034874)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Manor_Von_Anderlan> <http://www.w3.org/2000/01/rdf-schema#comment> "споруда"@uk .
+<http://yago-knowledge.org/resource/Haus_Ziegelgasse_8A> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في شتايناو أن در شتراسه، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Haus_Dautenbachstraße_7> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Dautenbachstraße 7"@de .
+<http://yago-knowledge.org/resource/Retaule_Ceràmic_De_Sant_Domènech_Motor> <http://schema.org/location> <http://yago-knowledge.org/resource/Villarreal> .
+<http://yago-knowledge.org/resource/Minerva_House_North_Crescent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/The_Old_Manse_Q26512054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Jakobstraße_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Magdeburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Big_City_Q1549591> .
+<http://yago-knowledge.org/resource/Lechlade_Q24664636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Civil_parish> .
+<http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://yago-knowledge.org/resource/Haus_Am_Urselbach_6> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116537784> .
+<http://yago-knowledge.org/resource/Waldkappel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Town> .
+<http://yago-knowledge.org/resource/Casa_Piazza_Degli_Zingari_N_30_-_31> <http://schema.org/location> <http://yago-knowledge.org/resource/Rome> .
+<http://yago-knowledge.org/resource/London_Borough_of_Camden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/London_boroughs> .
+<http://yago-knowledge.org/resource/Salorno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Comune> .
+<http://yago-knowledge.org/resource/Cortes_de_Pallás> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Of_The_Valencian_Community> .
+<http://yago-knowledge.org/resource/Nidderau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Town> .
+<http://yago-knowledge.org/resource/Konrad-Adenauer-Ufer_16> <http://www.w3.org/2000/01/rdf-schema#label> "Konrad-Adenauer-Ufer 16"@en .
+<http://yago-knowledge.org/resource/Case_Maldenti> <http://schema.org/url> "https://it.wikipedia.org/wiki/Case_Maldenti"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bönnigheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Town> .
+<http://yago-knowledge.org/resource/Vicelinschule_Vicelinstraße_51> <http://schema.org/location> <http://yago-knowledge.org/resource/Neumünster> .
+<http://yago-knowledge.org/resource/Veterinary_Surgery_And_Garage_Adjoining_To_West> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Veterinary_Surgery_And_Garage_Adjoining_To_West> <http://schema.org/geo> "POINT(-2.754661 52.706784)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Haus_Am_Bache_14> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116524933> .
+<http://yago-knowledge.org/resource/Defunct_Yalı_No_157_Of_Arnavutköy> <http://schema.org/geo> "POINT(29.042299 41.066841)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Pfarrbornstraße> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Wallau%2C%20Pfarrbornstra%C3%9Fe%204.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Laufdorfer_Straße_10> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Pfarrbornstraße> <http://www.w3.org/2000/01/rdf-schema#label> "Pfarrbornstraße 4"@de .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://www.w3.org/2000/01/rdf-schema#label> "Walls of Amsterdam"@en .
+<http://yago-knowledge.org/resource/Sunbury_Workshops> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in Tower Hamlets, London, England, UK"@en .
+<http://yago-knowledge.org/resource/Era_7> <http://www.w3.org/2000/01/rdf-schema#label> "Era 7"@es .
+<http://yago-knowledge.org/resource/Stafford_Farm> <http://schema.org/sameAs> "/m/0gy107v" .
+<http://yago-knowledge.org/resource/37_Minto_Street_Edinburgh> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in City of Edinburgh, Scotland, UK"@en .
+<http://yago-knowledge.org/resource/Kanzuk_House> <http://www.w3.org/2000/01/rdf-schema#comment> "Adalar'da mimari yapı"@tr .
+<http://yago-knowledge.org/resource/8-24_Falfield_Street_Falfield_Cotton_Mill> <http://www.w3.org/2000/01/rdf-schema#comment> "Bauwerk im Vereinigten Königreich"@de .
+<http://yago-knowledge.org/resource/Heimatring_13> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116515477> .
+<http://yago-knowledge.org/resource/Haus_Bärengasse_9_Q116596397> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116596397> .
+<http://yago-knowledge.org/resource/Untermainstraße_20> <http://www.w3.org/2000/01/rdf-schema#comment> "Kulturdenkmal in Flörsheim am Main, Untermainstraße 20"@de .
+<http://yago-knowledge.org/resource/Hofheim_Hesse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/District_Capital_Q134626> .
+<http://yago-knowledge.org/resource/Marktplatz_11_Q110284897> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Marktplatz_11_(Schw%C3%A4bisch_Gm%C3%BCnd)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Glynllifon_Estate> <http://schema.org/alternateName> "Glynllifon"@en .
+<http://yago-knowledge.org/resource/Mur_Subestació_Transformadora_Valldigna_01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Haus_Am_Bache_14> <http://schema.org/location> <http://yago-knowledge.org/resource/Eschwege> .
+<http://yago-knowledge.org/resource/Fachwerkwohnhaus_Hinterstraße_16> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Haus_Bärengasse_9_Q116596397> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Bärengasse 9"@de .
+<http://yago-knowledge.org/resource/Haus_Richard-Wolff-Straße_16> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116591333> .
+<http://yago-knowledge.org/resource/Pier_House_And_Clock_Tower_Lamlash_Arran> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17830435> .
+<http://yago-knowledge.org/resource/Pier_House_And_Clock_Tower_Lamlash_Arran> <http://www.w3.org/2000/01/rdf-schema#comment> "споруда в Шотландії, Велика Британія"@uk .
+<http://yago-knowledge.org/resource/Mur_Subestació_Transformadora_Valldigna_01> <http://www.w3.org/2000/01/rdf-schema#label> "Mur, Subestació Transformadora Valldigna 01"@es .
+<http://yago-knowledge.org/resource/37_Minto_Street_Edinburgh> <http://schema.org/location> <http://yago-knowledge.org/resource/City_Of_Edinburgh> .
+<http://yago-knowledge.org/resource/Sunbury_Workshops> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q27084895> .
+<http://yago-knowledge.org/resource/8-24_Falfield_Street_Falfield_Cotton_Mill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Craven_Bank_Listed_Building> <http://schema.org/location> <http://yago-knowledge.org/resource/Giggleswick> .
+<http://yago-knowledge.org/resource/Haus_Frankfurter_Straße_90_Q116571820> <http://www.w3.org/2000/01/rdf-schema#comment> "cultural monument in Darmstadt, Hesse, Germany"@en .
+<http://yago-knowledge.org/resource/Aras_de_los_Olmos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Of_The_Valencian_Community> .
+<http://yago-knowledge.org/resource/Haus_Krafftstraße_24> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Haus_Schwalbacher_Straße_12_Q116704113> <http://schema.org/geo> "POINT(7.803719 50.045291)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Haus_Neudorfgasse_6> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Spain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Mediterranean_Country> .
+<http://yago-knowledge.org/resource/Middlefoodie> <http://www.w3.org/2000/01/rdf-schema#comment> "Bauwerk im Vereinigten Königreich"@de .
+<http://yago-knowledge.org/resource/Fachwerkwohnhaus_Hinterstraße_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Vicelinschule_Vicelinstraße_51> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Finestra_Bifora> <http://www.w3.org/2000/01/rdf-schema#label> "finestra bifora"@it .
+<http://yago-knowledge.org/resource/Dorfschmiede_Haunsheim> <http://www.w3.org/2000/01/rdf-schema#comment> "Bauwerk in Deutschland"@de .
+<http://yago-knowledge.org/resource/Haus_Marktplatz_3_Q116599635> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Haus_Marktplatz_3_Q116599635> <http://schema.org/geo> "POINT(8.990554 50.542286)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Villarreal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Of_The_Valencian_Community> .
+<http://yago-knowledge.org/resource/Reading_Mra> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Glynllifon_Estate> <http://schema.org/location> <http://yago-knowledge.org/resource/Llanllyfni> .
+<http://yago-knowledge.org/resource/Haus_Textorstraße_90> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Textorstraße 90"@de .
+<http://yago-knowledge.org/resource/Defunct_Yalı_No_157_Of_Arnavutköy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Vicelinschule_Vicelinstraße_51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Glynllifon_Estate> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Damaschkestraße_10-20> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Damaschkestra%C3%9Fe%2010-20%20senftenberg%2006-01-2018%20%284%29.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Veterinary_Surgery_And_Garage_Adjoining_To_West> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Haus_Gangstraße_28> <http://schema.org/geo> "POINT(8.754944 50.156727)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/St_Joseph_s_Chapel_of_the_Manhattan_State_Hospital> <http://www.w3.org/2000/01/rdf-schema#comment> "Bauwerk in den Vereinigten Staaten"@de .
+<http://yago-knowledge.org/resource/Haus_Ringstraße_2_Q116710083> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116710083> .
+<http://yago-knowledge.org/resource/Konrad-Adenauer-Ufer_16> <http://schema.org/location> <http://yago-knowledge.org/resource/Flörsheim_am_Main> .
+<http://yago-knowledge.org/resource/Jakobstraße_4> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q114807440> .
+<http://yago-knowledge.org/resource/Turkey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Social_state> .
+<http://yago-knowledge.org/resource/Herbstein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Designated_Spa_Town> .
+<http://yago-knowledge.org/resource/Riccards_Spring> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in Whatlington, Rother, East Sussex, England, UK"@en .
+<http://yago-knowledge.org/resource/Kirchstraße_13_Q116663787> <http://schema.org/location> <http://yago-knowledge.org/resource/Hanau-Steinheim> .
+<http://yago-knowledge.org/resource/Manor_Von_Anderlan> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/St_Joseph_s_Chapel_of_the_Manhattan_State_Hospital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7589100> .
+<http://yago-knowledge.org/resource/Eschwege> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/District_Capital_Q134626> .
+<http://yago-knowledge.org/resource/Heidestraße_33> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Heidestra%C3%9Fe%2033%20in%20Magdeburg.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Lechlade_Manor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Haus_Frankfurter_Straße_90_Q116571820> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116571820> .
+<http://yago-knowledge.org/resource/Finestra_Bifora> <http://schema.org/location> <http://yago-knowledge.org/resource/Monte_San_Giovanni_Campano> .
+<http://yago-knowledge.org/resource/Italy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Unitary_state> .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:City_walls_of_Amsterdam"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Laufdorfer_Straße_10> <http://schema.org/location> <http://yago-knowledge.org/resource/Bonbaden> .
+<http://yago-knowledge.org/resource/Jakobstraße_4> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Jakobstra%C3%9Fe_4_(Naumburg)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Marktplatz_11_Q110284897> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q110284897> .
+<http://yago-knowledge.org/resource/Friedhofseingang_Mit_Ehrenmal> <http://www.w3.org/2000/01/rdf-schema#comment> "пам'ятка культурної спадщини в Гессені, Німеччина"@uk .
+<http://yago-knowledge.org/resource/3_Main_Street_Straiton> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in South Ayrshire, Scotland, UK"@en .
+<http://yago-knowledge.org/resource/Hanau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Independent_cities_of_Germany> .
+<http://yago-knowledge.org/resource/Manor_Von_Anderlan> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Manor_von_Anderlan"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Kirchstraße_13_Q116663787> <http://www.w3.org/2000/01/rdf-schema#comment> "building in Hanau, Hesse, Germany"@en .
+<http://yago-knowledge.org/resource/Tavernes_de_la_Valldigna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Of_The_Valencian_Community> .
+<http://yago-knowledge.org/resource/Haus_Bismarckstraße_48> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Dorfschmiede_Haunsheim> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18011466> .
+<http://yago-knowledge.org/resource/Haus_Bilsteinstraße_7> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116588264> .
+<http://yago-knowledge.org/resource/Haus_Gangstraße_28> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Gangstraße 28"@de .
+<http://yago-knowledge.org/resource/Rome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/College_town> .
+<http://yago-knowledge.org/resource/Auerbacher_Burgkiefer> <http://schema.org/location> <http://yago-knowledge.org/resource/Bensheim> .
+<http://yago-knowledge.org/resource/Haus_Richard-Wolff-Straße_16> <http://schema.org/geo> "POINT(9.731307 51.198123)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Mietshäuser_Muthesiusstraße_4_6_9_11_12_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Nidda_river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/River> .
+<http://yago-knowledge.org/resource/Haus_Krafftstraße_24> <http://schema.org/location> <http://yago-knowledge.org/resource/Offenbach_Q32205427> .
+<http://yago-knowledge.org/resource/Alcavó_De_La_Sèquia_Del_Port_01> <http://schema.org/location> <http://yago-knowledge.org/resource/Spain> .
+<http://yago-knowledge.org/resource/Turkey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Mediterranean_Country> .
+<http://yago-knowledge.org/resource/69_Gilmore_Place_Edinburgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Haus_Schwalbacher_Straße_12_Q116704113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/69_Gilmore_Place_Edinburgh> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q56631930> .
+<http://yago-knowledge.org/resource/Haus_Schwalbengasse_36> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Forest_Hill_with_Shotover> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Civil_parish> .
+<http://yago-knowledge.org/resource/United_Kingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Colonial_Power> .
+<http://yago-knowledge.org/resource/Haus_Dautenbachstraße_7> <http://schema.org/geo> "POINT(9.635628 51.279203)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Case_Maldenti> <http://www.w3.org/2000/01/rdf-schema#label> "Case Maldenti"@it .
+<http://yago-knowledge.org/resource/Ehem_Hotel_Brigel_Holstenstraße_1> <http://schema.org/alternateName> "Holstenstraße 1"@de .
+<http://yago-knowledge.org/resource/Wohnhaus_Q116512343> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Untermainstraße_20> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Haus_Bismarckstraße_48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Loxbeare_Barton> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q26611206> .
+<http://yago-knowledge.org/resource/Switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Forlì> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Big_City_Q1549591> .
+<http://yago-knowledge.org/resource/Middlefoodie> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Reading_Mra> <http://schema.org/alternateName> "Reading Multiple Resource Area"@en .
+<http://yago-knowledge.org/resource/Lechlade_Manor> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q26590362> .
+<http://yago-knowledge.org/resource/Dorfschmiede_Haunsheim> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Ehem_Hotel_Brigel_Holstenstraße_1> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130643156> .
+<http://yago-knowledge.org/resource/Case_Maldenti> <http://schema.org/sameAs> "/g/11_yy0ls5" .
+<http://yago-knowledge.org/resource/Marca_Palast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Haus_Forstweg_4> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Wohnhaus_Q116512343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Frankfurt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Free_City_Q13218276> .
+<http://yago-knowledge.org/resource/Untermainstraße_20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Frankfurt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Business_cluster> .
+<http://yago-knowledge.org/resource/Marca_Palast> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in Soazza, Zwitserland"@nl .
+<http://yago-knowledge.org/resource/Hausen_Über_Aar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Gemarkung> .
+<http://yago-knowledge.org/resource/The_Retreat_Q26604036> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q26604036> .
+<http://yago-knowledge.org/resource/Haus_Bilsteinstraße_7> <http://schema.org/geo> "POINT(9.857853 51.161459)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Haus_Schwalbacher_Straße_12_Q116704113> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Cofrentes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Of_The_Valencian_Community> .
+<http://yago-knowledge.org/resource/Min-Yr-Afon> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Haus_Am_Urselbach_6> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/St_Joseph_s_Chapel_of_the_Manhattan_State_Hospital> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Sunbury_Workshops> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Sunbury%20Workshops.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Haus_Kirchgasse_2_Q116706868> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Kirchgasse 2"@de .
+<http://yago-knowledge.org/resource/Friedhofseingang_Mit_Ehrenmal> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Ehrenmal_Hausen_%C3%BCber_Aar"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Damaschkestraße_10-20> <http://schema.org/geo> "POINT(13.990417 51.523708)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Baker_Thornicroft_S_House_Country_Fayre> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Giggleswick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Civil_parish> .
+<http://yago-knowledge.org/resource/Haus_Beunegasse_12> <http://schema.org/geo> "POINT(8.754015 49.856651)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Caseta_De_Aperos_Polígono_019_Parcela_246B> <http://schema.org/location> <http://yago-knowledge.org/resource/Spain> .
+<http://yago-knowledge.org/resource/Government_of_Amsterdam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipalities_of_the_Netherlands> .
+<http://yago-knowledge.org/resource/Beylikdüzü> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Of_Turkey_Q2460358> .
+<http://yago-knowledge.org/resource/Netherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> .
+<http://yago-knowledge.org/resource/Haus_Schwalbacher_Straße_12_Q116704113> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116704113> .
+<http://yago-knowledge.org/resource/Selters_Lahn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Ortsteil_Q253019> .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Pier_House_And_Clock_Tower_Lamlash_Arran> <http://schema.org/location> <http://yago-knowledge.org/resource/North_Ayrshire> .
+<http://yago-knowledge.org/resource/Haus_Am_Urselbach_6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Marktplatz_11_Q110284897> <http://www.w3.org/2000/01/rdf-schema#label> "Marktplatz 11"@de .
+<http://yago-knowledge.org/resource/Heimatring_13> <http://schema.org/location> <http://yago-knowledge.org/resource/Frankfurt> .
+<http://yago-knowledge.org/resource/Mur_Subestació_Transformadora_Valldigna_01> <http://www.w3.org/2000/01/rdf-schema#comment> "edificios agropecuarios - Estructuras piedra en seco - Ribazos (piedra seca) en TAVERNES DE LA VALLDIGNA"@es .
+<http://yago-knowledge.org/resource/Haus_Obergasse_26D> <http://schema.org/location> <http://yago-knowledge.org/resource/Bad_Vilbel> .
+<http://yago-knowledge.org/resource/Ehem_Hotel_Brigel_Holstenstraße_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Haus_Bärengasse_9_Q116596397> <http://schema.org/geo> "POINT(8.447629 50.087560)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Altenteiler_Q116496912> <http://schema.org/geo> "POINT(9.731176 50.309857)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Era_7> <http://www.w3.org/2000/01/rdf-schema#comment> "era a Cortes de Pallars"@ca .
+<http://yago-knowledge.org/resource/Steglitz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Locality_Of_Berlin> .
+<http://yago-knowledge.org/resource/Min-Yr-Afon> <http://www.w3.org/2000/01/rdf-schema#label> "Min-yr-Afon"@cy .
+<http://yago-knowledge.org/resource/Konrad-Adenauer-Ufer_16> <http://schema.org/geo> "POINT(8.429403 50.011284)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Min-Yr-Afon> <http://www.w3.org/2000/01/rdf-schema#label> "Min-yr-Afon"@en .
+<http://yago-knowledge.org/resource/Grenzsteine_Der_Grenzlinie_Des_Hochgräflich_Hanauischen_Amtes_Windecken_Und_Der_Herrschaftlichen_Burg_Friedberg> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في نيدراو، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Wohnhaus_Miquelstraße_58> <http://www.w3.org/2000/01/rdf-schema#comment> "Baudenkmal in Berlin-Dahlem"@de .
+<http://yago-knowledge.org/resource/Alcavó_De_La_Sèquia_Del_Port_01> <http://www.w3.org/2000/01/rdf-schema#label> "Alcavó de la Sèquia del Port 01"@es .
+<http://yago-knowledge.org/resource/Haus_Bilsteinstraße_7> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في فالدكابل، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Domaine_Breen> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Domaine%20Breen.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Jakobstraße_4> <http://www.w3.org/2000/01/rdf-schema#comment> "Bauwerk in Naumburg (Saale)"@de .
+<http://yago-knowledge.org/resource/Glynllifon_Estate> <http://yago-knowledge.org/resource/ownedBy> <http://yago-knowledge.org/resource/Glynne_Family_Q56177516> .
+<http://yago-knowledge.org/resource/Untermainstraße_20> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q47983137> .
+<http://yago-knowledge.org/resource/Rome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Metropolis> .
+<http://yago-knowledge.org/resource/Haus_Bilsteinstraße_7> <http://www.w3.org/2000/01/rdf-schema#comment> "cultural monument in Waldkappel in the Werra-Meißner district, Hesse"@en .
+<http://yago-knowledge.org/resource/Heimatring_13> <http://www.w3.org/2000/01/rdf-schema#label> "Heimatring 13"@en .
+<http://yago-knowledge.org/resource/Loxbeare_Barton> <http://www.w3.org/2000/01/rdf-schema#label> "Loxbeare Barton"@en .
+<http://yago-knowledge.org/resource/Glynllifon_Estate> <http://www.w3.org/2000/01/rdf-schema#label> "Glynllifon Estate"@en .
+<http://yago-knowledge.org/resource/Glynllifon_Estate> <http://www.w3.org/2000/01/rdf-schema#comment> "stad ger Llandwrog, Gwynedd, Cymru"@cy .
+<http://yago-knowledge.org/resource/Ehem_Hotel_Brigel_Holstenstraße_1> <http://www.w3.org/2000/01/rdf-schema#comment> "Gebäude in Neumünster, Schleswig-Holstein"@de .
+<http://yago-knowledge.org/resource/Dorfschmiede_Haunsheim> <http://www.w3.org/2000/01/rdf-schema#label> "Dorfschmiede (Haunsheim)"@en .
+<http://yago-knowledge.org/resource/Heidestraße_33> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://www.w3.org/2000/01/rdf-schema#comment> "Series of historic walls built around the city of Amsterdam, Netherlands"@en .
+<http://yago-knowledge.org/resource/Damaschkestraße_10-20> <http://schema.org/alternateName> "Damaschkestraße 10-20 (Senftenberg)"@de .
+<http://yago-knowledge.org/resource/Steglitz-Zehlendorf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Borough_Of_Berlin> .
+<http://yago-knowledge.org/resource/Laufdorfer_Straße_10> <http://www.w3.org/2000/01/rdf-schema#comment> "cultural heritage monument in Bonbaden, Hesse, Germany"@en .
+<http://yago-knowledge.org/resource/Pfarrbornstraße> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Pfarrbornstra%C3%9Fe_(Wallau)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Edinburgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Big_City_Q1549591> .
+<http://yago-knowledge.org/resource/Mikstat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Royal_city_in_Polish-Lithuanian_Commonwealth> .
+<http://yago-knowledge.org/resource/Bad_Vilbel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Designated_Spa_Town> .
+<http://yago-knowledge.org/resource/Pier_House_And_Clock_Tower_Lamlash_Arran> <http://schema.org/alternateName> "Arran, Lamlash, Pier House And Clock Tower"@en .
+<http://yago-knowledge.org/resource/Haus_Kirchgasse_2_Q116706868> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116706868> .
+<http://yago-knowledge.org/resource/Shrewsbury> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Civil_parish> .
+<http://yago-knowledge.org/resource/Case_Maldenti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Home_Farm_Shotover_Park_South_Range> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Wohnhaus_Q116512343> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116512343> .
+<http://yago-knowledge.org/resource/Heidestraße_33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Marca_Palast> <http://www.w3.org/2000/01/rdf-schema#label> "Marca Palast"@de .
+<http://yago-knowledge.org/resource/Haus_Ziegelgasse_8A> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Ziegelgasse 8a"@de .
+<http://yago-knowledge.org/resource/Guigues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Village> .
+<http://yago-knowledge.org/resource/Haus_Bilsteinstraße_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Ehem_Hotel_Brigel_Holstenstraße_1> <http://schema.org/alternateName> "ehem. Hotel Brigel"@de .
+<http://yago-knowledge.org/resource/Haus_Forstweg_4> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Forstweg 4"@de .
+<http://yago-knowledge.org/resource/Gelnhausen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/District_Capital_Q134626> .
+<http://yago-knowledge.org/resource/Haus_Obergasse_26D> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في باد فيلبل، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/3_Main_Street_Straiton> <http://www.w3.org/2000/01/rdf-schema#label> "3 Main Street, Straiton"@en .
+<http://yago-knowledge.org/resource/Auerbacher_Burgkiefer> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Glynllifon_Estate> <http://yago-knowledge.org/resource/ownedBy> <http://yago-knowledge.org/resource/Wynne_Family_Q56186537> .
+<http://yago-knowledge.org/resource/Haus_Brunnenstraße_3_Q116650696> <http://schema.org/geo> "POINT(8.224846 50.335816)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Hofheim_Hesse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Town> .
+<http://yago-knowledge.org/resource/Falkirk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Large_burgh> .
+<http://yago-knowledge.org/resource/Mikstat_Transmitter> <http://schema.org/location> <http://yago-knowledge.org/resource/Mikstat> .
+<http://yago-knowledge.org/resource/Wohnhaus_Q116512343> <http://www.w3.org/2000/01/rdf-schema#label> "Wohnhaus"@de .
+<http://yago-knowledge.org/resource/Era_7> <http://schema.org/location> <http://yago-knowledge.org/resource/Cortes_de_Pallás> .
+<http://yago-knowledge.org/resource/Ilbeshausen_Ii_Hindenburgstraße> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/69_Gilmore_Place_Edinburgh> <http://schema.org/location> <http://yago-knowledge.org/resource/Edinburgh> .
+<http://yago-knowledge.org/resource/Haus_Frankfurter_Straße_90_Q116571820> <http://schema.org/geo> "POINT(8.650995 49.883576)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Mikstat_Transmitter> <http://schema.org/sameAs> "/m/0xpl5v9" .
+<http://yago-knowledge.org/resource/Wohnhaus_Q116512343> <http://schema.org/geo> "POINT(8.547917 50.993515)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Wohnhaus_Miquelstraße_58> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q61768459> .
+<http://yago-knowledge.org/resource/Home_Farm_Shotover_Park_South_Range> <http://schema.org/location> <http://yago-knowledge.org/resource/Forest_Hill_with_Shotover> .
+<http://yago-knowledge.org/resource/Marktplatz_11_Q110284897> <http://www.w3.org/2000/01/rdf-schema#label> "Marktplatz 11"@en .
+<http://yago-knowledge.org/resource/Croft_Cheshire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Village> .
+<http://yago-knowledge.org/resource/Darmstadt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_District_Of_Hesse> .
+<http://yago-knowledge.org/resource/Craven_Bank_Listed_Building> <http://schema.org/geo> "POINT(-2.293561 54.072961)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Falkirk_council_area> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Scottish_Council_Area> .
+<http://yago-knowledge.org/resource/69_Gilmore_Place_Edinburgh> <http://www.w3.org/2000/01/rdf-schema#label> "69 Gilmore Place, Edinburgh"@en .
+<http://yago-knowledge.org/resource/Minerva_House_North_Crescent> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q27081868> .
+<http://yago-knowledge.org/resource/Fife> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Scottish_Council_Area> .
+<http://yago-knowledge.org/resource/Haus_Wasenstraße_40> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في أورتنبرغ، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Frankfurt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Big_City_Q1549591> .
+<http://yago-knowledge.org/resource/Corral_Camí_Del_Mas_Vell> <http://schema.org/location> <http://yago-knowledge.org/resource/Ares_del_Maestrat> .
+<http://yago-knowledge.org/resource/3_Main_Street_Straiton> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Haus_Beunegasse_12> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Beunegasse 12"@de .
+<http://yago-knowledge.org/resource/Haus_Schwalbengasse_36> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Schwalbengasse 36"@de .
+<http://yago-knowledge.org/resource/Corral_Camí_Del_Mas_Vell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Corral_Del_Mas_Quemado> <http://schema.org/location> <http://yago-knowledge.org/resource/Spain> .
+<http://yago-knowledge.org/resource/Heidestraße_33> <http://www.w3.org/2000/01/rdf-schema#label> "Heidestraße 33"@de .
+<http://yago-knowledge.org/resource/Vicelinschule_Vicelinstraße_51> <http://schema.org/alternateName> "Vicelinstraße 51"@de .
+<http://yago-knowledge.org/resource/Haus_Am_Urselbach_6> <http://schema.org/geo> "POINT(8.619856 50.168387)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Dorfschmiede_Haunsheim> <http://schema.org/location> <http://yago-knowledge.org/resource/Haunsheim> .
+<http://yago-knowledge.org/resource/3_Main_Street_Straiton> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in South Ayrshire, Verenigd Koninkrijk"@nl .
+<http://yago-knowledge.org/resource/Stafford_Farm> <http://schema.org/url> "https://en.wikipedia.org/wiki/Stafford_Farm"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Giessen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/City_With_Special_Status> .
+<http://yago-knowledge.org/resource/Newchurch_Old_Refectory> <http://schema.org/geo> "POINT(-2.522316 53.447204)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Heidestraße_33> <http://schema.org/location> <http://yago-knowledge.org/resource/Magdeburg> .
+<http://yago-knowledge.org/resource/St_Joseph_s_Chapel_of_the_Manhattan_State_Hospital> <http://www.w3.org/2000/01/rdf-schema#label> "St. Joseph's Chapel of the Manhattan State Hospital"@en .
+<http://yago-knowledge.org/resource/Ehem_Hotel_Brigel_Holstenstraße_1> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في نويمونستر، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Darmstadt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/College_town> .
+<http://yago-knowledge.org/resource/Beylikdüzü_Mübadele_Evi> <http://schema.org/location> <http://yago-knowledge.org/resource/Turkey> .
+<http://yago-knowledge.org/resource/Mur_Subestació_Transformadora_Valldigna_01> <http://schema.org/location> <http://yago-knowledge.org/resource/Tavernes_de_la_Valldigna> .
+<http://yago-knowledge.org/resource/St_Joseph_s_Chapel_of_the_Manhattan_State_Hospital> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in Manhattan, Verenigde Staten van Amerika"@nl .
+<http://yago-knowledge.org/resource/8-24_Falfield_Street_Falfield_Cotton_Mill> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17814106> .
+<http://yago-knowledge.org/resource/Fachwerkwohnhaus_Hinterstraße_16> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في باد آرولزن، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Heimatring_13> <http://www.w3.org/2000/01/rdf-schema#label> "Heimatring 13"@mul .
+<http://yago-knowledge.org/resource/Haus_Gangstraße_28> <http://schema.org/location> <http://yago-knowledge.org/resource/Frankfurt> .
+<http://yago-knowledge.org/resource/Hauptstraße_45> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Ludewig-Siedlung> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Ilbeshausen_Ii_Hindenburgstraße> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116492898> .
+<http://yago-knowledge.org/resource/Home_Farm_Shotover_Park_South_Range> <http://schema.org/geo> "POINT(-1.154040 51.751164)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Haus_Beunegasse_12> <http://www.w3.org/2000/01/rdf-schema#comment> "cultural monument in the municipality of Roßdorf in the Darmstadt-Dieburg district, Hesse, Germany"@en .
+<http://yago-knowledge.org/resource/Haus_Schnurgasse_12B> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116670666> .
+<http://yago-knowledge.org/resource/Defunct_Yalı_No_157_Of_Arnavutköy> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in Beşiktaş District"@en .
+<http://yago-knowledge.org/resource/Birstein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Without_Town_Privileges_In_Germany> .
+<http://yago-knowledge.org/resource/Kanzuk_House> <http://schema.org/location> <http://yago-knowledge.org/resource/Marmara_region> .
+<http://yago-knowledge.org/resource/Marktplatz_11_Q110284897> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Friedhofseingang_Mit_Ehrenmal> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Ehrenmal%20Hausen%20%C3%BCber%20Aar.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Damaschkestraße_10-20> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Newchurch_Old_Refectory> <http://schema.org/location> <http://yago-knowledge.org/resource/Croft_Cheshire> .
+<http://yago-knowledge.org/resource/Pier_House_And_Clock_Tower_Lamlash_Arran> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in North Ayrshire, Verenigd Koninkrijk"@nl .
+<http://yago-knowledge.org/resource/Beylikdüzü_Mübadele_Evi> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133683581> .
+<http://yago-knowledge.org/resource/Altenteiler_Q116496912> <http://www.w3.org/2000/01/rdf-schema#label> "Altenteiler"@de .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://schema.org/location> <http://yago-knowledge.org/resource/Netherlands> .
+<http://yago-knowledge.org/resource/Haus_Frankfurter_Straße_90_Q116571820> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Haus_Kirchgasse_2_Q116706868> <http://schema.org/location> <http://yago-knowledge.org/resource/Walluf> .
+<http://yago-knowledge.org/resource/Pier_House_And_Clock_Tower_Lamlash_Arran> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/The_Retreat_Q26604036> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in Broadhempston, Teignbridge, Devon, England, UK"@en .
+<http://yago-knowledge.org/resource/Haus_Dautenbachstraße_7> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://www.w3.org/2000/01/rdf-schema#label> "Vestingwerken van Amsterdam"@nl .
+<http://yago-knowledge.org/resource/Haus_Richard-Wolff-Straße_16> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Lorch_am_Rhein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Town> .
+<http://yago-knowledge.org/resource/Caseta_De_Aperos_Polígono_019_Parcela_246B> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q117765198> .
+<http://yago-knowledge.org/resource/Giessen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/College_town> .
+<http://yago-knowledge.org/resource/Finestra_Bifora> <http://schema.org/location> <http://yago-knowledge.org/resource/Italy> .
+<http://yago-knowledge.org/resource/Untermainstraße_20> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in Flörsheim am Main, Duitsland"@nl .
+<http://yago-knowledge.org/resource/Haus_Obergasse_26D> <http://schema.org/geo> "POINT(8.757905 50.204366)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Haus_Lindenstraße_7_Q116667261> <http://schema.org/location> <http://yago-knowledge.org/resource/Herbstein> .
+<http://yago-knowledge.org/resource/Mietshäuser_Muthesiusstraße_4_6_9_11_12_14> <http://schema.org/alternateName> "Muthesiusstraße 4/6, 9/11, 12/14"@de .
+<http://yago-knowledge.org/resource/Clocha_En_Alto_De_Matuta> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q117786269> .
+<http://yago-knowledge.org/resource/Min-Yr-Afon> <http://www.w3.org/2000/01/rdf-schema#comment> "adeiladwaith pensaernïol rhestredig Gradd II yn Llangeler"@cy .
+<http://yago-knowledge.org/resource/37_Minto_Street_Edinburgh> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17795869> .
+<http://yago-knowledge.org/resource/Friedhofseingang_Mit_Ehrenmal> <http://www.w3.org/2000/01/rdf-schema#label> "Friedhofseingang mit Ehrenmal"@de .
+<http://yago-knowledge.org/resource/Haus_Frankfurter_Straße_90_Q116571820> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Haus_Ringstraße_2_Q116710083> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Ringstraße 2"@de .
+<http://yago-knowledge.org/resource/Wald-Michelbach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Without_Town_Privileges_In_Germany> .
+<http://yago-knowledge.org/resource/Dorfschmiede_Haunsheim> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in Beieren, Duitsland"@nl .
+<http://yago-knowledge.org/resource/Stafford_Farm> <http://schema.org/geo> "POINT(-74.969100 39.859100)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Pier_House_And_Clock_Tower_Lamlash_Arran> <http://www.w3.org/2000/01/rdf-schema#label> "Pier House and Clock Tower, Lamlash, Arran"@en .
+<http://yago-knowledge.org/resource/Reading_Mra> <http://schema.org/alternateName> "Reading MRA (AD)"@en .
+<http://yago-knowledge.org/resource/Haus_Dautenbachstraße_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Hanau-Steinheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Ortsteil_Q253019> .
+<http://yago-knowledge.org/resource/Haus_Krafftstraße_24> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Krafftstraße 24"@de .
+<http://yago-knowledge.org/resource/Poland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Successor_State> .
+<http://yago-knowledge.org/resource/Haus_Richard-Wolff-Straße_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Schwäbisch_Gmünd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Greater_District_Town_In_Baden-Württemberg> .
+<http://yago-knowledge.org/resource/Turkey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Regional_power> .
+<http://yago-knowledge.org/resource/Darmstadt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/European_City> .
+<http://yago-knowledge.org/resource/The_Retreat_Q26604036> <http://schema.org/geo> "POINT(-3.681526 50.484753)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Lechlade_Manor> <http://schema.org/url> "https://en.wikipedia.org/wiki/Lechlade_Manor"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Altenteiler_Q116496912> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116496912> .
+<http://yago-knowledge.org/resource/Retaule_Ceràmic_De_Sant_Domènech_Motor> <http://www.w3.org/2000/01/rdf-schema#comment> "Paneles cerámicos - Paneles cerámicos rituales en VILA-REAL"@es .
+<http://yago-knowledge.org/resource/Beylikdüzü_Mübadele_Evi> <http://schema.org/geo> "POINT(28.611757 40.990501)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Rechtsstaat> .
+<http://yago-knowledge.org/resource/Beşiktaş> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Town> .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2292545> .
+<http://yago-knowledge.org/resource/Rome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Largest_City> .
+<http://yago-knowledge.org/resource/Hatzfeld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Town> .
+<http://yago-knowledge.org/resource/Vicelinschule_Vicelinstraße_51> <http://schema.org/alternateName> "Vicelinschule"@de .
+<http://yago-knowledge.org/resource/Pier_House_And_Clock_Tower_Lamlash_Arran> <http://schema.org/location> <http://yago-knowledge.org/resource/Isle_of_Arran> .
+<http://yago-knowledge.org/resource/Haus_Taunusstraße_37_Q116571267> <http://schema.org/geo> "POINT(8.664100 49.880902)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Casa_Piazza_Degli_Zingari_N_30_-_31> <http://schema.org/location> <http://yago-knowledge.org/resource/Italy> .
+<http://yago-knowledge.org/resource/3_Main_Street_Straiton> <http://schema.org/geo> "POINT(-4.550257 55.310941)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Haus_Taunusstraße_37_Q116571267> <http://www.w3.org/2000/01/rdf-schema#comment> "monument culturel à Darmstadt, Hesse, Allemagne"@fr .
+<http://yago-knowledge.org/resource/Haus_Barbarossastraße_14> <http://schema.org/location> <http://yago-knowledge.org/resource/Gelnhausen> .
+<http://yago-knowledge.org/resource/37_Minto_Street_Edinburgh> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Baker_Thornicroft_S_House_Country_Fayre> <http://schema.org/geo> "POINT(-1.456585 52.236135)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Case_Maldenti> <http://www.w3.org/2000/01/rdf-schema#comment> "Palast in Forlì, Italien"@de .
+<http://yago-knowledge.org/resource/Waun-Y-Fedwen> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Naumburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Lists_of_former_Hansa_cities> .
+<http://yago-knowledge.org/resource/Haus_Brunnenstraße_3_Q116650696> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Brunnenstraße 3"@de .
+<http://yago-knowledge.org/resource/Corral_Camí_Del_Mas_Vell> <http://www.w3.org/2000/01/rdf-schema#comment> "edificios agropecuarios - Estructuras piedra en seco - Corrales (piedra seca) en ARES DEL MAESTRE"@es .
+<http://yago-knowledge.org/resource/Haus_Wasenstraße_40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/London_Borough_of_Tower_Hamlets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/London_boroughs> .
+<http://yago-knowledge.org/resource/South_Ayrshire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Scottish_Council_Area> .
+<http://yago-knowledge.org/resource/Mikstat_Transmitter> <http://schema.org/url> "https://en.wikipedia.org/wiki/Mikstat_Transmitter"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/The_Old_Manse_Q26512054> <http://schema.org/location> <http://yago-knowledge.org/resource/Lymington_and_Pennington> .
+<http://yago-knowledge.org/resource/Defunct_Yalı_No_157_Of_Arnavutköy> <http://www.w3.org/2000/01/rdf-schema#label> "Sahilhane 157, Arnavutköy"@tr .
+<http://yago-knowledge.org/resource/Manor_Von_Anderlan> <http://schema.org/url> "https://heritage.toolforge.org/api/api.php?action=search&format=xml&srcountry=it-bz&srlanguage=de&srid=16885"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Mississippi_Post_Offices_1931-1941_Tr> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Hauptstraße_45> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في بونيغهايم، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Konrad-Adenauer-Ufer_16> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116595291> .
+<http://yago-knowledge.org/resource/Kirchstraße_13_Q116663787> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Veterinary_Surgery_And_Garage_Adjoining_To_West> <http://www.w3.org/2000/01/rdf-schema#label> "Veterinary Surgery And Garage Adjoining To West"@en .
+<http://yago-knowledge.org/resource/Auerbacher_Burgkiefer> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في بنسهايم، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Loxbeare_Barton> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Turkey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Successor_State> .
+<http://yago-knowledge.org/resource/Pfarrbornstraße> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q48003649> .
+<http://yago-knowledge.org/resource/Villarreal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> .
+<http://yago-knowledge.org/resource/Damaschkestraße_10-20> <http://www.w3.org/2000/01/rdf-schema#label> "Damaschkestraße 10-20"@de .
+<http://yago-knowledge.org/resource/Mietshäuser_Muthesiusstraße_4_6_9_11_12_14> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Ensemble_Mietsh%C3%A4user_Muthesiusstra%C3%9Fe_4/6,_9/11,_12/14_(Berlin-Steglitz)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Kirchstraße_13_Q116663787> <http://schema.org/alternateName> "Kirchstraße 13"@de .
+<http://yago-knowledge.org/resource/Haus_Bilsteinstraße_7> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Bilsteinstraße 7"@de .
+<http://yago-knowledge.org/resource/Pfarrbornstraße> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Haus_Am_Urselbach_6> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في فرانكفورت، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/8-24_Falfield_Street_Falfield_Cotton_Mill> <http://schema.org/location> <http://yago-knowledge.org/resource/Glasgow> .
+<http://yago-knowledge.org/resource/Konrad-Adenauer-Ufer_16> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Craven_Bank_Listed_Building> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Haus_Textorstraße_90> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في فرانكفورت، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Balsa_Polígono_9_Parcela_228B> <http://www.w3.org/2000/01/rdf-schema#label> "Balsa, Polígono 9 Parcela 228b"@es .
+<http://yago-knowledge.org/resource/Haus_Beunegasse_12> <http://www.w3.org/2000/01/rdf-schema#comment> "Kulturdenkmal in der Gemeinde Roßdorf im Landkreis Darmstadt-Dieburg, Hessen, Deutschland"@de .
+<http://yago-knowledge.org/resource/Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federation> .
+<http://yago-knowledge.org/resource/Kirchstraße_13_Q116663787> <http://schema.org/geo> "POINT(8.912529 50.116642)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Haus_Auf_Dem_Graben_19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Finestra_Bifora> <http://schema.org/url> "http://dati.beniculturali.it/iccd/schede/resource/CulturalInstituteOrSite/S010003_Finestra_Bifora"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Untermainstraße_20> <http://www.w3.org/2000/01/rdf-schema#comment> "cultural heritage monument in Flörsheim am Main, Hesse, Germany"@en .
+<http://yago-knowledge.org/resource/Haus_Beunegasse_12> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Lymington_and_Pennington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Civil_parish> .
+<http://yago-knowledge.org/resource/Atzeneta_d_Albaida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Of_The_Valencian_Community> .
+<http://yago-knowledge.org/resource/Konrad-Adenauer-Ufer_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in Amsterdam, Nederland"@nl .
+<http://yago-knowledge.org/resource/Llanllyfni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Village> .
+<http://yago-knowledge.org/resource/Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Social_state> .
+<http://yago-knowledge.org/resource/Domaine_Breen> <http://www.w3.org/2000/01/rdf-schema#comment> "domaine à Saint-Bruno-de-Guigues"@fr .
+<http://yago-knowledge.org/resource/Middlefoodie> <http://schema.org/geo> "POINT(-2.965405 56.345516)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Fife> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Peninsula> .
+<http://yago-knowledge.org/resource/Mikstat_Transmitter> <http://www.w3.org/2000/01/rdf-schema#comment> "place"@en .
+<http://yago-knowledge.org/resource/Haus_Auf_Dem_Graben_19> <http://schema.org/geo> "POINT(9.009484 50.412307)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://schema.org/location> <http://yago-knowledge.org/resource/Government_of_Amsterdam> .
+<http://yago-knowledge.org/resource/Gelnhausen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Town> .
+<http://yago-knowledge.org/resource/Haus_Textorstraße_90> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116536799> .
+<http://yago-knowledge.org/resource/Darmstadt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Major_Regional_Center> .
+<http://yago-knowledge.org/resource/Haus_Barbarossastraße_14> <http://schema.org/geo> "POINT(9.194884 50.201073)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Lochlands_Roman_Camps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Corral_Camí_Del_Mas_Vell> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q117782063> .
+<http://yago-knowledge.org/resource/Clocha_En_Alto_De_Matuta> <http://schema.org/location> <http://yago-knowledge.org/resource/Spain> .
+<http://yago-knowledge.org/resource/Grebenhain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Without_Town_Privileges_In_Germany> .
+<http://yago-knowledge.org/resource/Heidestraße_33> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q110572693> .
+<http://yago-knowledge.org/resource/Mississippi_Post_Offices_1931-1941_Tr> <http://www.w3.org/2000/01/rdf-schema#comment> "nomination thématique du registre national des lieux historiques"@fr .
+<http://yago-knowledge.org/resource/Wohnhaus_Miquelstraße_58> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Wohnhaus_Miquelstra%C3%9Fe_58_(Berlin-Dahlem)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Haus_Am_Bache_14> <http://schema.org/geo> "POINT(10.093803 51.176824)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Pfarrbornstraße> <http://www.w3.org/2000/01/rdf-schema#label> "Pfarrbornstraße"@en .
+<http://yago-knowledge.org/resource/69_Gilmore_Place_Edinburgh> <http://schema.org/geo> "POINT(-3.208868 55.940986)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Damaschkestraße_10-20> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Braunfels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/Hessisch_Lichtenau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Town> .
+<http://yago-knowledge.org/resource/Haus_Bilsteinstraße_7> <http://schema.org/location> <http://yago-knowledge.org/resource/Waldkappel> .
+<http://yago-knowledge.org/resource/Damaschkestraße_10-20> <http://schema.org/location> <http://yago-knowledge.org/resource/Senftenberg> .
+<http://yago-knowledge.org/resource/Naumburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/Lechlade_Manor> <http://schema.org/location> <http://yago-knowledge.org/resource/Lechlade_Q24664636> .
+<http://yago-knowledge.org/resource/Caseta_De_Aperos_Polígono_019_Parcela_246B> <http://schema.org/location> <http://yago-knowledge.org/resource/Cofrentes> .
+<http://yago-knowledge.org/resource/Haus_Krafftstraße_24> <http://schema.org/geo> "POINT(8.770647 50.103162)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Haus_Beunegasse_12> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116582699> .
+<http://yago-knowledge.org/resource/Haus_Bärengasse_9_Q116596397> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Min-Yr-Afon> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q29502653> .
+<http://yago-knowledge.org/resource/Haus_Ziegelgasse_8A> <http://schema.org/location> <http://yago-knowledge.org/resource/Steinau_an_der_Straße> .
+<http://yago-knowledge.org/resource/Baker_Thornicroft_S_House_Country_Fayre> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q26480133> .
+<http://yago-knowledge.org/resource/Corral_Camí_Del_Mas_Vell> <http://schema.org/location> <http://yago-knowledge.org/resource/Spain> .
+<http://yago-knowledge.org/resource/The_Retreat_Q26604036> <http://www.w3.org/2000/01/rdf-schema#label> "The Retreat"@en .
+<http://yago-knowledge.org/resource/Laufdorfer_Straße_10> <http://www.w3.org/2000/01/rdf-schema#comment> "пам'ятка культурної спадщини в Гессені, Німеччина"@uk .
+<http://yago-knowledge.org/resource/Edinburgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Lieutenancy_areas_of_Scotland> .
+<http://yago-knowledge.org/resource/Domaine_Breen> <http://schema.org/dateCreated> "1906"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://www.w3.org/2000/01/rdf-schema#comment> "Bauwerk in den Niederlanden"@de .
+<http://yago-knowledge.org/resource/Mississippi_Post_Offices_1931-1941_Tr> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q99522844> .
+<http://yago-knowledge.org/resource/Falkirk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Town> .
+<http://yago-knowledge.org/resource/Era_7> <http://www.w3.org/2000/01/rdf-schema#comment> "threshing floor in Cortes de Pallás, Spain"@en .
+<http://yago-knowledge.org/resource/Damaschkestraße_10-20> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Damaschkestra%C3%9Fe_10-20_(Senftenberg)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Hauptstraße_45> <http://www.w3.org/2000/01/rdf-schema#label> "Hauptstraße 45"@en .
+<http://yago-knowledge.org/resource/Auerbacher_Burgkiefer> <http://www.w3.org/2000/01/rdf-schema#comment> "Bauwerk in Bensheim, Kreis Bergstraße, Hessen"@de .
+<http://yago-knowledge.org/resource/Mietshäuser_Muthesiusstraße_4_6_9_11_12_14> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116140957> .
+<http://yago-knowledge.org/resource/Fachwerkwohnhaus_Hinterstraße_16> <http://www.w3.org/2000/01/rdf-schema#comment> "Kulturdenkmal in Bad Arolsen im Landkreis Waldeck-Frankenberg in Hessen"@de .
+<http://yago-knowledge.org/resource/Newchurch_Old_Refectory> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q26432267> .
+<http://yago-knowledge.org/resource/Haus_Schnurgasse_12B> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Schnurgasse 12b"@de .
+<http://yago-knowledge.org/resource/Haus_Schwalbengasse_36> <http://schema.org/geo> "POINT(8.823420 49.571277)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Clocha_En_Alto_De_Matuta> <http://schema.org/location> <http://yago-knowledge.org/resource/Vall_de_Almonacid> .
+<http://yago-knowledge.org/resource/Wrought_Iron_Screen_And_Railings_At_End_Of_Forty_Hill_Near_Junction_Of_Clay_Hill> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in Enfield, London, England, UK"@en .
+<http://yago-knowledge.org/resource/Kanzuk_House> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Craven_Bank_Listed_Building> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Minerva_House_North_Crescent> <http://schema.org/geo> "POINT(-0.133934 51.520827)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Lochlands_Roman_Camps> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in Falkirk, Verenigd Koninkrijk"@nl .
+<http://yago-knowledge.org/resource/Corral_Del_Mas_Quemado> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q117757123> .
+<http://yago-knowledge.org/resource/Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Dominion> .
+<http://yago-knowledge.org/resource/Haus_Marktplatz_3_Q116599635> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116599635> .
+<http://yago-knowledge.org/resource/Loxbeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Village> .
+<http://yago-knowledge.org/resource/Laufdorfer_Straße_10> <http://www.w3.org/2000/01/rdf-schema#comment> "Kulturdenkmal in Bonbaden, Laufdorfer Straße 10"@de .
+<http://yago-knowledge.org/resource/Llangeler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Hamlet_place> .
+<http://yago-knowledge.org/resource/Heidestraße_33> <http://www.w3.org/2000/01/rdf-schema#comment> "denkmalgeschütztes Wohnhaus in Magdeburg in Sachsen-Anhalt"@de .
+<http://yago-knowledge.org/resource/Isle_of_Arran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Island> .
+<http://yago-knowledge.org/resource/Glynne_Family_Q56177516> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Family_Q8436> .
+<http://yago-knowledge.org/resource/Glynllifon_Estate> <http://www.w3.org/2000/01/rdf-schema#label> "Glynllifon Estate"@en-gb .
+<http://yago-knowledge.org/resource/Glynllifon_Estate> <http://www.w3.org/2000/01/rdf-schema#label> "Ystad Glynllifon"@cy .
+<http://yago-knowledge.org/resource/Glynllifon_Estate> <http://www.w3.org/2000/01/rdf-schema#comment> "estate near Llandwrog, Gwynedd, Wales"@en-gb .
+<http://yago-knowledge.org/resource/Braunfels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Town> .
+<http://yago-knowledge.org/resource/Manor_Von_Anderlan> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في سالورنو، إيطاليا"@ar .
+<http://yago-knowledge.org/resource/Haus_Dautenbachstraße_7> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Auerbacher_Burgkiefer> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q111028129> .
+<http://yago-knowledge.org/resource/Haus_Kohlgasse_17> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Lechlade_Manor> <http://schema.org/geo> "POINT(-1.686727 51.698215)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Dorfschmiede_Haunsheim> <http://schema.org/sameAs> "/g/11bbxl50xz" .
+<http://yago-knowledge.org/resource/Heidestraße_33> <http://schema.org/url> "https://de.wikipedia.org/wiki/Heidestra%C3%9Fe_33_(Magdeburg)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Alcavó_De_La_Sèquia_Del_Port_01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Friedhofseingang_Mit_Ehrenmal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Mietshäuser_Muthesiusstraße_4_6_9_11_12_14> <http://www.w3.org/2000/01/rdf-schema#comment> "об'єкт культурної спадщини в Берліні, Німеччина"@uk .
+<http://yago-knowledge.org/resource/Riccards_Spring> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Haus_Barbarossastraße_14> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في غيلنهاوزن، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Steinau_an_der_Straße> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/Home_Farm_Shotover_Park_South_Range> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q26650600> .
+<http://yago-knowledge.org/resource/Glasgow_City_Q55934339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Scottish_Council_Area> .
+<http://yago-knowledge.org/resource/Edinburgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Metropolitan_county> .
+<http://yago-knowledge.org/resource/St_Joseph_s_Chapel_of_the_Manhattan_State_Hospital> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Haus_Kohlgasse_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Glynllifon_Estate> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Altenteiler_Q116496912> <http://schema.org/location> <http://yago-knowledge.org/resource/Sinntal> .
+<http://yago-knowledge.org/resource/Wrought_Iron_Screen_And_Railings_At_End_Of_Forty_Hill_Near_Junction_Of_Clay_Hill> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Monte_San_Giovanni_Campano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Comune> .
+<http://yago-knowledge.org/resource/Haus_Ringstraße_2_Q116710083> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في باد آرولزن، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Haus_Kirchgasse_2_Q116706868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Haus_Schwalbengasse_36> <http://www.w3.org/2000/01/rdf-schema#comment> "cultural monument in the municipality of Wald-Michelbach in the Bergstrasse district, Hesse, Germany"@en .
+<http://yago-knowledge.org/resource/Newchurch_Old_Refectory> <http://www.w3.org/2000/01/rdf-schema#label> "Newchurch Old Refectory"@en .
+<http://yago-knowledge.org/resource/Beylikdüzü_Mübadele_Evi> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في بيلك دوزي، تركيا"@ar .
+<http://yago-knowledge.org/resource/St_Joseph_s_Chapel_of_the_Manhattan_State_Hospital> <http://www.w3.org/2000/01/rdf-schema#comment> "building in New York, United States of America"@en .
+<http://yago-knowledge.org/resource/Haus_Forstweg_4> <http://schema.org/location> <http://yago-knowledge.org/resource/Neu-Eichenberg> .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://schema.org/url> "https://ar.wikipedia.org/wiki/%D8%AD%D9%88%D8%A7%D8%A6%D8%B7_%D8%A3%D9%85%D8%B3%D8%AA%D8%B1%D8%AF%D8%A7%D9%85"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Grenzsteine_Der_Grenzlinie_Des_Hochgräflich_Hanauischen_Amtes_Windecken_Und_Der_Herrschaftlichen_Burg_Friedberg> <http://www.w3.org/2000/01/rdf-schema#label> "Grenzsteine der Grenzlinie des Hochgräflich Hanauischen Amtes Windecken und der Herrschaftlichen Burg Friedberg"@de .
+<http://yago-knowledge.org/resource/Haus_Schwalbacher_Straße_12_Q116704113> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Broadhempston> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Village> .
+<http://yago-knowledge.org/resource/Magdeburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Lutherstadt> .
+<http://yago-knowledge.org/resource/Haus_Beunegasse_12> <http://www.w3.org/2000/01/rdf-schema#comment> "monument culturel de la commune de Roßdorf, dans le district de Darmstadt-Dieburg, Hesse, Allemagne"@fr .
+<http://yago-knowledge.org/resource/Loxbeare_Barton> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in Loxbeare, Mid Devon, England, UK"@en .
+<http://yago-knowledge.org/resource/Bonbaden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Ortsteil_Q253019> .
+<http://yago-knowledge.org/resource/Haus_Am_Urselbach_6> <http://schema.org/location> <http://yago-knowledge.org/resource/Frankfurt> .
+<http://yago-knowledge.org/resource/Pfarrbornstraße> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Haus_Brunnenstraße_3_Q116650696> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Friedhofseingang_Mit_Ehrenmal> <http://schema.org/location> <http://yago-knowledge.org/resource/Hausen_Über_Aar> .
+<http://yago-knowledge.org/resource/Whatlington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Village> .
+<http://yago-knowledge.org/resource/Ehem_Hotel_Brigel_Holstenstraße_1> <http://schema.org/location> <http://yago-knowledge.org/resource/Neumünster> .
+<http://yago-knowledge.org/resource/Mikstat_Transmitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Hauptstraße_45> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q114461758> .
+<http://yago-knowledge.org/resource/Llanfihangel_Aberbythych> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Community_Wales> .
+<http://yago-knowledge.org/resource/Corral_Del_Mas_Quemado> <http://www.w3.org/2000/01/rdf-schema#label> "Corral del Mas Quemado"@es .
+<http://yago-knowledge.org/resource/Kanzuk_House> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في تركيا"@ar .
+<http://yago-knowledge.org/resource/3_Main_Street_Straiton> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q56623982> .
+<http://yago-knowledge.org/resource/Mietshäuser_Muthesiusstraße_4_6_9_11_12_14> <http://www.w3.org/2000/01/rdf-schema#comment> "cultural heritage site in Berlin"@en .
+<http://yago-knowledge.org/resource/Caseta_De_Aperos_Polígono_019_Parcela_246B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Haus_Richard-Wolff-Straße_16> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Richard-Wolff-Straße 16"@de .
+<http://yago-knowledge.org/resource/Heimatring_13> <http://www.w3.org/2000/01/rdf-schema#comment> "Gebäude in Frankfurt am Main"@de .
+<http://yago-knowledge.org/resource/Fachwerkwohnhaus_Hinterstraße_16> <http://schema.org/location> <http://yago-knowledge.org/resource/Bad_Arolsen> .
+<http://yago-knowledge.org/resource/Haus_Brunnenstraße_3_Q116650696> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Kirchstraße_13_Q116663787> <http://www.w3.org/2000/01/rdf-schema#comment> "Gebäude in Hanau in Hessen"@de .
+<http://yago-knowledge.org/resource/Mikstat_Transmitter> <http://schema.org/dateCreated> "1997"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/69_Gilmore_Place_Edinburgh> <http://schema.org/location> <http://yago-knowledge.org/resource/City_Of_Edinburgh> .
+<http://yago-knowledge.org/resource/Walluf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Without_Town_Privileges_In_Germany> .
+<http://yago-knowledge.org/resource/Haus_Dautenbachstraße_7> <http://schema.org/location> <http://yago-knowledge.org/resource/Kaufungen> .
+<http://yago-knowledge.org/resource/Haus_Schwalbacher_Straße_12_Q116704113> <http://schema.org/location> <http://yago-knowledge.org/resource/Lorch_am_Rhein> .
+<http://yago-knowledge.org/resource/Waun-Y-Fedwen> <http://www.w3.org/2000/01/rdf-schema#comment> "adeiladwaith pensaernïol rhestredig Gradd II yn Llanfihangel Aberbythych"@cy .
+<http://yago-knowledge.org/resource/Haus_Bilsteinstraße_7> <http://www.w3.org/2000/01/rdf-schema#comment> "Kulturdenkmal in Waldkappel im Werra-Meißner-Kreis, Hessen"@de .
+<http://yago-knowledge.org/resource/Llangeler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Community_Wales> .
+<http://yago-knowledge.org/resource/United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Waun-Y-Fedwen> <http://www.w3.org/2000/01/rdf-schema#label> "Waun-y-fedwen"@cy .
+<http://yago-knowledge.org/resource/Mikstat_Transmitter> <http://schema.org/geo> "POINT(17.994167 51.532222)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Kirchstraße_13_Q116663787> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في هاناو، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Beylikdüzü_Mübadele_Evi> <http://www.w3.org/2000/01/rdf-schema#comment> "Beylikdüzü'nde mimari yapı"@tr .
+<http://yago-knowledge.org/resource/Reading_Mra> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q106367764> .
+<http://yago-knowledge.org/resource/Wohnhaus_Q116512343> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في هاتسفلد، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/North_Ayrshire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Scottish_Council_Area> .
+<http://yago-knowledge.org/resource/Lochlands_Roman_Camps> <http://schema.org/location> <http://yago-knowledge.org/resource/Falkirk_council_area> .
+<http://yago-knowledge.org/resource/Haus_Wasenstraße_40> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Wasenstraße 40"@de .
+<http://yago-knowledge.org/resource/8-24_Falfield_Street_Falfield_Cotton_Mill> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in Glasgow City, Scotland, UK"@en .
+<http://yago-knowledge.org/resource/St_Joseph_s_Chapel_of_the_Manhattan_State_Hospital> <http://schema.org/location> <http://yago-knowledge.org/resource/Manhattan> .
+<http://yago-knowledge.org/resource/Era_7> <http://schema.org/location> <http://yago-knowledge.org/resource/Spain> .
+<http://yago-knowledge.org/resource/Defunct_Yalı_No_157_Of_Arnavutköy> <http://schema.org/location> <http://yago-knowledge.org/resource/Turkey> .
+<http://yago-knowledge.org/resource/Fachwerkwohnhaus_Hinterstraße_16> <http://www.w3.org/2000/01/rdf-schema#comment> "cultural monument in Bad Arolsen in the Waldeck-Frankenberg district in Hesse"@en .
+<http://yago-knowledge.org/resource/Manhattan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Boroughs_of_New_York_City> .
+<http://yago-knowledge.org/resource/Konrad-Adenauer-Ufer_16> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Ehem_Hotel_Brigel_Holstenstraße_1> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Min-Yr-Afon> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in Llangeler, Verenigd Koninkrijk"@nl .
+<http://yago-knowledge.org/resource/Kanzuk_House> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in Adalar District"@en .
+<http://yago-knowledge.org/resource/Fachwerkwohnhaus_Hinterstraße_16> <http://schema.org/geo> "POINT(9.082423 51.341011)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Neu-Eichenberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Without_Town_Privileges_In_Germany> .
+<http://yago-knowledge.org/resource/Minerva_House_North_Crescent> <http://www.w3.org/2000/01/rdf-schema#label> "Minerva House, North Crescent"@en .
+<http://yago-knowledge.org/resource/New_Jersey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/U_S_state> .
+<http://yago-knowledge.org/resource/Ortenberg_Hesse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/Craven_Bank_Listed_Building> <http://www.w3.org/2000/01/rdf-schema#label> "Craven Bank (listed building)"@en .
+<http://yago-knowledge.org/resource/Lamlash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Village> .
+<http://yago-knowledge.org/resource/Haus_Taunusstraße_37_Q116571267> <http://schema.org/location> <http://yago-knowledge.org/resource/Darmstadt> .
+<http://yago-knowledge.org/resource/69_Gilmore_Place_Edinburgh> <http://www.w3.org/2000/01/rdf-schema#comment> "споруда в Шотландії, Велика Британія"@uk .
+<http://yago-knowledge.org/resource/Haus_Neudorfgasse_6> <http://schema.org/location> <http://yago-knowledge.org/resource/Hochheim_am_Main> .
+<http://yago-knowledge.org/resource/Haus_Barbarossastraße_14> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Barbarossastraße 14"@de .
+<http://yago-knowledge.org/resource/Glynllifon_Estate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Min-Yr-Afon> <http://schema.org/geo> "POINT(-4.367219 51.991897)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Haus_Neudorfgasse_6> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116596042> .
+<http://yago-knowledge.org/resource/Hauptstraße_45> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Hauptstra%C3%9Fe_45_(B%C3%B6nnigheim)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Glynllifon_Estate> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Glynllifon%20gateway.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Haus_Obergasse_26D> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Obergasse 26d"@de .
+<http://yago-knowledge.org/resource/Kanzuk_House> <http://schema.org/geo> "POINT(29.130222 40.861611)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Stafford_Farm> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Llanllyfni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Community_Wales> .
+<http://yago-knowledge.org/resource/Haus_Schnurgasse_12B> <http://schema.org/location> <http://yago-knowledge.org/resource/Birstein> .
+<http://yago-knowledge.org/resource/Jakobstraße_4> <http://www.w3.org/2000/01/rdf-schema#label> "Jakobstraße 4"@en .
+<http://yago-knowledge.org/resource/Eschwege> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/Veterinary_Surgery_And_Garage_Adjoining_To_West> <http://schema.org/location> <http://yago-knowledge.org/resource/Shrewsbury> .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://www.w3.org/2000/01/rdf-schema#label> "système de fortifications d'Amsterdam"@fr .
+<http://yago-knowledge.org/resource/Wohnhaus_Miquelstraße_58> <http://schema.org/location> <http://yago-knowledge.org/resource/Dahlem_Berlin> .
+<http://yago-knowledge.org/resource/Glasgow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Largest_City> .
+<http://yago-knowledge.org/resource/Glynllifon_Estate> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q56177511> .
+<http://yago-knowledge.org/resource/69_Gilmore_Place_Edinburgh> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in Edinburgh, Verenigd Koninkrijk"@nl .
+<http://yago-knowledge.org/resource/Haus_Taunusstraße_37_Q116571267> <http://www.w3.org/2000/01/rdf-schema#comment> "Kulturdenkmal in Darmstadt, Hessen, Deutschland"@de .
+<http://yago-knowledge.org/resource/Manor_Von_Anderlan> <http://schema.org/geo> "POINT(11.212407 46.238563)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Mietshäuser_Muthesiusstraße_4_6_9_11_12_14> <http://schema.org/location> <http://yago-knowledge.org/resource/Steglitz-Zehlendorf> .
+<http://yago-knowledge.org/resource/Beşiktaş> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Districts_of_Turkey> .
+<http://yago-knowledge.org/resource/Haus_Bilsteinstraße_7> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Haus_Marktplatz_3_Q116599635> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Marktplatz 3"@de .
+<http://yago-knowledge.org/resource/Haus_Am_Bache_14> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Retaule_Ceràmic_De_Sant_Domènech_Motor> <http://schema.org/location> <http://yago-knowledge.org/resource/Spain> .
+<http://yago-knowledge.org/resource/Riccards_Spring> <http://www.w3.org/2000/01/rdf-schema#label> "Riccards Spring"@en .
+<http://yago-knowledge.org/resource/The_Retreat_Q26604036> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Loxbeare_Barton> <http://schema.org/location> <http://yago-knowledge.org/resource/Loxbeare> .
+<http://yago-knowledge.org/resource/Alcavó_De_La_Sèquia_Del_Port_01> <http://www.w3.org/2000/01/rdf-schema#comment> "Infraestructuras - Infraestructuras territoriales - Infraestructuras hidráulicas en ATZENETA D' ALBAIDA"@es .
+<http://yago-knowledge.org/resource/Corral_Del_Mas_Quemado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Friedhofseingang_Mit_Ehrenmal> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Haus_Dautenbachstraße_7> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116529352> .
+<http://yago-knowledge.org/resource/Laufdorfer_Straße_10> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in Bonbaden, Duitsland"@nl .
+<http://yago-knowledge.org/resource/The_Old_Manse_Q26512054> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in Lymington and Pennington, New Forest, Hampshire, England, UK"@en .
+<http://yago-knowledge.org/resource/Fife> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Lieutenancy_areas_of_Scotland> .
+<http://yago-knowledge.org/resource/Lochlands_Roman_Camps> <http://www.w3.org/2000/01/rdf-schema#comment> "Bauwerk im Vereinigten Königreich"@de .
+<http://yago-knowledge.org/resource/Middlefoodie> <http://schema.org/location> <http://yago-knowledge.org/resource/Fife> .
+<http://yago-knowledge.org/resource/Frankfurt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_District_Of_Hesse> .
+<http://yago-knowledge.org/resource/Rome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Tourist_destination> .
+<http://yago-knowledge.org/resource/Haus_Schnurgasse_12B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Haus_Am_Bache_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Magdeburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Lists_of_former_Hansa_cities> .
+<http://yago-knowledge.org/resource/Case_Maldenti> <http://schema.org/location> <http://yago-knowledge.org/resource/Forlì> .
+<http://yago-knowledge.org/resource/Middlefoodie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Auerbacher_Burgkiefer> <http://www.w3.org/2000/01/rdf-schema#label> "Auerbacher Burgkiefer"@en .
+<http://yago-knowledge.org/resource/City_Of_Edinburgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Scottish_County_Of_City> .
+<http://yago-knowledge.org/resource/Manor_Von_Anderlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Haus_Obergasse_26D> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116545770> .
+<http://yago-knowledge.org/resource/Mississippi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/U_S_state> .
+<http://yago-knowledge.org/resource/Haus_Gangstraße_28> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116538151> .
+<http://yago-knowledge.org/resource/Manor_Von_Anderlan> <http://schema.org/location> <http://yago-knowledge.org/resource/Salorno> .
+<http://yago-knowledge.org/resource/Dorfschmiede_Haunsheim> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Haunsheim%20Schmiede%20664.JPG"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Domaine_Breen> <http://schema.org/url> "https://fr.wikipedia.org/wiki/Domaine_Breen"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Lechlade_Manor> <http://www.w3.org/2000/01/rdf-schema#label> "Convent Of St Clotilde"@en .
+<http://yago-knowledge.org/resource/Beylikdüzü_Mübadele_Evi> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in Beylikdüzü District"@en .
+<http://yago-knowledge.org/resource/Vicelinschule_Vicelinstraße_51> <http://www.w3.org/2000/01/rdf-schema#comment> "Gebäude in Neumünster, Schleswig-Holstein"@de .
+<http://yago-knowledge.org/resource/Rome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Abolished_Municipality_In_Italy> .
+<http://yago-knowledge.org/resource/Dorfschmiede_Haunsheim> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Dorfschmiede_(Haunsheim)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Min-Yr-Afon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Manor_Von_Anderlan> <http://www.w3.org/2000/01/rdf-schema#label> "Manor von Anderlan"@en .
+<http://yago-knowledge.org/resource/Haus_Auf_Dem_Graben_19> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116543638> .
+<http://yago-knowledge.org/resource/Wrought_Iron_Screen_And_Railings_At_End_Of_Forty_Hill_Near_Junction_Of_Clay_Hill> <http://schema.org/location> <http://yago-knowledge.org/resource/London_Borough_of_Enfield> .
+<http://yago-knowledge.org/resource/Haus_Marktplatz_3_Q116599635> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Domaine_Breen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Frankfurt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/College_town> .
+<http://yago-knowledge.org/resource/Beylikdüzü_Mübadele_Evi> <http://www.w3.org/2000/01/rdf-schema#label> "Beylikdüzü Mübadele Evi"@tr .
+<http://yago-knowledge.org/resource/Loxbeare_Barton> <http://schema.org/geo> "POINT(-3.548703 50.932288)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Mietshäuser_Muthesiusstraße_4_6_9_11_12_14> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Sunbury_Workshops> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Baker_Thornicroft_S_House_Country_Fayre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Turkey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Secular_state> .
+<http://yago-knowledge.org/resource/Min-Yr-Afon> <http://www.w3.org/2000/01/rdf-schema#comment> "Grade II listed building in Llangeler. Immediately NW of a small bridge on the access lane S of Rhos."@en .
+<http://yago-knowledge.org/resource/Middlefoodie> <http://www.w3.org/2000/01/rdf-schema#label> "Middlefoodie"@en .
+<http://yago-knowledge.org/resource/Caseta_De_Aperos_Polígono_019_Parcela_246B> <http://www.w3.org/2000/01/rdf-schema#label> "Caseta de Aperos, Polígono 019 Parcela 246b"@es .
+<http://yago-knowledge.org/resource/Newchurch_Old_Refectory> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Haus_Marktplatz_3_Q116599635> <http://schema.org/location> <http://yago-knowledge.org/resource/Laubach_Wetter> .
+<http://yago-knowledge.org/resource/Italy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Mediterranean_Country> .
+<http://yago-knowledge.org/resource/Domaine_Breen> <http://schema.org/url> "https://www.domainebreen.com/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Pfarrbornstraße> <http://schema.org/location> <http://yago-knowledge.org/resource/Wallau> .
+<http://yago-knowledge.org/resource/Reading_Mra> <http://www.w3.org/2000/01/rdf-schema#label> "Reading MRA"@en .
+<http://yago-knowledge.org/resource/Haus_Frankfurter_Straße_90_Q116571820> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Frankfurter Straße 90"@de .
+<http://yago-knowledge.org/resource/Haus_Marktplatz_3_Q116599635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/8-24_Falfield_Street_Falfield_Cotton_Mill> <http://www.w3.org/2000/01/rdf-schema#label> "8-24 Falfield Street, Falfield Cotton Mill"@en .
+<http://yago-knowledge.org/resource/Riccards_Spring> <http://schema.org/location> <http://yago-knowledge.org/resource/Whatlington> .
+<http://yago-knowledge.org/resource/Lechlade_Manor> <http://www.w3.org/2000/01/rdf-schema#label> "レッチレード・マナー"@ja .
+<http://yago-knowledge.org/resource/Marca_Palast> <http://www.w3.org/2000/01/rdf-schema#label> "Palazzo a Marca"@it .
+<http://yago-knowledge.org/resource/Poland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Country_Bordering_The_Baltic_Sea> .
+<http://yago-knowledge.org/resource/Soazza> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipalities_of_Switzerland> .
+<http://yago-knowledge.org/resource/Heimatring_13> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في فرانكفورت، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/St_Mary_S_College_Q26473617> <http://www.w3.org/2000/01/rdf-schema#label> "St Mary's College"@en .
+<http://yago-knowledge.org/resource/Hauptstraße_45> <http://schema.org/alternateName> "Hauptstraße 45 (Bönnigheim)"@de .
+<http://yago-knowledge.org/resource/Mikstat_Transmitter> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15253370> .
+<http://yago-knowledge.org/resource/Jakobstraße_4> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Haus_Bärengasse_9_Q116596397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Mikstat_Transmitter> <http://www.w3.org/2000/01/rdf-schema#label> "Mikstat Transmitter"@en .
+<http://yago-knowledge.org/resource/St_Joseph_s_Chapel_of_the_Manhattan_State_Hospital> <http://schema.org/geo> "POINT(-73.933000 40.788000)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Case_Maldenti> <http://schema.org/location> <http://yago-knowledge.org/resource/Italy> .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://www.w3.org/2000/01/rdf-schema#comment> "споруда в Нідерландах"@uk .
+<http://yago-knowledge.org/resource/Untermainstraße_20> <http://www.w3.org/2000/01/rdf-schema#label> "Untermainstraße 20"@de .
+<http://yago-knowledge.org/resource/Kanzuk_House> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133683742> .
+<http://yago-knowledge.org/resource/Mietshäuser_Muthesiusstraße_4_6_9_11_12_14> <http://schema.org/location> <http://yago-knowledge.org/resource/Steglitz> .
+<http://yago-knowledge.org/resource/Haus_Ringstraße_2_Q116710083> <http://www.w3.org/2000/01/rdf-schema#comment> "Kulturdenkmal in Bad Arolsen im Landkreis Waldeck-Frankenberg in Hessen"@de .
+<http://yago-knowledge.org/resource/St_Mary_S_College_Q26473617> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Minerva_House_North_Crescent> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Ehem_Hotel_Brigel_Holstenstraße_1> <http://www.w3.org/2000/01/rdf-schema#label> "ehem. Hotel Brigel, Holstenstraße 1"@de .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://yago-knowledge.org/resource/siteLinks> "5"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Hochheim_am_Main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/The_Retreat_Q26604036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Damaschkestraße_10-20> <http://www.w3.org/2000/01/rdf-schema#comment> "Bauwerk in Senftenberg, Landkreis Oberspreewald-Lausitz, Brandenburg"@de .
+<http://yago-knowledge.org/resource/3_Main_Street_Straiton> <http://schema.org/location> <http://yago-knowledge.org/resource/South_Ayrshire> .
+<http://yago-knowledge.org/resource/Haus_Forstweg_4> <http://schema.org/geo> "POINT(9.898200 51.372449)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Frankfurt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/European_City> .
+<http://yago-knowledge.org/resource/Home_Farm_Shotover_Park_South_Range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federation> .
+<http://yago-knowledge.org/resource/Naumburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/District_Capital_Q134626> .
+<http://yago-knowledge.org/resource/Haus_Neudorfgasse_6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Vicelinschule_Vicelinstraße_51> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في نويمونستر، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Haus_Schwalbengasse_36> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/City_of_Southampton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Unitary_Authority_Area_In_England> .
+<http://yago-knowledge.org/resource/Reading_Mra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Auerbacher_Burgkiefer> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Haus_Textorstraße_90> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Retaule_Ceràmic_De_Sant_Domènech_Motor> <http://www.w3.org/2000/01/rdf-schema#label> "Retaule Ceràmic de Sant Domènech (Motor)"@es .
+<http://yago-knowledge.org/resource/Grenzsteine_Der_Grenzlinie_Des_Hochgräflich_Hanauischen_Amtes_Windecken_Und_Der_Herrschaftlichen_Burg_Friedberg> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Haus_Schwalbengasse_36> <http://www.w3.org/2000/01/rdf-schema#comment> "monument culturel de la commune de Wald-Michelbach, dans le quartier de la Bergstrasse, Hesse, Allemagne"@fr .
+<http://yago-knowledge.org/resource/Wohnhaus_Q116512343> <http://schema.org/location> <http://yago-knowledge.org/resource/Hatzfeld> .
+<http://yago-knowledge.org/resource/Harbury> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Village> .
+<http://yago-knowledge.org/resource/Middlefoodie> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in Fife, Scotland, UK"@en .
+<http://yago-knowledge.org/resource/Kirchstraße_13_Q116663787> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Kirchstraße 13"@de .
+<http://yago-knowledge.org/resource/Marktplatz_11_Q110284897> <http://schema.org/location> <http://yago-knowledge.org/resource/Schwäbisch_Gmünd> .
+<http://yago-knowledge.org/resource/Clocha_En_Alto_De_Matuta> <http://www.w3.org/2000/01/rdf-schema#label> "CLOCHA EN ALTO DE MATUTA"@es .
+<http://yago-knowledge.org/resource/Wohnhaus_Miquelstraße_58> <http://schema.org/location> <http://yago-knowledge.org/resource/Steglitz-Zehlendorf> .
+<http://yago-knowledge.org/resource/Lochlands_Roman_Camps> <http://schema.org/location> <http://yago-knowledge.org/resource/Falkirk> .
+<http://yago-knowledge.org/resource/Waldkappel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/Haus_Schwalbengasse_36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Neumünster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_District_In_Schleswig-Holstein> .
+<http://yago-knowledge.org/resource/Manor_Von_Anderlan> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q107178181> .
+<http://yago-knowledge.org/resource/Auerbacher_Burgkiefer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Waun-Y-Fedwen> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q29499422> .
+<http://yago-knowledge.org/resource/Haus_Textorstraße_90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Jakobstraße_4> <http://www.w3.org/2000/01/rdf-schema#label> "Jakobstraße 4"@de .
+<http://yago-knowledge.org/resource/Forlì> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Comune> .
+<http://yago-knowledge.org/resource/Beşiktaş> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Of_Turkey_Q2460358> .
+<http://yago-knowledge.org/resource/Haus_Schwalbengasse_36> <http://schema.org/location> <http://yago-knowledge.org/resource/Wald-Michelbach> .
+<http://yago-knowledge.org/resource/Grenzsteine_Der_Grenzlinie_Des_Hochgräflich_Hanauischen_Amtes_Windecken_Und_Der_Herrschaftlichen_Burg_Friedberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/8-24_Falfield_Street_Falfield_Cotton_Mill> <http://schema.org/geo> "POINT(-4.262670 55.847800)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/3_Main_Street_Straiton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Fife> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Registration_county> .
+<http://yago-knowledge.org/resource/Haus_Ringstraße_2_Q116710083> <http://schema.org/geo> "POINT(8.949483 51.389997)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Nidderau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/Haus_Lindenstraße_7_Q116667261> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Forlì> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/City-state> .
+<http://yago-knowledge.org/resource/Bönnigheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/3_Main_Street_Straiton> <http://schema.org/location> <http://yago-knowledge.org/resource/Straiton> .
+<http://yago-knowledge.org/resource/Haus_Schwalbengasse_36> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116652746> .
+<http://yago-knowledge.org/resource/Manor_Von_Anderlan> <http://www.w3.org/2000/01/rdf-schema#comment> "Bauwerk"@de .
+<http://yago-knowledge.org/resource/Haus_Kohlgasse_17> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116593803> .
+<http://yago-knowledge.org/resource/Rome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Border_town> .
+<http://yago-knowledge.org/resource/Roßdorf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Without_Town_Privileges_In_Germany> .
+<http://yago-knowledge.org/resource/Riccards_Spring> <http://schema.org/geo> "POINT(0.509503 50.939951)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/8-24_Falfield_Street_Falfield_Cotton_Mill> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Haus_Lindenstraße_7_Q116667261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Herbstein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/Domaine_Breen> <http://schema.org/location> <http://yago-knowledge.org/resource/Guigues> .
+<http://yago-knowledge.org/resource/Domaine_Breen> <http://schema.org/geo> "POINT(-79.438330 47.464610)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Mietshäuser_Muthesiusstraße_4_6_9_11_12_14> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/120518-Steglitz-Muthesiusstr.6.JPG"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Croft_Cheshire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Civil_parish> .
+<http://yago-knowledge.org/resource/Konrad-Adenauer-Ufer_16> <http://www.w3.org/2000/01/rdf-schema#comment> "building in Flörsheim am Main, Hesse, Germany"@en .
+<http://yago-knowledge.org/resource/City_of_Southampton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipal_borough> .
+<http://yago-knowledge.org/resource/Haus_Bismarckstraße_48> <http://schema.org/location> <http://yago-knowledge.org/resource/Giessen> .
+<http://yago-knowledge.org/resource/Glynllifon_Estate> <http://schema.org/alternateName> "Glynllifon"@cy .
+<http://yago-knowledge.org/resource/Defunct_Yalı_No_157_Of_Arnavutköy> <http://schema.org/location> <http://yago-knowledge.org/resource/Beşiktaş> .
+<http://yago-knowledge.org/resource/Heimatring_13> <http://www.w3.org/2000/01/rdf-schema#comment> "building in Frankfurt/Main, Germany"@en .
+<http://yago-knowledge.org/resource/Haus_Gangstraße_28> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في فرانكفورت، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Dorfschmiede_Haunsheim> <http://schema.org/url> "https://de.wikipedia.org/wiki/Dorfschmiede_(Haunsheim)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bensheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/Laubach_Wetter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/River> .
+<http://yago-knowledge.org/resource/Minerva_House_North_Crescent> <http://www.w3.org/2000/01/rdf-schema#comment> "Camden, Greater London, WC1E"@en .
+<http://yago-knowledge.org/resource/Marca_Palast> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q29785136> .
+<http://yago-knowledge.org/resource/City_of_Southampton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/District_With_City_Status> .
+<http://yago-knowledge.org/resource/Home_Farm_Shotover_Park_South_Range> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in Forest Hill with Shotover, South Oxfordshire, England, UK"@en .
+<http://yago-knowledge.org/resource/Mietshäuser_Muthesiusstraße_4_6_9_11_12_14> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Mississippi_Post_Offices_1931-1941_Tr> <http://www.w3.org/2000/01/rdf-schema#comment> "тематичний ресурс у Національному реєстрі історичних місць США"@uk .
+<http://yago-knowledge.org/resource/Saint-Bruno-de-Guigues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Q27676428> .
+<http://yago-knowledge.org/resource/Marktplatz_11_Q110284897> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/St_Mary_S_College_Q26473617> <http://schema.org/geo> "POINT(-1.367983 50.919715)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Haus_Schwalbacher_Straße_12_Q116704113> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Schwalbacher Straße 12"@de .
+<http://yago-knowledge.org/resource/St_Mary_S_College_Q26473617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Pier_House_And_Clock_Tower_Lamlash_Arran> <http://schema.org/geo> "POINT(-5.122698 55.536446)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Haus_Brunnenstraße_3_Q116650696> <http://schema.org/location> <http://yago-knowledge.org/resource/Selters_Lahn> .
+<http://yago-knowledge.org/resource/Lochlands_Roman_Camps> <http://www.w3.org/2000/01/rdf-schema#label> "Lochlands Roman camps"@en .
+<http://yago-knowledge.org/resource/Wohnhaus_Miquelstraße_58> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Haus_Taunusstraße_37_Q116571267> <http://www.w3.org/2000/01/rdf-schema#comment> "cultural monument in Darmstadt, Hesse, Germany"@en .
+<http://yago-knowledge.org/resource/Clocha_En_Alto_De_Matuta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Lechlade_Manor> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Domaine_Breen> <http://www.w3.org/2000/01/rdf-schema#label> "domaine Breen"@fr .
+<http://yago-knowledge.org/resource/Pier_House_And_Clock_Tower_Lamlash_Arran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Manor_Von_Anderlan> <http://www.w3.org/2000/01/rdf-schema#label> "Manor von Anderlan"@de .
+<http://yago-knowledge.org/resource/St_Mary_S_College_Q26473617> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in Southampton, Hampshire, England, UK"@en .
+<http://yago-knowledge.org/resource/Beylikdüzü_Mübadele_Evi> <http://schema.org/location> <http://yago-knowledge.org/resource/Marmara_region> .
+<http://yago-knowledge.org/resource/Haus_Taunusstraße_37_Q116571267> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Taunusstraße 37"@de .
+<http://yago-knowledge.org/resource/Waun-Y-Fedwen> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in Llanfihangel Aberbythych, Verenigd Koninkrijk"@nl .
+<http://yago-knowledge.org/resource/Marktplatz_11_Q110284897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Middlefoodie> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in Fife, Verenigd Koninkrijk"@nl .
+<http://yago-knowledge.org/resource/Clocha_En_Alto_De_Matuta> <http://www.w3.org/2000/01/rdf-schema#comment> "Infraestructuras - Infraestructuras territoriales - Infraestructuras hidráulicas - Pozos de agua en VALL DE ALMONACID"@es .
+<http://yago-knowledge.org/resource/Senftenberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/District_Capital_Q134626> .
+<http://yago-knowledge.org/resource/Pfarrbornstraße> <http://www.w3.org/2000/01/rdf-schema#comment> "пам'ятка культурної спадщини в Гессені, Німеччина"@uk .
+<http://yago-knowledge.org/resource/Wohnhaus_Miquelstraße_58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Wohnhaus_Miquelstraße_58> <http://www.w3.org/2000/01/rdf-schema#comment> "listed architectural structure in Berlin-Dahlem"@en .
+<http://yago-knowledge.org/resource/Hauptstraße_45> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Haus_Frankfurter_Straße_90_Q116571820> <http://www.w3.org/2000/01/rdf-schema#comment> "monument culturel à Darmstadt, Hesse, Allemagne"@fr .
+<http://yago-knowledge.org/resource/Wallau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Gemarkung> .
+<http://yago-knowledge.org/resource/Lechlade_Manor> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Min-Yr-Afon> <http://schema.org/location> <http://yago-knowledge.org/resource/Llangeler> .
+<http://yago-knowledge.org/resource/Home_Farm_Shotover_Park_South_Range> <http://www.w3.org/2000/01/rdf-schema#label> "Home Farm, Shotover Park, South Range"@en .
+<http://yago-knowledge.org/resource/Middlefoodie> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q56614489> .
+<http://yago-knowledge.org/resource/Hanau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/City_With_Special_Status> .
+<http://yago-knowledge.org/resource/Glynllifon_Estate> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Parc_Glynllifon"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://www.w3.org/2000/01/rdf-schema#label> "حوائط أمستردام"@ar .
+<http://yago-knowledge.org/resource/Wohnhaus_Miquelstraße_58> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in Steglitz-Zehlendorf, Duitsland"@nl .
+<http://yago-knowledge.org/resource/Defunct_Yalı_No_157_Of_Arnavutköy> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133684495> .
+<http://yago-knowledge.org/resource/Haus_Schnurgasse_12B> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Haus_Ringstraße_2_Q116710083> <http://www.w3.org/2000/01/rdf-schema#comment> "cultural monument in Bad Arolsen in the Waldeck-Frankenberg district in Hesse"@en .
+<http://yago-knowledge.org/resource/Kanzuk_House> <http://schema.org/location> <http://yago-knowledge.org/resource/Adalar_Q14814766> .
+<http://yago-knowledge.org/resource/Jakobstraße_4> <http://schema.org/location> <http://yago-knowledge.org/resource/Naumburg> .
+<http://yago-knowledge.org/resource/Mikstat_Transmitter> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/37_Minto_Street_Edinburgh> <http://www.w3.org/2000/01/rdf-schema#comment> "Bauwerk im Vereinigten Königreich"@de .
+<http://yago-knowledge.org/resource/St_Joseph_s_Chapel_of_the_Manhattan_State_Hospital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Stafford_Farm> <http://schema.org/location> <http://yago-knowledge.org/resource/New_Jersey> .
+<http://yago-knowledge.org/resource/Hauptstraße_45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Lochlands_Roman_Camps> <http://schema.org/geo> "POINT(-3.838845 56.011589)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Pfarrbornstraße> <http://schema.org/geo> "POINT(8.372484 50.062115)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Bad_Arolsen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Designated_Spa_Town> .
+<http://yago-knowledge.org/resource/Steglitz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Rural_municipality> .
+<http://yago-knowledge.org/resource/Waun-Y-Fedwen> <http://www.w3.org/2000/01/rdf-schema#comment> "Bauwerk im Vereinigten Königreich"@de .
+<http://yago-knowledge.org/resource/Haus_Ziegelgasse_8A> <http://schema.org/geo> "POINT(9.463568 50.312699)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Magdeburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/College_town> .
+<http://yago-knowledge.org/resource/Beylikdüzü_Mübadele_Evi> <http://schema.org/location> <http://yago-knowledge.org/resource/Beylikdüzü> .
+<http://yago-knowledge.org/resource/69_Gilmore_Place_Edinburgh> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Stafford_Farm> <http://www.w3.org/2000/01/rdf-schema#comment> "farm in the Glendale section of Voorhees, New Jersey"@en .
+<http://yago-knowledge.org/resource/Hauptstraße_45> <http://www.w3.org/2000/01/rdf-schema#comment> "Bauwerk in Bönnigheim"@de .
+<http://yago-knowledge.org/resource/Pier_House_And_Clock_Tower_Lamlash_Arran> <http://schema.org/location> <http://yago-knowledge.org/resource/Lamlash> .
+<http://yago-knowledge.org/resource/Finestra_Bifora> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q55169477> .
+<http://yago-knowledge.org/resource/37_Minto_Street_Edinburgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Laufdorfer_Straße_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/37_Minto_Street_Edinburgh> <http://schema.org/alternateName> "Edinburgh, 37 Minto Street"@en .
+<http://yago-knowledge.org/resource/Case_Maldenti> <http://schema.org/url> "https://de.wikipedia.org/wiki/Case_Maldenti"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Beylikdüzü> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Districts_of_Turkey> .
+<http://yago-knowledge.org/resource/Waun-Y-Fedwen> <http://schema.org/geo> "POINT(-4.048406 51.855746)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Waun-Y-Fedwen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Sunbury_Workshops> <http://schema.org/location> <http://yago-knowledge.org/resource/London_Borough_of_Tower_Hamlets> .
+<http://yago-knowledge.org/resource/Lechlade_Manor> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in Lechlade, Cotswold, Gloucestershire, England, UK"@en .
+<http://yago-knowledge.org/resource/Giggleswick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Village> .
+<http://yago-knowledge.org/resource/Grenzsteine_Der_Grenzlinie_Des_Hochgräflich_Hanauischen_Amtes_Windecken_Und_Der_Herrschaftlichen_Burg_Friedberg> <http://schema.org/location> <http://yago-knowledge.org/resource/Nidderau> .
+<http://yago-knowledge.org/resource/Manor_Von_Anderlan> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Von%20Anderlan%20in%20Salurn.JPG"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Haus_Lindenstraße_7_Q116667261> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Lindenstraße 7"@de .
+<http://yago-knowledge.org/resource/Kirchstraße_13_Q116663787> <http://schema.org/location> <http://yago-knowledge.org/resource/Hanau> .
+<http://yago-knowledge.org/resource/Kanzuk_House> <http://www.w3.org/2000/01/rdf-schema#label> "Kanzuk House"@en .
+<http://yago-knowledge.org/resource/St_Joseph_s_Chapel_of_the_Manhattan_State_Hospital> <http://www.w3.org/2000/01/rdf-schema#comment> "споруда в США"@uk .
+<http://yago-knowledge.org/resource/8-24_Falfield_Street_Falfield_Cotton_Mill> <http://schema.org/location> <http://yago-knowledge.org/resource/Glasgow_City_Q55934339> .
+<http://yago-knowledge.org/resource/Haus_Richard-Wolff-Straße_16> <http://schema.org/location> <http://yago-knowledge.org/resource/Hessisch_Lichtenau> .
+<http://yago-knowledge.org/resource/Mississippi_Post_Offices_1931-1941_Tr> <http://www.w3.org/2000/01/rdf-schema#comment> "nominación temática del Registro Nacional de Lugares Históricos"@es .
+<http://yago-knowledge.org/resource/Defunct_Yalı_No_157_Of_Arnavutköy> <http://www.w3.org/2000/01/rdf-schema#label> "Defunct Yalı No. 157 of Arnavutköy"@en .
+<http://yago-knowledge.org/resource/Harbury> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Civil_parish> .
+<http://yago-knowledge.org/resource/Pier_House_And_Clock_Tower_Lamlash_Arran> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in North Ayrshire, Scotland, UK"@en .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://schema.org/url> "https://nl.wikipedia.org/wiki/Vestingwerken_van_Amsterdam"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Laufdorfer_Straße_10> <http://schema.org/location> <http://yago-knowledge.org/resource/Braunfels> .
+<http://yago-knowledge.org/resource/Untermainstraße_20> <http://schema.org/geo> "POINT(8.427246 50.010634)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Balsa_Polígono_9_Parcela_228B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Fachwerkwohnhaus_Hinterstraße_16> <http://www.w3.org/2000/01/rdf-schema#comment> "monument culturel à Bad Arolsen dans le quartier de Waldeck-Frankenberg en Hesse"@fr .
+<http://yago-knowledge.org/resource/Corral_Camí_Del_Mas_Vell> <http://www.w3.org/2000/01/rdf-schema#label> "Corral, Camí del Mas Vell"@es .
+<http://yago-knowledge.org/resource/The_Retreat_Q26604036> <http://schema.org/location> <http://yago-knowledge.org/resource/Broadhempston> .
+<http://yago-knowledge.org/resource/8-24_Falfield_Street_Falfield_Cotton_Mill> <http://www.w3.org/2000/01/rdf-schema#comment> "bouwwerk in Glasgow, Verenigd Koninkrijk"@nl .
+<http://yago-knowledge.org/resource/Darmstadt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/District_Capital_Q134626> .
+<http://yago-knowledge.org/resource/Haus_Krafftstraße_24> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116655329> .
+<http://yago-knowledge.org/resource/St_Joseph_s_Chapel_of_the_Manhattan_State_Hospital> <http://schema.org/sameAs> "/m/0g5rrl1" .
+<http://yago-knowledge.org/resource/Haus_Bismarckstraße_48> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116653050> .
+<http://yago-knowledge.org/resource/Edinburgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Scottish_County_Of_City> .
+<http://yago-knowledge.org/resource/Mississippi_Post_Offices_1931-1941_Tr> <http://www.w3.org/2000/01/rdf-schema#comment> "multiple listing in the U.S. National Register of Historic Places"@en .
+<http://yago-knowledge.org/resource/Minerva_House_North_Crescent> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Minerva%20House%2C%20North%20Crescent.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Loxbeare_Barton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Domaine_Breen> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Commonwealth_realm> .
+<http://yago-knowledge.org/resource/Casa_Piazza_Degli_Zingari_N_30_-_31> <http://www.w3.org/2000/01/rdf-schema#label> "casa piazza degli Zingari n. 30 - 31"@it .
+<http://yago-knowledge.org/resource/Spain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Realm> .
+<http://yago-knowledge.org/resource/Damaschkestraße_10-20> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q107613095> .
+<http://yago-knowledge.org/resource/Veterinary_Surgery_And_Garage_Adjoining_To_West> <http://www.w3.org/2000/01/rdf-schema#comment> "architectural structure in Shrewsbury, Shropshire, England, UK"@en .
+<http://yago-knowledge.org/resource/Netherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Country_Of_The_Kingdom_Of_The_Netherlands> .
+<http://yago-knowledge.org/resource/Offenbach_Q32205427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AdministrativeArea> .
+<http://yago-knowledge.org/resource/Lochlands_Roman_Camps> <http://www.w3.org/2000/01/rdf-schema#comment> "споруда в Шотландії, Велика Британія"@uk .
+<http://yago-knowledge.org/resource/Era_7> <http://www.w3.org/2000/01/rdf-schema#comment> "era en Cortes de Pallás, Valencia"@es .
+<http://yago-knowledge.org/resource/Altenteiler_Q116496912> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Bad_Vilbel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Urban_Municipality_In_Germany> .
+<http://yago-knowledge.org/resource/Walls_of_Amsterdam> <http://schema.org/url> "https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_fortifications_d%27Amsterdam"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Waun-Y-Fedwen> <http://www.w3.org/2000/01/rdf-schema#comment> "To the south-west of the village of Golden Grove, about 150m south of the Vicarage, set back behind a large garden. Hedge to roadside with iron gate, hedge to left separating house site from lane and farm buildings."@en .
+<http://yago-knowledge.org/resource/Haus_Lindenstraße_7_Q116667261> <http://schema.org/geo> "POINT(9.346614 50.561063)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Balsa_Polígono_9_Parcela_228B> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q117759207> .
+<http://yago-knowledge.org/resource/Haus_Am_Bache_14> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Am Bache 14"@de .
+<http://yago-knowledge.org/resource/Giessen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/District_Capital_Q134626> .
+<http://yago-knowledge.org/resource/Turkey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Transcontinental_country> .
+<http://yago-knowledge.org/resource/Switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Landlocked_country> .
+<http://yago-knowledge.org/resource/Friedhofseingang_Mit_Ehrenmal> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Heidestraße_33> <http://schema.org/geo> "POINT(11.601869 52.109376)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Ilbeshausen_Ii_Hindenburgstraße> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Altenteiler_Q116496912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Haus_Bärengasse_9_Q116596397> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في هوفهايم أم تاونوس، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Haus_Wasenstraße_40> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Konrad-Adenauer-Ufer_16> <http://www.w3.org/2000/01/rdf-schema#comment> "Haus in Flörsheim am Main, Hessen"@de .
+<http://yago-knowledge.org/resource/Glynllifon_Estate> <http://schema.org/geo> "POINT(-4.301430 53.073262)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Fachwerkwohnhaus_Hinterstraße_16> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116495317> .
+<http://yago-knowledge.org/resource/Defunct_Yalı_No_157_Of_Arnavutköy> <http://www.w3.org/2000/01/rdf-schema#comment> "Beşiktaş'ta mimari yapı"@tr .
+<http://yago-knowledge.org/resource/Stafford_Farm> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Mississippi_Post_Offices_1931-1941_Tr> <http://schema.org/location> <http://yago-knowledge.org/resource/Mississippi> .
+<http://yago-knowledge.org/resource/Heidestraße_33> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Senftenberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Medium-Sized_District_Town> .
+<http://yago-knowledge.org/resource/Haus_Kirchgasse_2_Q116706868> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Haus_Auf_Dem_Graben_19> <http://www.w3.org/2000/01/rdf-schema#comment> "هيكل معماري في نهر نيدا، ألمانيا"@ar .
+<http://yago-knowledge.org/resource/Mur_Subestació_Transformadora_Valldigna_01> <http://schema.org/location> <http://yago-knowledge.org/resource/Spain> .
+<http://yago-knowledge.org/resource/Haus_Neudorfgasse_6> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Neudorfgasse 6"@de .
+<http://yago-knowledge.org/resource/Waun-Y-Fedwen> <http://schema.org/location> <http://yago-knowledge.org/resource/Llanfihangel_Aberbythych> .
+<http://yago-knowledge.org/resource/Hausen_Über_Aar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Ortsbezirk_Of_Germany> .
+<http://yago-knowledge.org/resource/Kaufungen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Without_Town_Privileges_In_Germany> .
+<http://yago-knowledge.org/resource/Jakobstraße_4> <http://schema.org/alternateName> "Jakobstraße 4 (Naumburg)"@de .
+<http://yago-knowledge.org/resource/Mietshäuser_Muthesiusstraße_4_6_9_11_12_14> <http://schema.org/alternateName> "Mietshäuser"@de .
+<http://yago-knowledge.org/resource/Mikstat_Transmitter> <http://schema.org/location> <http://yago-knowledge.org/resource/Poland> .
+<http://yago-knowledge.org/resource/Haus_Obergasse_26D> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Case_Maldenti> <http://www.w3.org/2000/01/rdf-schema#label> "Case Maldenti"@de .
+<http://yago-knowledge.org/resource/37_Minto_Street_Edinburgh> <http://schema.org/geo> "POINT(-3.176340 55.935300)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Haus_Ringstraße_2_Q116710083> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Haus_Bilsteinstraße_7> <http://www.w3.org/2000/01/rdf-schema#comment> "monument culturel à Waldkappel dans le quartier de Werra-Meißner, Hesse"@fr .
+<http://yago-knowledge.org/resource/Vicelinschule_Vicelinstraße_51> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130643302> .
+<http://yago-knowledge.org/resource/Hauptstraße_45> <http://schema.org/location> <http://yago-knowledge.org/resource/Bönnigheim> .
+<http://yago-knowledge.org/resource/Alcavó_De_La_Sèquia_Del_Port_01> <http://schema.org/location> <http://yago-knowledge.org/resource/Atzeneta_d_Albaida> .
+<http://yago-knowledge.org/resource/Haus_Ziegelgasse_8A> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Dorfschmiede_Haunsheim> <http://www.w3.org/2000/01/rdf-schema#comment> "споруда в Німеччині"@uk .
+<http://yago-knowledge.org/resource/Marca_Palast> <http://schema.org/location> <http://yago-knowledge.org/resource/Switzerland> .
+<http://yago-knowledge.org/resource/Wohnhaus_Miquelstraße_58> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Sinntal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipality_Without_Town_Privileges_In_Germany> .
+<http://yago-knowledge.org/resource/Haus_Auf_Dem_Graben_19> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Haus_Obergasse_26D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Wohnhaus_Miquelstraße_58> <http://schema.org/geo> "POINT(13.290203 52.468471)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Haus_Forstweg_4> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116591530> .
+<http://yago-knowledge.org/resource/Heimatring_13> <http://schema.org/geo> "POINT(8.668047 50.090980)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Baker_Thornicroft_S_House_Country_Fayre> <http://schema.org/location> <http://yago-knowledge.org/resource/Harbury> .
+<http://yago-knowledge.org/resource/Era_7> <http://www.w3.org/2000/01/rdf-schema#comment> "aire de battage à Cortes de Pallás, Espagne"@fr .
+<http://yago-knowledge.org/resource/Marktplatz_11_Q110284897> <http://schema.org/geo> "POINT(9.797520 48.799720)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://yago-knowledge.org/resource/Era_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Grenzsteine_Der_Grenzlinie_Des_Hochgräflich_Hanauischen_Amtes_Windecken_Und_Der_Herrschaftlichen_Burg_Friedberg> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116747375> .
+<http://yago-knowledge.org/resource/Manhattan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Consolidated_city-county> .
+<http://yago-knowledge.org/resource/Rome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/National_Capital> .
+<http://yago-knowledge.org/resource/37_Minto_Street_Edinburgh> <http://schema.org/location> <http://yago-knowledge.org/resource/Edinburgh> .
+<http://yago-knowledge.org/resource/Straiton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Village> .
+<http://yago-knowledge.org/resource/Haus_Ringstraße_2_Q116710083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Damaschkestraße_10-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/St_Mary_S_College_Q26473617> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q26473617> .
+<http://yago-knowledge.org/resource/Friedhofseingang_Mit_Ehrenmal> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q48020508> .
+<http://yago-knowledge.org/resource/Haus_Ziegelgasse_8A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/HumanMadeGeographicalEntity> .
+<http://yago-knowledge.org/resource/Haus_Auf_Dem_Graben_19> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Auf dem Graben 19"@de .
+<http://yago-knowledge.org/resource/Haus_Kohlgasse_17> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Kohlgasse 17"@de .
+<http://yago-knowledge.org/resource/Haus_Barbarossastraße_14> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116669789> .
+<http://yago-knowledge.org/resource/Lechlade_Manor> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Lechlade%20Manor.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Neumünster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Major_Regional_Center> .
+<http://yago-knowledge.org/resource/Haus_Am_Urselbach_6> <http://www.w3.org/2000/01/rdf-schema#label> "Haus Am Urselbach 6"@de .
+<http://yago-knowledge.org/resource/Pfarrbornstraße> <http://www.w3.org/2000/01/rdf-schema#comment> "cultural heritage monument in Wallau (Hofheim am Taunus), Hesse, Germany"@en .
+<http://yago-knowledge.org/resource/St_Joseph_s_Chapel_of_the_Manhattan_State_Hospital> <http://schema.org/url> "https://en.wikipedia.org/wiki/St._Joseph%27s_Chapel_of_the_Manhattan_State_Hospital"^^<http://www.w3.org/2001/XMLSchema#anyURI> .

@@ -1,0 +1,50 @@
+Since there are no example triples provided for instances of the class `http://yago-knowledge.org/resource/BeliefSystem`, I will create a SHACL shape based on common attributes typically associated with belief systems. This shape will include properties that are generally relevant to belief systems, such as labels, descriptions, and relationships to other entities.
+
+```turtle
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema: <http://schema.org/> .
+@prefix yago: <http://yago-knowledge.org/resource/> .
+
+<http://shaclshapes.org/BeliefSystemShape> a sh:NodeShape ;
+    sh:targetClass yago:BeliefSystem ;
+    sh:property [
+        sh:path rdf:type ;
+        sh:hasValue yago:BeliefSystem ;
+        sh:minCount 1
+    ] ,
+    [
+        sh:path rdfs:label ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1
+    ] ,
+    [
+        sh:path rdfs:comment ;
+        sh:datatype rdf:langString ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:mainEntityOfPage ;
+        sh:datatype xsd:anyURI ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:relatedTo ;
+        sh:class yago:BeliefSystem ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:subEvent ;
+        sh:class schema:Event ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:description ;
+        sh:datatype rdf:langString ;
+        sh:minCount 0
+    ] .
+```
+
+This SHACL shape defines constraints for instances of the `BeliefSystem` class, ensuring that each instance has at least one label and may have optional comments, descriptions, and relationships to other belief systems or events.

@@ -1,0 +1,85 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix yago: <http://yago-knowledge.org/resource/> .
+
+<http://shaclshapes.org/CountryShape> a sh:NodeShape ;
+    sh:property [ sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/CountryShape> ;
+            sh:path yago:highestPoint ],
+        [ sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/CountryShape> ;
+            sh:path owl:sameAs ],
+        [ sh:maxCount 3 ;
+            sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/CountryShape> ;
+            sh:path rdf:type ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:path schema:image ],
+        [ sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/CountryShape> ;
+            sh:path schema:location ],
+        [ sh:datatype <xsd:string> ;
+            sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:path schema:sameAs ],
+        [ sh:datatype <xsd:string> ;
+            sh:path schema:slogan ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:minCount 1 ;
+            sh:path schema:mainEntityOfPage ],
+        [ sh:datatype <xsd:dateTime> ;
+            sh:minCount 1 ;
+            sh:path schema:dateCreated ],
+        [ sh:node <http://shaclshapes.org/CountryShape> ;
+            sh:path yago:lowestPoint ],
+        [ sh:datatype <xsd:decimal> ;
+            sh:path yago:humanDevelopmentIndex ],
+        [ sh:datatype <xsd:string> ;
+            sh:path yago:demonym ],
+        [ sh:node <http://shaclshapes.org/CountryShape> ;
+            sh:path schema:memberOf ],
+        [ sh:datatype <xsd:decimal> ;
+            sh:path yago:populationNumber ],
+        [ sh:datatype <rdf:langString> ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ sh:node <http://shaclshapes.org/CountryShape> ;
+            sh:path schema:founder ],
+        [ sh:datatype <rdf:langString> ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path yago:capital ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path yago:replaces ],
+        [ sh:datatype <xsd:dateTime> ;
+            sh:maxCount 1 ;
+            sh:path schema:dissolutionDate ],
+        [ sh:datatype <rdf:langString> ;
+            sh:minCount 1 ;
+            sh:path schema:alternateName ],
+        [ sh:datatype <xsd:decimal> ;
+            sh:path yago:unemploymentRate ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:minCount 1 ;
+            sh:path schema:url ],
+        [ sh:datatype <geo:wktLiteral> ;
+            sh:minCount 1 ;
+            sh:path schema:geo ],
+        [ sh:datatype <xsd:decimal> ;
+            sh:path yago:area ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path yago:neighbors ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path yago:leader ],
+        [ sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/CountryShape> ;
+            sh:path yago:officialLanguage ] ;
+    sh:targetClass schema:Country .
+

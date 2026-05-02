@@ -1,0 +1,161 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:MeanOfTransportationShape a sh:NodeShape ;
+    sh:targetClass dbo:MeanOfTransportation ;
+    sh:property [
+        sh:path rdfs:label ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString
+    ], [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string
+    ], [
+        sh:path rdfs:comment ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString
+    ], [
+        sh:path dbo:wikiPageRevisionID ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:country ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Country
+    ], [
+        sh:path dbo:type ;
+        sh:nodeKind sh:IRI
+    ], [
+        sh:path dbo:length ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:width ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:height ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:weight ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:numberBuilt ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:yearOfConstruction ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:gYear
+    ], [
+        sh:path dbo:productionStartYear ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:gYear
+    ], [
+        sh:path dbo:productionEndYear ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:gYear
+    ], [
+        sh:path dbo:modelStartYear ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:gYear
+    ], [
+        sh:path dbo:modelEndYear ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:gYear
+    ], [
+        sh:path dbo:activeYearsStartYear ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:gYear
+    ], [
+        sh:path dbo:activeYearsEndYear ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:gYear
+    ], [
+        sh:path dbo:manufacturer ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Company
+    ], [
+        sh:path dbo:operator ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Organisation
+    ], [
+        sh:path dbo:owner ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Organisation
+    ], [
+        sh:path dbo:builder ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Organisation
+    ], [
+        sh:path dbo:class ;
+        sh:nodeKind sh:IRI
+    ], [
+        sh:path dbo:engine ;
+        sh:nodeKind sh:IRI
+    ], [
+        sh:path dbo:transmission ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string
+    ], [
+        sh:path dbo:bodyStyle ;
+        sh:nodeKind sh:IRI
+    ], [
+        sh:path dbo:layout ;
+        sh:nodeKind sh:IRI
+    ], [
+        sh:path dbo:wheelbase ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:shipBeam ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double
+    ], [
+        sh:path dbo:shipLaunch ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:date
+    ], [
+        sh:path dbo:capacity ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:status ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string
+    ], [
+        sh:path dbo:predecessor ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:MeanOfTransportation
+    ], [
+        sh:path dbo:successor ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:MeanOfTransportation
+    ], [
+        sh:path dbo:relatedMeanOfTransportation ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:MeanOfTransportation
+    ], [
+        sh:path dbo:alternativeName ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string
+    ], [
+        sh:path dbo:assembly ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Place
+    ], [
+        sh:path rdfs:seeAlso ;
+        sh:nodeKind sh:IRI
+    ] .

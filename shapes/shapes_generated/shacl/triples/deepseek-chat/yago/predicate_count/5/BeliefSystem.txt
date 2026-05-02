@@ -1,0 +1,26 @@
+Based on the provided information, there are **no example triples** for the class `http://yago-knowledge.org/resource/BeliefSystem`. Therefore, I cannot infer any specific properties or constraints for this class.
+
+However, I can generate a minimal SHACL shape that simply validates that an instance is of the correct type. This is the most reasonable shape given the absence of data.
+
+```turtle
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix yago: <http://yago-knowledge.org/resource/> .
+
+<http://shaclshapes.org/BeliefSystemShape> a sh:NodeShape ;
+    sh:targetClass yago:BeliefSystem ;
+    sh:property [
+        sh:path rdf:type ;
+        sh:hasValue yago:BeliefSystem ;
+        sh:minCount 1 ;
+        sh:maxCount 1
+    ] .
+```
+
+**Explanation:**
+- The shape targets the class `yago:BeliefSystem`.
+- It only requires that each instance has exactly one `rdf:type` triple with the value `yago:BeliefSystem`.
+- No other properties are constrained because no data was provided to infer them.
+
+If you have additional data or context about the `BeliefSystem` class (e.g., common properties like `rdfs:label`, `rdfs:comment`, or relationships to other classes), please provide it so I can generate a more detailed shape.

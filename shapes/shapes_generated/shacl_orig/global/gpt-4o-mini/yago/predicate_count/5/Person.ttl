@@ -1,0 +1,96 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema1: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix yago: <http://yago-knowledge.org/resource/> .
+
+<file:///C:/Users/doccr/PycharmProjects/DoubleShapespresso/Person> a sh:NodeShape ;
+    sh:property [ sh:class schema1:Person ;
+            sh:minCount 1 ;
+            sh:path owl:sameAs ],
+        [ sh:class schema1:Person ;
+            sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:path rdf:type ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path rdfs:comment ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ sh:class schema1:Person ;
+            sh:minCount 0 ;
+            sh:path schema1:affiliation ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path schema1:alternateName ],
+        [ sh:class schema1:Person ;
+            sh:minCount 0 ;
+            sh:path schema1:alumniOf ],
+        [ sh:class schema1:Person ;
+            sh:minCount 0 ;
+            sh:path schema1:award ],
+        [ sh:datatype xsd:dateTime ;
+            sh:minCount 0 ;
+            sh:path schema1:birthDate ],
+        [ sh:class schema1:Person ;
+            sh:minCount 0 ;
+            sh:path schema1:birthPlace ],
+        [ sh:class schema1:Person ;
+            sh:minCount 0 ;
+            sh:path schema1:children ],
+        [ sh:datatype xsd:dateTime ;
+            sh:minCount 0 ;
+            sh:path schema1:deathDate ],
+        [ sh:class schema1:Person ;
+            sh:minCount 0 ;
+            sh:path schema1:deathPlace ],
+        [ sh:class schema1:Person ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path schema1:gender ],
+        [ sh:class schema1:Person ;
+            sh:minCount 0 ;
+            sh:path schema1:homeLocation ],
+        [ sh:datatype xsd:anyURI ;
+            sh:minCount 0 ;
+            sh:path schema1:image ],
+        [ sh:class schema1:Person ;
+            sh:minCount 0 ;
+            sh:path schema1:knowsLanguage ],
+        [ sh:datatype xsd:anyURI ;
+            sh:minCount 1 ;
+            sh:path schema1:mainEntityOfPage ],
+        [ sh:class schema1:Person ;
+            sh:minCount 0 ;
+            sh:path schema1:memberOf ],
+        [ sh:class schema1:Person ;
+            sh:minCount 0 ;
+            sh:path schema1:nationality ],
+        [ sh:class schema1:Person ;
+            sh:minCount 0 ;
+            sh:path schema1:owns ],
+        [ sh:datatype xsd:string ;
+            sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:path schema1:sameAs ],
+        [ sh:class schema1:Person ;
+            sh:minCount 0 ;
+            sh:path schema1:spouse ],
+        [ sh:datatype xsd:anyURI ;
+            sh:minCount 0 ;
+            sh:path schema1:url ],
+        [ sh:class schema1:Person ;
+            sh:minCount 0 ;
+            sh:path schema1:worksFor ],
+        [ sh:class schema1:Person ;
+            sh:minCount 0 ;
+            sh:path yago:academicDegree ],
+        [ sh:class schema1:Person ;
+            sh:minCount 0 ;
+            sh:path yago:beliefSystem ] ;
+    sh:targetClass dbo:Person .
+

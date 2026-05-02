@@ -1,0 +1,37 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<file:///C:/Users/doccr/PycharmProjects/DoubleShapespresso/Monument> a sh:NodeShape ;
+    sh:property [ sh:class dbo:Monument ;
+            sh:minCount 1 ;
+            sh:path dbo:designer ],
+        [ sh:class dbo:Monument ;
+            sh:minCount 1 ;
+            sh:path dbo:location ],
+        [ sh:datatype xsd:integer ;
+            sh:minCount 1 ;
+            sh:path dbo:wikiPageRevisionID ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:path foaf:name ],
+        [ sh:datatype xsd:double ;
+            sh:minCount 1 ;
+            sh:path dcat:resource_identifier ],
+        [ sh:class dbo:Monument ;
+            sh:maxCount 5 ;
+            sh:minCount 4 ;
+            sh:path rdf:type ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ sh:datatype rdf:langString ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass dbo:Monument .
+

@@ -1,0 +1,125 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema1: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix yago: <http://yago-knowledge.org/resource/> .
+
+<file:///C:/Users/doccr/PycharmProjects/DoubleShapespresso/Politician> a sh:NodeShape ;
+    sh:property [ sh:class yago:Politician ;
+            sh:minCount 1 ;
+            sh:path owl:sameAs ],
+        [ sh:class yago:Politician ;
+            sh:minCount 1 ;
+            sh:path rdf:type ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path rdfs:comment ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path schema1:affiliation ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path schema1:alternateName ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path schema1:alumniOf ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path schema1:author ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path schema1:award ],
+        [ sh:datatype xsd:dateTime ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path schema1:birthDate ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path schema1:birthPlace ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path schema1:children ],
+        [ sh:datatype xsd:dateTime ;
+            sh:minCount 0 ;
+            sh:path schema1:deathDate ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path schema1:deathPlace ],
+        [ sh:class yago:Politician ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path schema1:gender ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path schema1:homeLocation ],
+        [ sh:datatype xsd:anyURI ;
+            sh:minCount 0 ;
+            sh:path schema1:image ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path schema1:knowsLanguage ],
+        [ sh:datatype xsd:anyURI ;
+            sh:minCount 1 ;
+            sh:path schema1:mainEntityOfPage ],
+        [ sh:class yago:Politician ;
+            sh:minCount 1 ;
+            sh:path schema1:memberOf ],
+        [ sh:class yago:Politician ;
+            sh:minCount 1 ;
+            sh:path schema1:nationality ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path schema1:owns ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path schema1:performer ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 1 ;
+            sh:path schema1:sameAs ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path schema1:spouse ],
+        [ sh:datatype xsd:anyURI ;
+            sh:minCount 0 ;
+            sh:path schema1:url ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path schema1:worksFor ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path yago:academicDegree ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path yago:appearsIn ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path yago:beliefSystem ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path yago:candidateIn ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path yago:doctoralAdvisor ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path yago:influencedBy ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path yago:notableWork ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path yago:playsIn ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path yago:sportNumber ],
+        [ sh:class yago:Politician ;
+            sh:minCount 0 ;
+            sh:path yago:studentOf ] ;
+    sh:targetClass dbo:Politician .
+

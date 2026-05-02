@@ -1,0 +1,102 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:FilmShape a sh:NodeShape ;
+    sh:targetClass dbo:Film ;
+    sh:property [
+        sh:path rdfs:label ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+    ] ;
+    sh:property [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path dbo:wikiPageRevisionID ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer ;
+    ] ;
+    sh:property [
+        sh:path rdfs:comment ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+    ] ;
+    sh:property [
+        sh:path dbo:runtime ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double ;
+    ] ;
+    sh:property [
+        sh:path dbo:director ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:starring ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:writer ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:musicComposer ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:producer ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:distributor ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:cinematography ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:editing ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:language ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:imdbId ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path dbo:productionCompany ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:country ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:releaseDate ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:date ;
+    ] ;
+    sh:property [
+        sh:path dbo:budget ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double ;
+    ] ;
+    sh:property [
+        sh:path dbo:gross ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:double ;
+    ] .

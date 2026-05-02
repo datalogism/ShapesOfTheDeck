@@ -1,0 +1,116 @@
+@prefix dbd: <http://dbpedia.org/datatype/> .
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<file:///C:/Users/doccr/PycharmProjects/DoubleShapespresso/Company> a sh:NodeShape ;
+    sh:property [ sh:datatype dbd:usDollar ;
+            sh:minCount 0 ;
+            sh:path dbo:assets ],
+        [ sh:minCount 0 ;
+            sh:or ( [ sh:class dbo:Country ] [ sh:class dbo:Location ] [ sh:class dbo:Place ] ) ;
+            sh:path dbo:country ],
+        [ sh:class dbo:Company ;
+            sh:minCount 0 ;
+            sh:path dbo:distributingCompany ],
+        [ sh:class dbo:Company ;
+            sh:minCount 0 ;
+            sh:path dbo:distributingLabel ],
+        [ sh:datatype dbd:usDollar ;
+            sh:minCount 0 ;
+            sh:path dbo:equity ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path dbo:fate ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path dbo:formerName ],
+        [ sh:class dbo:Company ;
+            sh:minCount 0 ;
+            sh:path dbo:foundedBy ],
+        [ sh:datatype xsd:date ;
+            sh:minCount 0 ;
+            sh:path dbo:foundingDate ],
+        [ sh:datatype xsd:gYear ;
+            sh:minCount 0 ;
+            sh:path dbo:foundingYear ],
+        [ sh:minCount 0 ;
+            sh:or ( [ sh:class dbo:Genre ] [ sh:class dbo:MusicGenre ] ) ;
+            sh:path dbo:genre ],
+        [ sh:class dbo:Place ;
+            sh:minCount 0 ;
+            sh:path dbo:headquarter ],
+        [ sh:class owl:Thing ;
+            sh:minCount 0 ;
+            sh:path dbo:industry ],
+        [ sh:class dbo:Person ;
+            sh:minCount 0 ;
+            sh:path dbo:keyPerson ],
+        [ sh:class dbo:Place ;
+            sh:minCount 0 ;
+            sh:path dbo:location ],
+        [ sh:class dbo:City ;
+            sh:minCount 0 ;
+            sh:path dbo:locationCity ],
+        [ sh:class dbo:Country ;
+            sh:minCount 0 ;
+            sh:path dbo:locationCountry ],
+        [ sh:datatype dbd:usDollar ;
+            sh:maxCount 1 ;
+            sh:minCount 0 ;
+            sh:path dbo:netIncome ],
+        [ sh:datatype xsd:integer ;
+            sh:minCount 0 ;
+            sh:path dbo:numberOfEmployees ],
+        [ sh:datatype xsd:integer ;
+            sh:minCount 0 ;
+            sh:path dbo:numberOfLocations ],
+        [ sh:class dbo:Organisation ;
+            sh:minCount 0 ;
+            sh:path dbo:parentCompany ],
+        [ sh:class owl:Thing ;
+            sh:minCount 0 ;
+            sh:path dbo:product ],
+        [ sh:minCount 0 ;
+            sh:or ( [ sh:class dbo:Place ] [ sh:class dbo:Location ] [ sh:class owl:Thing ] ) ;
+            sh:path dbo:regionServed ],
+        [ sh:datatype dbd:canadianDollar ;
+            sh:minCount 0 ;
+            sh:path dbo:revenue ],
+        [ sh:class dbo:Organisation ;
+            sh:minCount 0 ;
+            sh:path dbo:service ],
+        [ sh:class owl:Thing ;
+            sh:minCount 0 ;
+            sh:path dbo:type ],
+        [ sh:datatype xsd:integer ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path dbo:wikiPageRevisionID ],
+        [ sh:class foaf:Document ;
+            sh:minCount 0 ;
+            sh:path foaf:homepage ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path foaf:name ],
+        [ sh:datatype xsd:double ;
+            sh:maxCount 1 ;
+            sh:minCount 0 ;
+            sh:path dcat:resource_identifier ],
+        [ sh:class dbo:Company ;
+            sh:minCount 1 ;
+            sh:path rdf:type ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path rdfs:comment ],
+        [ sh:datatype rdf:langString ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass dbo:Company .
+

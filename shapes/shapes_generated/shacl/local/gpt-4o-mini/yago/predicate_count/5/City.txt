@@ -1,0 +1,106 @@
+```turtle
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema: <http://schema.org/> .
+@prefix yago: <http://yago-knowledge.org/resource/> .
+
+<http://shaclshapes.org/CityShape> a sh:NodeShape ;
+    sh:targetClass schema:City ;
+    sh:property [
+        sh:path rdf:type ;
+        sh:hasValue schema:City ;
+        sh:minCount 1
+    ] ,
+    [
+        sh:path rdfs:label ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1
+    ] ,
+    [
+        sh:path rdfs:comment ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1
+    ] ,
+    [
+        sh:path schema:alternateName ;
+        sh:datatype rdf:langString ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:dateCreated ;
+        sh:datatype xsd:dateTime ;
+        sh:minCount 0 ;
+        sh:maxCount 1
+    ] ,
+    [
+        sh:path schema:geo ;
+        sh:datatype geo:wktLiteral ;
+        sh:minCount 0 ;
+        sh:maxCount 1
+    ] ,
+    [
+        sh:path schema:image ;
+        sh:datatype xsd:anyURI ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:location ;
+        sh:class schema:Place ;
+        sh:minCount 0 ;
+        sh:maxCount 1
+    ] ,
+    [
+        sh:path schema:mainEntityOfPage ;
+        sh:datatype xsd:anyURI ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:postalCode ;
+        sh:datatype xsd:string ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:sameAs ;
+        sh:datatype xsd:string ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:slogan ;
+        sh:datatype xsd:string ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:url ;
+        sh:datatype xsd:anyURI ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path yago:area ;
+        sh:datatype xsd:decimal ;
+        sh:minCount 0 ;
+        sh:maxCount 1
+    ] ,
+    [
+        sh:path yago:capital ;
+        sh:class schema:City ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path yago:leader ;
+        sh:class schema:Person ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path yago:neighbors ;
+        sh:class schema:Place ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path yago:populationNumber ;
+        sh:datatype xsd:decimal ;
+        sh:minCount 0 ;
+        sh:maxCount 1
+    ] .
+```

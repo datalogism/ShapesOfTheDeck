@@ -1,0 +1,74 @@
+```shacl
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:MusicalWorkShape a sh:NodeShape ;
+    sh:targetClass dbo:MusicalWork ;
+    sh:property [
+        sh:path rdfs:label ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString
+    ], [
+        sh:path rdfs:comment ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString
+    ], [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string
+    ], [
+        sh:path dbo:wikiPageRevisionID ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:artist ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:MusicalArtist
+    ], [
+        sh:path dbo:album ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Album
+    ], [
+        sh:path dbo:genre ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Genre
+    ], [
+        sh:path dbo:recordLabel ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:RecordLabel
+    ], [
+        sh:path dbo:releaseDate ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:date
+    ], [
+        sh:path dbo:runtime ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:decimal
+    ], [
+        sh:path dbo:writer ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person
+    ], [
+        sh:path dbo:producer ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person
+    ], [
+        sh:path dbo:previousWork ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:MusicalWork
+    ], [
+        sh:path dbo:subsequentWork ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:MusicalWork
+    ] .
+```

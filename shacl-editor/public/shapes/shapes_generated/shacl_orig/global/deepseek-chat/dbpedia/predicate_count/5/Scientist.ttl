@@ -1,0 +1,86 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<file:///C:/Users/doccr/PycharmProjects/DoubleShapespresso/Scientist> a sh:NodeShape ;
+    sh:property [ sh:class owl:Thing ;
+            sh:minCount 0 ;
+            sh:path dbo:academicDiscipline ],
+        [ sh:class dbo:EducationalInstitution ;
+            sh:minCount 0 ;
+            sh:path dbo:almaMater ],
+        [ sh:minCount 0 ;
+            sh:or ( [ sh:class dbo:Award ] [ sh:class wd:Q618779 ] ) ;
+            sh:path dbo:award ],
+        [ sh:datatype xsd:date ;
+            sh:maxCount 1 ;
+            sh:minCount 0 ;
+            sh:path dbo:birthDate ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path dbo:birthName ],
+        [ sh:class dbo:Place ;
+            sh:minCount 0 ;
+            sh:path dbo:birthPlace ],
+        [ sh:datatype xsd:integer ;
+            sh:minCount 0 ;
+            sh:path dbo:birthYear ],
+        [ sh:datatype xsd:date ;
+            sh:maxCount 1 ;
+            sh:minCount 0 ;
+            sh:path dbo:deathDate ],
+        [ sh:class dbo:Place ;
+            sh:minCount 0 ;
+            sh:path dbo:deathPlace ],
+        [ sh:datatype xsd:integer ;
+            sh:minCount 0 ;
+            sh:path dbo:deathYear ],
+        [ sh:class dbo:Scientist ;
+            sh:minCount 0 ;
+            sh:path dbo:doctoralAdvisor ],
+        [ sh:class dbo:Scientist ;
+            sh:minCount 0 ;
+            sh:path dbo:doctoralStudent ],
+        [ sh:class dbo:Organisation ;
+            sh:minCount 0 ;
+            sh:path dbo:institution ],
+        [ sh:class owl:Thing ;
+            sh:minCount 0 ;
+            sh:path dbo:knownFor ],
+        [ sh:class dbo:Place ;
+            sh:minCount 0 ;
+            sh:path dbo:nationality ],
+        [ sh:class dbo:Scientist ;
+            sh:minCount 0 ;
+            sh:path dbo:notableStudent ],
+        [ sh:datatype xsd:integer ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path dbo:wikiPageRevisionID ],
+        [ sh:class foaf:Document ;
+            sh:minCount 0 ;
+            sh:path foaf:homepage ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path foaf:name ],
+        [ sh:datatype xsd:double ;
+            sh:minCount 0 ;
+            sh:path dcat:resource_identifier ],
+        [ sh:class dbo:Scientist ;
+            sh:maxCount 17 ;
+            sh:minCount 14 ;
+            sh:path rdf:type ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path rdfs:comment ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass dbo:Scientist .
+

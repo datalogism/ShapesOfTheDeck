@@ -1,0 +1,25 @@
+Based on the provided information, there are **no example triples** for the class `http://yago-knowledge.org/resource/Creator (Creator)`. The JSON array is empty.
+
+Therefore, I cannot infer any specific properties or constraints for this class. The only thing we can reliably state is that instances of this class must be typed as `yago:Creator`.
+
+Here is the minimal SHACL shape based on the available data:
+
+```turtle
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix yago: <http://yago-knowledge.org/resource/> .
+
+<http://shaclshapes.org/CreatorShape> a sh:NodeShape ;
+    sh:targetClass yago:Creator ;
+    sh:property [
+        sh:path rdf:type ;
+        sh:hasValue yago:Creator ;
+        sh:minCount 1
+    ] .
+```
+
+**Explanation:**
+
+- **`sh:targetClass yago:Creator`**: This shape applies to all instances of the `yago:Creator` class.
+- **`sh:property`**: The only property we can confidently require is that each instance has at least one `rdf:type` triple pointing to `yago:Creator`. This is a minimal constraint derived from the class definition itself.
+- **No other properties are specified** because the example triples are empty, meaning we have no evidence of any other predicates being used by instances of this class. In a real-world scenario, you would add more constraints as data becomes available.

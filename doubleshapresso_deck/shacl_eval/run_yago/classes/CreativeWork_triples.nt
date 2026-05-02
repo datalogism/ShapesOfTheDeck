@@ -1,0 +1,875 @@
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Aksakov"@tr .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergejs Aksakovs"@lv .
+<http://yago-knowledge.org/resource/Before_Dawn> <http://schema.org/url> "https://heritage.lib.hkbu.edu.hk/routes/view/ids/HER-010532/languages/zh"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Сергеј Тимофејевич Аксаков"@sr .
+<http://yago-knowledge.org/resource/Etoy_Com> <http://www.w3.org/2000/01/rdf-schema#label> "etoy.com"@en .
+<http://yago-knowledge.org/resource/Joint_Ecosystem_Modeling_Jem_Ecological_Model_Documentation_Volume_1_Estuarine_Prey_Fish_Biomass_Availability_V1_0_0> <http://www.w3.org/2000/01/rdf-schema#label> "Joint Ecosystem Modeling (JEM) ecological model documentation volume 1: Estuarine prey fish biomass availability v1.0.0"@en .
+<http://yago-knowledge.org/resource/O_Prichinakh_Upadka_I_O_Novykh_Techeniyakh_Sovremennoy_Russkoy_Literatury> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42193611> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://tt.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%90%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%B2"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Separation_Séparation> <http://schema.org/dateCreated> "2003"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Vertebrate_Palaeontology_Of_Australasia> <http://schema.org/author> <http://yago-knowledge.org/resource/Patricia_Vickers-Rich> .
+<http://yago-knowledge.org/resource/Justitia_Spitzweg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Satire> .
+<http://yago-knowledge.org/resource/Before_Dawn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Etoy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Video_game_developer> .
+<http://yago-knowledge.org/resource/Al-Ijabah_Lima_Istadrakathu_Aisyah_Ala_Ash-Shahabah> <http://www.w3.org/2000/01/rdf-schema#comment> "книга аз-Заркаши"@ru .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://it.wikipedia.org/wiki/Sergej_Timofeevi%C4%8D_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/History_Of_The_Times> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergey Timofeyevich Aksakov"@it .
+<http://yago-knowledge.org/resource/Elementary_Treatise_Upon_The_Theory_And_Practice_Of_The_Art_Of_Dancing> <http://www.w3.org/2000/01/rdf-schema#label> "Elementary Treatise upon the Theory and Practice of the Art of Dancing"@en .
+<http://yago-knowledge.org/resource/Malcolm_Macleod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Neurologist> .
+<http://yago-knowledge.org/resource/Annie_Abrahams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Video_Artist> .
+<http://yago-knowledge.org/resource/Armenian_Historiography> <http://schema.org/url> "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D1%80%D0%BC%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D1%85_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE%D0%B2_V%E2%80%94XVIII_%D0%B2%D0%B5%D0%BA%D0%BE%D0%B2"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://ko.wikipedia.org/wiki/%EC%84%B8%EB%A5%B4%EA%B2%8C%EC%9D%B4_%EC%95%85%EC%82%AC%EC%BD%94%ED%94%84"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/The_Making_Of_The_President_1964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergueï Axakov"@it .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Аксаков Сергей Тимофеевич"@tt .
+<http://yago-knowledge.org/resource/Grasping_At_Bits_Art_And_Intellectualcontrol_In_The_Digital_Age> <http://schema.org/author> <http://yago-knowledge.org/resource/Patrick_Lichty> .
+<http://yago-knowledge.org/resource/Macao_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Patrick_Lichty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Curator> .
+<http://yago-knowledge.org/resource/Der_Kunstkritiker_Paul_Westheim_Im_Prozess_Der_Akkulturation_Während_Der_Französischen_Und_Mexikanischen_Emigration_1933-1963_Dieses_Ist_Ein_Land_In_Dem_Ein_Kunstmensch_Leben_Kann> <http://schema.org/dateCreated> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://hy.wikipedia.org/wiki/%D5%8D%D5%A5%D6%80%D5%A3%D5%A5%D5%B5_%D4%B1%D5%AF%D5%BD%D5%A1%D5%AF%D5%B8%D5%BE"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Separation_Séparation> <http://schema.org/author> <http://yago-knowledge.org/resource/Annie_Abrahams> .
+<http://yago-knowledge.org/resource/Joint_Ecosystem_Modeling_Jem_Ecological_Model_Documentation_Volume_1_Estuarine_Prey_Fish_Biomass_Availability_V1_0_0> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q136087911> .
+<http://yago-knowledge.org/resource/Dermot_Barnes-Holmes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Psychologist> .
+<http://yago-knowledge.org/resource/Proceedings_Of_The_Second_Conference_On_Machine_Translation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Leo_Bendel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Art_Collector> .
+<http://yago-knowledge.org/resource/Viru2> <http://schema.org/author> <http://yago-knowledge.org/resource/Ted_Warnell> .
+<http://yago-knowledge.org/resource/Rudyard_Kipling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Science_Fiction_Writer> .
+<http://yago-knowledge.org/resource/Montes_The_Matador_And_Other_Stories> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Writing_Philosophy_Papers> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q135335971> .
+<http://yago-knowledge.org/resource/China_Opium-Smokers> <http://www.w3.org/2000/01/rdf-schema#label> "China opium-smokers"@en .
+<http://yago-knowledge.org/resource/Water-Color_Painting_25_Kilometres_From_Omsk> <http://www.w3.org/2000/01/rdf-schema#label> "Akvarelis '25 kilometri no Omskas'"@lv .
+<http://yago-knowledge.org/resource/Gweledigaetheu_Y_Bardd_Cwsc> <http://www.w3.org/2000/01/rdf-schema#label> "Gweledigaetheu y Bardd Cwsc"@en .
+<http://yago-knowledge.org/resource/Tiga_Q106995696> <http://www.w3.org/2000/01/rdf-schema#label> "Tiga"@en .
+<http://yago-knowledge.org/resource/Interpretations_Of_Life_A_Survey_Of_Contemporary_Literature> <http://www.w3.org/2000/01/rdf-schema#label> "Interpretations of Life: A Survey of Contemporary Literature"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://tr.wikipedia.org/wiki/Sergey_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/You_Can_T_Print_That> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42197788> .
+<http://yago-knowledge.org/resource/Before_Dawn> <http://www.w3.org/2000/01/rdf-schema#comment> "擠迫的街道上，各人都拿著Ａ－Ｂｏｏｋ，向它諮詢不同的生活問題。少女Ｄａｗｎ跑進書店，購買她的第一部Ａ－Ｂｏｏｋ。"@zh-hant .
+<http://yago-knowledge.org/resource/The_Story_Of_Elsa> <http://www.w3.org/2000/01/rdf-schema#label> "The Story of Elsa"@en .
+<http://yago-knowledge.org/resource/Think_Wider_View_Broader> <http://schema.org/location> <http://yago-knowledge.org/resource/Hong_Kong> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergei Aksákov"@es .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Сергей Аксаков"@bg .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergey Timofeyoviç Aksakov"@tr .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergejs Timofejevičs Aksakovs"@lv .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://www.w3.org/2000/01/rdf-schema#label> "Joan Pujadas i Marquès"@nl .
+<http://yago-knowledge.org/resource/Ölü_Şovenizm_Ve_Yaşayan_Sosyalizm> <http://www.w3.org/2000/01/rdf-schema#label> "Ölü Şovenizm ve Yaşayan Sosyalizm"@tr .
+<http://yago-knowledge.org/resource/Seven-Branched_Candelabrum_Nykarleby> <http://www.w3.org/2000/01/rdf-schema#label> "Seven-branched candelabrum (Nykarleby)"@en .
+<http://yago-knowledge.org/resource/Tiga_Q106995696> <http://www.w3.org/2000/01/rdf-schema#label> "迪加"@zh-hant .
+<http://yago-knowledge.org/resource/David_Jhave_Johnston> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Video_Artist> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Аксаков, Сергей"@ru .
+<http://yago-knowledge.org/resource/Spanish_language_generic_instance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Spanish_language> .
+<http://yago-knowledge.org/resource/God_In_The_Country> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/Hkbu_Heritage> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "escritor rusu"@ast .
+<http://yago-knowledge.org/resource/Seven-Branched_Candelabrum_Nykarleby> <http://www.w3.org/2000/01/rdf-schema#comment> "lité dílo"@cs .
+<http://yago-knowledge.org/resource/Pictures_Of_The_Socialistic_Future> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1683676> .
+<http://yago-knowledge.org/resource/Raafat_Fares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Esmeralda_Castaños-Vélez> .
+<http://yago-knowledge.org/resource/Pictures_Of_The_Socialistic_Future> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Armenian_Historiography> <http://www.w3.org/2000/01/rdf-schema#label> "Հայ պատմիչներ"@hy .
+<http://yago-knowledge.org/resource/Elements_Of_Rhetoric> <http://www.w3.org/2000/01/rdf-schema#label> "Elements of Rhetoric"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergej Aksakow"@it .
+<http://yago-knowledge.org/resource/Toward_New_Horizons> <http://www.w3.org/2000/01/rdf-schema#label> "Toward New Horizons"@en .
+<http://yago-knowledge.org/resource/Rudyard_Kipling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/War_correspondent> .
+<http://yago-knowledge.org/resource/Vincent_Castagné> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Isabel_A_Lefevre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/A_Thoroughfare_Beat_Across_The_Wilderness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/On_Perspective_In_Painting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/The_Place_With_No_Vessel> <http://schema.org/location> <http://yago-knowledge.org/resource/Hkbu_Heritage> .
+<http://yago-knowledge.org/resource/Author_Response_Taller_Height_And_Risk_Of_Coronary_Heart_Disease_And_Cancer_A_Within-Sibship_Mendelian_Randomization_Study> <http://schema.org/author> <http://yago-knowledge.org/resource/Neil_Martin_Davies> .
+<http://yago-knowledge.org/resource/Pry> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130330322> .
+<http://yago-knowledge.org/resource/Departmental_Ditties> <http://schema.org/author> <http://yago-knowledge.org/resource/Rudyard_Kipling> .
+<http://yago-knowledge.org/resource/Fabergé_Fire_Screen_Picture_Frame> <http://www.w3.org/2000/01/rdf-schema#comment> "Picture frame by Fabergé"@en .
+<http://yago-knowledge.org/resource/Admirals_All_Q59467373> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q59467373> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergei Aksakov"@pl .
+<http://yago-knowledge.org/resource/Regula_Primitiva> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42194577> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Serghei Timofeevici Aksakov"@ro .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://www.w3.org/2000/01/rdf-schema#label> "Joan Pujadas i Marquès"@de .
+<http://yago-knowledge.org/resource/Al-Zarkashi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Medieval_Historian> .
+<http://yago-knowledge.org/resource/Wild_Garden> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42197615> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergej Aksakov"@nb .
+<http://yago-knowledge.org/resource/Admirals_All_Q59467373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://yago-knowledge.org/resource/siteLinks> "45"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Climate_Change_And_Food_Security> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134425864> .
+<http://yago-knowledge.org/resource/Der_Kunstkritiker_Paul_Westheim_Im_Prozess_Der_Akkulturation_Während_Der_Französischen_Und_Mexikanischen_Emigration_1933-1963_Dieses_Ist_Ein_Land_In_Dem_Ein_Kunstmensch_Leben_Kann> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q110297841> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://pl.wikipedia.org/wiki/Siergiej_Aksakow_(pisarz)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergej Timofejevič Aksakov"@sl .
+<http://yago-knowledge.org/resource/Samantha_Gorman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Electronic_Literature_Writer> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://no.wikipedia.org/wiki/Sergej_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/The_Place_With_No_Vessel> <http://www.w3.org/2000/01/rdf-schema#comment> "這段短片透過圖畫和文字，表達作者對人生的領會。"@zh-hant .
+<http://yago-knowledge.org/resource/Departmental_Ditties> <http://www.w3.org/2000/01/rdf-schema#label> "Departmental Ditties"@en .
+<http://yago-knowledge.org/resource/Germany_Agrees_To_Return_Nazi-Looted_Painting> <http://schema.org/about> <http://yago-knowledge.org/resource/Nazi_Germany> .
+<http://yago-knowledge.org/resource/An_Essay_In_Aid_Of_A_Grammar_Of_Assent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Review_Of_A_Congolese_Mining_Giant_S_Corporate_Social_Responsibility_Stuck_Between_False_Pretense_And_Bricolage_Going_Beyond_A_Logic_Of_Do_No_Harm_To_Materialize_Sustainable_Development_Still_At_Issue> <http://schema.org/url> "http://dx.doi.org/10.32388/qlsnr0"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Communality> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q135314339> .
+<http://yago-knowledge.org/resource/Etoy_Com> <http://schema.org/dateCreated> "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/From_Cuba_With_A_Song> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Author_Response_Taller_Height_And_Risk_Of_Coronary_Heart_Disease_And_Cancer_A_Within-Sibship_Mendelian_Randomization_Study> <http://www.w3.org/2000/01/rdf-schema#label> "Author response: Taller height and risk of coronary heart disease and cancer: A within-sibship Mendelian randomization study"@mul .
+<http://yago-knowledge.org/resource/Think_Wider_View_Broader> <http://schema.org/url> "https://heritage.lib.hkbu.edu.hk/routes/view/ids/HER-010174/languages/zh"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Author_Response_Taller_Height_And_Risk_Of_Coronary_Heart_Disease_And_Cancer_A_Within-Sibship_Mendelian_Randomization_Study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Siergiej Aksakow"@pl .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Serguéi Aksakov"@es .
+<http://yago-knowledge.org/resource/Technology_And_Isolation> <http://schema.org/url> "http://dx.doi.org/10.1017/9781316848319"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Ölü_Şovenizm_Ve_Yaşayan_Sosyalizm> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q21528322> .
+<http://yago-knowledge.org/resource/Nazi_Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://ru.wikiquote.org/wiki/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%B2"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "Krievijas Impērijas rakstnieks"@lv .
+<http://yago-knowledge.org/resource/The_Constitutional_History_Of_England_In_Its_Origin_And_Development> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42188195> .
+<http://yago-knowledge.org/resource/Gate_In_The_City_Wall_Macau> <http://www.w3.org/2000/01/rdf-schema#comment> "print by Alexander Rattray"@en .
+<http://yago-knowledge.org/resource/Tiga_Q106995696> <http://schema.org/location> <http://yago-knowledge.org/resource/Hkbu_Heritage> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergéi Aksákov"@es .
+<http://yago-knowledge.org/resource/Think_Wider_View_Broader> <http://www.w3.org/2000/01/rdf-schema#comment> "creative work; part of HKBU Heritage (ID = HER-010174)"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Serguei Aksakov"@es .
+<http://yago-knowledge.org/resource/Al-Ijabah_Lima_Istadrakathu_Aisyah_Ala_Ash-Shahabah> <http://www.w3.org/2000/01/rdf-schema#label> "Al-Ijabah lima Istadrakathu `Aisyah `ala ash-Shahabah"@en .
+<http://yago-knowledge.org/resource/George_Davey_Smith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Epidemiologist> .
+<http://yago-knowledge.org/resource/Ted_Warnell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Der_Kunstkritiker_Paul_Westheim_Im_Prozess_Der_Akkulturation_Während_Der_Französischen_Und_Mexikanischen_Emigration_1933-1963_Dieses_Ist_Ein_Land_In_Dem_Ein_Kunstmensch_Leben_Kann> <http://www.w3.org/2000/01/rdf-schema#comment> "dissertation"@en .
+<http://yago-knowledge.org/resource/Prahlada-Charitra> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42194516> .
+<http://yago-knowledge.org/resource/Snaeljos> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42195676> .
+<http://yago-knowledge.org/resource/Ver_Binnen> <http://www.w3.org/2000/01/rdf-schema#comment> "creative work by Karin Anema"@en .
+<http://yago-knowledge.org/resource/Author_Response_Taller_Height_And_Risk_Of_Coronary_Heart_Disease_And_Cancer_A_Within-Sibship_Mendelian_Randomization_Study> <http://schema.org/url> "http://dx.doi.org/10.7554/elife.72984.sa2"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Review_Of_A_Congolese_Mining_Giant_S_Corporate_Social_Responsibility_Stuck_Between_False_Pretense_And_Bricolage_Going_Beyond_A_Logic_Of_Do_No_Harm_To_Materialize_Sustainable_Development_Still_At_Issue> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q137010892> .
+<http://yago-knowledge.org/resource/History_Of_The_Times> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42191117> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "ਸਰਗੇਈ ਅਕਸਾਕੋਵ"@pa .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "escritor ruso"@es .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Serguei Timofeievich Aksakov"@es .
+<http://yago-knowledge.org/resource/Lescha_Da_Linguas_Chantunala> <http://schema.org/url> "https://rm.wikipedia.org/wiki/Lescha_da_linguas_chantunala"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Interpretations_Of_Life_A_Survey_Of_Contemporary_Literature> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42191531> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "러시아의 소설가 (1791~1859)"@ko .
+<http://yago-knowledge.org/resource/Pictures_Of_The_Socialistic_Future> <http://schema.org/url> "https://de.wikipedia.org/wiki/Sozialdemokratische_Zukunftsbilder"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Esmeralda_Castaños-Vélez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/God_In_The_Country> <http://schema.org/location> <http://yago-knowledge.org/resource/Hong_Kong> .
+<http://yago-knowledge.org/resource/Solent_Papers_4_Hilsea_Lines_And_Portsbridge> <http://www.w3.org/2000/01/rdf-schema#label> "Solent Papers 4: Hilsea Lines and Portsbridge"@en .
+<http://yago-knowledge.org/resource/Pictures_Of_The_Socialistic_Future> <http://www.w3.org/2000/01/rdf-schema#label> "Où mène le socialisme?"@fr .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://la.wikipedia.org/wiki/Sergius_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Siergiej Timofiejewicz Aksakow"@pl .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%90%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%B2"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Water-Color_Painting_25_Kilometres_From_Omsk> <http://schema.org/dateCreated> "1951"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Remains> <http://www.w3.org/2000/01/rdf-schema#label> "Remains"@en .
+<http://yago-knowledge.org/resource/The_Human_Side_Of_Enterprise> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42191243> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "ロシアの小説家"@ja .
+<http://yago-knowledge.org/resource/Technology_And_Isolation> <http://schema.org/dateCreated> "2017-03-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/David_Jhave_Johnston> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Poet> .
+<http://yago-knowledge.org/resource/Review_Of_A_Congolese_Mining_Giant_S_Corporate_Social_Responsibility_Stuck_Between_False_Pretense_And_Bricolage_Going_Beyond_A_Logic_Of_Do_No_Harm_To_Materialize_Sustainable_Development_Still_At_Issue> <http://www.w3.org/2000/01/rdf-schema#label> "Review of: 'A Congolese Mining Giant's Corporate Social Responsibility Stuck Between False Pretense and Bricolage: Going Beyond a Logic of Do No Harm to Materialize Sustainable Development Still at Issue'"@en .
+<http://yago-knowledge.org/resource/Toward_New_Horizons> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42196615> .
+<http://yago-knowledge.org/resource/The_History_Of_The_Prussian_Academy_Of_Sciences> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42191109> .
+<http://yago-knowledge.org/resource/Wild_Garden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Seven-Branched_Candelabrum_Nykarleby> <http://www.w3.org/2000/01/rdf-schema#label> "Siebenarmige Leuchter (Nykarleby)"@de .
+<http://yago-knowledge.org/resource/Arabic_generic_instance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Arabic> .
+<http://yago-knowledge.org/resource/Pontos_Uma_Recombinação_Textual_Intermedial_E_Transpoética> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130329539> .
+<http://yago-knowledge.org/resource/Byzantine_History_Q42187598> <http://www.w3.org/2000/01/rdf-schema#label> "Byzantine History"@en .
+<http://yago-knowledge.org/resource/David_Marks_psychologist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Psychologist> .
+<http://yago-knowledge.org/resource/Armenian_Historiography> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Writing_Philosophy_Papers> <http://www.w3.org/2000/01/rdf-schema#label> "Writing Philosophy Papers"@en .
+<http://yago-knowledge.org/resource/Communality> <http://schema.org/inLanguage> <http://yago-knowledge.org/resource/English_language_generic_instance> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "Russian writer"@en-ca .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://ca.wikipedia.org/wiki/Serguei_Aks%C3%A0kov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/A_Thoroughfare_Beat_Across_The_Wilderness> <http://www.w3.org/2000/01/rdf-schema#label> "A thoroughfare [] beat Across the wilderness"@en .
+<http://yago-knowledge.org/resource/Pictures_Of_The_Socialistic_Future> <http://schema.org/inLanguage> <http://yago-knowledge.org/resource/German_language_generic_instance> .
+<http://yago-knowledge.org/resource/Janet_Millett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Writer> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "russisk skribent"@nb .
+<http://yago-knowledge.org/resource/You_Can_T_Print_That> <http://www.w3.org/2000/01/rdf-schema#label> "You Can't Print That"@en .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://www.w3.org/2000/01/rdf-schema#label> "Joan Pujadas i Marquès"@eu .
+<http://yago-knowledge.org/resource/Zone_Q132199553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Martien_J_Kas> .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Piotr_Popik> .
+<http://yago-knowledge.org/resource/Think_Wider_View_Broader> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/History_Of_The_Times> <http://www.w3.org/2000/01/rdf-schema#label> "History of the Times"@en .
+<http://yago-knowledge.org/resource/Armenian_Historiography> <http://www.w3.org/2000/01/rdf-schema#label> "Αρμένικη ιστοριογραφία"@el .
+<http://yago-knowledge.org/resource/The_Making_Of_The_President_1964> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42192595> .
+<http://yago-knowledge.org/resource/Doctor_S_Boy> <http://www.w3.org/2000/01/rdf-schema#label> "Doctor's Boy"@en .
+<http://yago-knowledge.org/resource/Asesinos_Y_Asesinados> <http://schema.org/author> <http://yago-knowledge.org/resource/Benjamín_Escalonilla_Godayol> .
+<http://yago-knowledge.org/resource/De_Wandelaar> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q64640802> .
+<http://yago-knowledge.org/resource/Climate_Change_And_Food_Security> <http://schema.org/inLanguage> <http://yago-knowledge.org/resource/English_language_generic_instance> .
+<http://yago-knowledge.org/resource/Joint_Ecosystem_Modeling_Jem_Ecological_Model_Documentation_Volume_1_Estuarine_Prey_Fish_Biomass_Availability_V1_0_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Al-Ijabah_Lima_Istadrakathu_Aisyah_Ala_Ash-Shahabah> <http://www.w3.org/2000/01/rdf-schema#label> "الإجابة لما استدركته عائشة على الصحابة."@ar .
+<http://yago-knowledge.org/resource/Proceedings_Of_The_Second_Conference_On_Machine_Translation> <http://schema.org/dateCreated> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Byzantine_History_Q42187598> <http://www.w3.org/2000/01/rdf-schema#comment> "37-volume literary work by Nicephorus Gregoras"@en .
+<http://yago-knowledge.org/resource/Etoy_Com> <http://www.w3.org/2000/01/rdf-schema#comment> "creative work by etoy"@en .
+<http://yago-knowledge.org/resource/Byzantine_History_Q42187598> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42187598> .
+<http://yago-knowledge.org/resource/Christina_Hunnicutt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Der_Kunstkritiker_Paul_Westheim_Im_Prozess_Der_Akkulturation_Während_Der_Französischen_Und_Mexikanischen_Emigration_1933-1963_Dieses_Ist_Ein_Land_In_Dem_Ein_Kunstmensch_Leben_Kann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergej Aksakov"@nn .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Natasja_De_Bruin> .
+<http://yago-knowledge.org/resource/Hong_Kong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Customs_Territory_Of_China> .
+<http://yago-knowledge.org/resource/Fabergé_Fire_Screen_Picture_Frame> <http://www.w3.org/2000/01/rdf-schema#label> "Fabergé fire screen picture frame"@en .
+<http://yago-knowledge.org/resource/The_Central_Questions_Of_Philosophy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/dateCreated> "2021-05-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Anton_Bespalov_Q46892070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Al-Ijabah_Lima_Istadrakathu_Aisyah_Ala_Ash-Shahabah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/A_Thoroughfare_Beat_Across_The_Wilderness> <http://schema.org/author> <http://yago-knowledge.org/resource/Everest_Pipkin> .
+<http://yago-knowledge.org/resource/Action_Research> <http://schema.org/url> "http://dx.doi.org/10.32388/iue08v"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Jhon_Urasti_Blesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Viru2> <http://www.w3.org/2000/01/rdf-schema#comment> "creative work by Ted Warnell"@en .
+<http://yago-knowledge.org/resource/Man_With_A_Guitar> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42192621> .
+<http://yago-knowledge.org/resource/Figures_Of_Capable_Imagination> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42189917> .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Dermot_Barnes-Holmes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergej Aksakow"@de .
+<http://yago-knowledge.org/resource/Seven-Branched_Candelabrum_Nykarleby> <http://www.w3.org/2000/01/rdf-schema#label> "Sedmiramenný svícen (Nykarleby)"@cs .
+<http://yago-knowledge.org/resource/China_Opium-Smokers> <http://www.w3.org/2000/01/rdf-schema#comment> "print by George Peterson"@en .
+<http://yago-knowledge.org/resource/The_History_Of_The_Prussian_Academy_Of_Sciences> <http://www.w3.org/2000/01/rdf-schema#label> "The History of the Prussian Academy of Sciences"@en .
+<http://yago-knowledge.org/resource/Viru2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Asesinos_Y_Asesinados> <http://www.w3.org/2000/01/rdf-schema#comment> "creative work by Benjamín Escalonilla Godayol"@en .
+<http://yago-knowledge.org/resource/Asesinos_Y_Asesinados> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132203604> .
+<http://yago-knowledge.org/resource/Grasping_At_Bits_Art_And_Intellectualcontrol_In_The_Digital_Age> <http://www.w3.org/2000/01/rdf-schema#comment> "scholarly work by Patrick Lichty"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "escritor russo"@pt .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "scriitor rus"@ro .
+<http://yago-knowledge.org/resource/The_Neuro-Psychosis_Of_Defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "schrijver uit Keizerrijk Rusland (1791-1859)"@nl .
+<http://yago-knowledge.org/resource/The_Place_With_No_Vessel> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/Hkbu_Heritage> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Serghei Aksakov"@ro .
+<http://yago-knowledge.org/resource/An_Essay_In_Aid_Of_A_Grammar_Of_Assent> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42189574> .
+<http://yago-knowledge.org/resource/Gweledigaetheu_Y_Bardd_Cwsc> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42190664> .
+<http://yago-knowledge.org/resource/Fabergé_Fire_Screen_Picture_Frame> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Faberg%C3%A9_fire_screen_picture_frame"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Joint_Ecosystem_Modeling_Jem_Ecological_Model_Documentation_Volume_1_Estuarine_Prey_Fish_Biomass_Availability_V1_0_0> <http://www.w3.org/2000/01/rdf-schema#label> "Joint Ecosystem Modeling (JEM) ecological model documentation volume 1: Estuarine prey fish biomass availability v1.0.0"@mul .
+<http://yago-knowledge.org/resource/Synagoge_Pason_Lexeon_Kata_Stoicheion> <http://www.w3.org/2000/01/rdf-schema#label> "Synagoge pason lexeon kata stoicheion"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://fr.wikipedia.org/wiki/Sergue%C3%AF_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/God_In_The_Country> <http://www.w3.org/2000/01/rdf-schema#label> "God in the Country"@en .
+<http://yago-knowledge.org/resource/Pictures_Of_The_Socialistic_Future> <http://schema.org/dateCreated> "1891"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/China_City> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/Hkbu_Heritage> .
+<http://yago-knowledge.org/resource/Proceedings_Of_The_Second_Conference_On_Machine_Translation> <http://www.w3.org/2000/01/rdf-schema#label> "Proceedings of the Second Conference on Machine Translation"@en .
+<http://yago-knowledge.org/resource/Elementary_Treatise_Upon_The_Theory_And_Practice_Of_The_Art_Of_Dancing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Der_Kunstkritiker_Paul_Westheim_Im_Prozess_Der_Akkulturation_Während_Der_Französischen_Und_Mexikanischen_Emigration_1933-1963_Dieses_Ist_Ein_Land_In_Dem_Ein_Kunstmensch_Leben_Kann> <http://schema.org/about> <http://yago-knowledge.org/resource/Paul_Westheim> .
+<http://yago-knowledge.org/resource/Latvian_language_generic_instance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Latvian_language> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "ruski pisac"@hr .
+<http://yago-knowledge.org/resource/Views_Afoot> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42197286> .
+<http://yago-knowledge.org/resource/Carolina_Martins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Writer> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Serguéi Aksákov"@es .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "सर्गेई अक्साकोव्ह"@mr .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://www.w3.org/2000/01/rdf-schema#label> "Author response: Introduction to the EQIPD quality system"@mul .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergei Aksakov"@es .
+<http://yago-knowledge.org/resource/The_Neuro-Psychosis_Of_Defence> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42193414> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "سيرجي أكساكوف"@ar .
+<http://yago-knowledge.org/resource/The_Story_Of_Elsa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Toward_New_Horizons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Cato_Christianus> <http://www.w3.org/2000/01/rdf-schema#label> "Cato Christianus"@en .
+<http://yago-knowledge.org/resource/Asesinos_Y_Asesinados> <http://schema.org/inLanguage> <http://yago-knowledge.org/resource/Spanish_language_generic_instance> .
+<http://yago-knowledge.org/resource/Doctor_S_Boy> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42189072> .
+<http://yago-knowledge.org/resource/God_In_The_Country> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Review_Of_A_Congolese_Mining_Giant_S_Corporate_Social_Responsibility_Stuck_Between_False_Pretense_And_Bricolage_Going_Beyond_A_Logic_Of_Do_No_Harm_To_Materialize_Sustainable_Development_Still_At_Issue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Action_Research> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q136856030> .
+<http://yago-knowledge.org/resource/An_Australian_Parsonage> <http://www.w3.org/2000/01/rdf-schema#comment> "book"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Aksakov"@sv .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Аксаков Сергій"@uk .
+<http://yago-knowledge.org/resource/Al-Ijabah_Lima_Istadrakathu_Aisyah_Ala_Ash-Shahabah> <http://www.w3.org/2000/01/rdf-schema#label> "el-İcabe"@tr .
+<http://yago-knowledge.org/resource/Patrick_Lichty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Artist> .
+<http://yago-knowledge.org/resource/Claudia_Stoeger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/President_Roosevelt_And_The_Coming_Of_War_1941> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42194566> .
+<http://yago-knowledge.org/resource/Cottage_Residences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergei Aksakow"@de .
+<http://yago-knowledge.org/resource/The_Carnival_Of_Animals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Hong_Kong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sporting_nationality> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "russisk skribent"@nn .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "rysk författare"@sv .
+<http://yago-knowledge.org/resource/From_Cuba_With_A_Song> <http://www.w3.org/2000/01/rdf-schema#label> "From Cuba with a Song"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "نویسنده روسی"@fa .
+<http://yago-knowledge.org/resource/Adjunct_Publication_Of_The_26Th_Conference_On_User_Modeling_Adaptation_And_Personalization> <http://schema.org/dateCreated> "2018-07-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Water-Color_Painting_25_Kilometres_From_Omsk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Perov%20Axakov.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Ölü_Şovenizm_Ve_Yaşayan_Sosyalizm> <http://schema.org/url> "https://tr.wikipedia.org/wiki/%C3%96l%C3%BC_%C5%9Eovenizm_ve_Ya%C5%9Fayan_Sosyalizm"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergius Timothei filius Aksakov"@la .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "Russian writer"@en .
+<http://yago-knowledge.org/resource/Martinus_Nijhoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Poet> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "S. Aksakov"@sv .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Аксаков Сергей Тимофеевич"@ru .
+<http://yago-knowledge.org/resource/Separation_Séparation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Asesinos_Y_Asesinados> <http://www.w3.org/2000/01/rdf-schema#label> "Asesinos y asesinados"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "Venemaa kirjanik"@et .
+<http://yago-knowledge.org/resource/An_Australian_Parsonage> <http://schema.org/author> <http://yago-knowledge.org/resource/Janet_Millett> .
+<http://yago-knowledge.org/resource/Zone_Q132199553> <http://www.w3.org/2000/01/rdf-schema#comment> "creative work by Andy Campbell, David Jhave Johnston"@en .
+<http://yago-knowledge.org/resource/Last_Instructions_To_A_Painter> <http://www.w3.org/2000/01/rdf-schema#label> "Last Instructions to a Painter"@en .
+<http://yago-knowledge.org/resource/The_Taming_Of_The_Shrew_Q42196260> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42196260> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://eu.wikipedia.org/wiki/Sergei_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Σεργκέι Ακσάκοφ"@el .
+<http://yago-knowledge.org/resource/Paul_Westheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Art_historian> .
+<http://yago-knowledge.org/resource/Seven-Branched_Candlestick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Serguéi Timoféievich Aksakov"@es .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Patricia_Kabitzke> .
+<http://yago-knowledge.org/resource/Gate_In_The_City_Wall_Macau> <http://www.w3.org/2000/01/rdf-schema#label> "Gate in the city wall, Macau"@en .
+<http://yago-knowledge.org/resource/Teoría_Del_Marco_Relacional_Un_Enfoque_Postskinneriano_De_La_Cognición_Y_El_Lenguaje_Humanos> <http://schema.org/dateCreated> "2021-09-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Сергей Аксаков"@ru .
+<http://yago-knowledge.org/resource/Tiga_Q106995696> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/Hkbu_Heritage> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Аксаков С.Т."@ru .
+<http://yago-knowledge.org/resource/Al-Ijabah_Lima_Istadrakathu_Aisyah_Ala_Ash-Shahabah> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q115596512> .
+<http://yago-knowledge.org/resource/Patricia_Vickers-Rich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Paleontologist> .
+<http://yago-knowledge.org/resource/Adjunct_Publication_Of_The_26Th_Conference_On_User_Modeling_Adaptation_And_Personalization> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125707327> .
+<http://yago-knowledge.org/resource/Pictures_Of_The_Socialistic_Future> <http://www.w3.org/2000/01/rdf-schema#comment> "fiktives Tagebuch eines begeisterten Sozialdemokraten, von Eugen Richter"@de .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "S. T. Aksakov"@fr .
+<http://yago-knowledge.org/resource/Armenian_Historiography> <http://schema.org/alternateName> "Istoriografie armenească"@ro .
+<http://yago-knowledge.org/resource/Armenian_Historiography> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4069708> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "ލިޔުންތެރިއެއް"@dv .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "സെർജി ടിമോഫെയേവിച്ച് അക്സകോഫ്"@ml .
+<http://yago-knowledge.org/resource/Brass_generic_instance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Brass> .
+<http://yago-knowledge.org/resource/Review_Of_A_Congolese_Mining_Giant_S_Corporate_Social_Responsibility_Stuck_Between_False_Pretense_And_Bricolage_Going_Beyond_A_Logic_Of_Do_No_Harm_To_Materialize_Sustainable_Development_Still_At_Issue> <http://schema.org/author> <http://yago-knowledge.org/resource/Jhon_Urasti_Blesia> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Аксаков, С.Т."@ru .
+<http://yago-knowledge.org/resource/Hilsea_Lines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Defense_line> .
+<http://yago-knowledge.org/resource/My_Lai_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Annie_Abrahams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Installation_Artist> .
+<http://yago-knowledge.org/resource/Action_Research> <http://www.w3.org/2000/01/rdf-schema#label> "Action research"@en .
+<http://yago-knowledge.org/resource/L_Homme_Enchaine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Patrick_Lichty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Activist> .
+<http://yago-knowledge.org/resource/Germany_Agrees_To_Return_Nazi-Looted_Painting> <http://schema.org/about> <http://yago-knowledge.org/resource/Justitia_Spitzweg> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://es.wikipedia.org/wiki/Sergu%C3%A9i_Aks%C3%A1kov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Man_With_A_Guitar> <http://www.w3.org/2000/01/rdf-schema#label> "Man with a Guitar"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Serguei Timoféievich Aksakov"@es .
+<http://yago-knowledge.org/resource/Cottage_Residences> <http://www.w3.org/2000/01/rdf-schema#label> "Cottage Residences"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergei Timofejewitsch Axakow"@de .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://www.w3.org/2000/01/rdf-schema#label> "Joan Pujadas i Marquès"@ga .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergej Aksakov"@nl .
+<http://yago-knowledge.org/resource/Ver_Binnen> <http://schema.org/dateCreated> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Les_Contes_Nouveaux_Ou_Les_Fees_A_La_Mode> <http://www.w3.org/2000/01/rdf-schema#label> "Les Contes nouveaux ou les fees a la mode"@en .
+<http://yago-knowledge.org/resource/A_Thoroughfare_Beat_Across_The_Wilderness> <http://www.w3.org/2000/01/rdf-schema#comment> "creative work by Everest Pipkin"@en .
+<http://yago-knowledge.org/resource/Zone_Q132199553> <http://schema.org/author> <http://yago-knowledge.org/resource/David_Jhave_Johnston> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "سيرجى اكساكوف"@arz .
+<http://yago-knowledge.org/resource/Barbarian_In_The_Garden> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42187207> .
+<http://yago-knowledge.org/resource/Vootele_Voikar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Elementary_Treatise_Upon_The_Theory_And_Practice_Of_The_Art_Of_Dancing> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42189315> .
+<http://yago-knowledge.org/resource/Vertebrate_Palaeontology_Of_Australasia> <http://schema.org/url> "http://dx.doi.org/10.5962/bhl.title.60647"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/The_Taming_Of_The_Shrew_Q42196260> <http://www.w3.org/2000/01/rdf-schema#label> "The Taming of the Shrew"@en .
+<http://yago-knowledge.org/resource/China_City> <http://schema.org/location> <http://yago-knowledge.org/resource/Hkbu_Heritage> .
+<http://yago-knowledge.org/resource/From_Cuba_With_A_Song> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42188468> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://de.wikipedia.org/wiki/Sergei_Timofejewitsch_Aksakow"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Germany_Agrees_To_Return_Nazi-Looted_Painting> <http://schema.org/about> <http://yago-knowledge.org/resource/Restitution_Of_Nazi-Looted_Art_generic_instance> .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://www.w3.org/2000/01/rdf-schema#label> "Joan Pujadas i Marquès"@pt .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/sameAs> "/m/03wd1l" .
+<http://yago-knowledge.org/resource/Views_Afoot> <http://www.w3.org/2000/01/rdf-schema#label> "Views Afoot"@en .
+<http://yago-knowledge.org/resource/Germany_Agrees_To_Return_Nazi-Looted_Painting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "escriptor rus"@ca .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Ernesto_Prado_Montes_De_Oca> .
+<http://yago-knowledge.org/resource/China_Opium-Smokers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "russischer Schriftsteller"@de .
+<http://yago-knowledge.org/resource/President_Roosevelt_And_The_Coming_Of_War_1941> <http://www.w3.org/2000/01/rdf-schema#label> "President Roosevelt and the Coming of War, 1941"@en .
+<http://yago-knowledge.org/resource/Barbarian_In_The_Garden> <http://www.w3.org/2000/01/rdf-schema#label> "Barbarian in the Garden"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Сергій Тимофійович Аксаков"@uk .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://sv.wikipedia.org/wiki/Sergej_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Annie_Abrahams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Collagist> .
+<http://yago-knowledge.org/resource/Al-Zarkashi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Muhaddith> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "أكساكوف ، سيرجي تيموفيفيتش"@ar .
+<http://yago-knowledge.org/resource/Figures_Of_Capable_Imagination> <http://www.w3.org/2000/01/rdf-schema#label> "Figures of Capable Imagination"@en .
+<http://yago-knowledge.org/resource/Fabergé_Fire_Screen_Picture_Frame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/The_Sea_Q117156769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergej Aksakov"@sl .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergey Aksakov"@sq .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Сергей Тимофеевич Аксаков"@ru .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Serge Aksakov"@it .
+<http://yago-knowledge.org/resource/Moallakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://schema.org/url> "https://ca.wikipedia.org/wiki/Joan_Pujadas_i_Marqu%C3%A8s"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "S. T. Aksakov"@de .
+<http://yago-knowledge.org/resource/Before_Dawn> <http://schema.org/url> "https://heritage.lib.hkbu.edu.hk/routes/view/ids/HER-010532/languages/en"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/God_In_The_Country> <http://www.w3.org/2000/01/rdf-schema#label> "願你平安"@zh-hant .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://az.wikipedia.org/wiki/Sergey_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Joint_Ecosystem_Modeling_Jem_Ecological_Model_Documentation_Volume_1_Estuarine_Prey_Fish_Biomass_Availability_V1_0_0> <http://schema.org/url> "http://dx.doi.org/10.3133/ofr20111272"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Marilyn_Monroe_And_Other_Poems> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42192689> .
+<http://yago-knowledge.org/resource/Montes_The_Matador_And_Other_Stories> <http://www.w3.org/2000/01/rdf-schema#label> "Montes the Matador and Other Stories"@en .
+<http://yago-knowledge.org/resource/Tiga_Q106995696> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q106995696> .
+<http://yago-knowledge.org/resource/Hong_Kong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/City-state> .
+<http://yago-knowledge.org/resource/Patricia_Vickers-Rich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/University_Teacher> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergueï Axakov"@fr .
+<http://yago-knowledge.org/resource/Lescha_Da_Linguas_Chantunala> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Lescha_Da_Linguas_Chantunala> <http://www.w3.org/2000/01/rdf-schema#label> "Lescha da linguas chantunala"@rm .
+<http://yago-knowledge.org/resource/Marilyn_Monroe_And_Other_Poems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Tiga_Q106995696> <http://schema.org/url> "https://heritage.lib.hkbu.edu.hk/routes/view/ids/HER-010102/languages/zh"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Pontos_Uma_Recombinação_Textual_Intermedial_E_Transpoética> <http://www.w3.org/2000/01/rdf-schema#label> "PONTOS: uma recombinação textual intermedial e transpoética"@en .
+<http://yago-knowledge.org/resource/Everest_Pipkin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Artist> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergey Aksakov"@az .
+<http://yago-knowledge.org/resource/Tiga_Q106995696> <http://schema.org/location> <http://yago-knowledge.org/resource/Hong_Kong> .
+<http://yago-knowledge.org/resource/Composition_For_Synthesizer> <http://www.w3.org/2000/01/rdf-schema#label> "Composition for Synthesizer"@en .
+<http://yago-knowledge.org/resource/Der_Kunstkritiker_Paul_Westheim_Im_Prozess_Der_Akkulturation_Während_Der_Französischen_Und_Mexikanischen_Emigration_1933-1963_Dieses_Ist_Ein_Land_In_Dem_Ein_Kunstmensch_Leben_Kann> <http://www.w3.org/2000/01/rdf-schema#label> "Der Kunstkritiker Paul Westheim im Prozess der Akkulturation während der französischen und mexikanischen Emigration 1933-1963 : 'Dieses ist ein Land, in dem ein Kunstmensch leben kann.'"@de .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://zh.wikipedia.org/wiki/%E8%B0%A2%E5%B0%94%E7%9B%96%C2%B7%E9%98%BF%E5%85%8B%E8%90%A8%E7%A7%91%E5%A4%AB"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Writing_Philosophy_Papers> <http://schema.org/url> "http://dx.doi.org/10.4324/9781003512318"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Strata_Identified_By_Organized_Fossils> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42195998> .
+<http://yago-knowledge.org/resource/Last_Instructions_To_A_Painter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Proceedings_Of_The_Second_Conference_On_Machine_Translation> <http://schema.org/url> "http://dx.doi.org/10.18653/v1/W17-47"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Les_Contes_Nouveaux_Ou_Les_Fees_A_La_Mode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42188210> .
+<http://yago-knowledge.org/resource/Pry> <http://www.w3.org/2000/01/rdf-schema#label> "Pry"@en .
+<http://yago-knowledge.org/resource/O_Prichinakh_Upadka_I_O_Novykh_Techeniyakh_Sovremennoy_Russkoy_Literatury> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Doctor_S_Boy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Pictures_Of_The_Socialistic_Future> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Sozialdemokratische_Zukunftsbilder"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Сергей Аксакыв"@tt .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://www.w3.org/2000/01/rdf-schema#label> "Joan Pujadas i Marquès"@ast .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://lv.wikipedia.org/wiki/Sergejs_Aksakovs"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Pry> <http://schema.org/author> <http://yago-knowledge.org/resource/Samantha_Gorman> .
+<http://yago-knowledge.org/resource/Action_Research> <http://schema.org/inLanguage> <http://yago-knowledge.org/resource/English_language_generic_instance> .
+<http://schema.org/CreativeWork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/shacl#NodeShape> .
+<http://yago-knowledge.org/resource/Andy_Campbell_Q126373215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Think_Wider_View_Broader> <http://schema.org/location> <http://yago-knowledge.org/resource/Hkbu_Heritage> .
+<http://yago-knowledge.org/resource/Patricia_Vickers-Rich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Ornithologist> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "російський письменник"@uk .
+<http://yago-knowledge.org/resource/A_Thoroughfare_Beat_Across_The_Wilderness> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132204645> .
+<http://yago-knowledge.org/resource/Hkbu_Heritage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Online_art_gallery> .
+<http://yago-knowledge.org/resource/Ölü_Şovenizm_Ve_Yaşayan_Sosyalizm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Cato_Christianus> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42187723> .
+<http://yago-knowledge.org/resource/Eugen_Richter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Journalist> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://it.wikiquote.org/wiki/Sergej_Timofeevi%C4%8D_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "سيرجي أكساكوف"@arq .
+<http://yago-knowledge.org/resource/Martine_C_J_Hofmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "руски књижевник"@sr .
+<http://yago-knowledge.org/resource/Eugen_Richter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Writer> .
+<http://yago-knowledge.org/resource/Synagoge_Pason_Lexeon_Kata_Stoicheion> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42196173> .
+<http://yago-knowledge.org/resource/L_Espagne_En_Auto> <http://www.w3.org/2000/01/rdf-schema#label> "L'Espagne en auto"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://bg.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%90%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%B2"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Climate_Change_And_Food_Security> <http://schema.org/dateCreated> "2016-12-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Ernesto_Prado_Montes_De_Oca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Etoy_Com> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132200299> .
+<http://yago-knowledge.org/resource/Armenian_Historiography> <http://yago-knowledge.org/resource/siteLinks> "3"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://ba.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%B2_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/An_Australian_Parsonage> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q34312348> .
+<http://yago-knowledge.org/resource/Armenian_Historiography> <http://www.w3.org/2000/01/rdf-schema#label> "Армянская историография"@ru .
+<http://yago-knowledge.org/resource/Proceedings_Of_The_Second_Conference_On_Machine_Translation> <http://www.w3.org/2000/01/rdf-schema#label> "Proceedings of the Second Conference on Machine Translation"@mul .
+<http://yago-knowledge.org/resource/Prahlada-Charitra> <http://www.w3.org/2000/01/rdf-schema#label> "Prahlada-charitra"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "russisk skribent"@da .
+<http://yago-knowledge.org/resource/The_Human_Side_Of_Enterprise> <http://www.w3.org/2000/01/rdf-schema#label> "The Human Side of Enterprise"@en .
+<http://yago-knowledge.org/resource/Action_Research> <http://www.w3.org/2000/01/rdf-schema#label> "Action research"@mul .
+<http://yago-knowledge.org/resource/Teoría_Del_Marco_Relacional_Un_Enfoque_Postskinneriano_De_La_Cognición_Y_El_Lenguaje_Humanos> <http://schema.org/url> "http://dx.doi.org/10.26741/978-84-09-31730-1"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Ver_Binnen> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132221523> .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Isabel_A_Lefevre> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergei Aksakow"@it .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Ulrich_Dirnagl> .
+<http://yago-knowledge.org/resource/Before_Dawn> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/Hkbu_Heritage> .
+<http://yago-knowledge.org/resource/Kimberley_E_Wever> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://eo.wikipedia.org/wiki/Sergio_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/O_Prichinakh_Upadka_I_O_Novykh_Techeniyakh_Sovremennoy_Russkoy_Literatury> <http://www.w3.org/2000/01/rdf-schema#label> "O prichinakh upadka i o novykh techeniyakh sovremennoy russkoy literatury"@en .
+<http://yago-knowledge.org/resource/Tiga_Q106995696> <http://schema.org/url> "https://heritage.lib.hkbu.edu.hk/routes/view/ids/HER-010102/languages/en"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://arz.wikipedia.org/wiki/%D8%B3%D9%8A%D8%B1%D8%AC%D9%89_%D8%A7%D9%83%D8%B3%D8%A7%D9%83%D9%88%D9%81"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/The_Rats_Q42194815> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42194815> .
+<http://yago-knowledge.org/resource/Think_Wider_View_Broader> <http://schema.org/url> "https://heritage.lib.hkbu.edu.hk/routes/view/ids/HER-010174/languages/en"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/English_language_generic_instance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/English_language> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Serguei Aksakov"@ca .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergei Timofeevic"@it .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "rosyjski pisarz i tłumacz"@pl .
+<http://yago-knowledge.org/resource/China_City> <http://schema.org/url> "https://heritage.lib.hkbu.edu.hk/routes/view/ids/HER-010099/languages/zh"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Writing_Philosophy_Papers> <http://schema.org/author> <http://yago-knowledge.org/resource/Andrew_Kania_Q58146386> .
+<http://yago-knowledge.org/resource/On_Perspective_In_Painting> <http://www.w3.org/2000/01/rdf-schema#label> "On Perspective in Painting"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergej Aksakov"@da .
+<http://yago-knowledge.org/resource/The_Constitutional_History_Of_England_In_Its_Origin_And_Development> <http://www.w3.org/2000/01/rdf-schema#label> "The Constitutional History of England in its Origin and Development"@en .
+<http://yago-knowledge.org/resource/Solent_Papers_4_Hilsea_Lines_And_Portsbridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergei Timofeyevich Aksakov"@it .
+<http://yago-knowledge.org/resource/Alexander_Dityatev> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Neuroscientist> .
+<http://yago-knowledge.org/resource/Interpretations_Of_Life_A_Survey_Of_Contemporary_Literature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/René_Bernard_Q57055511> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "scríbhneoir Rúiseach"@ga .
+<http://yago-knowledge.org/resource/Before_Dawn> <http://www.w3.org/2000/01/rdf-schema#comment> "creative work; part of HKBU Heritage (ID = HER-010532)"@en .
+<http://yago-knowledge.org/resource/A_Treatise_On_The_Diagnosis_And_Treatment_Of_Diseases_Of_The_Chest> <http://www.w3.org/2000/01/rdf-schema#label> "A Treatise on the Diagnosis and Treatment of Diseases of the Chest"@en .
+<http://yago-knowledge.org/resource/Seven-Branched_Candelabrum_Nykarleby> <http://schema.org/url> "https://www.jstor.org/stable/pdf/24656045.pdf"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergei Aksakov"@eu .
+<http://yago-knowledge.org/resource/The_Fundamental_Principles_Of_Old_And_New_World_Civilizations> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42190220> .
+<http://yago-knowledge.org/resource/China_Opium-Smokers> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q110625544> .
+<http://yago-knowledge.org/resource/The_Constitutional_History_Of_England_In_Its_Origin_And_Development> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Armenian_Historiography> <http://www.w3.org/2000/01/rdf-schema#label> "Armenian Historiography"@en .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Kimberley_E_Wever> .
+<http://yago-knowledge.org/resource/Christoph_H_Emmerich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "סופר רוסי"@he .
+<http://yago-knowledge.org/resource/Elements_Of_Rhetoric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Technology_And_Isolation> <http://schema.org/author> <http://yago-knowledge.org/resource/Clive_Lawson> .
+<http://yago-knowledge.org/resource/Pry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Pry> <http://schema.org/dateCreated> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Les_Contes_Nouveaux_Ou_Les_Fees_A_La_Mode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Solent_Papers_4_Hilsea_Lines_And_Portsbridge> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q124958175> .
+<http://yago-knowledge.org/resource/Martinus_Nijhoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Translator> .
+<http://yago-knowledge.org/resource/Piotr_Popik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Neuropharmacologist> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "écrivain russe"@fr .
+<http://yago-knowledge.org/resource/Asesinos_Y_Asesinados> <http://schema.org/dateCreated> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/The_Carnival_Of_Animals> <http://www.w3.org/2000/01/rdf-schema#label> "The Carnival of Animals"@en .
+<http://yago-knowledge.org/resource/Writing_Philosophy_Papers> <http://schema.org/inLanguage> <http://yago-knowledge.org/resource/English_language_generic_instance> .
+<http://yago-knowledge.org/resource/Author_Response_Taller_Height_And_Risk_Of_Coronary_Heart_Disease_And_Cancer_A_Within-Sibship_Mendelian_Randomization_Study> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q136850599> .
+<http://yago-knowledge.org/resource/Gate_In_The_City_Wall_Macau> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q110625547> .
+<http://yago-knowledge.org/resource/Tiga_Q106995696> <http://www.w3.org/2000/01/rdf-schema#comment> "creative work; part of HKBU Heritage (ID = HER-010102)"@en .
+<http://yago-knowledge.org/resource/Separation_Séparation> <http://www.w3.org/2000/01/rdf-schema#comment> "creative work by Annie Abrahams"@en .
+<http://yago-knowledge.org/resource/Adjunct_Publication_Of_The_26Th_Conference_On_User_Modeling_Adaptation_And_Personalization> <http://schema.org/inLanguage> <http://yago-knowledge.org/resource/English_language_generic_instance> .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://www.w3.org/2000/01/rdf-schema#label> "Joan Pujadas i Marquès"@sl .
+<http://yago-knowledge.org/resource/Fabergé_Fire_Screen_Picture_Frame> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q61660139> .
+<http://yago-knowledge.org/resource/Neil_Martin_Davies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://gl.wikipedia.org/wiki/Sergei_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Straccioni> <http://www.w3.org/2000/01/rdf-schema#label> "Straccioni"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergej Timofejevitsj Aksakov"@nl .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Joan%20Pujadas%20i%20Marqu%C3%A8s%20%28Pineda%20de%20Mar%2C%201950%29%2C%20periodista%20i%20escriptor.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Vincent_Castagné> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Serge Aksakov"@fr .
+<http://yago-knowledge.org/resource/Rudyard_Kipling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Poet> .
+<http://yago-knowledge.org/resource/An_Australian_Parsonage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "ruský spisovatel"@cs .
+<http://yago-knowledge.org/resource/Vertebrate_Palaeontology_Of_Australasia> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q135220985> .
+<http://yago-knowledge.org/resource/Germany_Agrees_To_Return_Nazi-Looted_Painting> <http://www.w3.org/2000/01/rdf-schema#comment> "news article, Spiegel"@en .
+<http://yago-knowledge.org/resource/God_In_The_Country> <http://www.w3.org/2000/01/rdf-schema#comment> "重慶市銅梁區，基督徒Ｚｈｏｗ　Ｂａｎｇｗｅｎ喜歡幹農活。她的孩子們並不反對她信奉上帝。她信仰基督超過二十年，憶述入教的緣由。"@zh-hant .
+<http://yago-knowledge.org/resource/Armenian_Historiography> <http://www.w3.org/2000/01/rdf-schema#label> "historiographie arménienne"@fr .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://uk.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%B2_%D0%A1%D0%B5%D1%80%D0%B3%D1%96%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D1%96%D0%B9%D0%BE%D0%B2%D0%B8%D1%87"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/The_Taming_Of_The_Shrew_Q42196260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Writing_Philosophy_Papers> <http://schema.org/dateCreated> "2024-08-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://schema.org/CreativeWork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://yago-knowledge.org/resource/Action_Research> <http://schema.org/dateCreated> "2020-10-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Before_Dawn> <http://www.w3.org/2000/01/rdf-schema#label> "Before Dawn"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergueï Aksakov"@fr .
+<http://yago-knowledge.org/resource/The_Human_Side_Of_Enterprise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Admirals_All_Q59467373> <http://www.w3.org/2000/01/rdf-schema#label> "Admirals All"@en .
+<http://yago-knowledge.org/resource/Zone_Q132199553> <http://schema.org/author> <http://yago-knowledge.org/resource/Andy_Campbell_Q126373215> .
+<http://yago-knowledge.org/resource/Cato_Christianus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Separation_Séparation> <http://schema.org/inLanguage> <http://yago-knowledge.org/resource/French_language_generic_instance> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Serguei Aksákov"@es .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://cs.wikipedia.org/wiki/Sergej_Timofejevi%C4%8D_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Gweledigaetheu_Y_Bardd_Cwsc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/url> "http://dx.doi.org/10.7554/elife.63294.sa2"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Composition_For_Synthesizer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/The_Rats_Q42194815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Restitution_Of_Nazi-Looted_Art_generic_instance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Restitution_Of_Nazi-Looted_Art> .
+<http://yago-knowledge.org/resource/Armenian_Historiography> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست تاریخ‌نگاران ارمنی"@fa .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://fi.wikipedia.org/wiki/Sergei_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/De_Wandelaar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Water-Color_Painting_25_Kilometres_From_Omsk> <http://schema.org/inLanguage> <http://yago-knowledge.org/resource/Latvian_language_generic_instance> .
+<http://yago-knowledge.org/resource/Annie_Abrahams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Electronic_Literature_Writer> .
+<http://yago-knowledge.org/resource/Before_Dawn> <http://schema.org/location> <http://yago-knowledge.org/resource/Hkbu_Heritage> .
+<http://yago-knowledge.org/resource/Pictures_Of_The_Socialistic_Future> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Action_Research> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Al-Ijabah_Lima_Istadrakathu_Aisyah_Ala_Ash-Shahabah> <http://schema.org/author> <http://yago-knowledge.org/resource/Al-Zarkashi> .
+<http://yago-knowledge.org/resource/Ölü_Şovenizm_Ve_Yaşayan_Sosyalizm> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Janko_Samardzic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Adjunct_Publication_Of_The_26Th_Conference_On_User_Modeling_Adaptation_And_Personalization> <http://www.w3.org/2000/01/rdf-schema#label> "Adjunct Publication of the 26th Conference on User Modeling, Adaptation and Personalization"@en .
+<http://yago-knowledge.org/resource/Pictures_Of_The_Socialistic_Future> <http://schema.org/alternateName> "Zukunftsbilder aus der Vergangenheit"@de .
+<http://yago-knowledge.org/resource/Teoría_Del_Marco_Relacional_Un_Enfoque_Postskinneriano_De_La_Cognición_Y_El_Lenguaje_Humanos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Laurence_Howe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Vertebrate_Palaeontology_Of_Australasia> <http://schema.org/dateCreated> "1991"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergio Aksakov"@eo .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://www.w3.org/2000/01/rdf-schema#label> "Joan Pujadas i Marquès"@pt-br .
+<http://yago-knowledge.org/resource/Armenian_Historiography> <http://schema.org/alternateName> "Istoriografia armenească"@ro .
+<http://yago-knowledge.org/resource/Asesinos_Y_Asesinados> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Remains> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42194992> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://es.wikisource.org/wiki/Autor:Sergu%C3%A9i_Aks%C3%A1kov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Separation_Séparation> <http://www.w3.org/2000/01/rdf-schema#label> "Separation / Séparation"@en .
+<http://yago-knowledge.org/resource/Craig_Conzelmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Armenian_Historiography> <http://schema.org/url> "https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%B5_%D5%BA%D5%A1%D5%BF%D5%B4%D5%AB%D5%B9%D5%B6%D5%A5%D6%80"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/God_In_The_Country> <http://schema.org/url> "https://heritage.lib.hkbu.edu.hk/routes/view/ids/HER-011323/languages/zh"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Joint_Ecosystem_Modeling_Jem_Ecological_Model_Documentation_Volume_1_Estuarine_Prey_Fish_Biomass_Availability_V1_0_0> <http://schema.org/author> <http://yago-knowledge.org/resource/Stephanie_S_Romañach> .
+<http://yago-knowledge.org/resource/Pontos_Uma_Recombinação_Textual_Intermedial_E_Transpoética> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Pontos_Uma_Recombinação_Textual_Intermedial_E_Transpoética> <http://www.w3.org/2000/01/rdf-schema#comment> "a scholarly work by Carolina Martins, Diogo Marques"@en .
+<http://yago-knowledge.org/resource/Grasping_At_Bits_Art_And_Intellectualcontrol_In_The_Digital_Age> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130385860> .
+<http://yago-knowledge.org/resource/Sabine_M_Hölter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergei Timofejewitsch Aksakow"@de .
+<http://yago-knowledge.org/resource/Ulrich_Dirnagl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Neurologist> .
+<http://yago-knowledge.org/resource/Deutsches_Wirtschaftsleben_Im_Mittelalter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/A_Thoroughfare_Beat_Across_The_Wilderness> <http://schema.org/inLanguage> <http://yago-knowledge.org/resource/English_language_generic_instance> .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q136803727> .
+<http://yago-knowledge.org/resource/Al-Ijabah_Lima_Istadrakathu_Aisyah_Ala_Ash-Shahabah> <http://www.w3.org/2000/01/rdf-schema#label> "аль-Иджаба"@ru .
+<http://yago-knowledge.org/resource/Action_Research> <http://schema.org/author> <http://yago-knowledge.org/resource/David_Marks_psychologist> .
+<http://yago-knowledge.org/resource/Pry> <http://www.w3.org/2000/01/rdf-schema#comment> "a scholarly work by Daniel Cannizzaro, Samantha Gorman"@en .
+<http://yago-knowledge.org/resource/Seven-Branched_Candelabrum_Nykarleby> <http://www.w3.org/2000/01/rdf-schema#comment> "metal artwork"@en .
+<http://yago-knowledge.org/resource/Cottage_Residences> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42188272> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "סרגי טימופייביץ' אקסקוב"@he .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "सर्गेइ अक्साकोव्ह"@mr .
+<http://yago-knowledge.org/resource/German_language_generic_instance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/German_language> .
+<http://yago-knowledge.org/resource/An_Australian_Parsonage> <http://www.w3.org/2000/01/rdf-schema#label> "An Australian Parsonage"@en .
+<http://yago-knowledge.org/resource/China_City> <http://schema.org/url> "https://heritage.lib.hkbu.edu.hk/routes/view/ids/HER-010099/languages/en"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/An_Australian_Parsonage> <http://www.w3.org/2000/01/rdf-schema#comment> "libër"@sq .
+<http://yago-knowledge.org/resource/The_Place_With_No_Vessel> <http://schema.org/url> "https://heritage.lib.hkbu.edu.hk/routes/view/ids/HER-010538/languages/en"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Admirals_All_Q59467373> <http://www.w3.org/2000/01/rdf-schema#comment> "work by Newbolt"@en .
+<http://yago-knowledge.org/resource/Al-Zarkashi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Faqīh> .
+<http://yago-knowledge.org/resource/Author_Response_Taller_Height_And_Risk_Of_Coronary_Heart_Disease_And_Cancer_A_Within-Sibship_Mendelian_Randomization_Study> <http://schema.org/dateCreated> "2022-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Communality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergei Timofeevich Aksakov"@gl .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Anton_Bespalov_Q46892070> .
+<http://yago-knowledge.org/resource/The_Neuro-Psychosis_Of_Defence> <http://www.w3.org/2000/01/rdf-schema#label> "The Neuro-Psychosis of Defence"@en .
+<http://yago-knowledge.org/resource/Martinus_Nijhoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Resistance_Fighter> .
+<http://yago-knowledge.org/resource/Germany_Agrees_To_Return_Nazi-Looted_Painting> <http://schema.org/dateCreated> "2007-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Vertebrate_Palaeontology_Of_Australasia> <http://www.w3.org/2000/01/rdf-schema#label> "Vertebrate palaeontology of Australasia"@mul .
+<http://yago-knowledge.org/resource/Germany_Agrees_To_Return_Nazi-Looted_Painting> <http://www.w3.org/2000/01/rdf-schema#label> "Germany Agrees to Return Nazi-Looted Painting"@en .
+<http://yago-knowledge.org/resource/Departmental_Ditties> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Ulrich_Dirnagl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/University_Teacher> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Аксаков С."@ru .
+<http://yago-knowledge.org/resource/Eugen_Richter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Legal_Counselor> .
+<http://yago-knowledge.org/resource/China_City> <http://www.w3.org/2000/01/rdf-schema#comment> "為了迎接２０１０年亞運會這件盛事，廣東省政府決定將廣州市內大部分的歷史建築物在一日內拆除。我再次回到廣州，尋找童年時與爺爺同住的大屋，眼見廣州的急促變遷，四周標誌「拆」的建築物觸目皆是，兒時舊居也不能幸免！城市化的巨輪急劇向前，人們卻忽視歷史建築物的保護，令人不勝唏噓。"@zh-hant .
+<http://yago-knowledge.org/resource/China_City> <http://schema.org/location> <http://yago-knowledge.org/resource/Hong_Kong> .
+<http://yago-knowledge.org/resource/Straccioni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://en.wikisource.org/wiki/Author:Sergey_Timofeyevich_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Pictures_Of_The_Socialistic_Future> <http://www.w3.org/2000/01/rdf-schema#label> "Sozialdemokratische Zukunftsbilder"@de .
+<http://yago-knowledge.org/resource/Think_Wider_View_Broader> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/Hkbu_Heritage> .
+<http://yago-knowledge.org/resource/Rudyard_Kipling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Novelist> .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://www.w3.org/2000/01/rdf-schema#label> "Joan Pujadas i Marquès"@ca .
+<http://yago-knowledge.org/resource/God_In_The_Country> <http://www.w3.org/2000/01/rdf-schema#comment> "creative work; part of HKBU Heritage (ID = HER-011323)"@en .
+<http://yago-knowledge.org/resource/The_Fundamental_Principles_Of_Old_And_New_World_Civilizations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/The_Place_With_No_Vessel> <http://www.w3.org/2000/01/rdf-schema#label> "The Place with No Vessel"@en .
+<http://yago-knowledge.org/resource/Climate_Change_And_Food_Security> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Lescha_Da_Linguas_Chantunala> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Paul_Westheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Art_Collector> .
+<http://yago-knowledge.org/resource/Views_Afoot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Solent_Papers_4_Hilsea_Lines_And_Portsbridge> <http://schema.org/about> <http://yago-knowledge.org/resource/Hilsea_Lines> .
+<http://yago-knowledge.org/resource/Moallakat> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42193050> .
+<http://yago-knowledge.org/resource/Natasja_De_Bruin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/De_Wandelaar> <http://schema.org/author> <http://yago-knowledge.org/resource/Martinus_Nijhoff> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "С.Т. Аксаков"@ru .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://www.w3.org/2000/01/rdf-schema#label> "Joan Pujadas i Marquès"@it .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://sr.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D1%98_%D0%90%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%B2"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/A_Treatise_On_The_Diagnosis_And_Treatment_Of_Diseases_Of_The_Chest> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42196802> .
+<http://yago-knowledge.org/resource/Regula_Primitiva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Communality> <http://schema.org/author> <http://yago-knowledge.org/resource/David_Marks_psychologist> .
+<http://yago-knowledge.org/resource/Wild_Garden> <http://www.w3.org/2000/01/rdf-schema#label> "Wild Garden"@en .
+<http://yago-knowledge.org/resource/Before_Dawn> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q106996160> .
+<http://yago-knowledge.org/resource/Der_Kunstkritiker_Paul_Westheim_Im_Prozess_Der_Akkulturation_Während_Der_Französischen_Und_Mexikanischen_Emigration_1933-1963_Dieses_Ist_Ein_Land_In_Dem_Ein_Kunstmensch_Leben_Kann> <http://schema.org/alternateName> "Der Kunstkritiker Paul Westheim im Prozess der Akkulturation"@en .
+<http://yago-knowledge.org/resource/Germany_Agrees_To_Return_Nazi-Looted_Painting> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q76440435> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Serguéï Aksakov"@it .
+<http://yago-knowledge.org/resource/The_Place_With_No_Vessel> <http://schema.org/location> <http://yago-knowledge.org/resource/Hong_Kong> .
+<http://yago-knowledge.org/resource/The_Sea_Q117156769> <http://www.w3.org/2000/01/rdf-schema#label> "The Sea"@en .
+<http://yago-knowledge.org/resource/De_Wandelaar> <http://schema.org/dateCreated> "1916"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/The_Central_Questions_Of_Philosophy> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42187762> .
+<http://yago-knowledge.org/resource/Byzantine_History_Q42187598> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Martien_J_Kas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "セルゲイ・アクサーコフ"@ja .
+<http://yago-knowledge.org/resource/Humaira_Rasheed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergej Timofejevitj Aksakov"@sv .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergei Aksakov"@et .
+<http://yago-knowledge.org/resource/China_City> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q106995357> .
+<http://yago-knowledge.org/resource/An_Essay_In_Aid_Of_A_Grammar_Of_Assent> <http://www.w3.org/2000/01/rdf-schema#label> "An Essay in Aid of a Grammar of Assent"@en .
+<http://yago-knowledge.org/resource/Seven-Branched_Candelabrum_Nykarleby> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Nykarleby%20kyrkinterior.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Vootele_Voikar> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergey Aksakov"@ml .
+<http://yago-knowledge.org/resource/Pictures_Of_The_Socialistic_Future> <http://schema.org/author> <http://yago-knowledge.org/resource/Eugen_Richter> .
+<http://yago-knowledge.org/resource/Annie_Abrahams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Multimedia_Artist> .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Janko_Samardzic> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergéi Aksakov"@es .
+<http://yago-knowledge.org/resource/Germany_Agrees_To_Return_Nazi-Looted_Painting> <http://schema.org/alternateName> "Due Justice:Germany Agrees to Return Nazi-Looted Painting"@en .
+<http://yago-knowledge.org/resource/Separation_Séparation> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132197797> .
+<http://yago-knowledge.org/resource/Author_Response_Taller_Height_And_Risk_Of_Coronary_Heart_Disease_And_Cancer_A_Within-Sibship_Mendelian_Randomization_Study> <http://schema.org/author> <http://yago-knowledge.org/resource/Laurence_Howe> .
+<http://yago-knowledge.org/resource/Think_Wider_View_Broader> <http://www.w3.org/2000/01/rdf-schema#comment> "夜闌人靜，四輛跑車及重型貨車奔馳在馬路上。紅色跑車在起跑時表現得有點猶豫，好像志不在比賽。途中他遇見停泊在路旁的粉紅色跑車，停下來欲與她搭訕。"@zh-hant .
+<http://yago-knowledge.org/resource/Stephanie_S_Romañach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergueï Aksàkov"@ca .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Serguei Timofèievitx Aksàkov"@ca .
+<http://yago-knowledge.org/resource/Lescha_Da_Linguas_Chantunala> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q14566896> .
+<http://yago-knowledge.org/resource/Montes_The_Matador_And_Other_Stories> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42193099> .
+<http://yago-knowledge.org/resource/The_Central_Questions_Of_Philosophy> <http://www.w3.org/2000/01/rdf-schema#label> "The Central Questions of Philosophy"@en .
+<http://yago-knowledge.org/resource/China_City> <http://www.w3.org/2000/01/rdf-schema#comment> "creative work; part of HKBU Heritage (ID = HER-010099)"@en .
+<http://yago-knowledge.org/resource/Last_Instructions_To_A_Painter> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42192073> .
+<http://yago-knowledge.org/resource/Joint_Ecosystem_Modeling_Jem_Ecological_Model_Documentation_Volume_1_Estuarine_Prey_Fish_Biomass_Availability_V1_0_0> <http://schema.org/dateCreated> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Solent_Papers_4_Hilsea_Lines_And_Portsbridge> <http://www.w3.org/2000/01/rdf-schema#comment> "booklet on the fortifications of Portsmouth"@en .
+<http://yago-knowledge.org/resource/Etoy_Com> <http://schema.org/author> <http://yago-knowledge.org/resource/Etoy> .
+<http://yago-knowledge.org/resource/Everest_Pipkin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Game_designer> .
+<http://yago-knowledge.org/resource/Think_Wider_View_Broader> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q106995735> .
+<http://yago-knowledge.org/resource/Remains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://pa.wikipedia.org/wiki/%E0%A8%B8%E0%A8%B0%E0%A8%97%E0%A9%87%E0%A8%88_%E0%A8%85%E0%A8%95%E0%A8%B8%E0%A8%BE%E0%A8%95%E0%A9%8B%E0%A8%B5"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Snaeljos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Der_Kunstkritiker_Paul_Westheim_Im_Prozess_Der_Akkulturation_Während_Der_Französischen_Und_Mexikanischen_Emigration_1933-1963_Dieses_Ist_Ein_Land_In_Dem_Ein_Kunstmensch_Leben_Kann> <http://www.w3.org/2000/01/rdf-schema#label> "Der Kunstkritiker Paul Westheim im Prozess der Akkulturation während der französischen und mexikanischen Emigration 1933-1963 : 'Dieses ist ein Land, in dem ein Kunstmensch leben kann.'"@en .
+<http://yago-knowledge.org/resource/My_Lai_4> <http://www.w3.org/2000/01/rdf-schema#label> "My Lai 4"@en .
+<http://yago-knowledge.org/resource/China_City> <http://www.w3.org/2000/01/rdf-schema#label> "China City"@en .
+<http://yago-knowledge.org/resource/Hong_Kong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Special_administrative_regions_of_China> .
+<http://yago-knowledge.org/resource/Al-Ijabah_Lima_Istadrakathu_Aisyah_Ala_Ash-Shahabah> <http://www.w3.org/2000/01/rdf-schema#comment> "Bedreddin ez-Zerkeşi'nin (ö. 1392) eseri"@tr .
+<http://yago-knowledge.org/resource/Pontos_Uma_Recombinação_Textual_Intermedial_E_Transpoética> <http://schema.org/author> <http://yago-knowledge.org/resource/Carolina_Martins> .
+<http://yago-knowledge.org/resource/Zone_Q132199553> <http://schema.org/inLanguage> <http://yago-knowledge.org/resource/English_language_generic_instance> .
+<http://yago-knowledge.org/resource/Review_Of_A_Congolese_Mining_Giant_S_Corporate_Social_Responsibility_Stuck_Between_False_Pretense_And_Bricolage_Going_Beyond_A_Logic_Of_Do_No_Harm_To_Materialize_Sustainable_Development_Still_At_Issue> <http://schema.org/dateCreated> "2024-12-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/David_Jhave_Johnston> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Multimedia_Artist> .
+<http://yago-knowledge.org/resource/Snaeljos> <http://www.w3.org/2000/01/rdf-schema#label> "Snaeljos"@en .
+<http://yago-knowledge.org/resource/Vertebrate_Palaeontology_Of_Australasia> <http://www.w3.org/2000/01/rdf-schema#label> "Vertebrate palaeontology of Australasia"@en .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Joan_Pujadas_i_Marqu%C3%A8s"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Benjamín_Escalonilla_Godayol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Merel_Ritskes-Hoitinga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://lmo.wikipedia.org/wiki/Sergej_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Grasping_At_Bits_Art_And_Intellectualcontrol_In_The_Digital_Age> <http://www.w3.org/2000/01/rdf-schema#label> "Grasping at Bits: Art and IntellectualControl in the Digital Age:"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Аксаков Сергей Тимофеевич"@ba .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergueï Timofeevitch Aksakov"@fr .
+<http://yago-knowledge.org/resource/Viru2> <http://www.w3.org/2000/01/rdf-schema#label> "VIRU2"@en .
+<http://yago-knowledge.org/resource/Zone_Q132199553> <http://www.w3.org/2000/01/rdf-schema#label> "Zone"@en .
+<http://yago-knowledge.org/resource/Regula_Primitiva> <http://www.w3.org/2000/01/rdf-schema#label> "Regula primitiva"@en .
+<http://yago-knowledge.org/resource/On_Perspective_In_Painting> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42188591> .
+<http://yago-knowledge.org/resource/Adjunct_Publication_Of_The_26Th_Conference_On_User_Modeling_Adaptation_And_Personalization> <http://schema.org/url> "http://dx.doi.org/10.1145/3213586"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergej Aksakov"@sv .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://sl.wikipedia.org/wiki/Sergej_Timofejevi%C4%8D_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Annie_Abrahams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Performance_artist> .
+<http://yago-knowledge.org/resource/Patricia_Kabitzke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://en.wikipedia.org/wiki/Sergey_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Pictures_Of_The_Socialistic_Future> <http://www.w3.org/2000/01/rdf-schema#comment> "literair werk"@nl .
+<http://yago-knowledge.org/resource/Etoy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Artist_collective> .
+<http://yago-knowledge.org/resource/L_Homme_Enchaine> <http://www.w3.org/2000/01/rdf-schema#label> "L'Homme enchaine"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "русский писатель, литературный и театральный критик"@ru .
+<http://yago-knowledge.org/resource/Zone_Q132199553> <http://schema.org/dateCreated> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "scrittore russo"@it .
+<http://yago-knowledge.org/resource/Grasping_At_Bits_Art_And_Intellectualcontrol_In_The_Digital_Age> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Eugen_Richter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Member_Of_The_Reichstag_Of_The_German_Empire> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B5%86%E0%B5%BC%E0%B4%9C%E0%B4%BF_%E0%B4%9F%E0%B4%BF%E0%B4%AE%E0%B5%8B%E0%B4%AB%E0%B5%86%E0%B4%AF%E0%B5%87%E0%B4%B5%E0%B4%BF%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B5%8D_%E0%B4%85%E0%B4%95%E0%B5%8D%E0%B4%B8%E0%B4%95%E0%B5%8B%E0%B4%AB%E0%B5%8D"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Joint_Ecosystem_Modeling_Jem_Ecological_Model_Documentation_Volume_1_Estuarine_Prey_Fish_Biomass_Availability_V1_0_0> <http://schema.org/author> <http://yago-knowledge.org/resource/Craig_Conzelmann> .
+<http://yago-knowledge.org/resource/L_Espagne_En_Auto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Communality> <http://www.w3.org/2000/01/rdf-schema#label> "Communality"@mul .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Alexander_Dityatev> .
+<http://yago-knowledge.org/resource/The_Place_With_No_Vessel> <http://www.w3.org/2000/01/rdf-schema#comment> "creative work; part of HKBU Heritage (ID = HER-010538)"@en .
+<http://yago-knowledge.org/resource/Writing_Philosophy_Papers> <http://www.w3.org/2000/01/rdf-schema#label> "Writing Philosophy Papers"@mul .
+<http://yago-knowledge.org/resource/Barbarian_In_The_Garden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Justitia_Spitzweg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Painting_object> .
+<http://yago-knowledge.org/resource/Rudyard_Kipling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Autobiographer> .
+<http://yago-knowledge.org/resource/Viru2> <http://schema.org/inLanguage> <http://yago-knowledge.org/resource/English_language_generic_instance> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://mr.wikipedia.org/wiki/%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A5%87%E0%A4%87_%E0%A4%85%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%BE%E0%A4%95%E0%A5%8B%E0%A4%B5%E0%A5%8D%E0%A4%B9"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://www.w3.org/2000/01/rdf-schema#label> "Joan Pujadas i Marques"@sq .
+<http://yago-knowledge.org/resource/Before_Dawn> <http://www.w3.org/2000/01/rdf-schema#label> "破曉前"@zh-hant .
+<http://yago-knowledge.org/resource/Pontos_Uma_Recombinação_Textual_Intermedial_E_Transpoética> <http://schema.org/dateCreated> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Al-Ijabah_Lima_Istadrakathu_Aisyah_Ala_Ash-Shahabah> <http://schema.org/inLanguage> <http://yago-knowledge.org/resource/Arabic_generic_instance> .
+<http://yago-knowledge.org/resource/President_Roosevelt_And_The_Coming_Of_War_1941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Byzantine_History_Q42187598> <http://www.w3.org/2000/01/rdf-schema#label> "Byzantine History"@fr .
+<http://yago-knowledge.org/resource/The_Place_With_No_Vessel> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q106996166> .
+<http://yago-knowledge.org/resource/Justitia_Spitzweg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Allegory_Q2839016> .
+<http://yago-knowledge.org/resource/De_Wandelaar> <http://www.w3.org/2000/01/rdf-schema#label> "De wandelaar"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "shkrimtar rus"@sq .
+<http://yago-knowledge.org/resource/Teoría_Del_Marco_Relacional_Un_Enfoque_Postskinneriano_De_La_Cognición_Y_El_Lenguaje_Humanos> <http://schema.org/author> <http://yago-knowledge.org/resource/Dermot_Barnes-Holmes> .
+<http://yago-knowledge.org/resource/Joint_Ecosystem_Modeling_Jem_Ecological_Model_Documentation_Volume_1_Estuarine_Prey_Fish_Biomass_Availability_V1_0_0> <http://schema.org/author> <http://yago-knowledge.org/resource/Christina_Hunnicutt> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergey Aksakov"@tr .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergius Aksakov"@la .
+<http://yago-knowledge.org/resource/Vertebrate_Palaeontology_Of_Australasia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Martinus_Nijhoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Literary_Critic> .
+<http://yago-knowledge.org/resource/Steven_C_Hayes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Psychologist> .
+<http://yago-knowledge.org/resource/God_In_The_Country> <http://schema.org/url> "https://heritage.lib.hkbu.edu.hk/routes/view/ids/HER-011323/languages/en"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "세르게이 악사코프"@ko .
+<http://yago-knowledge.org/resource/Pictures_Of_The_Socialistic_Future> <http://schema.org/alternateName> "Sozialdemokratische Zukunftsbilder: frei nach Bebel"@de .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "রুশ লেখক"@bn .
+<http://yago-knowledge.org/resource/Macao_5> <http://schema.org/url> "https://bcc.lib.hkbu.edu.hk/artcollection/derwent-dc2-28/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Seven-Branched_Candelabrum_Nykarleby> <http://schema.org/location> <http://yago-knowledge.org/resource/St_Birgitta_s_Church> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Аксаков С. Т."@ru .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "escritor ruso"@gl .
+<http://yago-knowledge.org/resource/Deutsches_Wirtschaftsleben_Im_Mittelalter> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42188810> .
+<http://yago-knowledge.org/resource/Germany_Agrees_To_Return_Nazi-Looted_Painting> <http://schema.org/about> <http://yago-knowledge.org/resource/Leo_Bendel> .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q93431775> .
+<http://yago-knowledge.org/resource/China_City> <http://www.w3.org/2000/01/rdf-schema#label> "拆那 City"@zh-hant .
+<http://yago-knowledge.org/resource/God_In_The_Country> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q106997310> .
+<http://yago-knowledge.org/resource/Strata_Identified_By_Organized_Fossils> <http://www.w3.org/2000/01/rdf-schema#label> "Strata Identified by Organized Fossils"@en .
+<http://yago-knowledge.org/resource/Teoría_Del_Marco_Relacional_Un_Enfoque_Postskinneriano_De_La_Cognición_Y_El_Lenguaje_Humanos> <http://schema.org/author> <http://yago-knowledge.org/resource/Steven_C_Hayes> .
+<http://yago-knowledge.org/resource/Prahlada-Charitra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Сергій Аксаков"@uk .
+<http://yago-knowledge.org/resource/The_Place_With_No_Vessel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Raafat_Fares> .
+<http://yago-knowledge.org/resource/David_Jhave_Johnston> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Television_producer> .
+<http://yago-knowledge.org/resource/L_Homme_Enchaine> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42191164> .
+<http://yago-knowledge.org/resource/The_Sea_Q117156769> <http://www.w3.org/2000/01/rdf-schema#comment> "poem/song by Barry Cornwall"@en .
+<http://yago-knowledge.org/resource/Climate_Change_And_Food_Security> <http://schema.org/url> "http://dx.doi.org/10.4324/9781315469737"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/My_Lai_4> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42193234> .
+<http://yago-knowledge.org/resource/Deutsches_Wirtschaftsleben_Im_Mittelalter> <http://www.w3.org/2000/01/rdf-schema#label> "Deutsches Wirtschaftsleben im Mittelalter"@en .
+<http://yago-knowledge.org/resource/The_Making_Of_The_President_1964> <http://www.w3.org/2000/01/rdf-schema#label> "The Making of the President, 1964"@en .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Björn_Gerlach> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergei Aksakov"@fi .
+<http://yago-knowledge.org/resource/An_Australian_Parsonage> <http://www.w3.org/2000/01/rdf-schema#comment> "বই"@bn .
+<http://yago-knowledge.org/resource/De_Wandelaar> <http://www.w3.org/2000/01/rdf-schema#comment> "work by Nijhoff"@en .
+<http://yago-knowledge.org/resource/Pictures_Of_The_Socialistic_Future> <http://www.w3.org/2000/01/rdf-schema#label> "Pictures of the Socialistic Future"@en .
+<http://yago-knowledge.org/resource/De_Wandelaar> <http://schema.org/alternateName> "The Wanderer"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%B2,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "Russian writer"@en-gb .
+<http://yago-knowledge.org/resource/The_Fundamental_Principles_Of_Old_And_New_World_Civilizations> <http://www.w3.org/2000/01/rdf-schema#label> "The Fundamental Principles of Old and New World Civilizations"@en .
+<http://yago-knowledge.org/resource/Separation_Séparation> <http://schema.org/inLanguage> <http://yago-knowledge.org/resource/English_language_generic_instance> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Serguéï Aksakov"@fr .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "С. Т. Аксаков"@ru .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Սերգեյ Տիմոֆեեիչ Ակսակով"@hy .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "谢尔盖·阿克萨科夫"@zh .
+<http://yago-knowledge.org/resource/God_In_The_Country> <http://schema.org/location> <http://yago-knowledge.org/resource/Hkbu_Heritage> .
+<http://yago-knowledge.org/resource/Ver_Binnen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Björn_Gerlach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Departmental_Ditties> <http://www.w3.org/2000/01/rdf-schema#comment> "work by Kipling"@en .
+<http://yago-knowledge.org/resource/Think_Wider_View_Broader> <http://www.w3.org/2000/01/rdf-schema#label> "Think Wider, View Broader"@en .
+<http://yago-knowledge.org/resource/China_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Tiga_Q106995696> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Climate_Change_And_Food_Security> <http://www.w3.org/2000/01/rdf-schema#label> "Climate Change and Food Security"@en .
+<http://yago-knowledge.org/resource/David_Marks_psychologist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/University_Teacher> .
+<http://yago-knowledge.org/resource/Pictures_Of_The_Socialistic_Future> <http://schema.org/sameAs> "/g/122z25hb" .
+<http://yago-knowledge.org/resource/Composition_For_Synthesizer> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42188113> .
+<http://yago-knowledge.org/resource/Before_Dawn> <http://schema.org/location> <http://yago-knowledge.org/resource/Hong_Kong> .
+<http://yago-knowledge.org/resource/French_language_generic_instance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/French_language> .
+<http://yago-knowledge.org/resource/Water-Color_Painting_25_Kilometres_From_Omsk> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q93763797> .
+<http://yago-knowledge.org/resource/Macao_5> <http://www.w3.org/2000/01/rdf-schema#label> "Macao. 5"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://fr.wikisource.org/wiki/Auteur:Sergue%C3%AF_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://www.w3.org/2000/01/rdf-schema#label> "Joan Pujadas i Marquès"@en .
+<http://yago-knowledge.org/resource/Ver_Binnen> <http://www.w3.org/2000/01/rdf-schema#label> "Ver Binnen"@en .
+<http://yago-knowledge.org/resource/Moallakat> <http://www.w3.org/2000/01/rdf-schema#label> "Moallakat"@en .
+<http://yago-knowledge.org/resource/Technology_And_Isolation> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q126284400> .
+<http://yago-knowledge.org/resource/Zone_Q132199553> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132199553> .
+<http://yago-knowledge.org/resource/Teoría_Del_Marco_Relacional_Un_Enfoque_Postskinneriano_De_La_Cognición_Y_El_Lenguaje_Humanos> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q135864307> .
+<http://yago-knowledge.org/resource/You_Can_T_Print_That> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Teoría_Del_Marco_Relacional_Un_Enfoque_Postskinneriano_De_La_Cognición_Y_El_Lenguaje_Humanos> <http://www.w3.org/2000/01/rdf-schema#label> "Teoría del marco relacional: Un enfoque postskinneriano de la cognición y el lenguaje humanos"@en .
+<http://yago-knowledge.org/resource/Communality> <http://www.w3.org/2000/01/rdf-schema#label> "Communality"@en .
+<http://yago-knowledge.org/resource/Author_Response_Taller_Height_And_Risk_Of_Coronary_Heart_Disease_And_Cancer_A_Within-Sibship_Mendelian_Randomization_Study> <http://schema.org/author> <http://yago-knowledge.org/resource/Humaira_Rasheed> .
+<http://yago-knowledge.org/resource/Hong_Kong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Metropolis> .
+<http://yago-knowledge.org/resource/René_Bernard_Q57055511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Tiga_Q106995696> <http://www.w3.org/2000/01/rdf-schema#comment> "狄嘉駿自小的志願是成為「超人」，替天行道、儆惡懲奸，朋輩稱他為「迪加」。從前希望成為超人的，不只迪加一個，但其他人經歷錯敗後，從此意志消沈，再沒有勇氣面對「怪獸」！「怪獸」放之於現實，就是那些不公平、不公義的事情，凡人對「怪獸」敬而遠之，迪加卻挺身而出，周旋到底，永不言敗。"@zh-hant .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://he.wikipedia.org/wiki/%D7%A1%D7%A8%D7%92%D7%99%D7%99_%D7%90%D7%A7%D7%A1%D7%A7%D7%95%D7%91"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Fabergé_Fire_Screen_Picture_Frame> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Departmental_Ditties> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q77498515> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://uk.wikisource.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%A1%D0%B5%D1%80%D0%B3%D1%96%D0%B9_%D0%90%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%B2"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Proceedings_Of_The_Second_Conference_On_Machine_Translation> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q135092159> .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Malcolm_Macleod> .
+<http://yago-knowledge.org/resource/Technology_And_Isolation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Marilyn_Monroe_And_Other_Poems> <http://www.w3.org/2000/01/rdf-schema#label> "Marilyn Monroe, and Other Poems"@en .
+<http://yago-knowledge.org/resource/Annie_Abrahams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Painter> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergey Timofeyevich Aksakov"@en .
+<http://yago-knowledge.org/resource/Seven-Branched_Candelabrum_Nykarleby> <http://schema.org/material> <http://yago-knowledge.org/resource/Brass_generic_instance> .
+<http://yago-knowledge.org/resource/Rudyard_Kipling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Screenwriter> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Serguei Aksàkov"@ca .
+<http://yago-knowledge.org/resource/An_Australian_Parsonage> <http://www.w3.org/2000/01/rdf-schema#comment> "книга"@uk .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Martine_C_J_Hofmann> .
+<http://yago-knowledge.org/resource/Synagoge_Pason_Lexeon_Kata_Stoicheion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Paul_Westheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Writer> .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Claudia_Stoeger> .
+<http://yago-knowledge.org/resource/Departmental_Ditties> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/Barrack-Room_Ballads> .
+<http://yago-knowledge.org/resource/Review_Of_A_Congolese_Mining_Giant_S_Corporate_Social_Responsibility_Stuck_Between_False_Pretense_And_Bricolage_Going_Beyond_A_Logic_Of_Do_No_Harm_To_Materialize_Sustainable_Development_Still_At_Issue> <http://www.w3.org/2000/01/rdf-schema#label> "Review of: 'A Congolese Mining Giant's Corporate Social Responsibility Stuck Between False Pretense and Bricolage: Going Beyond a Logic of Do No Harm to Materialize Sustainable Development Still at Issue'"@mul .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Сергеј Аксаков"@sr .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Christoph_H_Emmerich> .
+<http://yago-knowledge.org/resource/Man_With_A_Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergey Aksakov"@ga .
+<http://yago-knowledge.org/resource/Armenian_Historiography> <http://www.w3.org/2000/01/rdf-schema#label> "Istoriografia Armeniei"@ro .
+<http://yago-knowledge.org/resource/Teoría_Del_Marco_Relacional_Un_Enfoque_Postskinneriano_De_La_Cognición_Y_El_Lenguaje_Humanos> <http://www.w3.org/2000/01/rdf-schema#label> "Teoría del marco relacional: Un enfoque postskinneriano de la cognición y el lenguaje humanos"@mul .
+<http://yago-knowledge.org/resource/The_Sea_Q117156769> <http://schema.org/url> "https://en.wikisource.org/wiki/The_Sea_(Cornwall)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergei Aksakov"@gl .
+<http://yago-knowledge.org/resource/Clive_Lawson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Researcher> .
+<http://yago-knowledge.org/resource/Elements_Of_Rhetoric> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42189347> .
+<http://yago-knowledge.org/resource/A_Treatise_On_The_Diagnosis_And_Treatment_Of_Diseases_Of_The_Chest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Straccioni> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42195989> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Սերգեյ Ակսակով"@hy .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergei Timofejewitsch Axakow"@it .
+<http://yago-knowledge.org/resource/Water-Color_Painting_25_Kilometres_From_Omsk> <http://www.w3.org/2000/01/rdf-schema#label> "Water-color painting '25 kilometres from Omsk'"@en .
+<http://yago-knowledge.org/resource/The_Place_With_No_Vessel> <http://schema.org/url> "https://heritage.lib.hkbu.edu.hk/routes/view/ids/HER-010538/languages/zh"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "كاتب روسي"@ar .
+<http://yago-knowledge.org/resource/Seven-Branched_Candelabrum_Nykarleby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Hong_Kong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Global_city> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergej Aksakov"@lmo .
+<http://yago-knowledge.org/resource/Patrick_Lichty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Educator> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergey Aksakov"@en .
+<http://yago-knowledge.org/resource/Paul_Westheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Opinion_writer> .
+<http://yago-knowledge.org/resource/The_Story_Of_Elsa> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42195980> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%82%B2%E3%82%A4%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%B5%E3%83%BC%E3%82%B3%E3%83%95"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Andrew_Kania_Q58146386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/University_Teacher> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/sameAs> "nm0015552" .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://www.w3.org/2000/01/rdf-schema#label> "Joan Pujadas i Marquès"@es .
+<http://yago-knowledge.org/resource/St_Birgitta_s_Church> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Church_building> .
+<http://yago-knowledge.org/resource/Figures_Of_Capable_Imagination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://ru.wikisource.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%B2"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/The_History_Of_The_Prussian_Academy_Of_Sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Author_Response_Taller_Height_And_Risk_Of_Coronary_Heart_Disease_And_Cancer_A_Within-Sibship_Mendelian_Randomization_Study> <http://www.w3.org/2000/01/rdf-schema#label> "Author response: Taller height and risk of coronary heart disease and cancer: A within-sibship Mendelian randomization study"@en .
+<http://yago-knowledge.org/resource/China_Opium-Smokers> <http://schema.org/url> "https://bcc.lib.hkbu.edu.hk/artcollection/derwent-dc6-06/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/The_Sea_Q117156769> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Armenian_Historiography> <http://schema.org/url> "https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1%D8%A7%D9%86_%D8%A7%D8%B1%D9%85%D9%86%DB%8C"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Etoy_Com> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Seven-Branched_Candelabrum_Nykarleby> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q62036178> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://nl.wikipedia.org/wiki/Sergej_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergej Timofeevič Aksakov"@it .
+<http://yago-knowledge.org/resource/Author_Response_Taller_Height_And_Risk_Of_Coronary_Heart_Disease_And_Cancer_A_Within-Sibship_Mendelian_Randomization_Study> <http://schema.org/author> <http://yago-knowledge.org/resource/George_Davey_Smith> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q315188> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#comment> "idazle errusiarra"@eu .
+<http://yago-knowledge.org/resource/Communality> <http://schema.org/dateCreated> "2024-05-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Merel_Ritskes-Hoitinga> .
+<http://yago-knowledge.org/resource/Technology_And_Isolation> <http://www.w3.org/2000/01/rdf-schema#label> "Technology and Isolation"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Аксаков Сергій Тимофійович"@uk .
+<http://yago-knowledge.org/resource/The_Sea_Q117156769> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q117156769> .
+<http://yago-knowledge.org/resource/Communality> <http://schema.org/url> "http://dx.doi.org/10.32388/8qhjp9"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Seven-Branched_Candelabrum_Nykarleby> <http://schema.org/dateCreated> "1752"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/L_Espagne_En_Auto> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42189536> .
+<http://yago-knowledge.org/resource/Grasping_At_Bits_Art_And_Intellectualcontrol_In_The_Digital_Age> <http://schema.org/dateCreated> "2001"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Barrack-Room_Ballads> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Literary_work> .
+<http://yago-knowledge.org/resource/Al-Zarkashi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Writer> .
+<http://yago-knowledge.org/resource/The_Rats_Q42194815> <http://www.w3.org/2000/01/rdf-schema#label> "The Rats"@en .
+<http://yago-knowledge.org/resource/The_Carnival_Of_Animals> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42187685> .
+<http://yago-knowledge.org/resource/Gate_In_The_City_Wall_Macau> <http://schema.org/url> "https://bcc.lib.hkbu.edu.hk/artcollection/derwent-dc4-18/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Аксаков Сергей"@ru .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://www.w3.org/2000/01/rdf-schema#label> "Author response: Introduction to the EQIPD quality system"@en .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/alternateName> "Sergei Aksakov"@it .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://www.w3.org/2000/01/rdf-schema#label> "Sergej Timofejevič Aksakov"@cs .
+<http://yago-knowledge.org/resource/Seven-Branched_Candelabrum_Nykarleby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Seven-Branched_Candlestick> .
+<http://yago-knowledge.org/resource/Strata_Identified_By_Organized_Fossils> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Writing_Philosophy_Papers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Macao_5> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q110625666> .
+<http://yago-knowledge.org/resource/Pictures_Of_The_Socialistic_Future> <http://schema.org/alternateName> "Pictures of the Future: an Experiment in a Modern Social World and What Came of It"@en .
+<http://yago-knowledge.org/resource/Gate_In_The_City_Wall_Macau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Sergey_Aksakov> <http://schema.org/url> "https://ro.wikipedia.org/wiki/Serghei_Aksakov"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Author_Response_Introduction_To_The_Eqipd_Quality_System> <http://schema.org/author> <http://yago-knowledge.org/resource/Sabine_M_Hölter> .
+<http://yago-knowledge.org/resource/Rudyard_Kipling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Children_s_writer> .
+<http://yago-knowledge.org/resource/Joan_Pujadas_I_Marquès> <http://www.w3.org/2000/01/rdf-schema#label> "Joan Pujadas i Marquès"@fr .
+<http://yago-knowledge.org/resource/Adjunct_Publication_Of_The_26Th_Conference_On_User_Modeling_Adaptation_And_Personalization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://yago-knowledge.org/resource/Viru2> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132198729> .

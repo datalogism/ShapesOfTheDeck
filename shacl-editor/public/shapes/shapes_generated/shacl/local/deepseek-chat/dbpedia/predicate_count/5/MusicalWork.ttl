@@ -1,0 +1,85 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/shapes/MusicalWorkShape>
+    a sh:NodeShape ;
+    sh:targetClass dbo:MusicalWork ;
+    sh:property [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+        sh:message "Every MusicalWork must have exactly one foaf:name (a string)."@en
+    ], [
+        sh:path dbo:releaseDate ;
+        sh:minCount 1 ;
+        sh:datatype xsd:date ;
+        sh:message "Every MusicalWork must have at least one dbo:releaseDate (a date)."@en
+    ], [
+        sh:path dbo:runtime ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:decimal ;
+        sh:message "Every MusicalWork must have exactly one dbo:runtime (a decimal number)."@en
+    ], [
+        sh:path dbo:recordedIn ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:recordedIn must be an IRI."@en
+    ], [
+        sh:path dbo:recordLabel ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:recordLabel must be an IRI."@en
+    ], [
+        sh:path dbo:producer ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:producer must be an IRI."@en
+    ], [
+        sh:path dbo:artist ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Every MusicalWork must have at least one dbo:artist (an IRI)."@en
+    ], [
+        sh:path dbo:writer ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:writer must be an IRI."@en
+    ], [
+        sh:path dbo:genre ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:genre must be an IRI."@en
+    ], [
+        sh:path dbo:album ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:album must be an IRI."@en
+    ], [
+        sh:path dbo:previousWork ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:previousWork must be an IRI."@en
+    ], [
+        sh:path dbo:subsequentWork ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:subsequentWork must be an IRI."@en
+    ], [
+        sh:path dbo:composer ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:composer must be an IRI."@en
+    ], [
+        sh:path dbo:type ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:type must be an IRI."@en
+    ], [
+        sh:path dbo:soundRecording ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:soundRecording must be an IRI."@en
+    ], [
+        sh:path dbo:musicType ;
+        sh:nodeKind sh:IRI ;
+        sh:message "dbo:musicType must be an IRI."@en
+    ], [
+        sh:path dbo:recordDate ;
+        sh:datatype xsd:date ;
+        sh:message "dbo:recordDate must be a date."@en
+    ] .

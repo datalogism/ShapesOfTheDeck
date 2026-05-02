@@ -1,0 +1,135 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix shapes: <http://shaclshapes.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:SportsTeamShape a sh:NodeShape ;
+    sh:targetClass dbo:SportsTeam ;
+    sh:property [
+        sh:path rdfs:label ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+    ] ;
+    sh:property [
+        sh:path rdfs:comment ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+    ] ;
+    sh:property [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path dbo:wikiPageRevisionID ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer ;
+    ] ;
+    sh:property [
+        sh:path dbo:foundingYear ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:gYear ;
+    ] ;
+    sh:property [
+        sh:path dbo:league ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:League ;
+    ] ;
+    sh:property [
+        sh:path dbo:location ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Place ;
+    ] ;
+    sh:property [
+        sh:path dbo:stadium ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Stadium ;
+    ] ;
+    sh:property [
+        sh:path dbo:capacity ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer ;
+    ] ;
+    sh:property [
+        sh:path dbo:coach ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+    ] ;
+    sh:property [
+        sh:path dbo:city ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:City ;
+    ] ;
+    sh:property [
+        sh:path dbo:discipline ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Sport ;
+    ] ;
+    sh:property [
+        sh:path dbo:logo ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path dbo:status ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path dbo:dissolutionYear ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:gYear ;
+    ] ;
+    sh:property [
+        sh:path dbo:uciCode ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path dbo:owner ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+    ] ;
+    sh:property [
+        sh:path dbo:ground ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Place ;
+    ] ;
+    sh:property [
+        sh:path dbo:manager ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+    ] ;
+    sh:property [
+        sh:path dbo:president ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+    ] ;
+    sh:property [
+        sh:path dbo:sport ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Sport ;
+    ] ;
+    sh:property [
+        sh:path foaf:homepage ;
+        sh:nodeKind sh:IRI ;
+        sh:datatype xsd:anyURI ;
+    ] ;
+    sh:property [
+        sh:path foaf:nick ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+    ] .

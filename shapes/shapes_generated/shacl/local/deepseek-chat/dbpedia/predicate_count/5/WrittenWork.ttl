@@ -1,0 +1,166 @@
+shacl
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+shapes:WrittenWorkShape a sh:NodeShape ;
+    sh:targetClass dbo:WrittenWork ;
+    sh:property [
+        sh:path rdf:type ;
+        sh:minCount 1 ;
+        sh:hasValue dbo:WrittenWork ;
+        sh:message "Every WrittenWork must be of type dbo:WrittenWork"@en ;
+    ] ;
+    sh:property [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+        sh:message "Every WrittenWork must have exactly one foaf:name (string)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:isbn ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+        sh:message "Every WrittenWork must have exactly one dbo:isbn (string)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:oclc ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+        sh:message "Every WrittenWork must have exactly one dbo:oclc (string)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:lcc ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+        sh:message "Every WrittenWork must have exactly one dbo:lcc (string)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:dcc ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+        sh:message "Every WrittenWork must have exactly one dbo:dcc (string)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:numberOfPages ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:integer ;
+        sh:message "Every WrittenWork must have exactly one dbo:numberOfPages (integer)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:country ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Country ;
+        sh:message "Every WrittenWork must have exactly one dbo:country (IRI)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:language ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Language ;
+        sh:message "Every WrittenWork must have exactly one dbo:language (IRI)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:author ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+        sh:message "Every WrittenWork must have at least one dbo:author (IRI)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:publisher ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Organisation ;
+        sh:message "Every WrittenWork must have at least one dbo:publisher (IRI)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:releaseDate ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:date ;
+        sh:message "Every WrittenWork must have exactly one dbo:releaseDate (date)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:publicationDate ;
+        sh:minCount 0 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:date ;
+        sh:message "Every WrittenWork may have at most one dbo:publicationDate (date)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:literaryGenre ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Genre ;
+        sh:message "Every WrittenWork must have at least one dbo:literaryGenre (IRI)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:mediaType ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:MediaType ;
+        sh:message "Every WrittenWork must have at least one dbo:mediaType (IRI)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:previousWork ;
+        sh:minCount 0 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:WrittenWork ;
+        sh:message "Every WrittenWork may have dbo:previousWork (IRI)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:subsequentWork ;
+        sh:minCount 0 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:WrittenWork ;
+        sh:message "Every WrittenWork may have dbo:subsequentWork (IRI)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:series ;
+        sh:minCount 0 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Series ;
+        sh:message "Every WrittenWork may have dbo:series (IRI)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:coverArtist ;
+        sh:minCount 0 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+        sh:message "Every WrittenWork may have dbo:coverArtist (IRI)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:illustrator ;
+        sh:minCount 0 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+        sh:message "Every WrittenWork may have dbo:illustrator (IRI)"@en ;
+    ] ;
+    sh:property [
+        sh:path dbo:translator ;
+        sh:minCount 0 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+        sh:message "Every WrittenWork may have dbo:translator (IRI)"@en ;
+    ] ;
+    sh:property [
+        sh:path dc:publisher ;
+        sh:minCount 1 ;
+        sh:datatype xsd:string ;
+        sh:message "Every WrittenWork must have at least one dc:publisher (string)"@en ;
+    ] .

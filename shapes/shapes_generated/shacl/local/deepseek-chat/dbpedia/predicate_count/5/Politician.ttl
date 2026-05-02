@@ -1,0 +1,252 @@
+shacl
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix shapes: <http://shaclshapes.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:PoliticianShape a sh:NodeShape ;
+    sh:targetClass dbo:Politician ;
+    sh:property [
+        sh:path rdf:type ;
+        sh:class dbo:Politician ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Every Politician must be of type dbo:Politician."@en
+    ], [
+        sh:path foaf:name ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every Politician must have at least one foaf:name."@en
+    ], [
+        sh:path dbo:birthDate ;
+        sh:datatype xsd:date ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every Politician must have exactly one dbo:birthDate."@en
+    ], [
+        sh:path dbo:deathDate ;
+        sh:datatype xsd:date ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every Politician must have exactly one dbo:deathDate."@en
+    ], [
+        sh:path dbo:birthPlace ;
+        sh:class dbo:Place ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Every Politician must have exactly one dbo:birthPlace."@en
+    ], [
+        sh:path dbo:deathPlace ;
+        sh:class dbo:Place ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Every Politician must have exactly one dbo:deathPlace."@en
+    ], [
+        sh:path dbo:party ;
+        sh:class dbo:PoliticalParty ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Every Politician must have at least one dbo:party."@en
+    ], [
+        sh:path dbo:birthYear ;
+        sh:datatype xsd:gYear ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every Politician must have exactly one dbo:birthYear."@en
+    ], [
+        sh:path dbo:deathYear ;
+        sh:datatype xsd:gYear ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every Politician must have exactly one dbo:deathYear."@en
+    ], [
+        sh:path dbo:nationality ;
+        sh:class dbo:Country ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Every Politician must have at least one dbo:nationality."@en
+    ], [
+        sh:path dbo:spouse ;
+        sh:class dbo:Person ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:spouse must be a Person."@en
+    ], [
+        sh:path dbo:child ;
+        sh:class dbo:Person ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:child must be a Person."@en
+    ], [
+        sh:path dbo:relation ;
+        sh:class dbo:Person ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:relation must be a Person."@en
+    ], [
+        sh:path dbo:office ;
+        sh:datatype rdf:langString ;
+        sh:nodeKind sh:Literal ;
+        sh:message "If present, dbo:office must be a literal."@en
+    ], [
+        sh:path dbo:orderInOffice ;
+        sh:datatype rdf:langString ;
+        sh:nodeKind sh:Literal ;
+        sh:message "If present, dbo:orderInOffice must be a literal."@en
+    ], [
+        sh:path dbo:activeYearsStartDate ;
+        sh:datatype xsd:date ;
+        sh:nodeKind sh:Literal ;
+        sh:message "If present, dbo:activeYearsStartDate must be a date."@en
+    ], [
+        sh:path dbo:activeYearsEndDate ;
+        sh:datatype xsd:date ;
+        sh:nodeKind sh:Literal ;
+        sh:message "If present, dbo:activeYearsEndDate must be a date."@en
+    ], [
+        sh:path dbo:successor ;
+        sh:class dbo:Person ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:successor must be a Person."@en
+    ], [
+        sh:path dbo:president ;
+        sh:class dbo:Person ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:president must be a Person."@en
+    ], [
+        sh:path dbo:primeMinister ;
+        sh:class dbo:Person ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:primeMinister must be a Person."@en
+    ], [
+        sh:path dbo:vicePresident ;
+        sh:class dbo:Person ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:vicePresident must be a Person."@en
+    ], [
+        sh:path dbo:profession ;
+        sh:class dbo:Profession ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:profession must be a Profession."@en
+    ], [
+        sh:path dbo:occupation ;
+        sh:class dbo:Occupation ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:occupation must be an Occupation."@en
+    ], [
+        sh:path dbo:education ;
+        sh:class dbo:EducationalInstitution ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:education must be an EducationalInstitution."@en
+    ], [
+        sh:path dbo:almaMater ;
+        sh:class dbo:EducationalInstitution ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:almaMater must be an EducationalInstitution."@en
+    ], [
+        sh:path dbo:militaryBranch ;
+        sh:class dbo:MilitaryUnit ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:militaryBranch must be a MilitaryUnit."@en
+    ], [
+        sh:path dbo:militaryRank ;
+        sh:class dbo:MilitaryRank ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:militaryRank must be a MilitaryRank."@en
+    ], [
+        sh:path dbo:battle ;
+        sh:class dbo:MilitaryConflict ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:battle must be a MilitaryConflict."@en
+    ], [
+        sh:path dbo:award ;
+        sh:class dbo:Award ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:award must be an Award."@en
+    ], [
+        sh:path dbo:restingPlace ;
+        sh:class dbo:Place ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:restingPlace must be a Place."@en
+    ], [
+        sh:path dbo:termPeriod ;
+        sh:class dbo:Tenure ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:termPeriod must be a Tenure."@en
+    ], [
+        sh:path dbo:signature ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+        sh:message "If present, dbo:signature must be a string."@en
+    ], [
+        sh:path dbo:birthName ;
+        sh:datatype rdf:langString ;
+        sh:nodeKind sh:Literal ;
+        sh:message "If present, dbo:birthName must be a literal."@en
+    ], [
+        sh:path dbo:otherParty ;
+        sh:class dbo:PoliticalParty ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:otherParty must be a PoliticalParty."@en
+    ], [
+        sh:path dbo:country ;
+        sh:class dbo:Country ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:country must be a Country."@en
+    ], [
+        sh:path dbo:parent ;
+        sh:class dbo:Person ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:parent must be a Person."@en
+    ], [
+        sh:path dbo:father ;
+        sh:class dbo:Person ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:father must be a Person."@en
+    ], [
+        sh:path dbo:mother ;
+        sh:class dbo:Person ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:mother must be a Person."@en
+    ], [
+        sh:path dbo:partner ;
+        sh:class dbo:Person ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:partner must be a Person."@en
+    ], [
+        sh:path dbo:deathCause ;
+        sh:class dbo:Disease ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:deathCause must be a Disease."@en
+    ], [
+        sh:path dbo:militaryService ;
+        sh:class dbo:MilitaryService ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:militaryService must be a MilitaryService."@en
+    ], [
+        sh:path dbo:soundRecording ;
+        sh:class dbo:Sound ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:soundRecording must be a Sound."@en
+    ], [
+        sh:path dbo:honours ;
+        sh:class dbo:Award ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, dbo:honours must be an Award."@en
+    ], [
+        sh:path dbo:serviceStartYear ;
+        sh:datatype xsd:gYear ;
+        sh:nodeKind sh:Literal ;
+        sh:message "If present, dbo:serviceStartYear must be a year."@en
+    ], [
+        sh:path dbo:serviceEndYear ;
+        sh:datatype xsd:gYear ;
+        sh:nodeKind sh:Literal ;
+        sh:message "If present, dbo:serviceEndYear must be a year."@en
+    ], [
+        sh:path foaf:nick ;
+        sh:datatype rdf:langString ;
+        sh:nodeKind sh:Literal ;
+        sh:message "If present, foaf:nick must be a literal."@en
+    ] .

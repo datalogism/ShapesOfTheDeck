@@ -1,0 +1,247 @@
+<http://yago-knowledge.org/resource/Fdf_5479> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación del Escultor"@es .
+<http://yago-knowledge.org/resource/Fdf_1106> <http://www.w3.org/2000/01/rdf-schema#label> "এফডিএফ ১১০৬"@bn .
+<http://yago-knowledge.org/resource/Lhf2004_Udsr_29> <http://www.w3.org/2000/01/rdf-schema#label> "[LHF2004] UDSR 29"@mul .
+<http://yago-knowledge.org/resource/Fdf_7352> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Sculptor"@en .
+<http://yago-knowledge.org/resource/Sh92_Qso_0000-263_3> <http://www.w3.org/2000/01/rdf-schema#label> "[SH92] QSO 0000-263 3"@mul .
+<http://yago-knowledge.org/resource/Fdf_3483> <http://www.w3.org/2000/01/rdf-schema#label> "এফডিএফ ৩৪৮৩"@bn .
+<http://yago-knowledge.org/resource/Fdf_7352> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación del Escultor"@es .
+<http://yago-knowledge.org/resource/Virtual_Parent_Ngc_3348> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q89741350> .
+<http://yago-knowledge.org/resource/Fdf_1106> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Sculptor"@en .
+<http://yago-knowledge.org/resource/Khr2008_G> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación de Escorpio"@es .
+<http://yago-knowledge.org/resource/Fdf_1106> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación del Escultor"@es .
+<http://yago-knowledge.org/resource/Fdf_1345> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q85051620> .
+<http://yago-knowledge.org/resource/Khr2008_G> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q80645599> .
+<http://yago-knowledge.org/resource/Ic_5134> <http://schema.org/url> "https://kk.wikipedia.org/wiki/IC_5134"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Virtual_Parent_Sit_174> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q80802512> .
+<http://yago-knowledge.org/resource/Fdf_6972> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q89912025> .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#label> "IC ۵۱۳۴"@kk-arab .
+<http://yago-knowledge.org/resource/Fdf_1577> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q92851240> .
+<http://yago-knowledge.org/resource/Fdf_1577> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Pds97_Ot> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Orion"@en .
+<http://yago-knowledge.org/resource/Fdf_1687> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Sculptor"@en .
+<http://yago-knowledge.org/resource/Fdf_6972> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Скульптора"@uk .
+<http://yago-knowledge.org/resource/Fdf_1687> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación del Escultor"@es .
+<http://yago-knowledge.org/resource/Fdf_3079> <http://www.w3.org/2000/01/rdf-schema#label> "এফডিএফ ৩০৭৯"@bn .
+<http://yago-knowledge.org/resource/Dkp2011_B> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Camelopardalis"@en .
+<http://yago-knowledge.org/resource/Kss94_J115129_3_382553_2> <http://www.w3.org/2000/01/rdf-schema#label> "[KSS94] J115129.3+382553 2"@mul .
+<http://yago-knowledge.org/resource/Fdf_1036> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q93318851> .
+<http://yago-knowledge.org/resource/Fdf_7352> <http://www.w3.org/2000/01/rdf-schema#label> "এফডিএফ ৭৩৫২"@bn .
+<http://yago-knowledge.org/resource/Pv96_Cl_1613_3104_176> <http://www.w3.org/2000/01/rdf-schema#label> "[PV96] Cl 1613+3104 176"@mul .
+<http://yago-knowledge.org/resource/Dbd86_Knot_27> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación de Ofiuco"@es .
+<http://yago-knowledge.org/resource/Fdf_5823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Fdf_278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Ic_5134> <http://schema.org/url> "https://sr.wikipedia.org/wiki/IC_5134"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Pv96_Cl_1613_3104_176> <http://www.w3.org/2000/01/rdf-schema#comment> "جرم فلكي"@ar .
+<http://yago-knowledge.org/resource/Fdf_5479> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q87236091> .
+<http://yago-knowledge.org/resource/Fdf_3483> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Скульптора"@uk .
+<http://yago-knowledge.org/resource/Eo_Ngc_2623_35> <http://www.w3.org/2000/01/rdf-schema#label> "EO NGC 2623 35"@mul .
+<http://yago-knowledge.org/resource/Fdf_1345> <http://www.w3.org/2000/01/rdf-schema#label> "FDF 1345"@mul .
+<http://yago-knowledge.org/resource/Ic_5134> <http://schema.org/alternateName> "IC5134"@uz .
+<http://yago-knowledge.org/resource/Pds97_Ot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Mhw95_26-5> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q84374863> .
+<http://yago-knowledge.org/resource/Fdf_1345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Fdf_1577> <http://www.w3.org/2000/01/rdf-schema#label> "FDF 1577"@mul .
+<http://yago-knowledge.org/resource/Tkrs_9843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Fdf_3483> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Sculptor"@en .
+<http://yago-knowledge.org/resource/Hbc97_14> <http://www.w3.org/2000/01/rdf-schema#label> "[HBC97] 14"@mul .
+<http://yago-knowledge.org/resource/Fdf_2382> <http://www.w3.org/2000/01/rdf-schema#label> "FDF 2382"@mul .
+<http://yago-knowledge.org/resource/Fdf_3483> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación del Escultor"@es .
+<http://yago-knowledge.org/resource/Fdf_5401> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q88632511> .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Cepheus"@en .
+<http://yago-knowledge.org/resource/Fdf_838> <http://www.w3.org/2000/01/rdf-schema#label> "FDF 838"@mul .
+<http://yago-knowledge.org/resource/Virtual_Parent_Sit_174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Eo_Ngc_2623_35> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q84863030> .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#comment> "Emissionsnebel"@de .
+<http://yago-knowledge.org/resource/Mhw95_26-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Fdf_2382> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Скульптора"@uk .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#label> "EM* LkHA 234"@mul .
+<http://yago-knowledge.org/resource/Ffo2009_S> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Cetus"@en .
+<http://yago-knowledge.org/resource/Fdf_5401> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Скульптора"@uk .
+<http://yago-knowledge.org/resource/Pv96_Cl_1613_3104_271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Fdf_6263> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q95664841> .
+<http://yago-knowledge.org/resource/Fdf_7352> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q87505094> .
+<http://yago-knowledge.org/resource/Pv96_Cl_1613_3104_271> <http://www.w3.org/2000/01/rdf-schema#label> "[PV96] Cl 1613+3104 271"@mul .
+<http://yago-knowledge.org/resource/Fdf_1036> <http://www.w3.org/2000/01/rdf-schema#label> "এফডিএফ ১০৩৬"@bn .
+<http://yago-knowledge.org/resource/Virtual_Parent_Ngc_3348> <http://www.w3.org/2000/01/rdf-schema#label> "VIRTUAL PARENT NGC 3348"@mul .
+<http://yago-knowledge.org/resource/Fdf_2382> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Sculptor"@en .
+<http://yago-knowledge.org/resource/Fdf_5479> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Скульптора"@uk .
+<http://yago-knowledge.org/resource/Tkrs_9843> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Ursa Major"@en .
+<http://yago-knowledge.org/resource/Tkrs_9843> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Великої Ведмедиці"@uk .
+<http://yago-knowledge.org/resource/Fdf_7352> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Скульптора"@uk .
+<http://yago-knowledge.org/resource/Fdf_5401> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Sculptor"@en .
+<http://yago-knowledge.org/resource/Fdf_1577> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Скульптора"@uk .
+<http://yago-knowledge.org/resource/Fdf_5401> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación del Escultor"@es .
+<http://yago-knowledge.org/resource/Fdf_6972> <http://www.w3.org/2000/01/rdf-schema#label> "FDF 6972"@mul .
+<http://yago-knowledge.org/resource/AstronomicalObject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/shacl#NodeShape> .
+<http://yago-knowledge.org/resource/Kgj2014_S4> <http://www.w3.org/2000/01/rdf-schema#label> "[KGJ2014] S4"@mul .
+<http://yago-knowledge.org/resource/Fdf_1106> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Скульптора"@uk .
+<http://yago-knowledge.org/resource/Tkrs_9843> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q81019671> .
+<http://yago-knowledge.org/resource/Fdf_838> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Fdf_1577> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Sculptor"@en .
+<http://yago-knowledge.org/resource/Fdf_1687> <http://www.w3.org/2000/01/rdf-schema#label> "এফডিএফ ১৬৮৭"@bn .
+<http://yago-knowledge.org/resource/Fdf_1577> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación del Escultor"@es .
+<http://yago-knowledge.org/resource/Fdf_838> <http://www.w3.org/2000/01/rdf-schema#label> "এফডিএফ ৮৩৮"@bn .
+<http://yago-knowledge.org/resource/Fdf_3079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#label> "IC 5134"@uk .
+<http://yago-knowledge.org/resource/Fdf_1345> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación del Escultor"@es .
+<http://yago-knowledge.org/resource/Virtual_Parent_Ngc_3348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Fdf_278> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Sculptor"@en .
+<http://yago-knowledge.org/resource/Kgj2014_S4> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q77849207> .
+<http://yago-knowledge.org/resource/Fdf_1687> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Скульптора"@uk .
+<http://yago-knowledge.org/resource/Fdf_278> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación del Escultor"@es .
+<http://yago-knowledge.org/resource/Pv96_Cl_1613_3104_271> <http://www.w3.org/2000/01/rdf-schema#comment> "جرم فلكي"@ar .
+<http://yago-knowledge.org/resource/Hbc97_14> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Capricornus"@en .
+<http://yago-knowledge.org/resource/Pv96_Cl_1613_3104_176> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q78555392> .
+<http://yago-knowledge.org/resource/Fdf_3038> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Скульптора"@uk .
+<http://yago-knowledge.org/resource/Fdf_6263> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Sculptor"@en .
+<http://yago-knowledge.org/resource/Fdf_6263> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación del Escultor"@es .
+<http://yago-knowledge.org/resource/Ic_5134> <http://schema.org/location> <http://yago-knowledge.org/resource/NGC_7129> .
+<http://yago-knowledge.org/resource/Hbc97_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Ic_5134> <http://schema.org/alternateName> "ИC 5134"@uz .
+<http://yago-knowledge.org/resource/Fdf_5479> <http://www.w3.org/2000/01/rdf-schema#label> "এফডিএফ ৫৪৭৯"@bn .
+<http://yago-knowledge.org/resource/Fdf_3038> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Sculptor"@en .
+<http://yago-knowledge.org/resource/Fdf_3038> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación del Escultor"@es .
+<http://yago-knowledge.org/resource/Eo_Ngc_2623_78> <http://www.w3.org/2000/01/rdf-schema#label> "EO NGC 2623 78"@mul .
+<http://yago-knowledge.org/resource/Tkrs_9843> <http://www.w3.org/2000/01/rdf-schema#label> "টিকেআরএস ৯৮৪৩"@bn .
+<http://yago-knowledge.org/resource/Kgj2014_S4> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Virgo"@en .
+<http://yago-knowledge.org/resource/Fdf_3038> <http://www.w3.org/2000/01/rdf-schema#label> "এফডিএফ ৩০৩৮"@bn .
+<http://yago-knowledge.org/resource/Fdf_838> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Скульптора"@uk .
+<http://yago-knowledge.org/resource/Dkp2011_B> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q89632602> .
+<http://yago-knowledge.org/resource/Fdf_5401> <http://www.w3.org/2000/01/rdf-schema#label> "এফডিএফ ৫৪০১"@bn .
+<http://yago-knowledge.org/resource/Ic_5134> <http://yago-knowledge.org/resource/distanceFromEarth> "+1250"^^<http://yago-knowledge.org/resource/Parsec> .
+<http://yago-knowledge.org/resource/NGC_7129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Star_cluster> .
+<http://yago-knowledge.org/resource/Fdf_6972> <http://www.w3.org/2000/01/rdf-schema#label> "এফডিএফ ৬৯৭২"@bn .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación de Cefeo"@es .
+<http://yago-knowledge.org/resource/Fdf_3079> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Скульптора"@uk .
+<http://yago-knowledge.org/resource/Fdf_838> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Sculptor"@en .
+<http://yago-knowledge.org/resource/Fdf_3079> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q93393662> .
+<http://yago-knowledge.org/resource/Ic_5134> <http://schema.org/sameAs> "/g/121zpm86" .
+<http://yago-knowledge.org/resource/Virtual_Parent_Sit_174> <http://www.w3.org/2000/01/rdf-schema#label> "VIRTUAL PARENT SIT 174"@mul .
+<http://yago-knowledge.org/resource/Fdf_838> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación del Escultor"@es .
+<http://yago-knowledge.org/resource/Ffo2009_S> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación de la Ballena"@es .
+<http://yago-knowledge.org/resource/Fdf_2382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#label> "IC 5134"@kk .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#label> "IC 5134"@sr-ec .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#label> "IC 5134"@de .
+<http://yago-knowledge.org/resource/Fdf_3079> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Sculptor"@en .
+<http://yago-knowledge.org/resource/Fdf_1036> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación del Escultor"@es .
+<http://yago-knowledge.org/resource/Fdf_3079> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación del Escultor"@es .
+<http://yago-knowledge.org/resource/Hbc97_14> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q88496538> .
+<http://yago-knowledge.org/resource/Ic_5134> <http://schema.org/url> "https://bs.wikipedia.org/wiki/IC_5134"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Fdf_5401> <http://www.w3.org/2000/01/rdf-schema#label> "FDF 5401"@mul .
+<http://yago-knowledge.org/resource/Hbc97_14> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación de Capricornio"@es .
+<http://yago-knowledge.org/resource/Ffo2009_S> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Кита"@uk .
+<http://yago-knowledge.org/resource/Fdf_1345> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Скульптора"@uk .
+<http://yago-knowledge.org/resource/Pds97_Ot> <http://www.w3.org/2000/01/rdf-schema#label> "[PDS97] OT"@mul .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#label> "ЫЦ 5134"@kk-cyrl .
+<http://yago-knowledge.org/resource/Kgj2014_S4> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación de Virgo"@es .
+<http://yago-knowledge.org/resource/Kgj2014_S4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Fdf_1036> <http://www.w3.org/2000/01/rdf-schema#label> "FDF 1036"@mul .
+<http://yago-knowledge.org/resource/Dbd86_Knot_27> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Ophiuchus"@en .
+<http://yago-knowledge.org/resource/Virtual_Parent_Sip_105> <http://www.w3.org/2000/01/rdf-schema#label> "VIRTUAL PARENT SIP 105"@mul .
+<http://yago-knowledge.org/resource/Fdf_1106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Fdf_278> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Скульптора"@uk .
+<http://yago-knowledge.org/resource/Fdf_1036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Pds97_Ot> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación de Orión"@es .
+<http://yago-knowledge.org/resource/Fdf_3038> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q93393832> .
+<http://yago-knowledge.org/resource/Fdf_1345> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Sculptor"@en .
+<http://yago-knowledge.org/resource/Kss94_J115129_3_382553_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#label> "IC 5134"@kk-latn .
+<http://yago-knowledge.org/resource/Fdf_6263> <http://www.w3.org/2000/01/rdf-schema#label> "এফডিএফ ৬২৬৩"@bn .
+<http://yago-knowledge.org/resource/Sh92_Qso_0000-263_3> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación del Escultor"@es .
+<http://yago-knowledge.org/resource/Virtual_Parent_Sip_105> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q80808418> .
+<http://yago-knowledge.org/resource/Fdf_6263> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Скульптора"@uk .
+<http://yago-knowledge.org/resource/Fdf_5823> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Sculptor"@en .
+<http://yago-knowledge.org/resource/Eo_Ngc_2623_78> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Cancer"@en .
+<http://yago-knowledge.org/resource/Lhf2004_Udsr_29> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación de Horologium"@es .
+<http://yago-knowledge.org/resource/Fdf_5823> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación del Escultor"@es .
+<http://yago-knowledge.org/resource/Ic_5134> <http://schema.org/url> "https://be.wikipedia.org/wiki/IC_5134"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Lhf2004_Udsr_29> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q89962526> .
+<http://yago-knowledge.org/resource/Dbd86_Knot_27> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q83949799> .
+<http://yago-knowledge.org/resource/Eo_Ngc_2623_78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Khr2008_G> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Ic_5134> <http://schema.org/url> "https://tt.wikipedia.org/wiki/IC_5134"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Tkrs_9843> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación de la Osa Mayor"@es .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#label> "IC 5134"@sr .
+<http://yago-knowledge.org/resource/Kgj2014_S4> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Діви"@uk .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#label> "IC 5134"@be .
+<http://yago-knowledge.org/resource/Lhf2004_Udsr_29> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Horologium"@en .
+<http://yago-knowledge.org/resource/Sh92_Qso_0000-263_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Fdf_6972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Eo_Ngc_2623_78> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación de Cáncer"@es .
+<http://yago-knowledge.org/resource/Dbd86_Knot_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Fdf_1106> <http://www.w3.org/2000/01/rdf-schema#label> "FDF 1106"@mul .
+<http://yago-knowledge.org/resource/Fdf_278> <http://www.w3.org/2000/01/rdf-schema#label> "এফডিএফ ২৭৮"@bn .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3680414> .
+<http://yago-knowledge.org/resource/Fdf_5823> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q89438823> .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#label> "IC 5134"@bs .
+<http://yago-knowledge.org/resource/Fdf_3483> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q86045369> .
+<http://yago-knowledge.org/resource/Fdf_838> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q93318866> .
+<http://yago-knowledge.org/resource/Tkrs_9843> <http://www.w3.org/2000/01/rdf-schema#label> "TKRS 9843"@mul .
+<http://yago-knowledge.org/resource/Fdf_5823> <http://www.w3.org/2000/01/rdf-schema#label> "এফডিএফ ৫৮২৩"@bn .
+<http://yago-knowledge.org/resource/Fdf_1036> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Скульптора"@uk .
+<http://yago-knowledge.org/resource/Ic_5134> <http://yago-knowledge.org/resource/siteLinks> "8"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Fdf_1577> <http://www.w3.org/2000/01/rdf-schema#label> "এফডিএফ ১৫৭৭"@bn .
+<http://yago-knowledge.org/resource/Khr2008_G> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Scorpius"@en .
+<http://yago-knowledge.org/resource/Eo_Ngc_2623_35> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Cancer"@en .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#label> "IC 5134"@sr-el .
+<http://yago-knowledge.org/resource/Khr2008_G> <http://www.w3.org/2000/01/rdf-schema#label> "[KHR2008] G"@mul .
+<http://yago-knowledge.org/resource/AstronomicalObject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://yago-knowledge.org/resource/Fdf_1036> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Sculptor"@en .
+<http://yago-knowledge.org/resource/Mhw95_26-5> <http://www.w3.org/2000/01/rdf-schema#label> "[MHW95] 26-5"@mul .
+<http://yago-knowledge.org/resource/Pv96_Cl_1613_3104_271> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q78556137> .
+<http://yago-knowledge.org/resource/Fdf_5401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Ic_5134> <http://schema.org/url> "https://uz.wikipedia.org/wiki/IC_5134"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Pds97_Ot> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q86394402> .
+<http://yago-knowledge.org/resource/Dkp2011_B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Eo_Ngc_2623_35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Fdf_278> <http://www.w3.org/2000/01/rdf-schema#label> "FDF 278"@mul .
+<http://yago-knowledge.org/resource/Fdf_2382> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q88528856> .
+<http://yago-knowledge.org/resource/Ffo2009_S> <http://www.w3.org/2000/01/rdf-schema#label> "[FFO2009] S"@mul .
+<http://yago-knowledge.org/resource/Fdf_5479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Fdf_1106> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q85051777> .
+<http://yago-knowledge.org/resource/Eo_Ngc_2623_35> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación de Cáncer"@es .
+<http://yago-knowledge.org/resource/Fdf_6263> <http://www.w3.org/2000/01/rdf-schema#label> "FDF 6263"@mul .
+<http://yago-knowledge.org/resource/Fdf_1687> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q88398921> .
+<http://yago-knowledge.org/resource/Fdf_7352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Eo_Ngc_2623_78> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q84868591> .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Sh92_Qso_0000-263_3> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Скульптора"@uk .
+<http://yago-knowledge.org/resource/Fdf_5823> <http://www.w3.org/2000/01/rdf-schema#comment> "астрономічний об'єкт у сузір'ї Скульптора"@uk .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#label> "IC 5134"@uz .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#label> "IC 5134"@it .
+<http://yago-knowledge.org/resource/Sh92_Qso_0000-263_3> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Sculptor"@en .
+<http://yago-knowledge.org/resource/Ic_5134> <http://schema.org/url> "https://uk.wikipedia.org/wiki/IC_5134"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Lhf2004_Udsr_29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Fdf_6972> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Sculptor"@en .
+<http://yago-knowledge.org/resource/Fdf_7352> <http://www.w3.org/2000/01/rdf-schema#label> "FDF 7352"@mul .
+<http://yago-knowledge.org/resource/Fdf_6972> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación del Escultor"@es .
+<http://yago-knowledge.org/resource/Fdf_278> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q85288201> .
+<http://yago-knowledge.org/resource/Fdf_2382> <http://www.w3.org/2000/01/rdf-schema#label> "এফডিএফ ২৩৮২"@bn .
+<http://yago-knowledge.org/resource/Kss94_J115129_3_382553_2> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q75287350> .
+<http://yago-knowledge.org/resource/Dbd86_Knot_27> <http://www.w3.org/2000/01/rdf-schema#label> "[DBD86] Knot 27"@mul .
+<http://yago-knowledge.org/resource/Fdf_6263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Fdf_1687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Fdf_1345> <http://www.w3.org/2000/01/rdf-schema#label> "এফডিএফ ১৩৪৫"@bn .
+<http://yago-knowledge.org/resource/Pv96_Cl_1613_3104_176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Dkp2011_B> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación de Camelopardalis"@es .
+<http://yago-knowledge.org/resource/Dkp2011_B> <http://www.w3.org/2000/01/rdf-schema#label> "[DKP2011] B"@mul .
+<http://yago-knowledge.org/resource/Sh92_Qso_0000-263_3> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q85715711> .
+<http://yago-knowledge.org/resource/Fdf_3038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Fdf_3079> <http://www.w3.org/2000/01/rdf-schema#label> "FDF 3079"@mul .
+<http://yago-knowledge.org/resource/Fdf_3483> <http://www.w3.org/2000/01/rdf-schema#label> "FDF 3483"@mul .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#label> "IC 5134"@tt .
+<http://yago-knowledge.org/resource/Fdf_1687> <http://www.w3.org/2000/01/rdf-schema#label> "FDF 1687"@mul .
+<http://yago-knowledge.org/resource/Ic_5134> <http://www.w3.org/2000/01/rdf-schema#label> "আইসি ৫১৩৪"@bn .
+<http://yago-knowledge.org/resource/Virtual_Parent_Sip_105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Ic_5134> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/NGC_7129> .
+<http://yago-knowledge.org/resource/Fdf_5479> <http://www.w3.org/2000/01/rdf-schema#label> "FDF 5479"@mul .
+<http://yago-knowledge.org/resource/Fdf_2382> <http://www.w3.org/2000/01/rdf-schema#comment> "objeto astronómico de la constelación del Escultor"@es .
+<http://yago-knowledge.org/resource/Fdf_3483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Ic_5134> <http://schema.org/alternateName> "IC5134"@kk .
+<http://yago-knowledge.org/resource/Ic_5134> <http://schema.org/url> "https://de.wikipedia.org/wiki/IC_5134"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Ffo2009_S> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q88902829> .
+<http://yago-knowledge.org/resource/Ffo2009_S> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/AstronomicalObject> .
+<http://yago-knowledge.org/resource/Fdf_3038> <http://www.w3.org/2000/01/rdf-schema#label> "FDF 3038"@mul .
+<http://yago-knowledge.org/resource/Fdf_5479> <http://www.w3.org/2000/01/rdf-schema#comment> "astronomical object in the constellation Sculptor"@en .
+<http://yago-knowledge.org/resource/Fdf_5823> <http://www.w3.org/2000/01/rdf-schema#label> "FDF 5823"@mul .

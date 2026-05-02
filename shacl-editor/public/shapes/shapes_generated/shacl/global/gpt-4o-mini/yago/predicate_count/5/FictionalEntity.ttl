@@ -1,0 +1,54 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix yago: <http://yago-knowledge.org/resource/> .
+
+<http://shaclshapes.org/FictionalEntityShape> a sh:NodeShape ;
+    sh:property [ sh:node <http://shaclshapes.org/FictionalEntityShape> ;
+            sh:path yago:appearsIn ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path schema:gender ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path schema:deathPlace ],
+        [ sh:datatype <rdf:langString> ;
+            sh:path rdfs:comment ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:minCount 1 ;
+            sh:path schema:mainEntityOfPage ],
+        [ sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:sameAs ],
+        [ sh:datatype <xsd:dateTime> ;
+            sh:path schema:dateCreated ],
+        [ sh:datatype <xsd:dateTime> ;
+            sh:path schema:deathDate ],
+        [ sh:maxCount 3 ;
+            sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/FictionalEntityShape> ;
+            sh:path rdf:type ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path schema:inLanguage ],
+        [ sh:datatype <rdf:langString> ;
+            sh:path schema:alternateName ],
+        [ sh:node <http://shaclshapes.org/FictionalEntityShape> ;
+            sh:path schema:location ],
+        [ sh:node <http://shaclshapes.org/FictionalEntityShape> ;
+            sh:path schema:locationCreated ],
+        [ sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path schema:author ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:path schema:image ],
+        [ sh:datatype <xsd:string> ;
+            sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:path schema:sameAs ],
+        [ sh:datatype <rdf:langString> ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass yago:FictionalEntity .
+

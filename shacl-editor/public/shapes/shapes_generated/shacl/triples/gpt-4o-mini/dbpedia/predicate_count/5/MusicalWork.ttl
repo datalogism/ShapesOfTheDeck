@@ -1,0 +1,88 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix shapes: <http://shaclshapes.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:MusicalWorkShape a sh:NodeShape ;
+    sh:targetClass dbo:MusicalWork ;
+    sh:property [
+        sh:path rdf:type ;
+        sh:nodeKind sh:IRI ;
+        sh:hasValue dbo:MusicalWork ;
+        sh:message "Must be a Musical Work"
+    ] ;
+    sh:property [
+        sh:path foaf:name ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1 ;
+        sh:message "Must have a name"
+    ] ;
+    sh:property [
+        sh:path dbo:artist ;
+        sh:nodeKind sh:IRI ;
+        sh:minCount 1 ;
+        sh:message "Must have at least one artist"
+    ] ;
+    sh:property [
+        sh:path dbo:runtime ;
+        sh:datatype xsd:decimal ;
+        sh:maxCount 1 ;
+        sh:message "Runtime must be a decimal value"
+    ] ;
+    sh:property [
+        sh:path dbo:releaseDate ;
+        sh:datatype xsd:date ;
+        sh:maxCount 1 ;
+        sh:message "Must have a release date"
+    ] ;
+    sh:property [
+        sh:path dbo:album ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "May have an associated album"
+    ] ;
+    sh:property [
+        sh:path dbo:genre ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "May have a genre"
+    ] ;
+    sh:property [
+        sh:path dbo:recordLabel ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "May have a record label"
+    ] ;
+    sh:property [
+        sh:path dbo:writer ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "May have a writer"
+    ] ;
+    sh:property [
+        sh:path dbo:producer ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "May have a producer"
+    ] ;
+    sh:property [
+        sh:path dbo:previousWork ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "May reference a previous work"
+    ] ;
+    sh:property [
+        sh:path dbo:subsequentWork ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:message "May reference a subsequent work"
+    ] ;
+    sh:property [
+        sh:path dbo:resource_identifier ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:message "May have a resource identifier"
+    ] .

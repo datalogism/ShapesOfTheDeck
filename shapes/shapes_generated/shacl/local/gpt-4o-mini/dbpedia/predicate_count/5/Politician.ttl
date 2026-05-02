@@ -1,0 +1,152 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix shapes: <http://shaclshapes.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:PoliticianShape a sh:NodeShape ;
+    sh:targetClass dbo:Politician ;
+    sh:property [
+        sh:path foaf:name ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ],
+    [
+        sh:path dbo:birthDate ;
+        sh:datatype xsd:date ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ],
+    [
+        sh:path dbo:deathDate ;
+        sh:datatype xsd:date ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ],
+    [
+        sh:path dbo:birthPlace ;
+        sh:nodeKind sh:IRI ;
+        sh:minCount 1 ;
+    ],
+    [
+        sh:path dbo:deathPlace ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ],
+    [
+        sh:path dbo:nationality ;
+        sh:nodeKind sh:IRI ;
+        sh:minCount 1 ;
+    ],
+    [
+        sh:path dbo:party ;
+        sh:nodeKind sh:IRI ;
+        sh:minCount 1 ;
+    ],
+    [
+        sh:path dbo:spouse ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ],
+    [
+        sh:path dbo:child ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ],
+    [
+        sh:path dbo:office ;
+        sh:nodeKind sh:Literal ;
+        sh:minCount 1 ;
+    ],
+    [
+        sh:path dbo:activeYearsStartDate ;
+        sh:datatype xsd:date ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ],
+    [
+        sh:path dbo:activeYearsEndDate ;
+        sh:datatype xsd:date ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ],
+    [
+        sh:path dbo:militaryRank ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ],
+    [
+        sh:path dbo:militaryBranch ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ],
+    [
+        sh:path dbo:relation ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ],
+    [
+        sh:path dbo:successor ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ],
+    [
+        sh:path dbo:president ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ],
+    [
+        sh:path dbo:primeMinister ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ],
+    [
+        sh:path dbo:orderInOffice ;
+        sh:nodeKind sh:Literal ;
+        sh:maxCount 1 ;
+    ],
+    [
+        sh:path dbo:birthYear ;
+        sh:datatype xsd:gYear ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ],
+    [
+        sh:path dbo:deathYear ;
+        sh:datatype xsd:gYear ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ],
+    [
+        sh:path dbo:termPeriod ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ],
+    [
+        sh:path dbo:award ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ],
+    [
+        sh:path dbo:battle ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ],
+    [
+        sh:path dbo:profession ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ],
+    [
+        sh:path dbo:otherParty ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+    ],
+    [
+        sh:path <http://www.w3.org/ns/dcat#resource_identifier> ;
+        sh:nodeKind sh:Literal ;
+        sh:maxCount 1 ;
+    ].

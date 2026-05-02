@@ -1,0 +1,358 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix shapes: <http://shaclshapes.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:SportsTeamShape a sh:NodeShape ;
+    sh:targetClass dbo:SportsTeam ;
+    sh:property [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString
+    ], [
+        sh:path dbo:foundingYear ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:gYear
+    ], [
+        sh:path dbo:dissolutionYear ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:gYear
+    ], [
+        sh:path foaf:nick ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString
+    ], [
+        sh:path dbo:capacity ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:owner ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Organisation
+    ], [
+        sh:path dbo:location ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Place
+    ], [
+        sh:path dbo:manager ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person
+    ], [
+        sh:path dbo:league ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:SportsLeague
+    ], [
+        sh:path dbo:stadium ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Stadium
+    ], [
+        sh:path dbo:president ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person
+    ], [
+        sh:path foaf:homepage ;
+        sh:nodeKind sh:IRI ;
+        sh:datatype xsd:anyURI
+    ], [
+        sh:path dbo:coach ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person
+    ], [
+        sh:path dbo:teamCaptain ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person
+    ], [
+        sh:path dbo:ground ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Stadium
+    ], [
+        sh:path dbo:teamColour ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string
+    ], [
+        sh:path dbo:sponsor ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Organisation
+    ], [
+        sh:path dbo:championship ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:SportsEvent
+    ], [
+        sh:path dbo:division ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:SportsLeague
+    ], [
+        sh:path dbo:team ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:SportsTeam
+    ], [
+        sh:path dbo:activeYearsStartYear ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:gYear
+    ], [
+        sh:path dbo:activeYearsEndYear ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:gYear
+    ], [
+        sh:path dbo:regionServed ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Place
+    ], [
+        sh:path dbo:affiliation ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Organisation
+    ], [
+        sh:path dbo:parentOrganisation ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Organisation
+    ], [
+        sh:path dbo:subsidiary ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Organisation
+    ], [
+        sh:path dbo:numberOfPlayers ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfSeasons ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfWins ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfLosses ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfDraws ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfPoints ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfGoals ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfTitles ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfRuns ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfWickets ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfCatches ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfStumpings ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfCenturies ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfHalfCenturies ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfDucks ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfFours ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfSixes ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfHatTricks ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfFiveWicketHauls ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfTenWicketHauls ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfMatches ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfInnings ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfNotOuts ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfBallsFaced ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfBallsBowled ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfMaidens ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfOvers ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfRunsConceded ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfWicketsTaken ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfCatchesTaken ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfStumpingsMade ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfCenturiesScored ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfHalfCenturiesScored ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfDucksScored ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfFoursScored ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfSixesScored ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfHatTricksTaken ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfFiveWicketHaulsTaken ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfTenWicketHaulsTaken ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfMatchesPlayed ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfInningsBatted ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfInningsBowled ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfNotOutsBatted ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfBallsFacedBatted ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfBallsBowledBowled ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfMaidensBowled ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfOversBowled ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfRunsConcededBowled ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfWicketsTakenBowled ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfCatchesTakenFielding ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfStumpingsMadeFielding ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfCenturiesScoredBatting ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfHalfCenturiesScoredBatting ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfDucksScoredBatting ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfFoursScoredBatting ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfSixesScoredBatting ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfHatTricksTakenBowling ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfFiveWicketHaulsTakenBowling ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ], [
+        sh:path dbo:numberOfTenWicketHaulsTakenBowling ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer
+    ] .

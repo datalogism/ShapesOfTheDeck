@@ -1,0 +1,122 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/shapes/ScientistShape>
+    a sh:NodeShape ;
+    sh:targetClass dbo:Scientist ;
+    sh:property [
+        sh:path rdfs:label ;
+        sh:minCount 1 ;
+        sh:datatype rdf:langString ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path rdfs:comment ;
+        sh:minCount 1 ;
+        sh:datatype rdf:langString ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:wikiPageRevisionID ;
+        sh:minCount 1 ;
+        sh:datatype xsd:integer ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:birthDate ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:date ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:birthYear ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:gYear ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:deathDate ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:date ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:deathYear ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:gYear ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:birthPlace ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Place ;
+    ] ;
+    sh:property [
+        sh:path dbo:deathPlace ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Place ;
+    ] ;
+    sh:property [
+        sh:path dbo:almaMater ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:EducationalInstitution ;
+    ] ;
+    sh:property [
+        sh:path dbo:institution ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Organisation ;
+    ] ;
+    sh:property [
+        sh:path dbo:academicDiscipline ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:AcademicSubject ;
+    ] ;
+    sh:property [
+        sh:path dbo:knownFor ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path dbo:award ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Award ;
+    ] ;
+    sh:property [
+        sh:path dbo:nationality ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Country ;
+    ] ;
+    sh:property [
+        sh:path dbo:birthName ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path foaf:homepage ;
+        sh:nodeKind sh:IRI ;
+        sh:datatype xsd:anyURI ;
+    ] ;
+    sh:property [
+        sh:path dbo:doctoralAdvisor ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+    ] ;
+    sh:property [
+        sh:path dbo:doctoralStudent ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+    ] ;
+    sh:property [
+        sh:path dbo:notableStudent ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+    ] .

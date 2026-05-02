@@ -1,0 +1,75 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema1: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix yago: <http://yago-knowledge.org/resource/> .
+
+<file:///C:/Users/doccr/PycharmProjects/DoubleShapespresso/Airport> a sh:NodeShape ;
+    sh:property [ sh:class schema1:Airport ;
+            sh:minCount 1 ;
+            sh:path owl:sameAs ],
+        [ sh:class schema1:Airport ;
+            sh:minCount 1 ;
+            sh:path rdf:type ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path rdfs:comment ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:path schema1:alternateName ],
+        [ sh:datatype xsd:dateTime ;
+            sh:minCount 0 ;
+            sh:path schema1:dateCreated ],
+        [ sh:datatype xsd:dateTime ;
+            sh:minCount 0 ;
+            sh:path schema1:dissolutionDate ],
+        [ sh:datatype geo:wktLiteral ;
+            sh:minCount 1 ;
+            sh:path schema1:geo ],
+        [ sh:datatype xsd:anyURI ;
+            sh:minCount 0 ;
+            sh:path schema1:image ],
+        [ sh:class schema1:Airport ;
+            sh:minCount 1 ;
+            sh:path schema1:location ],
+        [ sh:datatype xsd:anyURI ;
+            sh:minCount 1 ;
+            sh:path schema1:mainEntityOfPage ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path schema1:postalCode ],
+        [ sh:datatype xsd:string ;
+            sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:path schema1:sameAs ],
+        [ sh:datatype xsd:anyURI ;
+            sh:minCount 1 ;
+            sh:path schema1:url ],
+        [ sh:datatype xsd:decimal ;
+            sh:minCount 0 ;
+            sh:path yago:area ],
+        [ sh:datatype xsd:decimal ;
+            sh:minCount 1 ;
+            sh:path yago:elevation ],
+        [ sh:class schema1:Airport ;
+            sh:minCount 0 ;
+            sh:path yago:neighbors ],
+        [ sh:maxCount 2 ;
+            sh:minCount 0 ;
+            sh:or ( [ sh:class schema1:Airport ] ) ;
+            sh:path yago:ownedBy ],
+        [ sh:datatype xsd:decimal ;
+            sh:minCount 0 ;
+            sh:path yago:populationNumber ],
+        [ sh:class schema1:Airport ;
+            sh:minCount 0 ;
+            sh:path yago:replaces ] ;
+    sh:targetClass dbo:Airport .
+

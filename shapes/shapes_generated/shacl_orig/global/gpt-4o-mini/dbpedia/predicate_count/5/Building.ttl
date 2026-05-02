@@ -1,0 +1,104 @@
+@prefix dbd: <http://dbpedia.org/datatype/> .
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<file:///C:/Users/doccr/PycharmProjects/DoubleShapespresso/Building> a sh:NodeShape ;
+    sh:property [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:path dbo:address ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path dbo:alternativeName ],
+        [ sh:minCount 1 ;
+            sh:or ( [ sh:class owl:Thing ] [ sh:class dbo:Animal ] [ sh:class dbo:Eukaryote ] ) ;
+            sh:path dbo:architect ],
+        [ sh:class dbo:Building ;
+            sh:minCount 1 ;
+            sh:path dbo:architecturalStyle ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path dbo:buildingEndDate ],
+        [ sh:datatype xsd:string ;
+            sh:maxCount 3 ;
+            sh:minCount 1 ;
+            sh:path dbo:buildingStartDate ],
+        [ sh:datatype dbd:usDollar ;
+            sh:minCount 1 ;
+            sh:path dbo:cost ],
+        [ sh:class dbo:Building ;
+            sh:minCount 1 ;
+            sh:path dbo:country ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path dbo:cuisine ],
+        [ sh:class dbo:Building ;
+            sh:minCount 0 ;
+            sh:path dbo:developer ],
+        [ sh:datatype xsd:integer ;
+            sh:minCount 0 ;
+            sh:path dbo:elevatorCount ],
+        [ sh:datatype xsd:double ;
+            sh:maxCount 2 ;
+            sh:minCount 0 ;
+            sh:path dbo:floorArea ],
+        [ sh:datatype xsd:integer ;
+            sh:minCount 1 ;
+            sh:path dbo:floorCount ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path dbo:formerName ],
+        [ sh:minCount 0 ;
+            sh:or ( [ sh:class dbo:Animal ] [ sh:class dbo:Chef ] [ sh:class dbo:Eukaryote ] ) ;
+            sh:path dbo:headChef ],
+        [ sh:datatype xsd:double ;
+            sh:minCount 1 ;
+            sh:path dbo:height ],
+        [ sh:class dbo:Building ;
+            sh:minCount 1 ;
+            sh:path dbo:location ],
+        [ sh:class dbo:Building ;
+            sh:minCount 1 ;
+            sh:path dbo:owner ],
+        [ sh:datatype xsd:integer ;
+            sh:minCount 0 ;
+            sh:path dbo:seatingCapacity ],
+        [ sh:datatype xsd:string ;
+            sh:maxCount 2 ;
+            sh:minCount 0 ;
+            sh:path dbo:status ],
+        [ sh:class dbo:Building ;
+            sh:minCount 1 ;
+            sh:path dbo:type ],
+        [ sh:datatype xsd:integer ;
+            sh:minCount 1 ;
+            sh:path dbo:wikiPageRevisionID ],
+        [ sh:class dbo:Building ;
+            sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:path foaf:homepage ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:path foaf:name ],
+        [ sh:datatype xsd:double ;
+            sh:maxCount 1 ;
+            sh:minCount 0 ;
+            sh:path dcat:resource_identifier ],
+        [ sh:class dbo:Building ;
+            sh:minCount 1 ;
+            sh:path rdf:type ],
+        [ sh:datatype rdf:langString ;
+            sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ sh:datatype rdf:langString ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass dbo:Building .
+

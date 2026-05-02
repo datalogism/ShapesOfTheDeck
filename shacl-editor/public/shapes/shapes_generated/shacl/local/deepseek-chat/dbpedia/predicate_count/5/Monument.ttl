@@ -1,0 +1,55 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix shapes: <http://example.org/shapes/> .
+
+shapes:MonumentShape a sh:NodeShape ;
+    sh:targetClass dbo:Monument ;
+    sh:property [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+        sh:message "Every Monument must have exactly one foaf:name (a string)."@en
+    ], [
+        sh:path dbo:location ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Place ;
+        sh:message "Every Monument must have at least one dbo:location, which must be an IRI of a Place."@en
+    ], [
+        sh:path dbo:designer ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+        sh:message "If a Monument has a dbo:designer, it must be an IRI of a Person."@en
+    ], [
+        sh:path dbo:architect ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Architect ;
+        sh:message "If a Monument has a dbo:architect, it must be an IRI of an Architect."@en
+    ], [
+        sh:path dbo:yearOfConstruction ;
+        sh:datatype xsd:gYear ;
+        sh:maxCount 1 ;
+        sh:message "If a Monument has a dbo:yearOfConstruction, it must be a single gYear value."@en
+    ], [
+        sh:path dbo:material ;
+        sh:datatype xsd:string ;
+        sh:message "If a Monument has a dbo:material, it must be a string."@en
+    ], [
+        sh:path dbo:height ;
+        sh:datatype xsd:double ;
+        sh:maxCount 1 ;
+        sh:message "If a Monument has a dbo:height, it must be a single double value."@en
+    ], [
+        sh:path dbo:description ;
+        sh:datatype xsd:string ;
+        sh:message "If a Monument has a dbo:description, it must be a string."@en
+    ], [
+        sh:path rdfs:label ;
+        sh:datatype rdf:langString ;
+        sh:message "If a Monument has an rdfs:label, it must be a language-tagged string."@en
+    ] .

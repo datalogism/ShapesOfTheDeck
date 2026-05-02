@@ -1,0 +1,83 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix yago: <http://yago-knowledge.org/resource/> .
+
+<http://shaclshapes.org/OrganizationShape> a sh:NodeShape ;
+    sh:property [ sh:datatype <xsd:decimal> ;
+            sh:path yago:populationNumber ],
+        [ sh:datatype <xsd:decimal> ;
+            sh:path yago:area ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:minCount 1 ;
+            sh:path schema:mainEntityOfPage ],
+        [ sh:datatype <xsd:string> ;
+            sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:path schema:sameAs ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:path schema:url ],
+        [ sh:node <http://shaclshapes.org/OrganizationShape> ;
+            sh:path schema:award ],
+        [ sh:node <http://shaclshapes.org/OrganizationShape> ;
+            sh:path yago:capital ],
+        [ sh:datatype <xsd:string> ;
+            sh:path schema:duns ],
+        [ sh:datatype <xsd:string> ;
+            sh:path schema:address ],
+        [ sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/OrganizationShape> ;
+            sh:path schema:location ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:path schema:logo ],
+        [ sh:node <http://shaclshapes.org/OrganizationShape> ;
+            sh:path yago:leader ],
+        [ sh:datatype <rdf:langString> ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ sh:datatype <xsd:string> ;
+            sh:path schema:slogan ],
+        [ sh:node <http://shaclshapes.org/OrganizationShape> ;
+            sh:path yago:neighbors ],
+        [ sh:datatype <xsd:decimal> ;
+            sh:path yago:elevation ],
+        [ sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/OrganizationShape> ;
+            sh:path owl:sameAs ],
+        [ sh:datatype <xsd:dateTime> ;
+            sh:path schema:dissolutionDate ],
+        [ sh:datatype <rdf:langString> ;
+            sh:path schema:alternateName ],
+        [ sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/OrganizationShape> ;
+            sh:path rdf:type ],
+        [ sh:node <http://shaclshapes.org/OrganizationShape> ;
+            sh:path schema:locationCreated ],
+        [ sh:datatype <xsd:string> ;
+            sh:path schema:postalCode ],
+        [ sh:datatype <xsd:dateTime> ;
+            sh:path schema:dateCreated ],
+        [ sh:node <http://shaclshapes.org/OrganizationShape> ;
+            sh:path schema:memberOf ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:path schema:image ],
+        [ sh:datatype <xsd:string> ;
+            sh:path schema:leiCode ],
+        [ sh:node <http://shaclshapes.org/OrganizationShape> ;
+            sh:path schema:founder ],
+        [ sh:datatype <rdf:langString> ;
+            sh:path rdfs:comment ],
+        [ sh:node <http://shaclshapes.org/OrganizationShape> ;
+            sh:path yago:ownedBy ],
+        [ sh:datatype <geo:wktLiteral> ;
+            sh:path schema:geo ],
+        [ sh:datatype <xsd:decimal> ;
+            sh:path schema:numberOfEmployees ] ;
+    sh:targetClass schema:Organization .
+

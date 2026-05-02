@@ -1,0 +1,163 @@
+{
+  "@context": "http://www.w3.org/ns/shexje.jsonld",
+  "type": "Schema",
+  "prefixes": {
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "sh": "http://www.w3.org/ns/shacl#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "dbo": "http://dbpedia.org/ontology/",
+    "dbr": "http://dbpedia.org/resource/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "schema": "http://schema.org/",
+    "yago": "http://yago-knowledge.org/resource/",
+    "wd": "http://www.wikidata.org/entity/",
+    "wdt": "http://www.wikidata.org/prop/direct/"
+  },
+  "start": "Election",
+  "shapes": [
+    {
+      "type": "Shape",
+      "id": "Election",
+      "extra": [
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      ],
+      "expression": {
+        "type": "EachOf",
+        "expressions": [
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/location",
+            "valueExpr": "Election",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/mainEntityOfPage",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:anyURI"
+            },
+            "min": 1
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/sameAs",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:string"
+            },
+            "min": 1,
+            "max": 2
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "valueExpr": "Election",
+            "min": 1,
+            "max": 2
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "rdf:langString"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "rdf:langString"
+            },
+            "min": 1
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "nodeKind": "iri"
+            },
+            "min": 1
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/alternateName",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "rdf:langString"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://yago-knowledge.org/resource/follows",
+            "valueExpr": "Election",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/superEvent",
+            "valueExpr": "Election",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/url",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:anyURI"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://yago-knowledge.org/resource/participant",
+            "valueExpr": "Election",
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/image",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:anyURI"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/endDate",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:dateTime"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/startDate",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "xsd:dateTime"
+            },
+            "min": 0
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://schema.org/organizer",
+            "valueExpr": "Election",
+            "min": 0
+          }
+        ]
+      },
+      "targetClass": "http://yago-knowledge.org/resource/Election"
+    }
+  ]
+}

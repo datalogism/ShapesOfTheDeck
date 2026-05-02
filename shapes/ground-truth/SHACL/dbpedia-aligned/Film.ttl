@@ -1,0 +1,177 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbt: <http://dbpedia.org/datatype/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix shapes: <http://shaclshapes.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:FilmShape a sh:NodeShape ;
+    sh:property [ sh:datatype xsd:double ;
+                        sh:nodeKind sh:Literal ;
+                        sh:path dbo:runtime ];
+    sh:property [ sh:minCount 1 ;
+            sh:node shapes:LangStringShape ;
+            sh:path rdfs:label ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path foaf:name ],
+        [ sh:minCount 1 ;
+            sh:node shapes:LangStringShape ;
+            sh:path rdfs:comment ],
+        [ sh:datatype xsd:date ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:releaseDate ],
+        [ sh:class dbo:Person ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:starring ],
+        [ sh:class dbo:Person ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:narrator ],
+        [ sh:class dbo:Person ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:director ],
+        [ sh:class dbo:Agent ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:producer ],
+        [ sh:class dbo:Person ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:writer ],
+        [ sh:class dbo:Person ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:author ],
+        [ sh:class dbo:Person ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:cinematography ],
+        [ sh:class dbo:Person ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:editing ],
+        [ sh:class dbo:Person ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:musicComposer ],
+        [ sh:class dbo:Sound ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:soundRecording ],
+        [ sh:class dbo:Agent ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:productionCompany ],
+        [ sh:class dbo:Organisation ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:distributor ],
+        [ sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node shapes:budgetValueShape ;
+            sh:path dbo:budget ],
+        [ sh:datatype xsd:double ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:gross ],
+        [ sh:class dbo:Country ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:country ],
+        [ sh:class dbo:Language ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:language ],
+        [ sh:datatype xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:imdbId ],
+        [ sh:datatype xsd:anyURI ;
+            sh:nodeKind sh:Literal ;
+            sh:path rdfs:seeAlso ],
+        [ sh:datatype xsd:integer ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:wikiPageRevisionID ] ;
+    sh:targetClass dbo:Film .
+
+shapes:budgetValueShape a sh:NodeShape ;
+    sh:or ( [ sh:datatype dbt:usDollar ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:euro ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:poundSterling ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:indianRupee ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:japaneseYen ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:malaysianRinggit ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:canadianDollar ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:swedishKrona ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:czechKoruna ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:australianDollar ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:sriLankanRupee ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:norwegianKrone ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:renminbi ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:russianRouble ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:danishKrone ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:swissFranc ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:croatianKuna ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:maldivianRufiyaa ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:bruneiDollar ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:newZealandDollar ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:indonesianRupiah ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:polishZ%C5%82oty ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:bangladeshiTaka ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:brazilianReal ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:thaiBaht ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:southKoreanWon ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:egyptianPound ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:nepaleseRupee ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:hungarianForint ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:southAfricanRand ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:hongKongDollar ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:pakistaniRupee ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:argentinePeso ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:moroccanDirham ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:chileanPeso ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:mongolianT%C3%B6gr%C3%B6g ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:icelandKrona ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:newTaiwanDollar ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:philippinePeso ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:latvianLats ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:ukrainianHryvnia ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:serbianDinar ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:nigerianNaira ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:unitedArabEmiratesDirham ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:westAfricanCfaFranc ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:eastCaribbeanDollar ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:trinidadAndTobagoDollar ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:macedonianDenar ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:estonianKroon ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:mexicanPeso ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:fijiDollar ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:bosniaAndHerzegovinaConvertibleMarks ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:bulgarianLev ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:singaporeDollar ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:libyanDinar ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:honduranLempira ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:myanmaKyat ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:georgianLari ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:guineaFranc ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:barbadosDollar ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:israeliNewSheqel ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:nicaraguanC%C3%B3rdoba ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:haitiGourde ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:bahrainiDinar ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:botswanaPula ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:namibianDollar ;
+                sh:nodeKind sh:Literal ] [ sh:datatype dbt:ghanaianCedi ;
+                sh:nodeKind sh:Literal ] ) .
+
+shapes:LangStringShape a sh:NodeShape ;
+    sh:datatype rdf:langString ;
+    sh:nodeKind sh:Literal .
+

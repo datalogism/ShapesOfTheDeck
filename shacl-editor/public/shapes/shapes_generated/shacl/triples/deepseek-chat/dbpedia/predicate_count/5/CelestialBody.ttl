@@ -1,0 +1,86 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:CelestialBodyShape a sh:NodeShape ;
+    sh:targetClass dbo:CelestialBody ;
+    sh:property [
+        sh:path rdfs:label ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+    ], [
+        sh:path rdfs:comment ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype rdf:langString ;
+    ], [
+        sh:path dbo:wikiPageRevisionID ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:integer ;
+    ], [
+        sh:path dbo:absoluteMagnitude ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:decimal ;
+    ], [
+        sh:path dbo:apoapsis ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:decimal ;
+    ], [
+        sh:path dbo:periapsis ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:decimal ;
+    ], [
+        sh:path dbo:orbitalPeriod ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:decimal ;
+    ], [
+        sh:path dbo:rotationPeriod ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:decimal ;
+    ], [
+        sh:path dbo:epoch ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+    ], [
+        sh:path dbo:discovered ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:date ;
+    ], [
+        sh:path dbo:discoverer ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+    ], [
+        sh:path dbo:albedo ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:decimal ;
+    ], [
+        sh:path dbo:apparentMagnitude ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:decimal ;
+    ], [
+        sh:path dbo:averageSpeed ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:decimal ;
+    ], [
+        sh:path dbo:temperature ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:decimal ;
+    ], [
+        sh:path dbo:mass ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:decimal ;
+    ], [
+        sh:path dbo:formerName ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+    ], [
+        sh:path foaf:name ;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:string ;
+    ] .

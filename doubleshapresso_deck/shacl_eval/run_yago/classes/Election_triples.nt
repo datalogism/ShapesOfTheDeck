@@ -1,0 +1,1055 @@
+<http://yago-knowledge.org/resource/Algeria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Mediterranean_Country> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Nowgong_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#label> "2019 Indian general election in Nowgong Lok Sabha Constituency"@en .
+<http://yago-knowledge.org/resource/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/People_s_republic> .
+<http://yago-knowledge.org/resource/2023_Kyoto_City_Council_Election> <http://www.w3.org/2000/01/rdf-schema#label> "2023 Kyoto City Council election"@en .
+<http://yago-knowledge.org/resource/2003_Highland_Council_election> <http://schema.org/sameAs> "/m/02z8gkq" .
+<http://yago-knowledge.org/resource/Y------_--_------------_--------_----_2015_Q22132611> <http://www.w3.org/2000/01/rdf-schema#label> "Вибори до Хмельницької обласної ради 2015"@uk .
+<http://yago-knowledge.org/resource/2019_Indian_general_election_in_Andhra_Pradesh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Group_Of_Elections> .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://www.w3.org/2000/01/rdf-schema#comment> "вибори"@uk .
+<http://yago-knowledge.org/resource/2018_Brazilian_general_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Group_Of_Elections> .
+<http://yago-knowledge.org/resource/1920_Württemberg_state_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1914_Manchester_City_Council_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1914_Manchester_City_Council_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Kokrajhar_Lok_Sabha_Constituency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q64227778> .
+<http://yago-knowledge.org/resource/2019_Indian_general_election_in_Haryana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Group_Of_Elections> .
+<http://yago-knowledge.org/resource/Ełesion_Provinsałi_Del_Neuquén_Del_1983> <http://schema.org/location> <http://yago-knowledge.org/resource/Argentina> .
+<http://yago-knowledge.org/resource/Czech_Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Successor_State> .
+<http://yago-knowledge.org/resource/Élections_Cantonales_De_2008_Dans_Les_Deux-Sèvres> <http://www.w3.org/2000/01/rdf-schema#comment> "élections cantonales en France"@fr .
+<http://yago-knowledge.org/resource/Élections_Sénatoriales_De_2023_Dans_La_Meuse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Élections_Sénatoriales_De_2023_Dans_La_Meuse> <http://www.w3.org/2000/01/rdf-schema#label> "élections sénatoriales de 2023 dans la Meuse"@fr .
+<http://yago-knowledge.org/resource/2021_Canadian_Federal_Election_In_Labrador> <http://www.w3.org/2000/01/rdf-schema#comment> "district election within the 44th Canadian federal elections"@en .
+<http://yago-knowledge.org/resource/1866_Minnesota_State_Auditor_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1866_Minnesota_State_Auditor_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federal_republic> .
+<http://yago-knowledge.org/resource/1948_Legislative_Election_In_Shanghai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2022_Indiana_Secretary_of_State_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/1999_Indian_General_Election_In_Chandrapur_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "саҳифаи феҳристӣ"@tg .
+<http://yago-knowledge.org/resource/2015_Nigerian_Senate_elections_in_Enugu_State> <http://www.w3.org/2000/01/rdf-schema#comment> "2015 Nigerian Senate election in Enugu State"@en .
+<http://yago-knowledge.org/resource/Croatia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Unitary_state> .
+<http://yago-knowledge.org/resource/1963_Edinburgh_Corporation_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2005_Moscow_City_Duma_election> <http://yago-knowledge.org/resource/siteLinks> "3"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1924_United_States_Senate_election_in_Oklahoma> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "список на статии на Викимедија"@mk .
+<http://yago-knowledge.org/resource/2003_Highland_Council_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Quintana_Roo_Del_2018> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Dindori_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#label> "2009 Indian general election in Dindori Lok Sabha constituency"@en .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Hamirpur_Lok_Sabha_Constituency_Q125433874> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Hamirpur_Lok_Sabha_Constituency_Q63990857> .
+<http://yago-knowledge.org/resource/1973_Londonderry_City_Council_election> <http://www.w3.org/2000/01/rdf-schema#comment> "Local govt election in Northern Ireland"@en .
+<http://yago-knowledge.org/resource/Élections_Régionales_De_1992_En_Provence-Alpes-Côte_D_Azur> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Élections_Régionales_De_1992_En_Provence-Alpes-Côte_D_Azur> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/1994_Minnesota_Attorney_General_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimediako zerrenda artikulua"@eu .
+<http://yago-knowledge.org/resource/2018_Shelby_County_Tennessee_mayoral_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/2018_Shelby_County,_Tennessee_mayoral_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1969_Chilean_parliamentary_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Chilean_Parliamentary_Election> .
+<http://yago-knowledge.org/resource/2005_Moscow_City_Duma_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4128620> .
+<http://yago-knowledge.org/resource/2022_Indiana_Secretary_of_State_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q110550792> .
+<http://yago-knowledge.org/resource/2023_Nigerian_presidential_election_in_Oyo_State> <http://schema.org/sameAs> "/g/11trngj1bc" .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Sarguja_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2019_Indian_general_election_in_Chhattisgarh> .
+<http://yago-knowledge.org/resource/2023_Kyoto_City_Council_Election> <http://schema.org/location> <http://yago-knowledge.org/resource/Japan> .
+<http://yago-knowledge.org/resource/Eleição_Pra_Regente_No_Brasil_Em_1838> <http://schema.org/location> <http://yago-knowledge.org/resource/Brazil> .
+<http://yago-knowledge.org/resource/Ełesion_Rejonałi_De_Miranda_Del_2012> <http://schema.org/url> "https://es.wikipedia.org/wiki/Elecciones_regionales_de_Miranda_de_2012"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Sarguja_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/1973_Londonderry_City_Council_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2022_Indiana_Secretary_of_State_election> <http://www.w3.org/2000/01/rdf-schema#label> "2022年印第安納州州務卿選舉"@zh .
+<http://yago-knowledge.org/resource/Ełesion_Conplementari_De_Ciłe_De_Apriłe_Del_1971> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/1969_Chilean_parliamentary_election> .
+<http://yago-knowledge.org/resource/Q125182233> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125182233> .
+<http://yago-knowledge.org/resource/1900_United_States_House_of_Representatives_election_in_Wyoming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Communist_state> .
+<http://yago-knowledge.org/resource/1989_Aruban_general_election> <http://www.w3.org/2000/01/rdf-schema#label> "élections législatives arubaines de 1989"@fr .
+<http://yago-knowledge.org/resource/1902_United_States_House_of_Representatives_election_in_Wyoming> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/Élections_Cantonales_De_1895_Dans_La_Somme> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/2003_Highland_Council_election> <http://schema.org/alternateName> "Highland Council election, 2003"@en .
+<http://yago-knowledge.org/resource/2011_Canadian_Federal_Election_In_Quebec> <http://www.w3.org/2000/01/rdf-schema#label> "2011 Canadian federal election in Quebec"@en .
+<http://yago-knowledge.org/resource/2023_Nigerian_presidential_election_in_Oyo_State> <http://www.w3.org/2000/01/rdf-schema#label> "2023 Nigerian presidential election in Oyo State"@en .
+<http://yago-knowledge.org/resource/Elecciones_Internas_Del_Batllismo_De_1989> <http://schema.org/location> <http://yago-knowledge.org/resource/Uruguay> .
+<http://yago-knowledge.org/resource/Elecciones_Estatales_De_Chihuahua_De_1989> <http://www.w3.org/2000/01/rdf-schema#label> "ełesion statałi de Chihuahua del 1989"@vec .
+<http://yago-knowledge.org/resource/Ukraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Rechtsstaat> .
+<http://yago-knowledge.org/resource/2019_Croatian_national_minorities_councils_and_representatives_elections> <http://schema.org/sameAs> "/g/11fl40r6cg" .
+<http://yago-knowledge.org/resource/Q110117637> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q110117637> .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Kokrajhar_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Durg_Lok_Sabha_Constituency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125434040> .
+<http://yago-knowledge.org/resource/2023_Kyoto_City_Council_Election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Pemilihan_Umum_Bupati_Deiyai_2018> <http://schema.org/url> "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Deiyai_2018"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Élections_Cantonales_De_1895_Dans_La_Somme> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q109022057> .
+<http://yago-knowledge.org/resource/1963_Edinburgh_Corporation_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q85723386> .
+<http://yago-knowledge.org/resource/1973_Londonderry_City_Council_election> <http://schema.org/location> <http://yago-knowledge.org/resource/Republic_of_Ireland> .
+<http://yago-knowledge.org/resource/Mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Empire_Q48349> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Уикимедия списък"@bg .
+<http://yago-knowledge.org/resource/1870_Nevada_gubernatorial_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1982_United_States_House_of_Representatives_elections_in_New_Jersey> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1859_Victorian_colonial_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1859_Victorian_colonial_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Pemilihan_Umum_Bupati_Lampung_Utara_2018> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/1909_Hong_Kong_sanitary_board_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom_of_Great_Britain_and_Ireland> .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Bhadrachalam_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2004_Indian_general_election_in_Andhra_Pradesh> .
+<http://yago-knowledge.org/resource/1995_Boston_City_Council_election> <http://schema.org/sameAs> "/g/11f4v4vqmx" .
+<http://yago-knowledge.org/resource/1980_Cunninghame_District_Council_election> <http://www.w3.org/2000/01/rdf-schema#label> "1980 Cunninghame District Council election"@en .
+<http://yago-knowledge.org/resource/Ełesion_Federałi_Del_1967_In_Chihuahua> <http://schema.org/url> "https://es.wikipedia.org/wiki/Elecciones_federales_de_1967_en_Chihuahua"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2003_Highland_Council_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1988_Naga_Camarines_Sur_local_elections> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Élections_Sénatoriales_De_1968_En_Guadeloupe> <http://schema.org/url> "https://fr.wikipedia.org/wiki/%C3%89lections_s%C3%A9natoriales_de_1968_en_Guadeloupe"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1999_Highland_Council_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1995_Boston_City_Council_election> <http://www.w3.org/2000/01/rdf-schema#label> "1995 Boston City Council election"@en .
+<http://yago-knowledge.org/resource/2008_British_Columbia_municipal_elections> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2005_British_Columbia_municipal_elections> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "zoznamový článok projektov Wikimedia"@sk .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Sarguja_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#label> "2019 Indian general election in Sarguja Lok Sabha Constituency"@en .
+<http://yago-knowledge.org/resource/Pemilihan_Umum_Bupati_Deiyai_2018> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1890_Swansea_County_Borough_Council_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q65044728> .
+<http://yago-knowledge.org/resource/Ełesion_Federałi_Del_1967_In_Chihuahua> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/Élections_Cantonales_De_2008_Dans_Les_Deux-Sèvres> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125851373> .
+<http://yago-knowledge.org/resource/1866_Minnesota_State_Auditor_election> <http://www.w3.org/2000/01/rdf-schema#label> "1866 Minnesota State Auditor election"@en .
+<http://yago-knowledge.org/resource/1963_Edinburgh_Corporation_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Ełesion_Presidensiałi_De_Portogało_Del_2016_Inte_El_Distreto_De_Santarém> <http://schema.org/location> <http://yago-knowledge.org/resource/Portugal> .
+<http://yago-knowledge.org/resource/2024_Indian_General_Election_In_Shahjahanpur_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2022_Indiana_Secretary_of_State_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/2022_Indiana_Secretary_of_State_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Elecciones_Estatales_De_Chihuahua_De_1989> <http://schema.org/url> "https://es.wikipedia.org/wiki/Elecciones_estatales_de_Chihuahua_de_1989"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://schema.org/location> <http://yago-knowledge.org/resource/Argentina> .
+<http://yago-knowledge.org/resource/2003_Highland_Council_election> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/1999_Highland_Council_election> .
+<http://yago-knowledge.org/resource/2011_Canadian_Federal_Election_In_Quebec> <http://schema.org/url> "https://fr.wikipedia.org/wiki/%C3%89lections_f%C3%A9d%C3%A9rales_canadiennes_de_2011_au_Qu%C3%A9bec"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1871_French_legislative_election_in_Algeria> <http://schema.org/sameAs> "/m/0hnbjcd" .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Tezpur_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Tezpur_Lok_Sabha_Constituency> .
+<http://yago-knowledge.org/resource/1871_French_legislative_election_in_Algeria> <http://schema.org/alternateName> "French legislative election, 1871"@en .
+<http://yago-knowledge.org/resource/2008_British_Columbia_municipal_elections> <http://schema.org/sameAs> "/m/04zyr_t" .
+<http://yago-knowledge.org/resource/Élections_Sénatoriales_De_1968_En_Guadeloupe> <http://www.w3.org/2000/01/rdf-schema#label> "élections sénatoriales de 1968 en Guadeloupe"@fr .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "維基媒體列表條目"@zh-hant .
+<http://yago-knowledge.org/resource/Ełesion_Conplementari_De_Ciłe_De_Apriłe_Del_1971> <http://www.w3.org/2000/01/rdf-schema#comment> "elección extraordinaria de un senador de Chile en 1971"@es .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "维基媒体列表条目"@zh-sg .
+<http://yago-knowledge.org/resource/1881_Manchester_City_Council_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2011_International_Court_of_Justice_judges_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1969_Liechtenstein_local_elections> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Q110117637> <http://schema.org/url> "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%EA%B5%90%EC%9C%A1%EA%B0%90_%EC%84%A0%EA%B1%B0"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Ełesion_Presidensiałi_De_Portogało_Del_2016_Inte_El_Distreto_De_Santarém> <http://www.w3.org/2000/01/rdf-schema#label> "ełesion presidensiałi de Portogało del 2016 inte el distreto de Santarém"@vec .
+<http://yago-knowledge.org/resource/2018_Shelby_County_Tennessee_mayoral_election> <http://www.w3.org/2000/01/rdf-schema#label> "2018 Shelby County mayoral election"@en .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Surendranagar_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2008_United_States_House_of_Representatives_elections_in_Alabama> <http://schema.org/alternateName> "United States House of Representatives elections in Alabama, 2008"@en .
+<http://yago-knowledge.org/resource/2011_International_Court_of_Justice_judges_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/2011_International_Court_of_Justice_judges_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Élections_Sénatoriales_De_1968_En_Guadeloupe> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q126120190> .
+<http://yago-knowledge.org/resource/Czech_Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Elecciones_Estatales_De_Chihuahua_De_1989> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1964_Massachusetts_elections> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/1962_Massachusetts_elections> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimedia liste"@da .
+<http://yago-knowledge.org/resource/1999_Indian_General_Election_In_Autonomous_District_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Sarguja_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "general election in Chhattisgarh, India"@en .
+<http://yago-knowledge.org/resource/Japan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Island_country> .
+<http://yago-knowledge.org/resource/1964_Massachusetts_elections> <http://schema.org/sameAs> "/m/0gyv_hn" .
+<http://yago-knowledge.org/resource/1884_Manchester_City_Council_election> <http://www.w3.org/2000/01/rdf-schema#comment> "local election in Manchester"@en .
+<http://yago-knowledge.org/resource/Weimar_Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Secular_state> .
+<http://yago-knowledge.org/resource/1989_Aruban_general_election> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89tats%20d%27Aruba%201989.svg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2016_Kerala_Legislative_Assembly_Election_In_Ottapalam_State_Assembly_Constituency> <http://www.w3.org/2000/01/rdf-schema#label> "2016-ലെ ഒറ്റപ്പാലം നിയമസഭാ മണ്ഡലത്തിലെ കേരള നിയമസഭാ തെരഞ്ഞെടുപ്പ്"@ml .
+<http://yago-knowledge.org/resource/2013_Salzburg_state_election> <http://schema.org/url> "https://nl.wikipedia.org/wiki/Landdagverkiezingen_in_Salzburg_2013"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Samastipur_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2004_Indian_general_election_in_Bihar> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Durg_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Ecuadorian_Vice_Presidential_Election_2005> <http://www.w3.org/2000/01/rdf-schema#label> "elecciones vicepresidenciales de Ecuador de 2005"@es .
+<http://yago-knowledge.org/resource/2013_Salzburg_state_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2754693> .
+<http://yago-knowledge.org/resource/Nigeria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/1920_Württemberg_state_election> <http://schema.org/location> <http://yago-knowledge.org/resource/Weimar_Republic> .
+<http://yago-knowledge.org/resource/2016_Kerala_Legislative_Assembly_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/State_Assembly_Elections_In_Kerala> .
+<http://yago-knowledge.org/resource/Ełesion_Conplementari_De_Ciłe_De_Apriłe_Del_1971> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2023_Kyoto_City_Council_Election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Élections_Régionales_De_1992_En_Provence-Alpes-Côte_D_Azur> <http://schema.org/url> "https://fr.wikipedia.org/wiki/%C3%89lections_r%C3%A9gionales_de_1992_en_Provence-Alpes-C%C3%B4te_d%27Azur"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1990_Minnesota_Attorney_General_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Historical_Unrecognized_State> .
+<http://yago-knowledge.org/resource/1870_Nevada_gubernatorial_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2013_Salzburg_state_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://www.w3.org/2000/01/rdf-schema#label> "2005 Apulian regional election"@en .
+<http://yago-knowledge.org/resource/1902_United_States_House_of_Representatives_election_in_Wyoming> <http://schema.org/alternateName> "1902 US House of Representatives election in Wyoming"@en .
+<http://yago-knowledge.org/resource/Elecciones_Internas_Del_Batllismo_De_1989> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2016_Kerala_Legislative_Assembly_Election_In_Ottapalam_State_Assembly_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/Philippines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Island_country> .
+<http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Surendranagar_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#label> "2014 Indian general election in Surendranagar Lok Sabha constituency"@en .
+<http://yago-knowledge.org/resource/2013_Philippine_House_of_Representatives_elections_in_Central_Visayas> <http://schema.org/location> <http://yago-knowledge.org/resource/Philippines> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Tezpur_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Dindori_Lok_Sabha_Constituency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q64228555> .
+<http://yago-knowledge.org/resource/Q110117637> <http://schema.org/location> <http://yago-knowledge.org/resource/South_Korea> .
+<http://yago-knowledge.org/resource/United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Historical_Unrecognized_State> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "ৱিকিপিডিয়া:ৰচনাশৈলীৰ হাতপুথি"@as .
+<http://yago-knowledge.org/resource/1989_Aruban_general_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1989_Aruban_general_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1973_Londonderry_City_Council_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1973_Londonderry_City_Council_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Eleições_Estaduais_No_Maranhão_Em_2018> <http://schema.org/sameAs> "/g/11gl62q0cq" .
+<http://yago-knowledge.org/resource/Elecciones_Internas_Del_Batllismo_De_1989> <http://www.w3.org/2000/01/rdf-schema#label> "ełesion interne del Batllismo del 1989"@vec .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "artículo de lista de Wikimedia"@es .
+<http://yago-knowledge.org/resource/2023_Czech_presidential_election_debates> <http://schema.org/location> <http://yago-knowledge.org/resource/Czech_Republic> .
+<http://yago-knowledge.org/resource/2013_Salzburg_state_election> <http://schema.org/alternateName> "Salzburg state election, 2013"@en .
+<http://yago-knowledge.org/resource/1982_United_States_House_of_Representatives_elections_in_New_Jersey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Shahjahanpur_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2005_Moscow_City_Duma_election> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Moscow_City_Duma_election,_2005"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1924_United_States_Senate_election_in_Oklahoma> <http://schema.org/alternateName> "1924 US Senate election in Oklahoma"@en .
+<http://yago-knowledge.org/resource/2024_Indian_General_Election_In_Shahjahanpur_Lok_Sabha_Constituency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125509887> .
+<http://yago-knowledge.org/resource/2003_Highland_Council_election> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1928_Arkansas_gubernatorial_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q123774067> .
+<http://yago-knowledge.org/resource/United_Kingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Island_country> .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2000_Apulian_regional_election> .
+<http://yago-knowledge.org/resource/1999_Indian_General_Election_In_Bhadrachalam_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1920_Württemberg_state_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q107015864> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "seznam Wikimedie"@sl .
+<http://yago-knowledge.org/resource/2011_International_Court_of_Justice_judges_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Kakinada_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "general election in Andhra Pradesh, India"@en .
+<http://yago-knowledge.org/resource/2013_Mandaluyong_local_elections> <http://www.w3.org/2000/01/rdf-schema#comment> "part of 2013 Philippine general elections"@en .
+<http://yago-knowledge.org/resource/2008_British_Columbia_municipal_elections> <http://schema.org/url> "https://en.wikipedia.org/wiki/2008_British_Columbia_municipal_elections"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1962_Massachusetts_elections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Surendranagar_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2014_Indian_general_election_in_Gujarat> .
+<http://yago-knowledge.org/resource/1964_Massachusetts_elections> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6784398> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Bhiwani-Mahendragarh_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2019_Indian_general_election_in_Haryana> .
+<http://yago-knowledge.org/resource/1881_Manchester_City_Council_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q136172251> .
+<http://yago-knowledge.org/resource/1909_Hong_Kong_sanitary_board_election> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/1906_Hong_Kong_sanitary_board_election> .
+<http://yago-knowledge.org/resource/Elecciones_Estatales_De_Chihuahua_De_1989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1866_Minnesota_State_Auditor_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/2013_Salzburg_state_election> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Bhiwani-Mahendragarh_Lok_Sabha_Constituency> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/Chile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/1989_Aruban_general_election> <http://www.w3.org/2000/01/rdf-schema#label> "1989 Aruban general election"@en .
+<http://yago-knowledge.org/resource/1881_Manchester_City_Council_election> <http://www.w3.org/2000/01/rdf-schema#comment> "local election in Manchester"@en .
+<http://yago-knowledge.org/resource/2013_Philippine_House_of_Representatives_elections_in_Central_Visayas> <http://schema.org/alternateName> "Philippine House of Representatives elections in Central Visayas, 2013"@en .
+<http://yago-knowledge.org/resource/1964_Massachusetts_elections> <http://www.w3.org/2000/01/rdf-schema#label> "1964 Massachusetts general election"@en .
+<http://yago-knowledge.org/resource/2013_Salzburg_state_election> <http://schema.org/sameAs> "/m/010ltn4t" .
+<http://yago-knowledge.org/resource/2024_Indian_General_Election_In_Shahjahanpur_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Shahjahanpur_Lok_Sabha_Constituency> .
+<http://yago-knowledge.org/resource/1993_Boston_City_Council_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1880_Missouri_State_Treasurer_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://yago-knowledge.org/resource/siteLinks> "4"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Unitary_state> .
+<http://yago-knowledge.org/resource/Q125182233> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1859_Victorian_colonial_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q124415189> .
+<http://yago-knowledge.org/resource/Ełesion_Conplementari_De_Ciłe_De_Apriłe_Del_1971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Q125182233> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2018_Shelby_County_Tennessee_mayoral_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2013_Salzburg_state_election> <http://www.w3.org/2000/01/rdf-schema#label> "Landdagverkiezingen in Salzburg 2013"@nl .
+<http://yago-knowledge.org/resource/2016_Kerala_Legislative_Assembly_Election_In_Ottapalam_State_Assembly_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "elections for the 14th Legislative Assembly of Kerala"@en .
+<http://yago-knowledge.org/resource/2023_Czech_presidential_election_debates> <http://www.w3.org/2000/01/rdf-schema#label> "2023 Czech presidential election debates"@en .
+<http://yago-knowledge.org/resource/Élections_Cantonales_De_2008_Dans_Les_Deux-Sèvres> <http://www.w3.org/2000/01/rdf-schema#label> "élections cantonales de 2008 dans les Deux-Sèvres"@fr .
+<http://yago-knowledge.org/resource/2013_Salzburg_state_election> <http://schema.org/location> <http://yago-knowledge.org/resource/Austria> .
+<http://yago-knowledge.org/resource/1990_Orange_County_Florida_Chairman_election> <http://www.w3.org/2000/01/rdf-schema#label> "1990 Orange County, Florida Chairman election"@en .
+<http://yago-knowledge.org/resource/2022_Indiana_Secretary_of_State_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1914_Manchester_City_Council_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130724666> .
+<http://yago-knowledge.org/resource/2016_Kerala_Legislative_Assembly_Election_In_Ottapalam_State_Assembly_Constituency> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2016_Kerala_Legislative_Assembly_election> .
+<http://yago-knowledge.org/resource/2003_Highland_Council_election> <http://schema.org/sameAs> "/g/11df811q6l" .
+<http://yago-knowledge.org/resource/Elecciones_Internas_Del_Batllismo_De_1989> <http://www.w3.org/2000/01/rdf-schema#label> "elecciones internas del Batllismo de 1989"@es .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://schema.org/url> "https://de.wikipedia.org/wiki/Regionalwahl_in_Apulien_2005"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1924_United_States_Senate_election_in_Oklahoma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Ełesion_Provinsałi_Del_Neuquén_Del_1983> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2008_United_States_House_of_Representatives_elections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/United_States_House_Of_Representatives_Election> .
+<http://yago-knowledge.org/resource/1948_Legislative_Election_In_Shanghai> <http://schema.org/location> <http://yago-knowledge.org/resource/China> .
+<http://yago-knowledge.org/resource/1989_Aruban_general_election> <http://www.w3.org/2000/01/rdf-schema#comment> "вибори"@uk .
+<http://yago-knowledge.org/resource/Pemilihan_Umum_Bupati_Lampung_Utara_2018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1909_Hong_Kong_sanitary_board_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2019_Kyoto_City_Council_Election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2013_Salzburg_state_election> <http://www.w3.org/2000/01/rdf-schema#label> "Landtagswahl in Salzburg 2013"@de-at .
+<http://yago-knowledge.org/resource/2014_Shelby_County_Tennessee_mayoral_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2023_Kyoto_City_Council_Election> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2019_Kyoto_City_Council_Election> .
+<http://yago-knowledge.org/resource/Austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Rechtsstaat> .
+<http://yago-knowledge.org/resource/2019_Croatian_national_minorities_councils_and_representatives_elections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Élections_Sénatoriales_De_2023_Dans_Les_Pyrénées-Orientales> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Ełesion_Rejonałi_De_Miranda_Del_2012> <http://schema.org/sameAs> "/g/11x7vgyc5" .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "κατάλογος εγχειρήματος Wikimedia"@el .
+<http://yago-knowledge.org/resource/Q110117637> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/The_National_And_Local_Elections> .
+<http://yago-knowledge.org/resource/Russia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federation> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Bhiwani-Mahendragarh_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "general election in Haryana, India"@en .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Kakinada_Lok_Sabha_Constituency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125433033> .
+<http://yago-knowledge.org/resource/Ełesion_Presidensiałi_De_Portogało_Del_2016_Inte_El_Distreto_De_Santarém> <http://schema.org/sameAs> "/g/11ft8s_n4m" .
+<http://yago-knowledge.org/resource/Indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Island_country> .
+<http://yago-knowledge.org/resource/2009_Gada_Priekules_Novada_Domes_Vēlēšanas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Samastipur_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/1999_Indian_General_Election_In_Samastipur_Lok_Sabha_Constituency> .
+<http://yago-knowledge.org/resource/2015_Nigerian_Senate_elections_in_Enugu_State> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2003_Highland_Council_election> <http://www.w3.org/2000/01/rdf-schema#comment> "2003 Scottish local government election"@en .
+<http://yago-knowledge.org/resource/2012_Alaska_elections> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Sarguja_Lok_Sabha_Constituency> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/Ełesion_Presidensiałi_De_Portogało_Del_2016_Inte_El_Distreto_De_Santarém> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1859_Victorian_colonial_election> <http://www.w3.org/2000/01/rdf-schema#label> "1859 Victorian colonial election"@en .
+<http://yago-knowledge.org/resource/2012_Washington_State_Executive_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7972244> .
+<http://yago-knowledge.org/resource/Elecciones_Estatales_De_Chihuahua_De_1989> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/Philippines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Elección_Municipal_De_San_Salvador_De_2006> <http://schema.org/sameAs> "/g/11bwdcbs8t" .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Vikimedya liste maddesi"@tr .
+<http://yago-knowledge.org/resource/2007_Nigerian_House_of_Representatives_elections_in_Kwara_State> <http://schema.org/url> "https://ha.wikipedia.org/wiki/Zaben_2007_na_majalisar_wakilan_Najeriya_a_jihar_Kwara"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1988_Naga_Camarines_Sur_local_elections> <http://schema.org/url> "https://en.wikipedia.org/wiki/1988_Naga,_Camarines_Sur,_local_elections"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1909_Hong_Kong_sanitary_board_election> <http://schema.org/url> "https://zh.wikipedia.org/wiki/1909%E5%B9%B4%E9%A6%99%E6%B8%AF%E6%BD%94%E6%B7%A8%E5%B1%80%E9%81%B8%E8%88%89"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2024_Indiana_Attorney_General_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/2024_Indiana_Attorney_General_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2013_Salzburg_state_election> <http://schema.org/url> "https://de.wikipedia.org/wiki/Landtagswahl_in_Salzburg_2013"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1866_Minnesota_State_Auditor_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130619084> .
+<http://yago-knowledge.org/resource/2011_Canadian_Federal_Election_In_Quebec> <http://www.w3.org/2000/01/rdf-schema#comment> "Élection des députés du Québec siégeant à la Chambre des communes du Canada de 2011 à 2015"@fr .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Nowgong_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2019_Indian_general_election_in_Assam> .
+<http://yago-knowledge.org/resource/2021_Canadian_Federal_Election_In_Labrador> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "articol-listă în cadrul unui proiect Wikimedia"@ro .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Kakinada_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/1914_Manchester_City_Council_election> <http://www.w3.org/2000/01/rdf-schema#label> "1914 Manchester City Council election"@en .
+<http://yago-knowledge.org/resource/2022_Indiana_Secretary_of_State_election> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/Ecuadorian_Vice_Presidential_Election_2005> <http://schema.org/url> "https://ast.wikipedia.org/wiki/Eleiciones_vicepresidenciales_d%27Ecuador_de_2005"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1964_Massachusetts_elections> <http://schema.org/url> "https://en.wikipedia.org/wiki/1964_Massachusetts_elections"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Vadakara_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Badagara_Lok_Sabha_Constituency> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimedia list article"@en-gb .
+<http://yago-knowledge.org/resource/Elecciones_Internas_Del_Batllismo_De_1989> <http://schema.org/sameAs> "/g/12240n1n" .
+<http://yago-knowledge.org/resource/1884_Manchester_City_Council_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q136196801> .
+<http://yago-knowledge.org/resource/2013_Mandaluyong_local_elections> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q115815126> .
+<http://yago-knowledge.org/resource/1925_Llandeilo_Rural_District_Council_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q85721775> .
+<http://yago-knowledge.org/resource/2011_Canadian_Federal_Election_In_Quebec> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q21074981> .
+<http://yago-knowledge.org/resource/1880_Missouri_State_Treasurer_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1902_United_States_House_of_Representatives_election_in_Wyoming> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/2019_Indian_general_election_in_Uttar_Pradesh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Group_Of_Elections> .
+<http://yago-knowledge.org/resource/1870_Nevada_gubernatorial_election> <http://www.w3.org/2000/01/rdf-schema#comment> "Election for the Governor of Nevada"@en .
+<http://yago-knowledge.org/resource/2005_Moscow_City_Duma_election> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2001_Moscow_City_Duma_election> .
+<http://yago-knowledge.org/resource/2006_United_States_House_of_Representatives_elections_in_Alabama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1884_Manchester_City_Council_election> <http://www.w3.org/2000/01/rdf-schema#label> "1884 Manchester City Council election"@en .
+<http://yago-knowledge.org/resource/1925_Llandeilo_Rural_District_Council_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/1989_Aruban_general_election> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/1985_Aruban_general_election> .
+<http://yago-knowledge.org/resource/1992_Clydesdale_District_Council_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Italy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Unitary_state> .
+<http://yago-knowledge.org/resource/2018_New_York_State_Senate_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/2007_Nigerian_House_of_Representatives_elections_in_Kwara_State> <http://schema.org/url> "https://ig.wikipedia.org/wiki/2007_Nh%E1%BB%8Dr%E1%BB%8D_%E1%BB%A5l%E1%BB%8D_nd%E1%BB%8B_nn%E1%BB%8Dchi_anya_Naijiria_na_Kwara_Steeti"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1902_United_States_House_of_Representatives_election_in_Wyoming> <http://www.w3.org/2000/01/rdf-schema#label> "1902 United States House of Representatives election in Wyoming"@en .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "維基媒體列表條目"@zh-hk .
+<http://yago-knowledge.org/resource/Elección_Municipal_De_San_Salvador_De_2006> <http://www.w3.org/2000/01/rdf-schema#label> "Elección municipal de San Salvador de 2006"@es .
+<http://yago-knowledge.org/resource/1989_Aruban_general_election> <http://schema.org/location> <http://yago-knowledge.org/resource/Aruba> .
+<http://yago-knowledge.org/resource/Élections_Cantonales_De_1895_Dans_La_Somme> <http://schema.org/url> "https://fr.wikipedia.org/wiki/%C3%89lections_cantonales_de_1895_dans_la_Somme"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2008_United_States_House_of_Representatives_elections_in_Alabama> <http://www.w3.org/2000/01/rdf-schema#label> "2008 United States House of Representatives elections in Alabama"@en .
+<http://yago-knowledge.org/resource/1994_Minnesota_Attorney_General_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q114566457> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimedia-list"@fy .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimedia-luetteloartikkeli"@fi .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Quintana_Roo_Del_2018> <http://www.w3.org/2000/01/rdf-schema#label> "ełesion statałi de Quintana Roo del 2018"@vec .
+<http://yago-knowledge.org/resource/1909_Hong_Kong_sanitary_board_election> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/United_Kingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Colonial_Power> .
+<http://yago-knowledge.org/resource/1948_Legislative_Election_In_Shanghai> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q124155455> .
+<http://yago-knowledge.org/resource/1866_Minnesota_State_Auditor_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Eilandsraadsverkiezingen_2015> <http://schema.org/location> <http://yago-knowledge.org/resource/Netherlands> .
+<http://yago-knowledge.org/resource/Eleições_Estaduais_No_Maranhão_Em_2018> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2024_Indian_General_Election_In_Shahjahanpur_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "general election in Uttar Pradesh, India"@en .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "article de llista de Wikimedia"@ca .
+<http://yago-knowledge.org/resource/2005_Moscow_City_Duma_election> <http://schema.org/alternateName> "Moscow City Duma election, 2005"@en .
+<http://yago-knowledge.org/resource/2023_Czech_presidential_election_debates> <http://schema.org/url> "https://en.wikipedia.org/wiki/2023_Czech_presidential_election_debates"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1995_Boston_City_Council_election> <http://schema.org/alternateName> "Boston City Council election, 1995"@en .
+<http://yago-knowledge.org/resource/1980_Cunninghame_District_Council_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1980_Cunninghame_District_Council_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Y------_--_------------_--------_----_2015_Q22132611> <http://schema.org/sameAs> "/g/11bxf3gdly" .
+<http://yago-knowledge.org/resource/2013_Salzburg_state_election> <http://www.w3.org/2000/01/rdf-schema#label> "Landtagswahl in Salzburg 2013"@de .
+<http://yago-knowledge.org/resource/1969_Liechtenstein_local_elections> <http://www.w3.org/2000/01/rdf-schema#label> "1969 Liechtenstein local elections"@en .
+<http://yago-knowledge.org/resource/1973_Londonderry_City_Council_election> <http://schema.org/sameAs> "/g/11c7026mt0" .
+<http://yago-knowledge.org/resource/1880_Missouri_State_Treasurer_election> <http://www.w3.org/2000/01/rdf-schema#label> "1880 Missouri State Treasurer election"@en .
+<http://yago-knowledge.org/resource/2004_Western_Cape_provincial_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2015_Nigerian_Senate_elections_in_Enugu_State> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q108314833> .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Vadakara_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2023_Nigerian_presidential_election_in_Oyo_State> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116449550> .
+<http://yago-knowledge.org/resource/Ecuadorian_Vice_Presidential_Election_2005> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1870_Nevada_gubernatorial_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1870_Nevada_gubernatorial_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2013_Mandaluyong_local_elections> <http://www.w3.org/2000/01/rdf-schema#label> "2013 Mandaluyong local elections"@en .
+<http://yago-knowledge.org/resource/1999_Indian_General_Election_In_Samastipur_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimedia-Listn"@ba .
+<http://yago-knowledge.org/resource/1990_Orange_County_Florida_Chairman_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://schema.org/location> <http://yago-knowledge.org/resource/Italy> .
+<http://yago-knowledge.org/resource/2007_Nigerian_House_of_Representatives_elections_in_Kwara_State> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q109252974> .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Vadakara_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#label> "2009 Indian general election in Vadakara Lok Sabha constituency"@en .
+<http://yago-knowledge.org/resource/1924_United_States_Senate_election_in_Oklahoma> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1989_Aruban_general_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Pemilihan_Umum_Bupati_Lampung_Utara_2018> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1925_Llandeilo_Rural_District_Council_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Élections_Cantonales_De_1895_Dans_La_Somme> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1871_French_legislative_election_in_Algeria> <http://www.w3.org/2000/01/rdf-schema#label> "1871 French legislative election in Algeria"@en .
+<http://yago-knowledge.org/resource/1992_Clydesdale_District_Council_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Netherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimedia-Liste"@de-at .
+<http://yago-knowledge.org/resource/Ełesion_Federałi_Del_1967_In_Chihuahua> <http://www.w3.org/2000/01/rdf-schema#label> "Elecciones federales de 1967 en Chihuahua"@es .
+<http://yago-knowledge.org/resource/2005_Moscow_City_Duma_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/2005_Moscow_City_Duma_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1880_Missouri_State_Treasurer_election> <http://www.w3.org/2000/01/rdf-schema#comment> "state officeholder election in Missouri, USA"@en .
+<http://yago-knowledge.org/resource/1881_Manchester_City_Council_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1881_Manchester_City_Council_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Bhiwani-Mahendragarh_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#label> "2019 Indian general election in Bhiwani-mahendragarh Lok Sabha Constituency"@en .
+<http://yago-knowledge.org/resource/1909_Hong_Kong_sanitary_board_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16923562> .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wahl"@de .
+<http://yago-knowledge.org/resource/2013_Salzburg_state_election> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2009_Salzburg_state_election> .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Bhadrachalam_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2012_Alaska_elections> <http://schema.org/url> "https://en.wikipedia.org/wiki/2012_Alaska_elections"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2023_Nigerian_presidential_election_in_Oyo_State> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Eleições_Estaduais_No_Tocantins_Em_1998> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Eleição_Pra_Regente_No_Brasil_Em_1838> <http://www.w3.org/2000/01/rdf-schema#label> "Eleição pra regente no Brasil em 1838"@pt .
+<http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Surendranagar_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/1982_United_States_House_of_Representatives_elections_in_New_Jersey> <http://schema.org/url> "https://en.wikipedia.org/wiki/1982_United_States_House_of_Representatives_elections_in_New_Jersey"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2021_Canadian_Federal_Election_In_Labrador> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130595314> .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Quintana_Roo_Del_2018> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "විකිමීඩියා ලැයිස්තු ලිපිය"@si .
+<http://yago-knowledge.org/resource/Eleições_Estaduais_No_Tocantins_Em_1998> <http://schema.org/url> "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%B5es_estaduais_no_Tocantins_em_1998"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Pemilihan_Umum_Bupati_Lampung_Utara_2018> <http://www.w3.org/2000/01/rdf-schema#label> "Pemilihan umum Bupati Lampung Utara 2018"@id .
+<http://yago-knowledge.org/resource/Eleições_Estaduais_No_Tocantins_Em_1998> <http://www.w3.org/2000/01/rdf-schema#label> "ełesion statałi de Tocantins del 1998"@vec .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Tezpur_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#label> "2019 Indian general election in Tezpur Lok Sabha Constituency"@en .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#label> "Elecciones en la provincia de Tierra del Fuego de 2015"@es .
+<http://yago-knowledge.org/resource/2004_Western_Cape_provincial_election> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2004_Indian_general_election_in_Bihar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Group_Of_Elections> .
+<http://yago-knowledge.org/resource/1890_Swansea_County_Borough_Council_election> <http://schema.org/sameAs> "/g/11h3x4y_9q" .
+<http://yago-knowledge.org/resource/Elecciones_Estatales_De_Chihuahua_De_1989> <http://www.w3.org/2000/01/rdf-schema#label> "elecciones estatales de Chihuahua de 1989"@es .
+<http://yago-knowledge.org/resource/2007_Nigerian_House_of_Representatives_elections_in_Kwara_State> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1924_United_States_Senate_election_in_Oklahoma> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q107324791> .
+<http://yago-knowledge.org/resource/Pemilihan_Umum_Bupati_Deiyai_2018> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Tamaulipas_Del_2004> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2013_Philippine_House_of_Representatives_elections_in_Central_Visayas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1866_Minnesota_State_Auditor_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2023_Kyoto_City_Council_Election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q120335831> .
+<http://yago-knowledge.org/resource/Ełesion_Conplementari_De_Ciłe_De_Apriłe_Del_1971> <http://schema.org/location> <http://yago-knowledge.org/resource/Chile> .
+<http://yago-knowledge.org/resource/1990_Orange_County_Florida_Chairman_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q135855670> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimedia-Lëschtenartikel"@lb .
+<http://yago-knowledge.org/resource/2016_Quintana_Roo_gubernatorial_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Gubernatorial_Election> .
+<http://yago-knowledge.org/resource/2013_Salzburg_state_election> <http://www.w3.org/2000/01/rdf-schema#label> "2013 Salzburg state election"@en .
+<http://yago-knowledge.org/resource/France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Colonial_Power> .
+<http://yago-knowledge.org/resource/Elección_Municipal_De_San_Salvador_De_2006> <http://schema.org/url> "https://es.wikipedia.org/wiki/Elecci%C3%B3n_municipal_de_San_Salvador_de_2006"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Elecciones_Vicepresidenciales_D_Ecuador_De_2000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1925_Llandeilo_Rural_District_Council_election> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/1902_United_States_House_of_Representatives_election_in_Wyoming> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1909_Hong_Kong_sanitary_board_election> <http://www.w3.org/2000/01/rdf-schema#label> "1909年香港潔淨局選舉"@zh .
+<http://yago-knowledge.org/resource/Ełesion_Federałi_Del_1967_In_Chihuahua> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q115696389> .
+<http://yago-knowledge.org/resource/2019_Croatian_national_minorities_councils_and_representatives_elections> <http://schema.org/location> <http://yago-knowledge.org/resource/Croatia> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "וויקימעדיע ליסטע"@yi .
+<http://yago-knowledge.org/resource/1992_Clydesdale_District_Council_election> <http://www.w3.org/2000/01/rdf-schema#label> "1992 Clydesdale District Council election"@en .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2011_Tierra_Del_Fuego_Provincial_Election> .
+<http://yago-knowledge.org/resource/1871_French_legislative_election_in_Algeria> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5502288> .
+<http://yago-knowledge.org/resource/2019_Ōita_Prefectural_Election> <http://schema.org/alternateName> "2019 Oita prefectural election"@en .
+<http://yago-knowledge.org/resource/Élections_Sénatoriales_De_2023_Dans_Les_Pyrénées-Orientales> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125850162> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Tezpur_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "general election in Assam, India"@en .
+<http://yago-knowledge.org/resource/Y------_--_------------_--------_----_2015_Q22132611> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1925_Llandeilo_Rural_District_Council_election> <http://www.w3.org/2000/01/rdf-schema#comment> "Local council by-election in Wales"@en .
+<http://yago-knowledge.org/resource/Ełesion_Presidensiałi_De_Portogało_Del_2016_Inte_El_Distreto_De_Santarém> <http://schema.org/url> "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%B5es_presidenciais_portuguesas_de_2016_no_distrito_de_Santar%C3%A9m"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/South_Africa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Russia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3722844> .
+<http://yago-knowledge.org/resource/India> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Dominion> .
+<http://yago-knowledge.org/resource/Eleições_Estaduais_No_Maranhão_Em_2018> <http://www.w3.org/2000/01/rdf-schema#comment> "eleições diretas para eleger um governador, 2 senadores, 42 deputados estaduais e 18 federais no Maranhão em 2018"@pt .
+<http://yago-knowledge.org/resource/1906_Hong_Kong_sanitary_board_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2012_Alaska_elections> <http://schema.org/alternateName> "Alaska elections, 2012"@en .
+<http://yago-knowledge.org/resource/2018_New_York_State_Senate_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Samastipur_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#label> "2004 Indian general election in Samastipur Lok Sabha constituency"@en .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Bhiwani-Mahendragarh_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2019_Ōita_Prefectural_Election> <http://schema.org/url> "https://ja.wikipedia.org/wiki/2019%E5%B9%B4%E5%A4%A7%E5%88%86%E7%9C%8C%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%E9%81%B8%E6%8C%99"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://www.w3.org/2000/01/rdf-schema#label> "Regionalwahl in Apulien 2005"@de .
+<http://yago-knowledge.org/resource/1914_Manchester_City_Council_election> <http://www.w3.org/2000/01/rdf-schema#comment> "local election in Manchester"@en .
+<http://yago-knowledge.org/resource/2024_Indiana_Attorney_General_election> <http://www.w3.org/2000/01/rdf-schema#label> "2024 Indiana Attorney General election"@en .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimedia leet airticle"@sco .
+<http://yago-knowledge.org/resource/2009_Gada_Priekules_Novada_Domes_Vēlēšanas> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20578209> .
+<http://yago-knowledge.org/resource/2008_United_States_House_of_Representatives_elections_in_Alabama> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2006_United_States_House_of_Representatives_elections_in_Alabama> .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Dindori_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "lista di un progetto Wikimedia"@it .
+<http://yago-knowledge.org/resource/Ełesion_Provinsałi_Del_Neuquén_Del_1983> <http://www.w3.org/2000/01/rdf-schema#label> "ełesion provinsałi del Neuquén del 1983"@vec .
+<http://yago-knowledge.org/resource/Elecciones_Internas_Del_Batllismo_De_1989> <http://schema.org/url> "https://es.wikipedia.org/wiki/Elecciones_internas_del_Batllismo_de_1989"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Q110117637> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1881_Manchester_City_Council_election> <http://www.w3.org/2000/01/rdf-schema#label> "1881 Manchester City Council election"@en .
+<http://yago-knowledge.org/resource/2015_Nigerian_Senate_elections_in_Enugu_State> <http://schema.org/sameAs> "/g/11n___w2mt" .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Autonomous_District_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/1999_Indian_General_Election_In_Autonomous_District_Lok_Sabha_Constituency> .
+<http://yago-knowledge.org/resource/1973_Londonderry_City_Council_election> <http://schema.org/alternateName> "Londonderry City Council election, 1973"@en .
+<http://yago-knowledge.org/resource/1999_Indian_General_Election_In_Chandrapur_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1989_Aruban_general_election> <http://schema.org/url> "https://fr.wikipedia.org/wiki/%C3%89lections_l%C3%A9gislatives_arubaines_de_1989"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Eilandsraadsverkiezingen_2015> <http://www.w3.org/2000/01/rdf-schema#label> "Eilandsraadsverkiezingen 2015"@nl .
+<http://yago-knowledge.org/resource/Eleições_Estaduais_No_Tocantins_Em_1998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1995_Boston_City_Council_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q55075293> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Nowgong_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/1890_Swansea_County_Borough_Council_election> <http://www.w3.org/2000/01/rdf-schema#label> "1890 Swansea County Borough Council election"@en .
+<http://yago-knowledge.org/resource/2012_Washington_State_Executive_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Quintana_Roo_Del_2018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Élections_Cantonales_De_1895_Dans_La_Somme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1989_Aruban_general_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17844541> .
+<http://yago-knowledge.org/resource/2008_United_States_House_of_Representatives_elections_in_Alabama> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Élections_Régionales_De_1992_En_Provence-Alpes-Côte_D_Azur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2011_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Eilandsraadsverkiezingen_2015> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1989_Aruban_general_election> <http://yago-knowledge.org/resource/siteLinks> "3"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2018_New_York_State_Senate_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/2018_New_York_State_Senate_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1988_Naga_Camarines_Sur_local_elections> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134781358> .
+<http://yago-knowledge.org/resource/1871_French_legislative_election_in_Algeria> <http://www.w3.org/2000/01/rdf-schema#label> "élections législatives françaises de 1871 en Algérie"@fr .
+<http://yago-knowledge.org/resource/Elección_Municipal_De_San_Salvador_De_2006> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q21564152> .
+<http://yago-knowledge.org/resource/1880_Missouri_State_Treasurer_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1880_Missouri_State_Treasurer_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1859_Victorian_colonial_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Ukraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Surendranagar_Lok_Sabha_Constituency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q63988207> .
+<http://yago-knowledge.org/resource/Elección_Municipal_De_San_Salvador_De_2006> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/Elección_Municipal_De_San_Salvador_De_2003> .
+<http://yago-knowledge.org/resource/Ukraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Social_state> .
+<http://yago-knowledge.org/resource/2018_New_York_State_Senate_election> <http://www.w3.org/2000/01/rdf-schema#comment> "election"@en .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Kakinada_Lok_Sabha_Constituency> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/1925_Llandeilo_Rural_District_Council_election> <http://www.w3.org/2000/01/rdf-schema#label> "1925 Llandeilo Rural District Council election"@en .
+<http://yago-knowledge.org/resource/1928_Arkansas_gubernatorial_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/2005_Apulian_regional_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Ecuadorian_Vice_Presidential_Election_2005> <http://www.w3.org/2000/01/rdf-schema#label> "ełesion visepresidensiałi de Ècuador del 2005"@vec .
+<http://yago-knowledge.org/resource/2023_Czech_presidential_election_debates> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q115816007> .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Bhadrachalam_Lok_Sabha_Constituency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q64271210> .
+<http://yago-knowledge.org/resource/2021_Canadian_Federal_Election_In_Labrador> <http://www.w3.org/2000/01/rdf-schema#label> "2021 Canadian federal election in Labrador"@en .
+<http://yago-knowledge.org/resource/1890_Swansea_County_Borough_Council_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/1902_United_States_House_of_Representatives_election_in_Wyoming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2000_Delaware_lieutenant_gubernatorial_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2008_United_States_House_of_Representatives_elections_in_Alabama> <http://schema.org/sameAs> "/m/03c82zg" .
+<http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Durg_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://schema.org/url> "https://es.wikipedia.org/wiki/Elecciones_provinciales_de_Tierra_del_Fuego_de_2015"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "ojúewé àtojọ Wikimedia"@yo .
+<http://yago-knowledge.org/resource/Election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/shacl#NodeShape> .
+<http://yago-knowledge.org/resource/Ełesion_Provinsałi_Del_Neuquén_Del_1983> <http://schema.org/url> "https://es.wikipedia.org/wiki/Elecciones_provinciales_del_Neuqu%C3%A9n_de_1983"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2014_Indian_general_election_in_Gujarat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Group_Of_Elections> .
+<http://yago-knowledge.org/resource/Élections_Sénatoriales_De_2023_Dans_Les_Pyrénées-Orientales> <http://schema.org/url> "https://fr.wikipedia.org/wiki/%C3%89lections_s%C3%A9natoriales_de_2023_dans_les_Pyr%C3%A9n%C3%A9es-Orientales"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1994_Minnesota_Attorney_General_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Ełesion_Rejonałi_De_Miranda_Del_2012> <http://www.w3.org/2000/01/rdf-schema#comment> "вибори"@uk .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://schema.org/sameAs> "/m/04q3356" .
+<http://yago-knowledge.org/resource/Ełesion_Rejonałi_De_Miranda_Del_2012> <http://www.w3.org/2000/01/rdf-schema#label> "elecciones regionales de Miranda de 2012"@es .
+<http://yago-knowledge.org/resource/Ełesion_Rejonałi_De_Miranda_Del_2012> <http://schema.org/location> <http://yago-knowledge.org/resource/Venezuela> .
+<http://yago-knowledge.org/resource/Élections_Cantonales_De_2008_Dans_Les_Deux-Sèvres> <http://schema.org/url> "https://fr.wikipedia.org/wiki/%C3%89lections_cantonales_de_2008_dans_les_Deux-S%C3%A8vres"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimedia-listeartikkel"@nn .
+<http://yago-knowledge.org/resource/2008_British_Columbia_municipal_elections> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2018_New_York_State_Senate_election> <http://www.w3.org/2000/01/rdf-schema#label> "2018 New York Senate election"@en .
+<http://yago-knowledge.org/resource/2018_New_York_State_Senate_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Eleições_Estaduais_No_Maranhão_Em_2018> <http://www.w3.org/2000/01/rdf-schema#label> "Eleições estaduais no Maranhão em 2018"@pt .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Sarguja_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Sarguja_Lok_Sabha_Constituency> .
+<http://yago-knowledge.org/resource/2019_Ōita_Prefectural_Election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Bhadrachalam_Lok_Sabha_Constituency> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/1924_United_States_Senate_election_in_Oklahoma> <http://www.w3.org/2000/01/rdf-schema#label> "オクラホマ州の1924年アメリカ合衆国上院議員選挙"@ja .
+<http://yago-knowledge.org/resource/Nigeria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federal_republic> .
+<http://yago-knowledge.org/resource/2024_Indiana_Attorney_General_election> <http://schema.org/url> "https://zh.wikipedia.org/wiki/2024%E5%B9%B4%E5%8D%B0%E7%AC%AC%E5%AE%89%E7%B4%8D%E5%B7%9E%E7%B8%BD%E6%AA%A2%E5%AF%9F%E9%95%B7%E9%81%B8%E8%88%89"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2013_Philippine_House_of_Representatives_elections_in_Central_Visayas> <http://schema.org/url> "https://en.wikipedia.org/wiki/2013_Philippine_House_of_Representatives_elections_in_Central_Visayas"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2019_Indian_general_election_in_Assam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Group_Of_Elections> .
+<http://yago-knowledge.org/resource/Elecciones_Internas_Del_Batllismo_De_1989> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2005_British_Columbia_municipal_elections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1994_Minnesota_Attorney_General_election> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/1990_Minnesota_Attorney_General_election> .
+<http://yago-knowledge.org/resource/Eleições_Estaduais_No_Maranhão_Em_2018> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2018_Brazilian_general_election> .
+<http://yago-knowledge.org/resource/1924_United_States_Senate_election_in_Oklahoma> <http://schema.org/alternateName> "1924年選出"@ja .
+<http://yago-knowledge.org/resource/2011_Canadian_Federal_Election_In_Quebec> <http://www.w3.org/2000/01/rdf-schema#label> "élections fédérales canadiennes de 2011 au Québec"@fr .
+<http://yago-knowledge.org/resource/Mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federal_republic> .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Autonomous_District_Lok_Sabha_Constituency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q64272816> .
+<http://yago-knowledge.org/resource/2019_Ōita_Prefectural_Election> <http://schema.org/location> <http://yago-knowledge.org/resource/Japan> .
+<http://yago-knowledge.org/resource/Portugal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Colonial_Power> .
+<http://yago-knowledge.org/resource/2013_Philippine_House_of_Representatives_elections_in_Central_Visayas> <http://schema.org/sameAs> "/m/0nccv6y" .
+<http://yago-knowledge.org/resource/2007_Nigerian_House_of_Representatives_elections_in_Kwara_State> <http://www.w3.org/2000/01/rdf-schema#label> "Zaben 2007 na majalisar wakilan Najeriya a jihar Kwara"@ha .
+<http://yago-knowledge.org/resource/Croatia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Mediterranean_Country> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "rencana senarai Wikimedia"@ms .
+<http://yago-knowledge.org/resource/2011_Canadian_Federal_Election_In_Quebec> <http://schema.org/sameAs> "/g/11b8kx3w3t" .
+<http://yago-knowledge.org/resource/1871_French_legislative_election_in_Algeria> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Y------_--_------------_--------_----_2015_Q22132611> <http://schema.org/location> <http://yago-knowledge.org/resource/Ukraine> .
+<http://yago-knowledge.org/resource/1909_Hong_Kong_sanitary_board_election> <http://schema.org/sameAs> "/m/0nbtyt6" .
+<http://yago-knowledge.org/resource/Eleição_Pra_Regente_No_Brasil_Em_1838> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimedia-Liste"@de .
+<http://yago-knowledge.org/resource/Ełesion_Provinsałi_Del_Neuquén_Del_1983> <http://www.w3.org/2000/01/rdf-schema#label> "elecciones provinciales del Neuquén de 1983"@es .
+<http://yago-knowledge.org/resource/Argentina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/1964_Massachusetts_elections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Pemilihan_Umum_Bupati_Lampung_Utara_2018> <http://schema.org/sameAs> "/g/11gnsdjtk7" .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Hamirpur_Lok_Sabha_Constituency_Q125433874> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimedia-listeartikkel"@nb .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Quintana_Roo_Del_2018> <http://schema.org/sameAs> "/g/11csq2lnxc" .
+<http://yago-knowledge.org/resource/1924_United_States_Senate_election_in_Oklahoma> <http://www.w3.org/2000/01/rdf-schema#label> "1924 United States Senate election in Oklahoma"@en .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "위키미디어 목록 항목"@ko .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Kokrajhar_Lok_Sabha_Constituency> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/1870_Nevada_gubernatorial_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q120467020> .
+<http://yago-knowledge.org/resource/1982_United_States_House_of_Representatives_elections_in_New_Jersey> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q135495839> .
+<http://yago-knowledge.org/resource/Y------_--_------------_--------_----_2015_Q22132611> <http://schema.org/url> "https://uk.wikipedia.org/wiki/%D0%92%D0%B8%D0%B1%D0%BE%D1%80%D0%B8_%D0%B4%D0%BE_%D0%A5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%BE%D1%97_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%BE%D1%97_%D1%80%D0%B0%D0%B4%D0%B8_2015"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1973_Londonderry_City_Council_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2009_Gada_Priekules_Novada_Domes_Vēlēšanas> <http://schema.org/location> <http://yago-knowledge.org/resource/Latvia> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Kakinada_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2019_Indian_general_election_in_Andhra_Pradesh> .
+<http://yago-knowledge.org/resource/2012_Washington_State_Executive_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Argentina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federal_republic> .
+<http://yago-knowledge.org/resource/1999_Indian_General_Election_In_Chandrapur_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/1998_Indian_General_Election_In_Chandrapur_Lok_Sabha_Constituency> .
+<http://yago-knowledge.org/resource/India> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/2013_Mandaluyong_local_elections> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Ełesion_Federałi_Del_1967_In_Chihuahua> <http://www.w3.org/2000/01/rdf-schema#label> "ełesion federałi del 1967 in Chihuahua"@vec .
+<http://yago-knowledge.org/resource/Aruba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Island_country> .
+<http://yago-knowledge.org/resource/2019_Ōita_Prefectural_Election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q85863773> .
+<http://yago-knowledge.org/resource/2007_Nigerian_House_of_Representatives_elections_in_Kwara_State> <http://yago-knowledge.org/resource/siteLinks> "3"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Chile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Transcontinental_country> .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Quintana_Roo_Del_2018> <http://schema.org/location> <http://yago-knowledge.org/resource/Mexico> .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Vadakara_Lok_Sabha_Constituency> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/1890_Swansea_County_Borough_Council_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "списак на Викимедији"@sr .
+<http://yago-knowledge.org/resource/1881_Manchester_City_Council_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Ełesion_Rejonałi_De_Miranda_Del_2012> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2022_Indiana_Secretary_of_State_election> <http://schema.org/url> "https://zh.wikipedia.org/wiki/2022%E5%B9%B4%E5%8D%B0%E7%AC%AC%E5%AE%89%E7%B4%8D%E5%B7%9E%E5%B7%9E%E5%8B%99%E5%8D%BF%E9%81%B8%E8%88%89"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1969_Liechtenstein_local_elections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federation> .
+<http://yago-knowledge.org/resource/Eleição_Pra_Regente_No_Brasil_Em_1838> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2011_International_Court_of_Justice_judges_election> <http://www.w3.org/2000/01/rdf-schema#label> "2011 International Court of Justice judges election"@en .
+<http://yago-knowledge.org/resource/2023_Kyoto_City_Council_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/1988_Naga_Camarines_Sur_local_elections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2011_International_Court_of_Justice_judges_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6049939> .
+<http://yago-knowledge.org/resource/1963_Edinburgh_Corporation_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Eleições_Presidenciais_Portuguesas_De_2011_No_Distrito_De_Santarém> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Pemilihan_Umum_Bupati_Deiyai_2018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Hamirpur_Lok_Sabha_Constituency_Q125433874> <http://www.w3.org/2000/01/rdf-schema#label> "2019 Indian general election in Hamirpur Lok Sabha Constituency"@en .
+<http://yago-knowledge.org/resource/Q125182233> <http://schema.org/url> "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D1%83%D1%8E_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2020)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1925_Llandeilo_Rural_District_Council_election> <http://schema.org/sameAs> "/g/11h9bn8qmd" .
+<http://yago-knowledge.org/resource/Election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://yago-knowledge.org/resource/1928_Arkansas_gubernatorial_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1980_Cunninghame_District_Council_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Eleição_Pra_Regente_No_Brasil_Em_1838> <http://schema.org/sameAs> "/g/11fmk_nyd2" .
+<http://yago-knowledge.org/resource/Eleições_Estaduais_No_Tocantins_Em_1998> <http://schema.org/location> <http://yago-knowledge.org/resource/Brazil> .
+<http://yago-knowledge.org/resource/2019_Japanese_unified_local_elections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Japanese_Unified_Local_Elections> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimedia-Liste"@de-ch .
+<http://yago-knowledge.org/resource/2012_Washington_State_Executive_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/2012_Washington_State_Executive_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Dindori_Lok_Sabha_Constituency> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/2015_Nigerian_Senate_elections_in_Enugu_State> <http://schema.org/url> "https://en.wikipedia.org/wiki/2015_Nigerian_Senate_elections_in_Enugu_State"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2008_British_Columbia_municipal_elections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Elecciones_Estatales_De_Tamaulipas_De_2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Ecuador> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/1999_Indian_General_Election_In_Chandrapur_Lok_Sabha_Constituency> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/Elecciones_Internas_Del_Batllismo_De_1989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2016_Kerala_Legislative_Assembly_Election_In_Ottapalam_State_Assembly_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Tamaulipas_Del_2004> <http://www.w3.org/2000/01/rdf-schema#label> "elecciones estatales de Tamaulipas de 2004"@es .
+<http://yago-knowledge.org/resource/Elección_Municipal_De_San_Salvador_De_2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Tezpur_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Vadakara_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2009_Indian_general_election_in_Kerala> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "teunuléh dapeuta Wikimèdia"@ace .
+<http://yago-knowledge.org/resource/1925_Llandeilo_Rural_District_Council_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1925_Llandeilo_Rural_District_Council_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1871_French_legislative_election_in_Algeria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1948_Legislative_Election_In_Shanghai> <http://www.w3.org/2000/01/rdf-schema#label> "1948年上海市立法委員選舉"@zh .
+<http://yago-knowledge.org/resource/1989_Aruban_general_election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wahl"@de .
+<http://yago-knowledge.org/resource/1988_Naga_Camarines_Sur_local_elections> <http://www.w3.org/2000/01/rdf-schema#comment> "part of the 1988 Philippine general election"@en .
+<http://yago-knowledge.org/resource/1884_Manchester_City_Council_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "artikel daftar Wikimedia"@id .
+<http://yago-knowledge.org/resource/2004_Western_Cape_provincial_election> <http://schema.org/location> <http://yago-knowledge.org/resource/South_Africa> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "維基媒體列表條目"@zh-mo .
+<http://yago-knowledge.org/resource/2004_Indian_general_election_in_Andhra_Pradesh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Group_Of_Elections> .
+<http://yago-knowledge.org/resource/Brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/2007_Nigerian_House_of_Representatives_elections_in_Kwara_State> <http://schema.org/location> <http://yago-knowledge.org/resource/Nigeria> .
+<http://yago-knowledge.org/resource/2008_United_States_House_of_Representatives_elections_in_Alabama> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2008_United_States_House_of_Representatives_elections> .
+<http://yago-knowledge.org/resource/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/2005_Moscow_City_Duma_election> <http://schema.org/sameAs> "/m/010vvvx3" .
+<http://yago-knowledge.org/resource/The_National_And_Local_Elections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1989_Aruban_general_election> <http://schema.org/alternateName> "Statenverkiezingen Aruba 1989"@nl .
+<http://yago-knowledge.org/resource/2019_Ōita_Prefectural_Election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2012_Alaska_elections> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "спіс артыкулаў у адным з праектаў Вікімедыя"@be .
+<http://yago-knowledge.org/resource/1999_Indian_general_election_in_Maharashtra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Group_Of_Elections> .
+<http://yago-knowledge.org/resource/1989_Aruban_general_election> <http://www.w3.org/2000/01/rdf-schema#comment> "élections à Aruba"@fr .
+<http://yago-knowledge.org/resource/Ecuadorian_Vice_Presidential_Election_2005> <http://www.w3.org/2000/01/rdf-schema#label> "Eleiciones vicepresidenciales d'Ecuador de 2005"@ast .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Aruba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Country_Of_The_Kingdom_Of_The_Netherlands> .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Tamaulipas_Del_2004> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5827960> .
+<http://yago-knowledge.org/resource/2012_Alaska_elections> <http://www.w3.org/2000/01/rdf-schema#label> "2012 Alaska elections"@en .
+<http://yago-knowledge.org/resource/Ecuadorian_Vice_Presidential_Election_2005> <http://schema.org/sameAs> "/g/11f_p2nbcn" .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "維基媒體列表條目"@zh-tw .
+<http://yago-knowledge.org/resource/1964_Massachusetts_elections> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Dominion> .
+<http://yago-knowledge.org/resource/Austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Landlocked_country> .
+<http://yago-knowledge.org/resource/South_Korea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Ełesion_Rejonałi_De_Miranda_Del_2012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Eleições_Estaduais_No_Maranhão_Em_2018> <http://schema.org/url> "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%B5es_estaduais_no_Maranh%C3%A3o_em_2018"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Autonomous_District_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2004_Indian_general_election_in_Assam> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "articlo de lista de Wikimedia"@an .
+<http://yago-knowledge.org/resource/2003_Highland_Council_election> <http://www.w3.org/2000/01/rdf-schema#label> "élections locales écossaises de 2003 à Highland"@fr .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "spisak na Wikimediji"@bs .
+<http://yago-knowledge.org/resource/2008_British_Columbia_municipal_elections> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2024_Indiana_Attorney_General_election> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://www.w3.org/2000/01/rdf-schema#comment> "Italian regional election"@en .
+<http://yago-knowledge.org/resource/2000_Apulian_regional_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Municipal_Election_In_Italy> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "bài viết danh sách Wikimedia"@vi .
+<http://yago-knowledge.org/resource/Ecuadorian_Vice_Presidential_Election_2005> <http://schema.org/url> "https://es.wikipedia.org/wiki/Elecciones_vicepresidenciales_de_Ecuador_de_2005"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Ełesion_Provinsałi_Del_Neuquén_Del_1983> <http://schema.org/sameAs> "/g/11h55ndgwr" .
+<http://yago-knowledge.org/resource/2013_Philippine_House_of_Representatives_elections_in_Central_Visayas> <http://www.w3.org/2000/01/rdf-schema#label> "2013 Philippine House of Representatives elections in Central Visayas"@en .
+<http://yago-knowledge.org/resource/2000_Delaware_lieutenant_gubernatorial_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/2000_Delaware_lieutenant_gubernatorial_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1890_Swansea_County_Borough_Council_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1890_Swansea_County_Borough_Council_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Pemilihan_Umum_Bupati_Deiyai_2018> <http://www.w3.org/2000/01/rdf-schema#label> "Pemilihan umum Bupati Deiyai 2018"@id .
+<http://yago-knowledge.org/resource/Q125182233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2019_Ōita_Prefectural_Election> <http://schema.org/sameAs> "/g/11h7rgzc3r" .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimedia list article"@en-ca .
+<http://yago-knowledge.org/resource/1859_Victorian_colonial_election> <http://schema.org/location> <http://yago-knowledge.org/resource/Australia> .
+<http://yago-knowledge.org/resource/Latvia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Country_Bordering_The_Baltic_Sea> .
+<http://yago-knowledge.org/resource/2003_Highland_Council_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5758729> .
+<http://yago-knowledge.org/resource/Austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Argentina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Confessional_state> .
+<http://yago-knowledge.org/resource/Ełesion_Conplementari_De_Ciłe_De_Apriłe_Del_1971> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "维基媒体列表条目"@zh .
+<http://yago-knowledge.org/resource/2003_Highland_Council_election> <http://schema.org/url> "https://fr.wikipedia.org/wiki/%C3%89lections_locales_%C3%A9cossaises_de_2003_%C3%A0_Highland"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://www.w3.org/2000/01/rdf-schema#label> "ełesion rejonałi in Puja del 2005"@vec .
+<http://yago-knowledge.org/resource/1989_Aruban_general_election> <http://schema.org/sameAs> "/g/1q6m9_bb9" .
+<http://yago-knowledge.org/resource/Ełesion_Federałi_Del_1967_In_Chihuahua> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Ełesion_Provinsałi_Del_Neuquén_Del_1983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2012_Washington_State_Executive_election> <http://www.w3.org/2000/01/rdf-schema#label> "2012 Washington State Executive election"@en .
+<http://yago-knowledge.org/resource/Ecuadorian_Vice_Presidential_Election_2005> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q47495280> .
+<http://yago-knowledge.org/resource/2019_Ōita_Prefectural_Election> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2015_Ōita_Prefectural_Election> .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Quintana_Roo_Del_2018> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q28502491> .
+<http://yago-knowledge.org/resource/2022_Indiana_Secretary_of_State_election> <http://www.w3.org/2000/01/rdf-schema#label> "2022年印第安納州州務卿選舉"@zh-hant .
+<http://yago-knowledge.org/resource/Republic_of_Ireland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Successor_State> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "قائمة ويكيميديا"@ar .
+<http://yago-knowledge.org/resource/1973_Londonderry_City_Council_election> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/1980_Cunninghame_District_Council_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1998_Indian_General_Election_In_Chandrapur_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1948_Legislative_Election_In_Shanghai> <http://www.w3.org/2000/01/rdf-schema#label> "1948 legislative election in Shanghai"@en .
+<http://yago-knowledge.org/resource/2016_Kerala_Legislative_Assembly_Election_In_Ottapalam_State_Assembly_Constituency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q105989592> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "บทความรายชื่อวิกิมีเดีย"@th .
+<http://yago-knowledge.org/resource/Pemilihan_Umum_Bupati_Deiyai_2018> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q65210069> .
+<http://yago-knowledge.org/resource/Russia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Successor_State> .
+<http://yago-knowledge.org/resource/1884_Manchester_City_Council_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Quintana_Roo_Del_2018> <http://www.w3.org/2000/01/rdf-schema#label> "elecciones estatales de Quintana Roo de 2018"@es .
+<http://yago-knowledge.org/resource/1928_Arkansas_gubernatorial_election> <http://www.w3.org/2000/01/rdf-schema#label> "1928 Arkansas gubernatorial election"@en .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Durg_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Durg_Lok_Sabha_Constituency> .
+<http://yago-knowledge.org/resource/2022_Gainesville_mayoral_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q113134130> .
+<http://yago-knowledge.org/resource/Q110117637> <http://www.w3.org/2000/01/rdf-schema#label> "제주특별자치도교육감 선거"@ko .
+<http://yago-knowledge.org/resource/Ełesion_Rejonałi_De_Miranda_Del_2012> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/1999_Indian_General_Election_In_Chandrapur_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/1999_Indian_general_election_in_Maharashtra> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "维基媒体列表条目"@zh-cn .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "стаття-список у проєкті Вікімедіа"@uk .
+<http://yago-knowledge.org/resource/2023_Kyoto_City_Council_Election> <http://www.w3.org/2000/01/rdf-schema#label> "2023年京都市議会議員選挙"@ja .
+<http://yago-knowledge.org/resource/Élections_Régionales_De_1992_En_Provence-Alpes-Côte_D_Azur> <http://www.w3.org/2000/01/rdf-schema#label> "élections régionales de 1992 en Provence-Alpes-Côte d'Azur"@fr .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Sarguja_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1995_Boston_City_Council_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q24059348> .
+<http://yago-knowledge.org/resource/1964_Massachusetts_elections> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/2012_Alaska_elections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2015_Croatian_national_minorities_councils_and_representatives_elections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/State_with_limited_recognition> .
+<http://yago-knowledge.org/resource/2008_British_Columbia_municipal_elections> <http://www.w3.org/2000/01/rdf-schema#label> "2008 British Columbia municipal elections"@en .
+<http://yago-knowledge.org/resource/Pemilihan_Umum_Bupati_Lampung_Utara_2018> <http://schema.org/url> "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Lampung_Utara_2018"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2019_Indian_general_election_in_Chhattisgarh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Group_Of_Elections> .
+<http://yago-knowledge.org/resource/2012_Washington_State_Executive_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "விக்கிப்பீடியா:பட்டியலிடல்"@ta .
+<http://yago-knowledge.org/resource/2011_International_Court_of_Justice_judges_election> <http://schema.org/alternateName> "International Court of Justice judges election, 2011"@en .
+<http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Surendranagar_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Surendranagar_Lok_Sabha_Constituency> .
+<http://yago-knowledge.org/resource/Ukraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Unitary_state> .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Autonomous_District_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "উইকিমিডিয়ার তালিকা নিবন্ধ"@bn .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "维基媒体列表条目"@zh-my .
+<http://yago-knowledge.org/resource/2021_Canadian_Federal_Election_In_Labrador> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Nowgong_Lok_Sabha_Constituency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125433099> .
+<http://yago-knowledge.org/resource/2003_Highland_Council_election> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/Élections_Cantonales_De_1895_Dans_La_Somme> <http://www.w3.org/2000/01/rdf-schema#label> "élections cantonales de 1895 dans la Somme"@fr .
+<http://yago-knowledge.org/resource/Eilandsraadsverkiezingen_2015> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18285695> .
+<http://yago-knowledge.org/resource/Élections_Sénatoriales_De_2023_Dans_Les_Pyrénées-Orientales> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2009_Indian_general_election_in_Maharashtra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Group_Of_Elections> .
+<http://yago-knowledge.org/resource/Eleição_Pra_Regente_No_Brasil_Em_1838> <http://schema.org/url> "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_para_regente_no_Brasil_em_1838"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2013_Philippine_House_of_Representatives_elections_in_Central_Visayas> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2010_Philippine_House_of_Representatives_elections_in_Central_Visayas> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Kakinada_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2003_Highland_Council_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/2003_Highland_Council_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Élections_Sénatoriales_De_2023_Dans_La_Meuse> <http://schema.org/url> "https://fr.wikipedia.org/wiki/%C3%89lections_s%C3%A9natoriales_de_2023_dans_la_Meuse"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "lista w projekcie Wikimedia"@pl .
+<http://yago-knowledge.org/resource/2009_Salzburg_state_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/State_Election> .
+<http://yago-knowledge.org/resource/2008_United_States_House_of_Representatives_elections_in_Alabama> <http://schema.org/url> "https://en.wikipedia.org/wiki/2008_United_States_House_of_Representatives_elections_in_Alabama"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "статья-список в проекте Викимедиа"@ru .
+<http://yago-knowledge.org/resource/2015_Ōita_Prefectural_Election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2013_Philippine_House_of_Representatives_elections_in_Central_Visayas> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7185097> .
+<http://yago-knowledge.org/resource/1973_Londonderry_City_Council_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q30596034> .
+<http://yago-knowledge.org/resource/Elección_Municipal_De_San_Salvador_De_2006> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Kakinada_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#label> "2019 Indian general election in Kakinada Lok Sabha Constituency"@en .
+<http://yago-knowledge.org/resource/1928_Arkansas_gubernatorial_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Nowgong_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "general election in Assam, India"@en .
+<http://yago-knowledge.org/resource/2016_Kerala_Legislative_Assembly_Election_In_Ottapalam_State_Assembly_Constituency> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Վիքիմեդիայի նախագծի ցանկ"@hy .
+<http://yago-knowledge.org/resource/2024_Indian_General_Election_In_Shahjahanpur_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2003_Highland_Council_election> <http://www.w3.org/2000/01/rdf-schema#label> "2003 Highland Council election"@en .
+<http://yago-knowledge.org/resource/2000_Delaware_lieutenant_gubernatorial_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/1924_United_States_Senate_election_in_Oklahoma> <http://schema.org/url> "https://en.wikipedia.org/wiki/1924_United_States_Senate_election_in_Oklahoma"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Tezpur_Lok_Sabha_Constituency> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/2024_Indiana_Attorney_General_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "page de liste de Wikimedia"@fr .
+<http://yago-knowledge.org/resource/2024_Indiana_Attorney_General_election> <http://www.w3.org/2000/01/rdf-schema#label> "2024年印第安納州總檢察長選舉"@zh .
+<http://yago-knowledge.org/resource/2019_Croatian_national_minorities_councils_and_representatives_elections> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Tamaulipas_Del_2004> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Elección_Municipal_De_San_Salvador_De_2003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Samastipur_Lok_Sabha_Constituency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q64272950> .
+<http://yago-knowledge.org/resource/1928_Arkansas_gubernatorial_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1928_Arkansas_gubernatorial_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Sarguja_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2008_United_States_House_of_Representatives_elections_in_Alabama> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Mediterranean_Country> .
+<http://yago-knowledge.org/resource/1992_Clydesdale_District_Council_election> <http://www.w3.org/2000/01/rdf-schema#comment> "1992 Scottish local government election"@en .
+<http://yago-knowledge.org/resource/2007_Nigerian_House_of_Representatives_elections_in_Kwara_State> <http://schema.org/sameAs> "/g/11r_tl0q4_" .
+<http://yago-knowledge.org/resource/Ełesion_Federałi_Del_1967_In_Chihuahua> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1884_Manchester_City_Council_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1884_Manchester_City_Council_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Elecciones_Internas_Del_Batllismo_De_1989> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5828218> .
+<http://yago-knowledge.org/resource/2005_Moscow_City_Duma_election> <http://schema.org/url> "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D1%83%D1%8E_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2005)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Eleições_Estaduais_No_Tocantins_Em_1998> <http://schema.org/sameAs> "/g/12dpwqjyx" .
+<http://yago-knowledge.org/resource/1963_Edinburgh_Corporation_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1963_Edinburgh_Corporation_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2024_Indian_General_Election_In_Shahjahanpur_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#label> "2024 Indian general election in Shahjahanpur Lok Sabha Constituency"@en .
+<http://yago-knowledge.org/resource/2022_Gainesville_mayoral_election> <http://www.w3.org/2000/01/rdf-schema#label> "2022 Gainesville mayoral election"@en .
+<http://yago-knowledge.org/resource/1992_Clydesdale_District_Council_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1992_Clydesdale_District_Council_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Q125182233> <http://www.w3.org/2000/01/rdf-schema#label> "Выборы в Тамбовскую городскую думу"@ru .
+<http://yago-knowledge.org/resource/Brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Secular_state> .
+<http://yago-knowledge.org/resource/Eilandsraadsverkiezingen_2015> <http://schema.org/url> "https://nl.wikipedia.org/wiki/Eilandsraadsverkiezingen_2015"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Durg_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2019_Indian_general_election_in_Chhattisgarh> .
+<http://yago-knowledge.org/resource/2019_Ōita_Prefectural_Election> <http://www.w3.org/2000/01/rdf-schema#label> "2019年大分県議会議員選挙"@ja .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimedia-lies"@li .
+<http://yago-knowledge.org/resource/2022_Gainesville_mayoral_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/2022_Gainesville_mayoral_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Élections_Régionales_De_1992_En_Provence-Alpes-Côte_D_Azur> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Secular_state> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Durg_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Kakinada_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Kakinada_Lok_Sabha_Constituency> .
+<http://yago-knowledge.org/resource/2008_United_States_House_of_Representatives_elections_in_Alabama> <http://www.w3.org/2000/01/rdf-schema#label> "élections à la Chambre des représentants des États-Unis de 2008 dans l'Alabama"@fr .
+<http://yago-knowledge.org/resource/2022_Gainesville_mayoral_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Ełesion_Provinsałi_Del_Neuquén_Del_1983> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Weimar_Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> .
+<http://yago-knowledge.org/resource/1870_Nevada_gubernatorial_election> <http://www.w3.org/2000/01/rdf-schema#label> "1870 Nevada gubernatorial election"@en .
+<http://yago-knowledge.org/resource/1995_Boston_City_Council_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1980_Cunninghame_District_Council_election> <http://www.w3.org/2000/01/rdf-schema#comment> "cunninghame District Council election"@en .
+<http://yago-knowledge.org/resource/Eleições_Estaduais_No_Maranhão_Em_2018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2023_Czech_presidential_election_debates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2004_Western_Cape_provincial_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/2004_Western_Cape_provincial_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Russia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Transcontinental_country> .
+<http://yago-knowledge.org/resource/Election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Television_Series_Episode> .
+<http://yago-knowledge.org/resource/Algeria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/People_s_republic> .
+<http://yago-knowledge.org/resource/1909_Hong_Kong_sanitary_board_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1909_Hong_Kong_sanitary_board_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1988_Naga_Camarines_Sur_local_elections> <http://www.w3.org/2000/01/rdf-schema#label> "1988 Naga, Camarines Sur, local elections"@en .
+<http://yago-knowledge.org/resource/2011_International_Court_of_Justice_judges_election> <http://www.w3.org/2000/01/rdf-schema#label> "2011年国際司法裁判所裁判官選挙"@ja .
+<http://yago-knowledge.org/resource/Uruguay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Elecciones_Estatales_De_Chihuahua_De_1989> <http://schema.org/location> <http://yago-knowledge.org/resource/Mexico> .
+<http://yago-knowledge.org/resource/2000_Delaware_lieutenant_gubernatorial_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131354088> .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Samastipur_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1902_United_States_House_of_Representatives_election_in_Wyoming> <http://schema.org/sameAs> "/g/11h6m3ynsm" .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Autonomous_District_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Pemilihan_Umum_Bupati_Lampung_Utara_2018> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q61359709> .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Quintana_Roo_Del_2018> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2016_Quintana_Roo_gubernatorial_election> .
+<http://yago-knowledge.org/resource/Republic_of_Ireland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/2018_Shelby_County_Tennessee_mayoral_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Pemilihan_Umum_Bupati_Deiyai_2018> <http://schema.org/sameAs> "/g/11h6t_kqkc" .
+<http://yago-knowledge.org/resource/1999_Indian_General_Election_In_Chandrapur_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#label> "1999 Indian general election in Chandrapur Lok Sabha constituency"@en .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Hamirpur_Lok_Sabha_Constituency_Q125433874> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125433874> .
+<http://yago-knowledge.org/resource/2007_Nigerian_House_of_Representatives_elections_in_Kwara_State> <http://www.w3.org/2000/01/rdf-schema#label> "2007 Nigerian House of Representatives elections in Kwara State"@en .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#label> "ełesion inte ła provinsa de Tierra del Fuego del 2015"@vec .
+<http://yago-knowledge.org/resource/Czech_Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Landlocked_country> .
+<http://yago-knowledge.org/resource/1994_Minnesota_Attorney_General_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/1963_Edinburgh_Corporation_election> <http://schema.org/sameAs> "/g/11fs098byv" .
+<http://yago-knowledge.org/resource/1870_Nevada_gubernatorial_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/2021_Canadian_federal_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/List_of_Canadian_federal_elections> .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://www.w3.org/2000/01/rdf-schema#label> "Apulian regional election, 2005"@nl .
+<http://yago-knowledge.org/resource/Italy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Mediterranean_Country> .
+<http://yago-knowledge.org/resource/2012_Washington_State_Executive_election> <http://schema.org/alternateName> "Washington State Executive elections, 2012"@en .
+<http://yago-knowledge.org/resource/1920_Württemberg_state_election> <http://www.w3.org/2000/01/rdf-schema#label> "1920 Württemberg state election"@en .
+<http://yago-knowledge.org/resource/2022_Indiana_Secretary_of_State_election> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Hamirpur_Lok_Sabha_Constituency_Q125433874> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2019_Indian_general_election_in_Uttar_Pradesh> .
+<http://yago-knowledge.org/resource/1994_Minnesota_Attorney_General_election> <http://www.w3.org/2000/01/rdf-schema#label> "1994 Minnesota Attorney General election"@en .
+<http://yago-knowledge.org/resource/Eleição_Pra_Regente_No_Brasil_Em_1838> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q86727079> .
+<http://yago-knowledge.org/resource/1902_United_States_House_of_Representatives_election_in_Wyoming> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q65089777> .
+<http://yago-knowledge.org/resource/1871_French_legislative_election_in_Algeria> <http://schema.org/url> "https://en.wikipedia.org/wiki/1871_French_legislative_election_in_Algeria"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1871_French_legislative_election_in_Algeria> <http://schema.org/location> <http://yago-knowledge.org/resource/Algeria> .
+<http://yago-knowledge.org/resource/2011_International_Court_of_Justice_judges_election> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2005_Moscow_City_Duma_election> <http://www.w3.org/2000/01/rdf-schema#label> "Выборы в Московскую городскую думу (2005)"@ru .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "ウィキメディアの一覧記事"@ja .
+<http://yago-knowledge.org/resource/Ełesion_Presidensiałi_De_Portogało_Del_2016_Inte_El_Distreto_De_Santarém> <http://www.w3.org/2000/01/rdf-schema#label> "Eleições presidenciais portuguesas de 2016 no distrito de Santarém"@pt .
+<http://yago-knowledge.org/resource/Ecuadorian_Vice_Presidential_Election_2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2001_Moscow_City_Duma_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2023_Nigerian_presidential_election_in_Oyo_State> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2015_Nigerian_Senate_elections_in_Enugu_State> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1995_Boston_City_Council_election> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Surendranagar_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "мақолаи феҳристӣ"@tg-cyrl .
+<http://yago-knowledge.org/resource/1973_Londonderry_City_Council_election> <http://www.w3.org/2000/01/rdf-schema#label> "1973 Londonderry City Council election"@en .
+<http://yago-knowledge.org/resource/2018_New_York_State_Senate_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q60744556> .
+<http://yago-knowledge.org/resource/2023_Kyoto_City_Council_Election> <http://schema.org/url> "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E4%BA%AC%E9%83%BD%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%E9%81%B8%E6%8C%99"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Ełesion_Presidensiałi_De_Portogało_Del_2016_Inte_El_Distreto_De_Santarém> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Ełesion_Federałi_Del_1967_In_Chihuahua> <http://schema.org/location> <http://yago-knowledge.org/resource/Mexico> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "维基媒体列表条目"@zh-hans .
+<http://yago-knowledge.org/resource/1969_Liechtenstein_local_elections> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131939579> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "lista d'un projècte Wikimèdia"@oc .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://www.w3.org/2000/01/rdf-schema#label> "elezioni regionali in Puglia del 2005"@it .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Tezpur_Lok_Sabha_Constituency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125433097> .
+<http://yago-knowledge.org/resource/Elecciones_Estatales_De_Chihuahua_De_1989> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/Elecciones_Estatales_De_Chihuahua_De_1986> .
+<http://yago-knowledge.org/resource/Elección_Municipal_De_San_Salvador_De_2006> <http://www.w3.org/2000/01/rdf-schema#label> "ełesion munisipałi de San Salvador del 2006"@vec .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Tamaulipas_Del_2004> <http://schema.org/url> "https://es.wikipedia.org/wiki/Elecciones_estatales_de_Tamaulipas_de_2004"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1982_United_States_House_of_Representatives_elections_in_New_Jersey> <http://www.w3.org/2000/01/rdf-schema#label> "1982 United States House of Representatives elections in New Jersey"@en .
+<http://yago-knowledge.org/resource/2013_Salzburg_state_election> <http://www.w3.org/2000/01/rdf-schema#label> "élections régionales de 2013 dans le Land de Salzbourg"@fr .
+<http://yago-knowledge.org/resource/1999_Indian_General_Election_In_Chandrapur_Lok_Sabha_Constituency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q64347580> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Durg_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "general election in Chhattisgarh, India"@en .
+<http://yago-knowledge.org/resource/2022_Gainesville_mayoral_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Y------_--_------------_--------_----_2015_Q22132611> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q22132611> .
+<http://yago-knowledge.org/resource/1902_United_States_House_of_Representatives_election_in_Wyoming> <http://schema.org/url> "https://en.wikipedia.org/wiki/1902_United_States_House_of_Representatives_election_in_Wyoming"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://schema.org/url> "https://it.wikipedia.org/wiki/Elezioni_regionali_in_Puglia_del_2005"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "popis na Wikimediji"@hr .
+<http://yago-knowledge.org/resource/2018_Shelby_County_Tennessee_mayoral_election> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2014_Shelby_County_Tennessee_mayoral_election> .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Bhadrachalam_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#label> "2004 Indian general election in Bhadrachalam Lok Sabha constituency"@en .
+<http://yago-knowledge.org/resource/Ełesion_Conplementari_De_Ciłe_De_Apriłe_Del_1971> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q120135119> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "seznam na projektech Wikimedia"@cs .
+<http://yago-knowledge.org/resource/2009_Gada_Priekules_Novada_Domes_Vēlēšanas> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Tamaulipas_Del_2004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2013_Salzburg_state_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/2013_Salzburg_state_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Venezuela> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/2011_Canadian_Federal_Election_In_Quebec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Ełesion_Provinsałi_Del_Neuquén_Del_1983> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q76825107> .
+<http://yago-knowledge.org/resource/1980_Cunninghame_District_Council_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133504053> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "listartikolo en Vikimedio"@eo .
+<http://yago-knowledge.org/resource/Élections_Régionales_De_1992_En_Provence-Alpes-Côte_D_Azur> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q109023080> .
+<http://yago-knowledge.org/resource/1995_Boston_City_Council_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1995_Boston_City_Council_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2019_Croatian_national_minorities_councils_and_representatives_elections> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q65067455> .
+<http://yago-knowledge.org/resource/1909_Hong_Kong_sanitary_board_election> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/1880_Missouri_State_Treasurer_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131177028> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimedia lysartikel"@af .
+<http://yago-knowledge.org/resource/2012_Alaska_elections> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Kokrajhar_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2009_Indian_general_election_in_Assam> .
+<http://yago-knowledge.org/resource/2011_Canadian_Federal_Election_In_Quebec> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2008_Canadian_Federal_Election_In_Quebec> .
+<http://yago-knowledge.org/resource/Ecuadorian_Vice_Presidential_Election_2005> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/Elecciones_Vicepresidenciales_D_Ecuador_De_2000> .
+<http://yago-knowledge.org/resource/2015_Nigerian_Senate_elections_in_Enugu_State> <http://www.w3.org/2000/01/rdf-schema#label> "2015 Nigerian Senate elections in Enugu State"@en .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Nowgong_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Nowgong_Lok_Sabha_Constituency> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Sarguja_Lok_Sabha_Constituency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125434027> .
+<http://yago-knowledge.org/resource/Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federation> .
+<http://yago-knowledge.org/resource/2012_Alaska_elections> <http://schema.org/sameAs> "/m/0n5r2b0" .
+<http://yago-knowledge.org/resource/Ełesion_Presidensiałi_De_Portogało_Del_2016_Inte_El_Distreto_De_Santarém> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q97278233> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "lista di Wikimedia"@pap .
+<http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Hamirpur_Lok_Sabha_Constituency_Q63990857> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Élections_Sénatoriales_De_2023_Dans_Les_Pyrénées-Orientales> <http://www.w3.org/2000/01/rdf-schema#label> "élections sénatoriales de 2023 dans les Pyrénées-Orientales"@fr .
+<http://yago-knowledge.org/resource/2023_Czech_presidential_election_debates> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Elecciones_Estatales_De_Chihuahua_De_1989> <http://schema.org/sameAs> "/g/11b6vgx2p9" .
+<http://yago-knowledge.org/resource/Ecuadorian_Vice_Presidential_Election_2005> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2023_Nigerian_presidential_election_in_Oyo_State> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/1985_Aruban_general_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Aruban_General_Election> .
+<http://yago-knowledge.org/resource/1924_United_States_Senate_election_in_Oklahoma> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/Ełesion_Rejonałi_De_Miranda_Del_2012> <http://www.w3.org/2000/01/rdf-schema#comment> "Wahl"@de .
+<http://yago-knowledge.org/resource/Eleição_Pra_Regente_No_Brasil_Em_1838> <http://www.w3.org/2000/01/rdf-schema#label> "ełesion par rezente del Braziłe del 1838"@vec .
+<http://yago-knowledge.org/resource/1948_Legislative_Election_In_Shanghai> <http://schema.org/url> "https://zh.wikipedia.org/wiki/1948%E5%B9%B4%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1%E9%81%B8%E8%88%89"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2004_Indian_general_election_in_Assam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Group_Of_Elections> .
+<http://yago-knowledge.org/resource/Eleições_Estaduais_No_Maranhão_Em_2018> <http://schema.org/location> <http://yago-knowledge.org/resource/Brazil> .
+<http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Nowgong_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Élections_Cantonales_De_1895_Dans_La_Somme> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2024_Indian_general_election_in_Uttar_Pradesh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Group_Of_Elections> .
+<http://yago-knowledge.org/resource/2008_United_States_House_of_Representatives_elections_in_Alabama> <http://schema.org/alternateName> "2008 US House of Representatives elections in Alabama"@en .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Tamaulipas_Del_2004> <http://schema.org/sameAs> "/g/1238gdr3" .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Kokrajhar_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Kokrajhar_Lok_Sabha_Constituency> .
+<http://yago-knowledge.org/resource/2016_Kerala_Legislative_Assembly_Election_In_Ottapalam_State_Assembly_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "കേരളത്തിലെ പതിനാലാമത് നിയമസഭയിലേക്കുള്ള തിരഞ്ഞെടുപ്പ്"@ml .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Bhiwani-Mahendragarh_Lok_Sabha_Constituency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125433265> .
+<http://yago-knowledge.org/resource/2023_Nigerian_presidential_election_in_Oyo_State> <http://schema.org/url> "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Oyo_State"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2013_Salzburg_state_election> <http://schema.org/url> "https://fr.wikipedia.org/wiki/%C3%89lections_r%C3%A9gionales_de_2013_dans_le_Land_de_Salzbourg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2012_Alaska_elections> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4708638> .
+<http://yago-knowledge.org/resource/2000_Delaware_lieutenant_gubernatorial_election> <http://www.w3.org/2000/01/rdf-schema#label> "2000 Delaware lieutenant gubernatorial election"@en .
+<http://yago-knowledge.org/resource/Ełesion_Rejonałi_De_Miranda_Del_2012> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5828928> .
+<http://yago-knowledge.org/resource/1994_Minnesota_Attorney_General_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1994_Minnesota_Attorney_General_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Nowgong_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Ełesion_Conplementari_De_Ciłe_De_Apriłe_Del_1971> <http://www.w3.org/2000/01/rdf-schema#label> "Elección complementaria de Chile de abril de 1971"@es .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimedia-listartikel"@sv .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Tamaulipas_Del_2004> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/Elecciones_Estatales_De_Tamaulipas_De_2001> .
+<http://yago-knowledge.org/resource/Austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Successor_State> .
+<http://yago-knowledge.org/resource/1914_Manchester_City_Council_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Eilandsraadsverkiezingen_2015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1920_Württemberg_state_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1920_W%C3%BCrttemberg_state_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Elección_Municipal_De_San_Salvador_De_2006> <http://schema.org/location> <http://yago-knowledge.org/resource/El_Salvador> .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Samastipur_Lok_Sabha_Constituency> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/1902_United_States_House_of_Representatives_election_in_Wyoming> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/1900_United_States_House_of_Representatives_election_in_Wyoming> .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Autonomous_District_Lok_Sabha_Constituency> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/2018_New_York_State_Senate_election> <http://schema.org/sameAs> "/g/11fd6dflkm" .
+<http://yago-knowledge.org/resource/1859_Victorian_colonial_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Eleições_Estaduais_No_Maranhão_Em_2018> <http://schema.org/location> <http://yago-knowledge.org/resource/Maranhão> .
+<http://yago-knowledge.org/resource/India> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federal_republic> .
+<http://yago-knowledge.org/resource/2005_Italian_regional_elections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1989_Aruban_general_election> <http://schema.org/url> "https://nl.wikipedia.org/wiki/Statenverkiezingen_Aruba_1989"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Elecciones_Estatales_De_Chihuahua_De_1986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Ełesion_Conplementari_De_Ciłe_De_Apriłe_Del_1971> <http://www.w3.org/2000/01/rdf-schema#label> "ełesion conplementari de Ciłe de apriłe del 1971"@vec .
+<http://yago-knowledge.org/resource/2019_Ōita_Prefectural_Election> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2019_Japanese_unified_local_elections> .
+<http://yago-knowledge.org/resource/Uruguay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Secular_state> .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Tamaulipas_Del_2004> <http://schema.org/location> <http://yago-knowledge.org/resource/Mexico> .
+<http://yago-knowledge.org/resource/Eilandsraadsverkiezingen_2015> <http://schema.org/sameAs> "/g/11b6b2ftrp" .
+<http://yago-knowledge.org/resource/1995_Boston_City_Council_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/United_Kingdom_of_Great_Britain_and_Ireland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Colonial_Power> .
+<http://yago-knowledge.org/resource/Ecuadorian_Vice_Presidential_Election_2005> <http://www.w3.org/2000/01/rdf-schema#label> "Ecuadorian Vice Presidential election, 2005"@en .
+<http://yago-knowledge.org/resource/Japan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Ełesion_Conplementari_De_Ciłe_De_Apriłe_Del_1971> <http://schema.org/url> "https://es.wikipedia.org/wiki/Elecci%C3%B3n_complementaria_de_Chile_de_abril_de_1971"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2000_Delaware_lieutenant_gubernatorial_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2004_Western_Cape_provincial_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2024_Indiana_Attorney_General_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Eleições_Estaduais_No_Tocantins_Em_1998> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20053793> .
+<http://yago-knowledge.org/resource/Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Dominion> .
+<http://yago-knowledge.org/resource/2009_Gada_Priekules_Novada_Domes_Vēlēšanas> <http://www.w3.org/2000/01/rdf-schema#label> "2009. gada Priekules novada domes vēlēšanas"@lv .
+<http://yago-knowledge.org/resource/2019_Croatian_national_minorities_councils_and_representatives_elections> <http://www.w3.org/2000/01/rdf-schema#label> "2019 Croatian national minorities councils and representatives elections"@en .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Badagara_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2024_Indian_General_Election_In_Shahjahanpur_Lok_Sabha_Constituency> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/1992_Clydesdale_District_Council_election> <http://schema.org/sameAs> "/g/11j1yw1ww3" .
+<http://yago-knowledge.org/resource/Élections_Cantonales_De_2008_Dans_Les_Deux-Sèvres> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2005_Moscow_City_Duma_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2008_United_States_House_of_Representatives_elections_in_Alabama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Russia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Secular_state> .
+<http://yago-knowledge.org/resource/Ełesion_Presidensiałi_De_Portogało_Del_2016_Inte_El_Distreto_De_Santarém> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/Eleições_Presidenciais_Portuguesas_De_2011_No_Distrito_De_Santarém> .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Vadakara_Lok_Sabha_Constituency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q64228011> .
+<http://yago-knowledge.org/resource/1880_Missouri_State_Treasurer_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/2018_Shelby_County_Tennessee_mayoral_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/El_Salvador> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/2018_New_York_State_Senate_election> <http://www.w3.org/2000/01/rdf-schema#comment> "вибори"@uk .
+<http://yago-knowledge.org/resource/2008_Canadian_Federal_Election_In_Quebec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "artículu de llista de Wikimedia"@ast .
+<http://yago-knowledge.org/resource/2004_Western_Cape_provincial_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q124374934> .
+<http://yago-knowledge.org/resource/Ełesion_Rejonałi_De_Miranda_Del_2012> <http://www.w3.org/2000/01/rdf-schema#label> "ełesion rejonałi de Miranda del 2012"@vec .
+<http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Kakinada_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2009_Gada_Priekules_Novada_Domes_Vēlēšanas> <http://schema.org/url> "https://lv.wikipedia.org/wiki/2009._gada_Priekules_novada_domes_v%C4%93l%C4%93%C5%A1anas"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "רשימת ערכים"@he .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Quintana_Roo_Del_2018> <http://schema.org/url> "https://es.wikipedia.org/wiki/Elecciones_estatales_de_Quintana_Roo_de_2018"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2008_British_Columbia_municipal_elections> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4969820> .
+<http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Surendranagar_Lok_Sabha_Constituency> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/2022_Indiana_Secretary_of_State_election> <http://www.w3.org/2000/01/rdf-schema#label> "2022 Indiana Secretary of State election"@en .
+<http://yago-knowledge.org/resource/Élections_Sénatoriales_De_1968_En_Guadeloupe> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2008_British_Columbia_municipal_elections> <http://schema.org/alternateName> "British Columbia municipal elections, 2008"@en .
+<http://yago-knowledge.org/resource/1909_Hong_Kong_sanitary_board_election> <http://schema.org/alternateName> "Hong Kong sanitary board election, 1909"@en .
+<http://yago-knowledge.org/resource/2012_Washington_State_Executive_election> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/Ecuadorian_Vice_Presidential_Election_2005> <http://schema.org/location> <http://yago-knowledge.org/resource/Ecuador> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "lista de un projecto de Wikimedia"@ia .
+<http://yago-knowledge.org/resource/1995_Boston_City_Council_election> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/1993_Boston_City_Council_election> .
+<http://yago-knowledge.org/resource/2005_Moscow_City_Duma_election> <http://schema.org/location> <http://yago-knowledge.org/resource/Russia> .
+<http://yago-knowledge.org/resource/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Socialist_state> .
+<http://yago-knowledge.org/resource/2007_Nigerian_House_of_Representatives_elections_in_Kwara_State> <http://www.w3.org/2000/01/rdf-schema#label> "2007 Nhọrọ ụlọ ndị nnọchi anya Naijiria na Kwara Steeti"@ig .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Hamirpur_Lok_Sabha_Constituency_Q125433874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Durg_Lok_Sabha_Constituency> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/2004_Western_Cape_provincial_election> <http://www.w3.org/2000/01/rdf-schema#label> "2004 Western Cape provincial election"@en .
+<http://yago-knowledge.org/resource/Eilandsraadsverkiezingen_2015> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://schema.org/url> "https://fr.wikipedia.org/wiki/%C3%89lections_r%C3%A9gionales_de_2005_dans_les_Pouilles"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Kokrajhar_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#label> "2015 Tierra del Fuego provincial election"@en .
+<http://yago-knowledge.org/resource/Ełesion_Statałi_De_Tamaulipas_Del_2004> <http://www.w3.org/2000/01/rdf-schema#label> "ełesion statałi de Tamaulipas del 2004"@vec .
+<http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Bhiwani-Mahendragarh_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1990_Orange_County_Florida_Chairman_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2011_Canadian_Federal_Election_In_Quebec> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1992_Clydesdale_District_Council_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q85726604> .
+<http://yago-knowledge.org/resource/1859_Victorian_colonial_election> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2009_Indian_general_election_in_Assam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Group_Of_Elections> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimedia-lieste"@zea .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Bhadrachalam_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/1999_Indian_General_Election_In_Bhadrachalam_Lok_Sabha_Constituency> .
+<http://yago-knowledge.org/resource/2019_Croatian_national_minorities_councils_and_representatives_elections> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2015_Croatian_national_minorities_councils_and_representatives_elections> .
+<http://yago-knowledge.org/resource/1909_Hong_Kong_sanitary_board_election> <http://www.w3.org/2000/01/rdf-schema#label> "1909 Hong Kong sanitary board election"@en .
+<http://yago-knowledge.org/resource/Brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federal_republic> .
+<http://yago-knowledge.org/resource/1925_Llandeilo_Rural_District_Council_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Commonwealth_realm> .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://www.w3.org/2000/01/rdf-schema#label> "élections régionales de 2005 dans les Pouilles"@fr .
+<http://yago-knowledge.org/resource/2019_Ōita_Prefectural_Election> <http://www.w3.org/2000/01/rdf-schema#label> "2019 Ōita prefectural election"@en .
+<http://yago-knowledge.org/resource/1992_Clydesdale_District_Council_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2011_International_Court_of_Justice_judges_election> <http://schema.org/sameAs> "/m/0hgqhp9" .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Hamirpur_Lok_Sabha_Constituency_Q125433874> <http://www.w3.org/2000/01/rdf-schema#comment> "general election in Uttar Pradesh, India"@en .
+<http://yago-knowledge.org/resource/Netherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Country_Of_The_Kingdom_Of_The_Netherlands> .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Vadakara_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1914_Manchester_City_Council_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1920_Württemberg_state_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2005_Moscow_City_Duma_election> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2021_Canadian_Federal_Election_In_Labrador> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2021_Canadian_federal_election> .
+<http://yago-knowledge.org/resource/2009_Indian_general_election_in_Kerala> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Group_Of_Elections> .
+<http://yago-knowledge.org/resource/2008_United_States_House_of_Representatives_elections_in_Alabama> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "artigo de listas da Wikimedia"@gl .
+<http://yago-knowledge.org/resource/2019_Croatian_national_minorities_councils_and_representatives_elections> <http://schema.org/url> "https://en.wikipedia.org/wiki/2019_Croatian_national_minorities_councils_and_representatives_elections"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Eleição_Pra_Regente_No_Brasil_Em_1838> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2022_Gainesville_mayoral_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/2024_Indian_General_Election_In_Shahjahanpur_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2024_Indian_general_election_in_Uttar_Pradesh> .
+<http://yago-knowledge.org/resource/Elecciones_Estatales_De_Chihuahua_De_1989> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20014046> .
+<http://yago-knowledge.org/resource/Élections_Sénatoriales_De_2023_Dans_La_Meuse> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1948_Legislative_Election_In_Shanghai> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Kokrajhar_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#label> "2009 Indian general election in Kokrajhar Lok Sabha constituency"@en .
+<http://yago-knowledge.org/resource/2013_Mandaluyong_local_elections> <http://schema.org/url> "https://en.wikipedia.org/wiki/2013_Mandaluyong_local_elections"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/1969_Liechtenstein_local_elections> <http://schema.org/url> "https://en.wikipedia.org/wiki/1969_Liechtenstein_local_elections"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2008_British_Columbia_municipal_elections> <http://schema.org/location> <http://yago-knowledge.org/resource/Canada> .
+<http://yago-knowledge.org/resource/1964_Massachusetts_elections> <http://schema.org/alternateName> "Massachusetts general election, 1964"@en .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Durg_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#label> "2019 Indian general election in Durg Lok Sabha Constituency"@en .
+<http://yago-knowledge.org/resource/2008_United_States_House_of_Representatives_elections_in_Alabama> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7890203> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "artikull-listë e Wikimedias"@sq .
+<http://yago-knowledge.org/resource/2013_Mandaluyong_local_elections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1990_Orange_County_Florida_Chairman_election> <http://schema.org/url> "https://en.wikipedia.org/wiki/1990_Orange_County,_Florida_Chairman_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2024_Indiana_Attorney_General_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q124504788> .
+<http://yago-knowledge.org/resource/2004_Indian_General_Election_In_Autonomous_District_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#label> "2004 Indian general election in Autonomous District Lok Sabha constituency"@en .
+<http://yago-knowledge.org/resource/Eleições_Estaduais_No_Maranhão_Em_2018> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q56122604> .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2005_Italian_regional_elections> .
+<http://yago-knowledge.org/resource/2010_Philippine_House_of_Representatives_elections_in_Central_Visayas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "sahifai fehristī"@tg-latn .
+<http://yago-knowledge.org/resource/Q110117637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Hamirpur_Lok_Sabha_Constituency_Q125433874> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/1871_French_legislative_election_in_Algeria> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2013_Salzburg_state_election> <http://yago-knowledge.org/resource/siteLinks> "5"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Kokrajhar_Lok_Sabha_Constituency> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Bhiwani-Mahendragarh_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Bhiwani-Mahendragarh_Lok_Sabha_Constituency> .
+<http://yago-knowledge.org/resource/2013_Philippine_House_of_Representatives_elections_in_Central_Visayas> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/2018_Shelby_County_Tennessee_mayoral_election> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q124397592> .
+<http://yago-knowledge.org/resource/2015_Tierra_Del_Fuego_Provincial_Election> <http://www.w3.org/2000/01/rdf-schema#comment> "Wikimedia-lijst"@nl .
+<http://yago-knowledge.org/resource/2023_Nigerian_presidential_election_in_Oyo_State> <http://schema.org/location> <http://yago-knowledge.org/resource/Nigeria> .
+<http://yago-knowledge.org/resource/2015_Nigerian_Senate_elections_in_Enugu_State> <http://schema.org/location> <http://yago-knowledge.org/resource/Nigeria> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Tezpur_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2019_Indian_general_election_in_Assam> .
+<http://yago-knowledge.org/resource/2007_Nigerian_House_of_Representatives_elections_in_Kwara_State> <http://schema.org/url> "https://en.wikipedia.org/wiki/2007_Nigerian_House_of_Representatives_elections_in_Kwara_State"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/2009_Indian_General_Election_In_Dindori_Lok_Sabha_Constituency> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/2009_Indian_general_election_in_Maharashtra> .
+<http://yago-knowledge.org/resource/2019_Indian_General_Election_In_Nowgong_Lok_Sabha_Constituency> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/1963_Edinburgh_Corporation_election> <http://www.w3.org/2000/01/rdf-schema#label> "1963 Edinburgh Corporation election"@en .
+<http://yago-knowledge.org/resource/Élections_Sénatoriales_De_1968_En_Guadeloupe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/1989_Aruban_general_election> <http://www.w3.org/2000/01/rdf-schema#label> "Arubaanse Statenverkiezingen 1989"@nl .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://www.w3.org/2000/01/rdf-schema#comment> "8ª elezione del Consiglio e del Presidente della Regione Puglia"@it .
+<http://yago-knowledge.org/resource/Élections_Sénatoriales_De_2023_Dans_La_Meuse> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125850208> .
+<http://yago-knowledge.org/resource/Eleições_Estaduais_No_Tocantins_Em_1998> <http://www.w3.org/2000/01/rdf-schema#label> "Eleições estaduais no Tocantins em 1998"@pt .
+<http://yago-knowledge.org/resource/2005_Moscow_City_Duma_election> <http://www.w3.org/2000/01/rdf-schema#label> "2005 Moscow City Duma election"@en .
+<http://yago-knowledge.org/resource/2013_Salzburg_state_election> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:2013_Salzburg_state_election"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Maranhão> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federative_units_of_Brazil> .
+<http://yago-knowledge.org/resource/Élections_Cantonales_De_2008_Dans_Les_Deux-Sèvres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .
+<http://yago-knowledge.org/resource/Republic_of_Ireland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Island_country> .
+<http://yago-knowledge.org/resource/2016_Kerala_Legislative_Assembly_Election_In_Ottapalam_State_Assembly_Constituency> <http://www.w3.org/2000/01/rdf-schema#label> "2016 Kerala Legislative Assembly election in Ottapalam State Assembly constituency"@en .
+<http://yago-knowledge.org/resource/1890_Swansea_County_Borough_Council_election> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Y------_--_------------_--------_----_2015_Q22132611> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/1973_Londonderry_City_Council_election> <http://schema.org/location> <http://yago-knowledge.org/resource/United_Kingdom> .
+<http://yago-knowledge.org/resource/Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Y------_--_------------_--------_----_2015_Q22132611> <http://www.w3.org/2000/01/rdf-schema#comment> "انتخابات"@ar .
+<http://yago-knowledge.org/resource/Ecuadorian_Vice_Presidential_Election_2005> <http://schema.org/alternateName> "2005 Ecuadorian Vice Presidential election"@en .
+<http://yago-knowledge.org/resource/1909_Hong_Kong_sanitary_board_election> <http://schema.org/sameAs> "/g/11j1brz3rc" .
+<http://yago-knowledge.org/resource/2005_Apulian_regional_election> <http://schema.org/alternateName> "Apulian regional election, 2005"@en .
+<http://yago-knowledge.org/resource/2014_Indian_General_Election_In_Tezpur_Lok_Sabha_Constituency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Election> .

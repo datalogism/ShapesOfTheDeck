@@ -1,0 +1,75 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix yago: <http://yago-knowledge.org/resource/> .
+
+<http://shaclshapes.org/PersonShape> a sh:NodeShape ;
+    sh:property [ sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:sameAs ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path schema:knowsLanguage ],
+        [ sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path schema:gender ],
+        [ sh:node <http://shaclshapes.org/PersonShape> ;
+            sh:path schema:spouse ],
+        [ sh:path yago:academicDegree ;
+            sh:or ( [ sh:class yago:Bachelor_of_Arts_generic_instance ] [ sh:class yago:Doctor_of_Philosophy_generic_instance ] [ sh:class yago:Doctor_of_Sciences_generic_instance ] [ sh:class yago:Master_of_Arts_generic_instance ] ) ],
+        [ sh:class schema:Organization ;
+            sh:path schema:worksFor ],
+        [ sh:class yago:Islam_generic_instance ;
+            sh:path yago:beliefSystem ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:path schema:mainEntityOfPage ],
+        [ sh:class schema:Place ;
+            sh:maxCount 1 ;
+            sh:path schema:birthPlace ],
+        [ sh:datatype <xsd:dateTime> ;
+            sh:maxCount 1 ;
+            sh:path schema:deathDate ],
+        [ sh:datatype <rdf:langString> ;
+            sh:path rdfs:comment ],
+        [ sh:class schema:Organization ;
+            sh:path schema:memberOf ],
+        [ sh:datatype <xsd:dateTime> ;
+            sh:maxCount 1 ;
+            sh:path schema:birthDate ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path schema:award ],
+        [ sh:datatype <rdf:langString> ;
+            sh:path schema:alternateName ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:path schema:url ],
+        [ sh:datatype <xsd:string> ;
+            sh:path schema:sameAs ],
+        [ sh:class <http://dbpedia.org/ontology/Country> ;
+            sh:path schema:nationality ],
+        [ sh:datatype <rdf:langString> ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ sh:class schema:CreativeWork ;
+            sh:path yago:appearsIn ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:path schema:image ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path schema:deathPlace ],
+        [ sh:class schema:EducationalOrganization ;
+            sh:path schema:alumniOf ],
+        [ sh:class schema:Place ;
+            sh:path schema:owns ],
+        [ sh:class schema:Place ;
+            sh:path schema:homeLocation ],
+        [ sh:class schema:Organization ;
+            sh:path schema:affiliation ],
+        [ sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/PersonShape> ;
+            sh:path rdf:type ],
+        [ sh:node <http://shaclshapes.org/PersonShape> ;
+            sh:path schema:children ] ;
+    sh:targetClass schema:Person .
+

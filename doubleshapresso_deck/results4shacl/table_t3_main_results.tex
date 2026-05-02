@@ -1,0 +1,31 @@
+\begin{table}[h]
+\centering
+\begin{tabular}{ll|ccccc|ccccc}
+\hline
+\textbf{Model} & \textbf{Setting} & \multicolumn{5}{c|}{\textbf{DBpedia SHACL}} & \multicolumn{5}{c}{\textbf{YAGO SHACL}} \\
+ & & P & R & F1 & GED & NGED & P & R & F1 & GED & NGED \\
+\hline
+\multirow{1}{*}{sheXer} & - & 0.017 & 0.014 & 0.015 & 100.55 & 0.899 & 0.087 & 0.043 & 0.057 & 37.22 & 0.690 \\
+\hline
+\multirow{1}{*}{rdfshapeinduction} & - & 0.008 & 0.006 & 0.007 & 88.74 & 0.749 & --- & --- & --- & --- & --- \\
+\hline
+\multirow{1}{*}{rdfshapeinduction (DT)} & - & 0.011 & 0.007 & 0.009 & 93.05 & 0.756 & 0.020 & 0.024 & 0.021 & 33.29 & 0.621 \\
+\hline
+\multirow{1}{*}{rdfshapeinduction (MLP)} & - & 0.010 & 0.006 & 0.008 & 93.55 & 0.770 & 0.019 & 0.021 & 0.020 & 33.66 & 0.631 \\
+\hline
+\multirow{1}{*}{rdfshapeinduction (RF)} & - & 0.010 & 0.006 & 0.008 & 92.25 & 0.750 & 0.019 & 0.021 & 0.020 & 32.71 & 0.614 \\
+\hline
+\multirow{1}{*}{rdfshapeinduction (GB)} & - & 0.009 & 0.005 & 0.006 & 92.65 & 0.757 & 0.019 & 0.021 & 0.020 & 32.77 & 0.615 \\
+\hline
+\multirow{3}{*}{GPT-4o mini} & local & 0.082 & 0.034 & 0.047 & 95.60 & 0.803 & 0.481 & 0.376 & 0.419 & 21.44 & 0.391 \\
+ & triples & 0.100 & 0.039 & 0.054 & 99.30 & 0.875 & 0.438 & 0.320 & 0.367 & 24.58 & 0.456 \\
+ & global & 0.152 & 0.112 & 0.122 & 91.32 & 0.777 & 0.206 & 0.237 & 0.220 & 36.75 & 0.490 \\
+\hline
+\multirow{3}{*}{DeepSeek-V3} & local & 0.161 & 0.112 & 0.124 & 87.80 & 0.754 & 0.460 & 0.413 & 0.433 & 18.22 & 0.355 \\
+ & triples & 0.316 & 0.203 & 0.239 & 74.65 & 0.566 & 0.471 & 0.414 & 0.436 & 20.36 & 0.392 \\
+ & global & 0.143 & 0.109 & 0.121 & 92.79 & 0.777 & 0.399 & 0.458 & 0.426 & 28.25 & 0.374 \\
+\hline
+\end{tabular}
+\caption{Main results: all models and settings — DBpedia SHACL and YAGO SHACL (exact matching).}
+\label{tab:t3-main-results}
+\end{table}

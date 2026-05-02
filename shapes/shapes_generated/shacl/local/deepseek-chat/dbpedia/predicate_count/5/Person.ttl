@@ -1,0 +1,126 @@
+shacl
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:PersonShape
+    a sh:NodeShape ;
+    sh:targetClass dbo:Person ;
+    sh:property [
+        sh:path rdf:type ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:or (
+            [ sh:hasValue dbo:Person ]
+            [ sh:hasValue dbo:MusicalArtist ]
+            [ sh:hasValue dbo:Artist ]
+            [ sh:hasValue dbo:Scientist ]
+            [ sh:hasValue owl:Thing ]
+            [ sh:hasValue dbo:Animal ]
+            [ sh:hasValue dbo:Species ]
+            [ sh:hasValue dbo:Eukaryote ]
+            [ sh:hasValue schema:Person ]
+            [ sh:hasValue schema:MusicGroup ]
+            [ sh:hasValue foaf:Person ]
+            [ sh:hasValue <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> ]
+            [ sh:hasValue <http://www.wikidata.org/entity/Q19088> ]
+            [ sh:hasValue <http://www.wikidata.org/entity/Q215627> ]
+            [ sh:hasValue <http://www.wikidata.org/entity/Q483501> ]
+            [ sh:hasValue <http://www.wikidata.org/entity/Q5> ]
+            [ sh:hasValue <http://www.wikidata.org/entity/Q729> ]
+        )
+    ] ;
+    sh:property [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path foaf:givenName ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:birthDate ;
+        sh:datatype xsd:date ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:deathDate ;
+        sh:datatype xsd:date ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:birthYear ;
+        sh:datatype xsd:gYear ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:deathYear ;
+        sh:datatype xsd:gYear ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:birthPlace ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Place ;
+    ] ;
+    sh:property [
+        sh:path dbo:deathPlace ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Place ;
+    ] ;
+    sh:property [
+        sh:path dbo:activeYearsStartYear ;
+        sh:datatype xsd:gYear ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:activeYearsEndYear ;
+        sh:datatype xsd:gYear ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:background ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:alias ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    sh:property [
+        sh:path dbo:recordLabel ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:RecordLabel ;
+    ] ;
+    sh:property [
+        sh:path dbo:associatedMusicalArtist ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:MusicalArtist ;
+    ] ;
+    sh:property [
+        sh:path dbo:associatedBand ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Band ;
+    ] ;
+    sh:property [
+        sh:path dbo:genre ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Genre ;
+    ] ;
+    sh:property [
+        sh:path dbo:hometown ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:PopulatedPlace ;
+    ] ;
+    sh:property [
+        sh:path <http://www.w3.org/ns/dcat#resource_identifier> ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+    ] .

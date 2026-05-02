@@ -1,0 +1,1609 @@
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Seko> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Q5692316> <http://schema.org/sameAs> "/g/11_ygv9dx" .
+<http://yago-knowledge.org/resource/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/People_s_republic> .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/alternateName> "Julu language"@en .
+<http://yago-knowledge.org/resource/Cauho_language> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Interlingua_Q10943981> <http://www.w3.org/2000/01/rdf-schema#label> "interligua"@sl .
+<http://yago-knowledge.org/resource/Lenga_Piemontèisa_Stòria> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Uokha_language> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Rouran_language> <http://schema.org/alternateName> "bahasa Ruanruan"@id .
+<http://yago-knowledge.org/resource/Język_Tobo> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Khasali> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Nusa Tenggara"@id .
+<http://yago-knowledge.org/resource/Bahasa_Batu_Payung> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Pakkado> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://www.w3.org/2000/01/rdf-schema#comment> "լեզու"@hy .
+<http://yago-knowledge.org/resource/Duoni_language> <http://schema.org/url> "https://en.wikipedia.org/wiki/Duoni_language"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://schema.org/alternateName> "bahasa Yahadian"@id .
+<http://yago-knowledge.org/resource/Bahasa_Tukang_Besi> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Ware_language> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7969260> .
+<http://yago-knowledge.org/resource/Duoni_language> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Morwap> <http://schema.org/alternateName> "Tabu language"@en .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/url> "https://id.wikipedia.org/wiki/Bahasa_Singkil"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bouni_language> <http://www.w3.org/2000/01/rdf-schema#comment> "skou language of Papua New Guinea"@en .
+<http://yago-knowledge.org/resource/Bahasa_Muara> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q24918362> .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Tukang_Besi> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://schema.org/alternateName> "bahasa Tiadje"@id .
+<http://yago-knowledge.org/resource/Gaudi_Prakrit> <http://schema.org/alternateName> "Gaudiya Prakrit"@en .
+<http://yago-knowledge.org/resource/Bahasa_Kai> <http://schema.org/alternateName> "bahasa Kai"@id .
+<http://yago-knowledge.org/resource/Bahasa_Bipim_As-So> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Pedena_Q24705530> <http://www.w3.org/2000/01/rdf-schema#comment> "language in Papua"@en .
+<http://yago-knowledge.org/resource/Thanjavur_Marathi_dialect> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q13117696> .
+<http://yago-knowledge.org/resource/Ware_language> <http://schema.org/url> "https://en.wikipedia.org/wiki/Ware_language"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/2000/01/rdf-schema#label> "Cücence"@tr .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://yago-knowledge.org/resource/follows> <http://yago-knowledge.org/resource/Early_Modern_Swedish> .
+<http://yago-knowledge.org/resource/Bahasa_Karompa> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Sulawesi Tenggara"@id .
+<http://yago-knowledge.org/resource/Bahasa_Muara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Bada_Besona> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Old_North_African_languages> <http://schema.org/url> "https://ig.wikipedia.org/wiki/Nd%E1%BB%8B_na-as%E1%BB%A5_North_Africa_ochie"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Maipure-Avane_language> <http://www.w3.org/2000/01/rdf-schema#label> "Maipure–Avane"@en .
+<http://yago-knowledge.org/resource/Q5692316> <http://www.w3.org/2000/01/rdf-schema#label> "آمره‌ای"@fa .
+<http://yago-knowledge.org/resource/Bahasa_Karompa> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Karompa"@id .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#label> "利比里亚克里奥尔语"@zh-hans .
+<http://yago-knowledge.org/resource/Duoni_language> <http://www.w3.org/2000/01/rdf-schema#label> "Wikang Duoni"@tl .
+<http://yago-knowledge.org/resource/Język_Banihemo> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11732075> .
+<http://yago-knowledge.org/resource/Q5692316> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bahasa_Karompa> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Bipim_As-So> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Bipim As-So"@id .
+<http://yago-knowledge.org/resource/Bahasa_Jiwafeta> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Mixtec_Of_Tlaltempan> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Honitetu> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/2000/01/rdf-schema#label> "유연어"@ko .
+<http://yago-knowledge.org/resource/Q15933359> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Bipim_As-So> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Northern_Betsimisaraka_dialect> <http://schema.org/url> "https://ig.wikipedia.org/wiki/As%E1%BB%A5s%E1%BB%A5_nd%E1%BB%8B_d%E1%BB%8B_n%27ebe_ugwu_Betsimisaraka"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_As> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Guachichil_language> <http://schema.org/url> "https://en.wikipedia.org/wiki/Guachichil_language"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Lenga_Piemontèisa_Stòria> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Belaban> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Angku> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Lau_Q25932459> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://schema.org/alternateName> "liberijski kreolski jezik"@sl .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/alternateName> "Kampong language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Belaban> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Ambon_Tengah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Lau_Q25932459> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Język_Notu> <http://www.w3.org/2000/01/rdf-schema#label> "Język notu"@pl .
+<http://yago-knowledge.org/resource/Bahasa_Batu_Payung> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Nusa Tenggara Barat"@id .
+<http://yago-knowledge.org/resource/Bahasa_Honitetu> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Kai> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bouni_language> <http://schema.org/alternateName> "Bouni language"@en .
+<http://yago-knowledge.org/resource/Interlingua_Q10943981> <http://www.w3.org/2000/01/rdf-schema#label> "interlingua"@en .
+<http://yago-knowledge.org/resource/Bahasa_As> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Pakkado> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Papua"@id .
+<http://yago-knowledge.org/resource/Bahasa_Muara> <http://www.w3.org/2000/01/rdf-schema#comment> "լեզու"@hy .
+<http://yago-knowledge.org/resource/Angku> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Tengon> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Banaban_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Uokha_language> <http://www.w3.org/2000/01/rdf-schema#label> "Uokha"@en .
+<http://yago-knowledge.org/resource/Badala> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Mutyanthi> <http://www.w3.org/2000/01/rdf-schema#label> "Mutyanthi"@en .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#label> "利比里亚克里奥尔语"@zh .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://www.w3.org/2000/01/rdf-schema#label> "Kupang"@en .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Paus> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Communist_state> .
+<http://yago-knowledge.org/resource/Kadazan> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Lau_Q25932459> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Buttjersprache> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Cauho_language> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Q5692316> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Bada_Besona> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Bahasa_Asmat_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Uokha_language> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/So-Ng> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Seko> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25818844> .
+<http://yago-knowledge.org/resource/Natipi> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Kai> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://schema.org/url> "https://fr.wikipedia.org/wiki/Cr%C3%A9ole_lib%C3%A9rien"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Belaban> <http://schema.org/alternateName> "bahasa Belaban"@id .
+<http://yago-knowledge.org/resource/Bahasa_Ambelan> <http://schema.org/alternateName> "bahasa Ambelan"@id .
+<http://yago-knowledge.org/resource/Bahasa_Barapasi> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Bahasa_Pakkado> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Tengon> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Sunum> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://schema.org/alternateName> "Liberian Pidgin English"@en .
+<http://yago-knowledge.org/resource/Pedena_Q24705530> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Papua"@id .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Sunum> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Bipim_As-So> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di provinsi Papua"@id .
+<http://yago-knowledge.org/resource/Bahasa_Belaban> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q24837229> .
+<http://yago-knowledge.org/resource/Bahasa_Pilpikoro> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Interlingua_Q10943981> <http://www.w3.org/2000/01/rdf-schema#label> "между-язык"@ru .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Liberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Country_Bordering_The_Baltic_Sea> .
+<http://yago-knowledge.org/resource/Bahasa_Bada_Besona> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Seko> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Dra> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Thanjavur_Marathi_dialect> <http://www.w3.org/2000/01/rdf-schema#label> "Thanjavur Marathi"@en .
+<http://yago-knowledge.org/resource/Sama-Bajau_Q25037658> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Sulawesi Tengah"@id .
+<http://yago-knowledge.org/resource/Język_Biksi> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Natipi> <http://www.w3.org/2000/01/rdf-schema#label> "Natipi"@en .
+<http://yago-knowledge.org/resource/Bahasa_Dra> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Weinheimer_Brotsprache> <http://schema.org/sameAs> "/g/11jb019562" .
+<http://yago-knowledge.org/resource/Mixtec_Of_Tlaltempan> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Sunum> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Język_Biksi> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Lau_Q25932459> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/alternateName> "nahasa Kade-kade"@id .
+<http://yago-knowledge.org/resource/Buttjersprache> <http://www.w3.org/2000/01/rdf-schema#comment> "լեզու"@hy .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://schema.org/alternateName> "bahasa Saleman"@id .
+<http://yago-knowledge.org/resource/Ware_language> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Lenga_Piemontèisa_Stòria> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Thanjavur_Marathi_dialect> <http://schema.org/alternateName> "Tanjore Marathi"@en .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Tukang_Besi> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Badala> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/South_Kyoga_languages> <http://schema.org/url> "https://en.wikipedia.org/wiki/South_Kyoga_languages"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Mutyanthi> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q124542277> .
+<http://yago-knowledge.org/resource/Bahasa_Paus> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Tengon> <http://schema.org/alternateName> "bahasa Tengon"@id .
+<http://yago-knowledge.org/resource/Bahasa_Muara> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Język_Biksi> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Język_Tobo> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Bada_Besona> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Sulawesi Tengah"@id .
+<http://yago-knowledge.org/resource/Bahasa_Jiwafeta> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Q5692316> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Tunxi_Dialect> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/So-Ng> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Gambiri> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q31204106> .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://schema.org/url> "https://en.wikipedia.org/wiki/Late_Modern_Swedish"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Kai> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Język_Saki> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q10919956> .
+<http://yago-knowledge.org/resource/Bubeng> <http://www.w3.org/2000/01/rdf-schema#comment> "Polish language spoken in Yunnan, China"@en .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/2000/01/rdf-schema#label> "Жужанська мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Lau_Q25932459> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa lau"@id .
+<http://yago-knowledge.org/resource/Pedena_Q24705530> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://www.w3.org/2000/01/rdf-schema#comment> "language in Indonesia"@en .
+<http://yago-knowledge.org/resource/Tumbuka_language_cluster> <http://www.w3.org/2000/01/rdf-schema#label> "Tumbuka language cluster"@en .
+<http://yago-knowledge.org/resource/Język_Yau> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Asmat_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di provinsi Papua"@id .
+<http://yago-knowledge.org/resource/Bahasa_Muara> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Northern_Betsimisaraka_dialect> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bahasa_Tukang_Besi> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Tukang Besi"@id .
+<http://yago-knowledge.org/resource/Sunum> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Buttjersprache> <http://schema.org/sameAs> "/g/122kcc7k" .
+<http://yago-knowledge.org/resource/Bahasa_Asmat_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Karompa> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Karompa> <http://schema.org/alternateName> "bahasa Karompa"@id .
+<http://yago-knowledge.org/resource/Bahasa_Belaban> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Ambelan> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Seko> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Asmat_Utara> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25927453> .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#label> "Liberia kreola lingvo"@eo .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Q15933359> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Bipim_As-So> <http://schema.org/alternateName> "bahasa Bipim As-So"@id .
+<http://yago-knowledge.org/resource/Interlingua_Q10943981> <http://www.w3.org/2000/01/rdf-schema#label> "インターリングア"@ja .
+<http://yago-knowledge.org/resource/Język_Baburiwa> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Honitetu> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Gambiri> <http://www.w3.org/2000/01/rdf-schema#label> "Gambiri"@en .
+<http://yago-knowledge.org/resource/Bahasa_Batu_Payung> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Guanchi_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_As> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Guyinbaraay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://www.w3.org/2000/01/rdf-schema#comment> "Batak language spoken by the Singkil ethnic group"@en .
+<http://yago-knowledge.org/resource/Język_Baburiwa> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Pilpikoro> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bubeng> <http://www.w3.org/2000/01/rdf-schema#label> "bubeng"@sl .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/alternateName> "Singkil language"@en .
+<http://yago-knowledge.org/resource/Język_Biksi> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Morwap> <http://schema.org/alternateName> "Sawa language"@en .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://schema.org/url> "https://bar.wikipedia.org/wiki/Oidboarisch"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Język_Yau> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Sama-Bajau_Q25037658> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25037658> .
+<http://yago-knowledge.org/resource/Khabi_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Uokha_language> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3441216> .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q24702038> .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Tukang_Besi> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Buttjersprache> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Język_Saki> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Bipim_As-So> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Khabi_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Język_Notu> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11732533> .
+<http://yago-knowledge.org/resource/Khasali> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Język_Baburiwa> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Barapasi> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/2000/01/rdf-schema#comment> "bagian dari rumpun bahasa Mongolik"@id .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_As> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Historical_Unrecognized_State> .
+<http://yago-knowledge.org/resource/Sama-Bajau_Q25037658> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Kalimantan"@id .
+<http://yago-knowledge.org/resource/Bahasa_Kayan_Sungai_Kayan> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Natipi> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Pakkado> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Mutyanthi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Kadazan> <http://www.w3.org/2000/01/rdf-schema#label> "kadazansk"@da .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/alternateName> "Kampong language"@en-gb .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://schema.org/alternateName> "Liberian Vernacular English"@en .
+<http://yago-knowledge.org/resource/Thanjavur_Marathi_dialect> <http://www.w3.org/2000/01/rdf-schema#comment> "thanjavur marathi"@hi .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Rouran_language> <http://schema.org/url> "https://simple.wikipedia.org/wiki/Ruanruan_language"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Khabi_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Duoni_language> <http://schema.org/url> "https://ig.wikipedia.org/wiki/As%E1%BB%A5s%E1%BB%A5_Duoni"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/alternateName> "bahasa Kampong"@id .
+<http://yago-knowledge.org/resource/Bahasa_Pilpikoro> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Sulawesi Tengah"@id .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Khabi_language> <http://schema.org/url> "https://ig.wikipedia.org/wiki/Khabi_language"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Thanjavur_Marathi_dialect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Buttjersprache> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Gambiri> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Rouran_language> <http://schema.org/url> "https://az.wikipedia.org/wiki/Jujan_dili"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Bulik> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Bada_Besona> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Muara> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Buttjersprache> <http://schema.org/url> "https://de.wikipedia.org/wiki/Buttjersprache"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Tunxi_Dialect> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Samrai_Q30579936> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Kayan_Sungai_Kayan> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Kayan Sungai Kayan"@id .
+<http://yago-knowledge.org/resource/Gaudi_Prakrit> <http://schema.org/url> "https://en.wikipedia.org/wiki/Gaudi_Prakrit"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Dra> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Samrai_Q30579936> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Język_Yau> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/alternateName> "Pakpak Boang language"@en-gb .
+<http://yago-knowledge.org/resource/Mixtec_Of_Tlaltempan> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Cauho_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Sama-Bajau_Q25037658> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Neo_Hanzi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Bada_Besona> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://schema.org/url> "https://pms.wikipedia.org/wiki/Lenga_cumeral"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://www.w3.org/2000/01/rdf-schema#label> "Late Modern Swedish"@en .
+<http://yago-knowledge.org/resource/Duoni_language> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Język_Notu> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Banaban_language> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q136534107> .
+<http://yago-knowledge.org/resource/Rouran_language> <http://schema.org/url> "https://ig.wikipedia.org/wiki/As%E1%BB%A5s%E1%BB%A5_Rouran"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Język_Baburiwa> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Ware_language> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Ambelan> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Jiwafeta> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Khabi_language> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20984163> .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://schema.org/sameAs> "/g/155qc0s9" .
+<http://yago-knowledge.org/resource/Gaudi_Prakrit> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/Bahasa_As> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di provinsi Papua"@id .
+<http://yago-knowledge.org/resource/Khabi_language> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Guachichil_language> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Guanchi_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Honitetu> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Natipi> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Khabi_language> <http://yago-knowledge.org/resource/siteLinks> "4"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bahasa_As> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Khabi_language> <http://www.w3.org/2000/01/rdf-schema#label> "Kabie"@en .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://www.w3.org/2000/01/rdf-schema#label> "Guanaca"@en .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12473471> .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Honitetu> <http://schema.org/alternateName> "bahasa Honitetu"@id .
+<http://yago-knowledge.org/resource/Maipure-Avane_language> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://www.w3.org/2000/01/rdf-schema#comment> "language in Nusa Tenggara"@en .
+<http://yago-knowledge.org/resource/Cauho_language> <http://www.w3.org/2000/01/rdf-schema#label> "Wikang Cauho"@tl .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://schema.org/alternateName> "bahasa Kupang"@id .
+<http://yago-knowledge.org/resource/Tumbuka_language_cluster> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q136528726> .
+<http://yago-knowledge.org/resource/Buttjersprache> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Pedena_Q24705530> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q24702058> .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Cauho_language> <http://schema.org/sameAs> "/m/0139_9nb" .
+<http://yago-knowledge.org/resource/Lenga_Piemontèisa_Stòria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Sama-Bajau_Q25037658> <http://schema.org/alternateName> "bahasa Sama-Bajau"@id .
+<http://yago-knowledge.org/resource/Bahasa_Dra> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Chaoui_Des_Amouchas> <http://www.w3.org/2000/01/rdf-schema#label> "Chaoui des Amouchas"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Lau_Q25932459> <http://schema.org/alternateName> "bahasa lau"@id .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/2000/01/rdf-schema#label> "柔然語"@ja .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Pakkado> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Język_Tobo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://schema.org/url> "https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%81%D8%A7%D8%B1%D9%8A%D8%A9_%D9%82%D8%AF%D9%8A%D9%85%D8%A9"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Greater_Luyia_languages> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Pilpikoro> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Gambiri> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Batu_Payung> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Old_North_African_languages> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bahasa_Ambon_Tengah> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://schema.org/alternateName> "Liberian Kreyol language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Bulik> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://schema.org/alternateName> "bahasa Dia"@id .
+<http://yago-knowledge.org/resource/Rouran_language> <http://schema.org/alternateName> "Rouanrouan"@fr .
+<http://yago-knowledge.org/resource/Greater_Luyia_languages> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133456378> .
+<http://yago-knowledge.org/resource/Indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Unitary_state> .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Ambon_Tengah> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/2000/01/rdf-schema#comment> "ethnic group in Indonesia"@en-us .
+<http://yago-knowledge.org/resource/Tumbuka_language_cluster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Morwap> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Batak_Karo_language_generic_instance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Batak_Karo_language> .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Q15933359> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Kadazan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Gaudi_Prakrit> <http://www.w3.org/2000/01/rdf-schema#comment> "প্রাকৃত ভাষা"@bn .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Sama-Bajau_Q25037658> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Sama-Bajau_Q25037658> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Gaudi_Prakrit> <http://www.w3.org/2000/01/rdf-schema#label> "ଗୌଡ଼ୀ ପ୍ରାକୃତ"@or .
+<http://yago-knowledge.org/resource/Mixtec_Of_Tlaltempan> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/2000/01/rdf-schema#label> "柔然语"@zh-cn .
+<http://yago-knowledge.org/resource/Bahasa_Kayan_Sungai_Kayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Pilpikoro> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://schema.org/alternateName> "bahasa Seleman"@id .
+<http://yago-knowledge.org/resource/Duoni_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Duoni_language> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Ambon_Tengah> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://www.w3.org/2000/01/rdf-schema#label> "Chorotega"@en .
+<http://yago-knowledge.org/resource/Ware_language> <http://schema.org/sameAs> "/m/02hxb5q" .
+<http://yago-knowledge.org/resource/Old_North_African_languages> <http://schema.org/url> "https://en.wikipedia.org/wiki/Old_North_African_languages"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Ware_language> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Paus> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Kalimantan"@id .
+<http://yago-knowledge.org/resource/Mixtec_Of_Tlaltempan> <http://www.w3.org/2000/01/rdf-schema#label> "Mixtec of Tlaltempan"@en .
+<http://yago-knowledge.org/resource/Bahasa_Belaban> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Lenga_Piemontèisa_Stòria> <http://schema.org/url> "https://pms.wikipedia.org/wiki/Lenga_piemont%C3%A8isa_(st%C3%B2ria)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Lau_Q25932459> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Język_Banihemo> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Weinheimer_Brotsprache> <http://schema.org/url> "https://es.wikipedia.org/wiki/Weinheimer_Brotsprache"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Jiwafeta> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Jiwafeta"@id .
+<http://yago-knowledge.org/resource/Samrai_Q30579936> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://schema.org/Language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/shacl#NodeShape> .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/alternateName> "Singkil language"@en-gb .
+<http://yago-knowledge.org/resource/Indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Island_country> .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Język_Baburiwa> <http://www.w3.org/2000/01/rdf-schema#label> "Język baburiwa"@pl .
+<http://yago-knowledge.org/resource/Gaudi_Prakrit> <http://schema.org/alternateName> "গৌড়ীয় প্রাকৃত"@bn .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://www.w3.org/2000/01/rdf-schema#label> "Bahasa Singkil"@kge .
+<http://yago-knowledge.org/resource/Bahasa_Batu_Payung> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Tunxi_Dialect> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://schema.org/alternateName> "Malay Kupang"@en .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Krui"@id .
+<http://yago-knowledge.org/resource/Badala> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/2000/01/rdf-schema#label> "Asụsụ Rouran"@ig .
+<http://yago-knowledge.org/resource/Bahasa_Bulik> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Kalimantan Tengah"@id .
+<http://yago-knowledge.org/resource/Buttjersprache> <http://www.w3.org/2000/01/rdf-schema#comment> "ehemalige in Minden an der Weser nachgewiesene Sondersprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Paus> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Cauho_language> <http://schema.org/alternateName> "Cauho language"@en .
+<http://yago-knowledge.org/resource/Khabi_language> <http://schema.org/url> "https://en.wikipedia.org/wiki/Khabi_language"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Q5692316> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Bahasa_Ambon_Tengah> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Buttjersprache> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1018179> .
+<http://yago-knowledge.org/resource/Changjiang_language> <http://schema.org/alternateName> "Changjiang language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25893644> .
+<http://yago-knowledge.org/resource/So-Ng> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/alternateName> "Singkil Batak language"@en .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Guanchi_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Język_Notu> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://schema.org/alternateName> "bahasa Ella"@id .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Sunum> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Angku> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q30557242> .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Batu_Payung> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Pilpikoro> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Ambelan> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://schema.org/location> <http://yago-knowledge.org/resource/Colombia> .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Tengon> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Kalimantan Barat"@id .
+<http://yago-knowledge.org/resource/Bahasa_Keramay> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Early_Modern_Swedish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Chronolect> .
+<http://yago-knowledge.org/resource/Bahasa_Bada_Besona> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Guanchi_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Maipure-Avane_language> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q109165661> .
+<http://yago-knowledge.org/resource/Bahasa_Dra> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Bipim_As-So> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Seko> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Kadazan> <http://www.w3.org/2000/01/rdf-schema#label> "Kadazan"@nl .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/2000/01/rdf-schema#comment> "լեզու"@hy .
+<http://yago-knowledge.org/resource/Natipi> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://schema.org/url> "https://zh.wikipedia.org/wiki/%E5%91%82%E6%A2%81%E7%89%87"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Ambon_Tengah> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25853455> .
+<http://yago-knowledge.org/resource/Old_North_African_languages> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q113430720> .
+<http://yago-knowledge.org/resource/Cambodian_English> <http://schema.org/url> "https://en.wikipedia.org/wiki/Cambodian_English"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://www.w3.org/2000/01/rdf-schema#label> "Lu Liang dialects"@en .
+<http://yago-knowledge.org/resource/Gambiri> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://yago-knowledge.org/resource/siteLinks> "4"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Tukang_Besi> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Interlingua_Q10943981> <http://www.w3.org/2000/01/rdf-schema#comment> "language-neutral representation of semantic and grammatical concepts in machine translation"@en .
+<http://yago-knowledge.org/resource/Bangladesh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Bahasa_Bipim_As-So> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://schema.org/alternateName> "bahasa Bwool"@id .
+<http://yago-knowledge.org/resource/Tunxi_Dialect> <http://schema.org/url> "https://zh.wikipedia.org/wiki/%E5%B1%AF%E6%BA%AA%E8%AF%9D"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Bulik> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25028321> .
+<http://yago-knowledge.org/resource/Bahasa_Barapasi> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Natipi> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Belaban> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Kalimantan"@id .
+<http://yago-knowledge.org/resource/Angku> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Tengon> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Język_Saki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Barapasi> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25927564> .
+<http://yago-knowledge.org/resource/Sama-Bajau_Q25037658> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bubeng> <http://schema.org/alternateName> "bubenščina"@sl .
+<http://yago-knowledge.org/resource/Bahasa_Barapasi> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Gambiri> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Muara> <http://schema.org/alternateName> "bahasa Muara"@id .
+<http://yago-knowledge.org/resource/Bahasa_Tengon> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Lenga_Piemontèisa_Stòria> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12953814> .
+<http://yago-knowledge.org/resource/Bahasa_Seko> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Sulawesi Selatan"@id .
+<http://yago-knowledge.org/resource/Greater_Luyia_languages> <http://www.w3.org/2000/01/rdf-schema#label> "ennimi z'omu Greater Luyia"@lg .
+<http://yago-knowledge.org/resource/Bahasa_Bulik> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Cauho_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Duoni_language> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Uokha_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Cauho_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Khabi_language> <http://schema.org/sameAs> "/m/013b0xzs" .
+<http://yago-knowledge.org/resource/Badala> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Ware_language> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Uokha_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/2000/01/rdf-schema#label> "Morwap"@en .
+<http://yago-knowledge.org/resource/Bahasa_Paus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Paus> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Seko> <http://schema.org/alternateName> "bahasa Seko"@id .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Muara> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Q5692316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Q5692316> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Khasali> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Angku> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://schema.org/alternateName> "mkn"@mul .
+<http://yago-knowledge.org/resource/Bahasa_Tengon> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/So-Ng> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Sama-Bajau_Q25037658> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Northern_Betsimisaraka_dialect> <http://www.w3.org/2000/01/rdf-schema#label> "Asụsụ ndị dị n'ebe ugwu Betsimisaraka"@ig .
+<http://yago-knowledge.org/resource/Ware_language> <http://www.w3.org/2000/01/rdf-schema#label> "Asụsụ Ware"@ig .
+<http://yago-knowledge.org/resource/Rouran_language> <http://yago-knowledge.org/resource/siteLinks> "12"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Duoni_language> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Yarú_language> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q135435330> .
+<http://yago-knowledge.org/resource/Bahasa_Belaban> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Lau_Q25932459> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Cauho_language> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Tunxi_Dialect> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11043625> .
+<http://yago-knowledge.org/resource/Bahasa_Bipim_As-So> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Gaudi_Prakrit> <http://www.w3.org/2000/01/rdf-schema#label> "Gaudi Prakrit"@en .
+<http://yago-knowledge.org/resource/Ware_language> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Pedena_Q24705530> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Khabi_language> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Jiwafeta> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Ambon_Tengah> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Ambon Tengah"@id .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Seko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Seko> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Jiwafeta> <http://schema.org/alternateName> "bahasa Jiwafeta"@id .
+<http://yago-knowledge.org/resource/Bahasa_Jiwafeta> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Interlingua_Q10943981> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Asmat_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Lenga_Piemontèisa_Stòria> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Rouran_language> <http://schema.org/url> "https://zh.wikipedia.org/wiki/%E6%9F%94%E7%84%B6%E8%AA%9E"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Natipi> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Duoni_language> <http://schema.org/sameAs> "/m/013b1173" .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/alternateName> "Singkil Batak language"@en-gb .
+<http://yago-knowledge.org/resource/Lenga_Piemontèisa_Stòria> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Tukang_Besi> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Sulawesi Tenggara"@id .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Język_Banihemo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Język_Tobo> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11732695> .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://schema.org/url> "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BC%D0%B5%D1%80%D0%B0%D0%BB%D1%8C"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://schema.org/alternateName> "bahasa Krui"@id .
+<http://yago-knowledge.org/resource/Buttjersprache> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Język_Tobo> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Batu_Payung> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#comment> "lingvo parolata en Liberio"@eo .
+<http://yago-knowledge.org/resource/Bahasa_Tengon> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Angku> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Sunum> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Tukang_Besi> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Tukang_Besi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bahasa_Jiwafeta> <http://www.w3.org/2000/01/rdf-schema#comment> "լեզու"@hy .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/2000/01/rdf-schema#label> "Altbairisch"@de .
+<http://yago-knowledge.org/resource/Greater_Luyia_languages> <http://schema.org/alternateName> "ennimi z'omu Greater Luyia"@en .
+<http://yago-knowledge.org/resource/Buttjersprache> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Sulawesi Tengah"@id .
+<http://yago-knowledge.org/resource/Sunum> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q26037154> .
+<http://yago-knowledge.org/resource/Bahasa_Tengon> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Tengon"@id .
+<http://yago-knowledge.org/resource/Bahasa_Paus> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Paus"@id .
+<http://yago-knowledge.org/resource/Molokai_Dialect> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133896583> .
+<http://yago-knowledge.org/resource/Bahasa_Lau_Q25932459> <http://schema.org/alternateName> "bahasa law"@id .
+<http://yago-knowledge.org/resource/Cauho_language> <http://schema.org/url> "https://en.wikipedia.org/wiki/Cauho_language"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Tunxi_Dialect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Sama-Bajau_Q25037658> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Rouran_language> <http://schema.org/url> "https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%97%B0%EC%96%B4"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Język_Banihemo> <http://www.w3.org/2000/01/rdf-schema#label> "Język banihemo"@pl .
+<http://yago-knowledge.org/resource/Bahasa_Dra> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Interlingua_Q10943981> <http://www.w3.org/2000/01/rdf-schema#comment> "языконезависимое представление семантических и грамматических концептов при машинном переводе"@ru .
+<http://yago-knowledge.org/resource/Język_Biksi> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Język_Tobo> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Język_Biksi> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11732101> .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Karompa> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Asmat_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Karompa> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Guachichil_language> <http://www.w3.org/2000/01/rdf-schema#label> "Guachichil language"@en .
+<http://yago-knowledge.org/resource/Greater_Luyia_languages> <http://www.w3.org/2000/01/rdf-schema#comment> "subgroup Bantu languages spoken Eastern Uganda"@en .
+<http://yago-knowledge.org/resource/Ware_language> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Q15933359> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/South_Kyoga_languages> <http://www.w3.org/2000/01/rdf-schema#label> "South Kyoga languages"@en .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Mouton"@id .
+<http://yago-knowledge.org/resource/Język_Notu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Muara> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Język_Baburiwa> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11732062> .
+<http://yago-knowledge.org/resource/Q15933359> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/2000/01/rdf-schema#label> "بافارية قديمة"@ar .
+<http://yago-knowledge.org/resource/Bahasa_Belaban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Tumbuka_language_cluster> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bahasa_Belaban> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Duoni_language> <http://www.w3.org/2000/01/rdf-schema#label> "Asụsụ Duoni"@ig .
+<http://yago-knowledge.org/resource/Yarú_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Lau_Q25932459> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://www.w3.org/2000/01/rdf-schema#label> "Chorotega"@de .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/2000/01/rdf-schema#label> "Old Bavarian"@en .
+<http://yago-knowledge.org/resource/Bahasa_Barapasi> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://www.w3.org/2000/01/rdf-schema#label> "Tialo"@en .
+<http://yago-knowledge.org/resource/Sama-Bajau_Q25037658> <http://www.w3.org/2000/01/rdf-schema#label> "Sama-Bajau"@id .
+<http://yago-knowledge.org/resource/Bahasa_Keramay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://schema.org/alternateName> "Guanaca language"@en .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Guanchi_Dialects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Karompa> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://schema.org/url> "https://sv.wikipedia.org/wiki/Yngre_nysvenska"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Changjiang_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Cauho_language> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Q15933359> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Uokha_language> <http://yago-knowledge.org/resource/siteLinks> "4"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Gaudi_Prakrit> <http://www.w3.org/2000/01/rdf-schema#label> "গৌড়ী প্রাকৃত"@bn .
+<http://yago-knowledge.org/resource/Uokha_language> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Pakkado> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Pakkado"@id .
+<http://yago-knowledge.org/resource/Pedena_Q24705530> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Badala> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bubeng> <http://schema.org/alternateName> "bubenski jezik"@sl .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25893589> .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/2000/01/rdf-schema#comment> "langue inclassable éteinte"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Paus> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Q15933359> <http://schema.org/url> "https://zh.wikipedia.org/wiki/%E8%99%B9%E6%A9%8B%E8%A9%B1"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Colombia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Bahasa_Kayan_Sungai_Kayan> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Język_Tobo> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Q5692316> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Kayan_Sungai_Kayan> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Pilpikoro> <http://schema.org/alternateName> "bahasa Pilpikoro"@id .
+<http://yago-knowledge.org/resource/So-Ng> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Interlingua_Q10943981> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q10943981> .
+<http://yago-knowledge.org/resource/Bahasa_Dra> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://www.w3.org/2000/01/rdf-schema#label> "Кумераль"@ru .
+<http://yago-knowledge.org/resource/Bahasa_Dra> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25931587> .
+<http://yago-knowledge.org/resource/Gaudi_Prakrit> <http://schema.org/url> "https://or.wikipedia.org/wiki/%E0%AC%97%E0%AD%8C%E0%AC%A1%E0%AC%BC%E0%AD%80_%E0%AC%AA%E0%AD%8D%E0%AC%B0%E0%AC%BE%E0%AC%95%E0%AD%83%E0%AC%A4"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Badala> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bouni_language> <http://schema.org/url> "https://en.wikipedia.org/wiki/Bouni_language"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Honitetu> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Gaudi_Prakrit> <http://schema.org/location> <http://yago-knowledge.org/resource/Bangladesh> .
+<http://yago-knowledge.org/resource/Thanjavur_Marathi_dialect> <http://yago-knowledge.org/resource/siteLinks> "3"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bahasa_Paus> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Batu_Payung> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Sunum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Sunum> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Old_North_African_languages> <http://www.w3.org/2000/01/rdf-schema#label> "Old North African"@en .
+<http://yago-knowledge.org/resource/Język_Baburiwa> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Kai> <http://schema.org/alternateName> "bahasa Kei"@id .
+<http://yago-knowledge.org/resource/Khabi_language> <http://schema.org/url> "https://tl.wikipedia.org/wiki/Wikang_Kabie"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Ambon_Tengah> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Q5692316> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Chaoui_Des_Amouchas> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q113834422> .
+<http://yago-knowledge.org/resource/Gambiri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q252349> .
+<http://yago-knowledge.org/resource/Buttjersprache> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Kayan_Sungai_Kayan> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/So-Ng> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Tukang_Besi> <http://schema.org/alternateName> "bahasa Tukang Besi"@id .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://schema.org/alternateName> "bahasa Tomini"@id .
+<http://yago-knowledge.org/resource/Thanjavur_Marathi_dialect> <http://www.w3.org/2000/01/rdf-schema#comment> "dialect of Marathi spoken by Thanjavur Maharashtrians"@en .
+<http://yago-knowledge.org/resource/Bahasa_Bulik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Kai> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Khabi_language> <http://www.w3.org/2000/01/rdf-schema#label> "卡别语"@zh .
+<http://yago-knowledge.org/resource/Bahasa_Jiwafeta> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Seko> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Karompa> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://www.w3.org/2000/01/rdf-schema#label> "guanaca"@fr .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://schema.org/alternateName> "bahasa Swedia Modern Akhir"@id .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Khabi_language> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Q15933359> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Dra> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Pedena_Q24705530> <http://www.w3.org/2000/01/rdf-schema#label> "Pedena"@en .
+<http://yago-knowledge.org/resource/Lenga_Piemontèisa_Stòria> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Język_Biksi> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Duoni_language> <http://schema.org/alternateName> "Duoni language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Barapasi> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://schema.org/alternateName> "bahasa Li Enyorot"@id .
+<http://yago-knowledge.org/resource/Khasali> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/India> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Dominion> .
+<http://yago-knowledge.org/resource/Bahasa_Pakkado> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Molokai_Dialect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Duoni_language> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20984131> .
+<http://yago-knowledge.org/resource/Kadazan> <http://www.w3.org/2000/01/rdf-schema#comment> "sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Asmat_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Seko> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Uokha_language> <http://schema.org/url> "https://en.wikipedia.org/wiki/Uokha_language"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Kai> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Bahasa_Tukang_Besi> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Ware_language> <http://schema.org/alternateName> "Ware language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://schema.org/alternateName> "bahasa Tiro"@id .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q24837150> .
+<http://yago-knowledge.org/resource/Bahasa_As> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa As"@id .
+<http://yago-knowledge.org/resource/Northern_Betsimisaraka_dialect> <http://schema.org/url> "https://en.wikipedia.org/wiki/Northern_Betsimisaraka_dialect"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Bada_Besona> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Bada'Besona"@id .
+<http://yago-knowledge.org/resource/Yombe_dialect_Zambia> <http://www.w3.org/2000/01/rdf-schema#comment> "tumbuka dialect of Zambia"@en .
+<http://yago-knowledge.org/resource/Bahasa_Bada_Besona> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://schema.org/alternateName> "bahasa Pamona"@id .
+<http://yago-knowledge.org/resource/Bahasa_Honitetu> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bubeng> <http://schema.org/alternateName> "Bubeng language"@en .
+<http://yago-knowledge.org/resource/Samrai_Q30579936> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Kayan_Sungai_Kayan> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Asmat_Utara> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Język_Saki> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Mixtec_Of_Tlaltempan> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Tukang_Besi> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Thanjavur_Marathi_dialect> <http://www.w3.org/2000/01/rdf-schema#label> "তাঞ্জাবুর মরাঠী"@bn .
+<http://yago-knowledge.org/resource/Język_Saki> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Tapajó_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://www.w3.org/2000/01/rdf-schema#label> "Cumeral"@en .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Duoni_language> <http://yago-knowledge.org/resource/siteLinks> "4"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Cauho_language> <http://www.w3.org/2000/01/rdf-schema#label> "Cauho"@en .
+<http://yago-knowledge.org/resource/Bubeng> <http://www.w3.org/2000/01/rdf-schema#comment> "poljski jezik, ki se govori v Junanu na Kitajskem"@sl .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/alternateName> "Singkil"@id .
+<http://yago-knowledge.org/resource/Bahasa_Paus> <http://schema.org/alternateName> "bahasa Paus"@id .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://www.w3.org/2000/01/rdf-schema#label> "sueco moderno tardío"@es .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Kayan_Sungai_Kayan> <http://schema.org/alternateName> "bahasa Kayan Sungai Kayan"@id .
+<http://yago-knowledge.org/resource/Bahasa_Jiwafeta> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Khabi_language> <http://schema.org/url> "https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%88%AB%E8%AF%AD"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Belaban> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Weinheimer_Brotsprache> <http://schema.org/url> "https://de.wikipedia.org/wiki/Weinheimer_Brotsprache"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://schema.org/alternateName> "西山话"@zh .
+<http://yago-knowledge.org/resource/Bahasa_Lau_Q25932459> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://schema.org/alternateName> "bahasa Bwo'ol"@id .
+<http://yago-knowledge.org/resource/Bahasa_Pilpikoro> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25818791> .
+<http://yago-knowledge.org/resource/Cambodian_English> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bahasa_Dra> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Dra"@id .
+<http://yago-knowledge.org/resource/Chaoui_Des_Amouchas> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Język_Baburiwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Muara> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/Batak_Karo_language_generic_instance> .
+<http://yago-knowledge.org/resource/Bouni_language> <http://www.w3.org/2000/01/rdf-schema#label> "Lingua bouni"@gl .
+<http://yago-knowledge.org/resource/Bahasa_Bada_Besona> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Asmat_Utara> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Asmat Utara"@id .
+<http://yago-knowledge.org/resource/Gaudi_Prakrit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Ambon_Tengah> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di provinsi Maluku"@id .
+<http://yago-knowledge.org/resource/Rouran_language> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E6%9F%94%E7%84%B6%E8%AA%9E"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Język_Yau> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#label> "Liberian Kreyol"@en .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://schema.org/url> "https://hr.wikipedia.org/wiki/%C4%8Corotega_jezik"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Khabi_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Lau_Q25932459> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Molokai_Dialect> <http://www.w3.org/2000/01/rdf-schema#label> "Molokai dialect"@en .
+<http://yago-knowledge.org/resource/Bahasa_Bipim_As-So> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Uokha_language> <http://www.w3.org/2000/01/rdf-schema#label> "Lenga Uokha"@pms .
+<http://yago-knowledge.org/resource/Bahasa_Tengon> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25024786> .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Paus> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q24920039> .
+<http://yago-knowledge.org/resource/Rouran_language> <http://schema.org/sameAs> "/g/11f3y3y39h" .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Kupang"@id .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://www.w3.org/2000/01/rdf-schema#label> "Lenga chorotega"@pms .
+<http://yago-knowledge.org/resource/Uokha_language> <http://www.w3.org/2000/01/rdf-schema#label> "uokha"@fr .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Sunum> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Język_Banihemo> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Język_Saki> <http://www.w3.org/2000/01/rdf-schema#label> "Język saki"@pl .
+<http://yago-knowledge.org/resource/Bahasa_Karompa> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://schema.org/alternateName> "bahasa Kondjo"@id .
+<http://yago-knowledge.org/resource/Język_Banihemo> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://schema.org/alternateName> "yngre nysvenska"@sl .
+<http://yago-knowledge.org/resource/Maipure-Avane_language> <http://schema.org/alternateName> "Maipure–Avane language"@en .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bubeng> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Honitetu> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12629401> .
+<http://yago-knowledge.org/resource/Bahasa_As> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Cauho_language> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25052429> .
+<http://yago-knowledge.org/resource/Samrai_Q30579936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Samrai_Q30579936> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Rechtsstaat> .
+<http://yago-knowledge.org/resource/Bahasa_Tengon> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Dra> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Tunxi_Dialect> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Język_Biksi> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Neo_Hanzi> <http://www.w3.org/2000/01/rdf-schema#label> "Neo Hanzi"@en .
+<http://yago-knowledge.org/resource/Natipi> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q24702095> .
+<http://yago-knowledge.org/resource/Tunxi_Dialect> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Sunum> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25804148> .
+<http://yago-knowledge.org/resource/Cauho_language> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Język_Banihemo> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Natipi> <http://schema.org/alternateName> "Natipi language"@en .
+<http://yago-knowledge.org/resource/Ware_language> <http://www.w3.org/2000/01/rdf-schema#label> "Ware"@en .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Uokha_language> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25803943> .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://www.w3.org/2000/01/rdf-schema#comment> "Batak language spoken by the Singkil ethnic group"@en-gb .
+<http://yago-knowledge.org/resource/Tapajó_language> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133152067> .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q24750566> .
+<http://yago-knowledge.org/resource/Bahasa_Dra> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Ware_language> <http://yago-knowledge.org/resource/siteLinks> "3"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Buttjersprache> <http://www.w3.org/2000/01/rdf-schema#label> "Buttjersprache"@de .
+<http://yago-knowledge.org/resource/Język_Notu> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Lau_Q25932459> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di provinsi Papua"@id .
+<http://yago-knowledge.org/resource/Uokha_language> <http://schema.org/url> "https://sw.wikipedia.org/wiki/Kiuokha"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Pakkado> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Neo_Hanzi> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134563032> .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Maipure-Avane_language> <http://schema.org/url> "https://en.wikipedia.org/wiki/Maipure%E2%80%93Avane_language"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Belaban> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Język_Notu> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/2000/01/rdf-schema#label> "Język morwap"@pl .
+<http://yago-knowledge.org/resource/Bouni_language> <http://schema.org/sameAs> "/g/11hy9tjjd7" .
+<http://yago-knowledge.org/resource/Rouran_language> <http://schema.org/alternateName> "Ruanruan"@en .
+<http://yago-knowledge.org/resource/Język_Biksi> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Lau_Q25932459> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Tunxi_Dialect> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Pakkado> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25819808> .
+<http://yago-knowledge.org/resource/Bahasa_Ambelan> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Bahasa_Ambelan> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Keramay> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Język_Saki> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Guanchi_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bouni_language> <http://www.w3.org/2000/01/rdf-schema#label> "Bouni"@en .
+<http://yago-knowledge.org/resource/Bahasa_Keramay> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Buru Utara"@id .
+<http://yago-knowledge.org/resource/Bubeng> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q123124873> .
+<http://yago-knowledge.org/resource/South_Kyoga_languages> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q136669191> .
+<http://yago-knowledge.org/resource/Guyinbaraay> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q113680370> .
+<http://yago-knowledge.org/resource/Język_Notu> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Mixtec_Of_Tlaltempan> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Rouran"@id .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://schema.org/alternateName> "Basa Kupang"@en .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Uokha_language> <http://www.w3.org/2000/01/rdf-schema#label> "Kiuokha"@sw .
+<http://yago-knowledge.org/resource/Język_Yau> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Asmat_Utara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/India> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Bahasa_Ambon_Tengah> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Bouni_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua da familia skou falada en Papúa-Nova Guinea"@gl .
+<http://yago-knowledge.org/resource/Bahasa_Ambelan> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Język_Banihemo> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25717521> .
+<http://yago-knowledge.org/resource/Colombia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Secular_state> .
+<http://yago-knowledge.org/resource/Lenga_Piemontèisa_Stòria> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Bulik> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Bulik"@id .
+<http://yago-knowledge.org/resource/Cambodian_English> <http://www.w3.org/2000/01/rdf-schema#comment> "variety of English spoken in Cambodia"@en .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://www.w3.org/2000/01/rdf-schema#comment> "լեզու"@hy .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://www.w3.org/2000/01/rdf-schema#label> "呂梁片"@zh .
+<http://yago-knowledge.org/resource/Bahasa_Keramay> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Pedena_Q24705530> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Pedena"@id .
+<http://yago-knowledge.org/resource/Banaban_language> <http://www.w3.org/2000/01/rdf-schema#comment> "extinct language spoken on Banaba"@en .
+<http://yago-knowledge.org/resource/Sunum> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di provinsi Papua"@id .
+<http://yago-knowledge.org/resource/Guanchi_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Interlingua_Q10943981> <http://schema.org/url> "https://zh.wikipedia.org/wiki/%E5%AA%92%E4%BB%8B%E8%AF%AD"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/So-Ng> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q30774198> .
+<http://yago-knowledge.org/resource/Natipi> <http://www.w3.org/2000/01/rdf-schema#comment> "language in Indonesia"@en .
+<http://yago-knowledge.org/resource/Język_Baburiwa> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Sunum> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://www.w3.org/2000/01/rdf-schema#comment> "extinct language"@en .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Tunxi_Dialect> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://schema.org/url> "https://en.wikipedia.org/wiki/Guanaca_language"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Język_Yau> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Indonesia"@id .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Gambiri> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Khabi_language> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Dra> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di provinsi Papua"@id .
+<http://yago-knowledge.org/resource/Greater_Luyia_languages> <http://www.w3.org/2000/01/rdf-schema#label> "Greater Luyia languages"@en .
+<http://yago-knowledge.org/resource/Bahasa_Bulik> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bouni_language> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q65043887> .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6541128> .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://schema.org/alternateName> "yngre nysvenska"@es .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Bulik> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Social_state> .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://schema.org/alternateName> "bahasa Melayu Kupang"@id .
+<http://yago-knowledge.org/resource/Język_Biksi> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Dra> <http://schema.org/alternateName> "bahasa Dra"@id .
+<http://yago-knowledge.org/resource/Język_Baburiwa> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Język_Notu> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Khabi_language> <http://www.w3.org/2000/01/rdf-schema#label> "Khabi language"@ig .
+<http://yago-knowledge.org/resource/Rouran_language> <http://schema.org/url> "https://fr.wikipedia.org/wiki/Rouran_(langue)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Asmat_Utara> <http://schema.org/alternateName> "bahasa Asmat Utara"@id .
+<http://yago-knowledge.org/resource/Bahasa_Karompa> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Khasali> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di provinsi Maluku"@id .
+<http://yago-knowledge.org/resource/Bahasa_Batu_Payung> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Batu Payung"@id .
+<http://yago-knowledge.org/resource/Bahasa_Ambelan> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Język_Saki> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Gambiri> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://www.w3.org/2000/01/rdf-schema#comment> "ett skede i utvecklingen av svenskan"@sv .
+<http://yago-knowledge.org/resource/Khasali> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Duoni_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Khabi_language> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Yombe_dialect_Zambia> <http://www.w3.org/2000/01/rdf-schema#label> "Yombe dialect"@en .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/2000/01/rdf-schema#label> "Rouranščina"@sl .
+<http://yago-knowledge.org/resource/Buttjersprache> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bahasa_Seko> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Seko"@id .
+<http://yago-knowledge.org/resource/Bahasa_Bulik> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Keramay> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Guanchi_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Thanjavur_Marathi_dialect> <http://schema.org/url> "https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE%E0%AE%B5%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%B0%E0%AE%BE%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF_%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Pilpikoro> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Lenga_Piemontèisa_Stòria> <http://www.w3.org/2000/01/rdf-schema#label> "Lenga piemontèisa (stòria)"@pms .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://schema.org/sameAs> "/m/02hwwxk" .
+<http://yago-knowledge.org/resource/Samrai_Q30579936> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#label> "利比里亚克里奥尔语"@zh-cn .
+<http://yago-knowledge.org/resource/Bahasa_Barapasi> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Khasali> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Tengon> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#comment> "langue du Liberia"@fr .
+<http://yago-knowledge.org/resource/Bouni_language> <http://schema.org/location> <http://yago-knowledge.org/resource/Papua_New_Guinea> .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Duoni_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Cauho_language> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Uokha_language> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Język_Yau> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Banaban_language> <http://schema.org/url> "https://en.wikipedia.org/wiki/Banaban_language"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Kayan_Sungai_Kayan> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Pilpikoro> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://schema.org/alternateName> "bahasa Hatue"@id .
+<http://yago-knowledge.org/resource/Q15933359> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15933359> .
+<http://yago-knowledge.org/resource/Banaban_language> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/2000/01/rdf-schema#label> "Oidboarisch"@bar .
+<http://yago-knowledge.org/resource/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Gambiri> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Honitetu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_As> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Bulik> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Język_Baburiwa> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://schema.org/alternateName> "Rejang Lebong language"@en .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://www.w3.org/2000/01/rdf-schema#comment> "language in Indonesia"@en .
+<http://yago-knowledge.org/resource/Bahasa_Keramay> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q24903001> .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://schema.org/alternateName> "yngre nysvenska"@en .
+<http://yago-knowledge.org/resource/Pedena_Q24705530> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Keramay> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Keramay"@id .
+<http://yago-knowledge.org/resource/Khabi_language> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di provinsi Papua"@id .
+<http://yago-knowledge.org/resource/Khabi_language> <http://www.w3.org/2000/01/rdf-schema#label> "Wikang Kabie"@tl .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/2000/01/rdf-schema#label> "Suku Morwap"@id .
+<http://yago-knowledge.org/resource/Khasali> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Weinheimer_Brotsprache> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q96674948> .
+<http://yago-knowledge.org/resource/Bahasa_Jiwafeta> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Bada_Besona> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Tapajó_language> <http://schema.org/url> "https://en.wikipedia.org/wiki/Tapaj%C3%B3_language"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Duoni_language> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Rouran_language> <http://schema.org/url> "https://tr.wikipedia.org/wiki/C%C3%BCcence"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Pakkado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Lenga_Piemontèisa_Stòria> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bouni_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Batu_Payung> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Język_Saki> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11732612> .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Bahasa_Ambon_Tengah> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Natipi> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Natipi"@id .
+<http://yago-knowledge.org/resource/Bahasa_Bulik> <http://schema.org/alternateName> "bahasa Bulik"@id .
+<http://yago-knowledge.org/resource/Język_Biksi> <http://www.w3.org/2000/01/rdf-schema#label> "Język biksi"@pl .
+<http://yago-knowledge.org/resource/Bahasa_Bipim_As-So> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Pedena_Q24705530> <http://schema.org/alternateName> "bahasa Pedena"@id .
+<http://yago-knowledge.org/resource/Bubeng> <http://schema.org/location> <http://yago-knowledge.org/resource/China> .
+<http://yago-knowledge.org/resource/Duoni_language> <http://schema.org/url> "https://tl.wikipedia.org/wiki/Wikang_Duoni"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Samrai_Q30579936> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Barapasi> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Mixtec_Of_Tlaltempan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Northern_Betsimisaraka_dialect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/alternateName> "Kade-kade language"@en-gb .
+<http://yago-knowledge.org/resource/Bahasa_Ambelan> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Bahasa_Tengon> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Samrai_Q30579936> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q30579936> .
+<http://yago-knowledge.org/resource/Bahasa_Tengon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Neo_Hanzi> <http://schema.org/url> "https://en.wikipedia.org/wiki/Neo_Hanzi"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Pedena_Q24705530> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Cauho_language> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Weinheimer_Brotsprache> <http://www.w3.org/2000/01/rdf-schema#comment> "lenguaje para describir el pan"@es .
+<http://yago-knowledge.org/resource/Guanchi_Dialects> <http://www.w3.org/2000/01/rdf-schema#label> "灌赤片"@zh .
+<http://yago-knowledge.org/resource/Bahasa_Ambon_Tengah> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Uokha_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Uokha_language> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Yombe_dialect_Zambia> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132861142> .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Natipi> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://schema.org/alternateName> "bahasa Nerigo"@id .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://schema.org/alternateName> "Basa Kupang"@id .
+<http://yago-knowledge.org/resource/Northern_Betsimisaraka_dialect> <http://www.w3.org/2000/01/rdf-schema#label> "Northern Betsimisaraka dialect"@en .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Pilpikoro> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Pilpikoro"@id .
+<http://yago-knowledge.org/resource/Angku> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Batu_Payung> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Karompa> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25818909> .
+<http://yago-knowledge.org/resource/Q15933359> <http://www.w3.org/2000/01/rdf-schema#label> "虹橋話"@zh .
+<http://yago-knowledge.org/resource/So-Ng> <http://www.w3.org/2000/01/rdf-schema#label> "So-ng"@en .
+<http://yago-knowledge.org/resource/Sunum> <http://www.w3.org/2000/01/rdf-schema#label> "Sunum"@id .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://yago-knowledge.org/resource/siteLinks> "3"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bahasa_Kai> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Rouran_language> <http://schema.org/url> "https://sl.wikipedia.org/wiki/Rouran%C5%A1%C4%8Dina"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Rejang Lebong"@id .
+<http://yago-knowledge.org/resource/Bahasa_Kai> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Thanjavur_Marathi_dialect> <http://schema.org/url> "https://en.wikipedia.org/wiki/Thanjavur_Marathi_dialect"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Gaudi_Prakrit> <http://www.w3.org/2000/01/rdf-schema#comment> "ଭାରତୀୟ ଭାଷା"@or .
+<http://yago-knowledge.org/resource/Badala> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Tukang_Besi> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25819582> .
+<http://yago-knowledge.org/resource/Sama-Bajau_Q25037658> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Paus> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Jiwafeta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Jiwafeta> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Papua_New_Guinea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Commonwealth_realm> .
+<http://yago-knowledge.org/resource/Angku> <http://www.w3.org/2000/01/rdf-schema#comment> "լեզու"@hy .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#label> "créole libérien"@fr .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://www.w3.org/2000/01/rdf-schema#comment> "tahapan dalam pengembangan bahasa Swedia"@id .
+<http://yago-knowledge.org/resource/Angku> <http://www.w3.org/2000/01/rdf-schema#label> "Angku"@en .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Weinheimer_Brotsprache> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Q5692316> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Guachichil_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Asmat_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Bulik> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Bahasa_Kayan_Sungai_Kayan> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/So-Ng> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Asmat_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Lenga_Piemontèisa_Stòria> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Ware_language> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Kai> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Interlingua_Q10943981> <http://www.w3.org/2000/01/rdf-schema#label> "interligua"@ca .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/State_with_limited_recognition> .
+<http://yago-knowledge.org/resource/Maipure-Avane_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Interlingua_Q10943981> <http://schema.org/alternateName> "промежуточный язык"@ru .
+<http://yago-knowledge.org/resource/Bahasa_Pilpikoro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Sama-Bajau_Q25037658> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/2000/01/rdf-schema#label> "rouran"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Pakkado> <http://schema.org/alternateName> "bahasa Pakkado"@id .
+<http://yago-knowledge.org/resource/Bahasa_Muara> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Muara"@id .
+<http://yago-knowledge.org/resource/Guanchi_Dialects> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15930224> .
+<http://yago-knowledge.org/resource/Bahasa_Ambon_Tengah> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Indonesia"@id .
+<http://yago-knowledge.org/resource/Khabi_language> <http://www.w3.org/2000/01/rdf-schema#comment> "Loloish language spoken in China"@en .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Jahadian"@id .
+<http://yago-knowledge.org/resource/Papua_New_Guinea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Island_country> .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Pamona"@id .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://schema.org/alternateName> "bahasa Bual"@id .
+<http://yago-knowledge.org/resource/Weinheimer_Brotsprache> <http://www.w3.org/2000/01/rdf-schema#label> "Weinheimer Brotsprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Seko> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Old_North_African_languages> <http://www.w3.org/2000/01/rdf-schema#label> "Ndị na-asụ North Africa ochie"@ig .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/2000/01/rdf-schema#label> "蠕蠕語"@zh-hant .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/sameAs> "/g/120yrdpz" .
+<http://yago-knowledge.org/resource/Pedena_Q24705530> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Kadazan> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Greater_Luyia_languages> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Badala> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Bada_Besona> <http://schema.org/alternateName> "bahasa Bada'Besona"@id .
+<http://yago-knowledge.org/resource/Bahasa_Paus> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Język_Tobo> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Tunxi_Dialect> <http://www.w3.org/2000/01/rdf-schema#label> "Tunxi dialect"@en .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Q5692316> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Karompa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#comment> "լեզու"@hy .
+<http://yago-knowledge.org/resource/Q5692316> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5692316> .
+<http://yago-knowledge.org/resource/So-Ng> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://www.w3.org/2000/01/rdf-schema#label> "yngre nysvenska"@sv .
+<http://yago-knowledge.org/resource/Bahasa_Tukang_Besi> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Q15933359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://www.w3.org/2000/01/rdf-schema#label> "Cumeral jezik"@hr .
+<http://yago-knowledge.org/resource/Bahasa_Kai> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Uokha_language> <http://schema.org/url> "https://pms.wikipedia.org/wiki/Lenga_Uokha"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Thanjavur_Marathi_dialect> <http://www.w3.org/2000/01/rdf-schema#label> "तंजावर मराठी"@mr .
+<http://yago-knowledge.org/resource/Bahasa_Bipim_As-So> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Muara> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Pedena_Q24705530> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Bahasa_Batu_Payung> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Thanjavur_Marathi_dialect> <http://schema.org/url> "https://mr.wikipedia.org/wiki/%E0%A4%A4%E0%A4%82%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A5%82%E0%A4%B0_%E0%A4%AE%E0%A4%B0%E0%A4%BE%E0%A4%A0%E0%A5%80_%E0%A4%AC%E0%A5%8B%E0%A4%B2%E0%A5%80%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Weinheimer_Brotsprache> <http://www.w3.org/2000/01/rdf-schema#label> "Weinheimer Brotsprache"@es .
+<http://yago-knowledge.org/resource/Bahasa_Kayan_Sungai_Kayan> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://schema.org/url> "https://de.wikipedia.org/wiki/Chorotega_(Sprache)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Ambelan> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Kai> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25893672> .
+<http://yago-knowledge.org/resource/Bahasa_Muara> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Barapasi> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Ware_language> <http://schema.org/url> "https://ig.wikipedia.org/wiki/As%E1%BB%A5s%E1%BB%A5_Ware"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Tengon> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Gaudi_Prakrit> <http://yago-knowledge.org/resource/siteLinks> "3"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bahasa_Keramay> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Khasali> <http://www.w3.org/2000/01/rdf-schema#comment> "language of India"@en .
+<http://yago-knowledge.org/resource/Old_North_African_languages> <http://schema.org/alternateName> "Old North African languages"@en .
+<http://yago-knowledge.org/resource/Early_Modern_Swedish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Dead_language> .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Cauho_language> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Język_Saki> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Seko> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16911261> .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://schema.org/alternateName> "Chorotega jezik"@hr .
+<http://yago-knowledge.org/resource/Uokha_language> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Morwap> <http://schema.org/alternateName> "Morwap language"@en .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Bahasa_As> <http://schema.org/alternateName> "bahasa As"@id .
+<http://yago-knowledge.org/resource/Bangladesh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/People_s_republic> .
+<http://yago-knowledge.org/resource/Bahasa_Barapasi> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Muara> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://schema.org/alternateName> "利比亞克里奧爾語"@zh .
+<http://yago-knowledge.org/resource/Guanchi_Dialects> <http://www.w3.org/2000/01/rdf-schema#label> "Guanchi dialects"@en .
+<http://yago-knowledge.org/resource/Bahasa_Kayan_Sungai_Kayan> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Weinheimer_Brotsprache> <http://www.w3.org/2000/01/rdf-schema#label> "Weinheimer Brotsprache"@en .
+<http://yago-knowledge.org/resource/Tunxi_Dialect> <http://schema.org/sameAs> "/g/155r9xnc" .
+<http://yago-knowledge.org/resource/Sunum> <http://schema.org/alternateName> "bahasa Sunum"@id .
+<http://yago-knowledge.org/resource/Old_North_African_languages> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bubeng> <http://www.w3.org/2000/01/rdf-schema#label> "Bubeng"@en .
+<http://yago-knowledge.org/resource/Angku> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Belaban> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Tengon> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Weinheimer_Brotsprache> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Duoni_language> <http://www.w3.org/2000/01/rdf-schema#label> "Duoni"@en .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://www.w3.org/2000/01/rdf-schema#comment> "a stage in the devlopment of Swedish"@en .
+<http://yago-knowledge.org/resource/South_Kyoga_languages> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Tukang_Besi> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Thanjavur_Marathi_dialect> <http://schema.org/sameAs> "/m/0279y80" .
+<http://yago-knowledge.org/resource/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Secular_state> .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Honitetu> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Lenga_Piemontèisa_Stòria> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/alternateName> "bahasa Julu"@id .
+<http://yago-knowledge.org/resource/Bahasa_As> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Rouran_language> <http://schema.org/url> "https://uk.wikipedia.org/wiki/%D0%96%D1%83%D0%B6%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%BC%D0%BE%D0%B2%D0%B0"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Honitetu> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_As> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Kondjo"@id .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25932518> .
+<http://yago-knowledge.org/resource/Język_Yau> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Tapajó_language> <http://www.w3.org/2000/01/rdf-schema#label> "Tapajó language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Jiwafeta> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Buttjersprache> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Bulik> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Cambodian_English> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11732477> .
+<http://yago-knowledge.org/resource/Buttjersprache> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://schema.org/alternateName> "Krui language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Bipim_As-So> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Asmat_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Natipi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Lenga_Piemontèisa_Stòria> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Buol"@id .
+<http://yago-knowledge.org/resource/Bahasa_As> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/2000/01/rdf-schema#label> "الباڥاري القديم"@aeb-arab .
+<http://yago-knowledge.org/resource/Bahasa_Muara> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Bahasa_Pakkado> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Sulawesi Selatan"@id .
+<http://yago-knowledge.org/resource/Khasali> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://schema.org/alternateName> "Kupang language"@en .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Jiwafeta> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://www.w3.org/2000/01/rdf-schema#label> "Singkil"@en-gb .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12645985> .
+<http://yago-knowledge.org/resource/Bahasa_Pakkado> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Język_Tobo> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Duoni_language> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Belaban> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://schema.org/alternateName> "sueco moderno tardio"@es .
+<http://yago-knowledge.org/resource/Thanjavur_Marathi_dialect> <http://www.w3.org/2000/01/rdf-schema#label> "தஞ்சாவூர் மராத்தி மொழி"@ta .
+<http://yago-knowledge.org/resource/Morwap> <http://schema.org/alternateName> "bahasa Tabu"@id .
+<http://yago-knowledge.org/resource/Buttjersprache> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/2000/01/rdf-schema#label> "蠕蠕語"@zh .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Język_Banihemo> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://www.w3.org/2000/01/rdf-schema#label> "Swedia Modern Akhir"@id .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://www.w3.org/2000/01/rdf-schema#comment> "լեզու"@hy .
+<http://yago-knowledge.org/resource/Bahasa_Bada_Besona> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/2000/01/rdf-schema#comment> "Unclassified extinct language of 4th–6th-century Mongolia and northern China"@en .
+<http://yago-knowledge.org/resource/Bahasa_Barapasi> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di provinsi Papua"@id .
+<http://yago-knowledge.org/resource/Bahasa_Bada_Besona> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Ambelan> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di provinsi Maluku"@id .
+<http://yago-knowledge.org/resource/Bahasa_Paus> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Bahasa_Dra> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Angku> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Tengon> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Mixtec_Of_Tlaltempan> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Pedena_Q24705530> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q24705530> .
+<http://yago-knowledge.org/resource/Język_Tobo> <http://www.w3.org/2000/01/rdf-schema#label> "Język tobo"@pl .
+<http://yago-knowledge.org/resource/Bouni_language> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Język_Saki> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Język_Tobo> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Kalimantan"@id .
+<http://yago-knowledge.org/resource/Mixtec_Of_Tlaltempan> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Cauho_language> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Tumbuka_language_cluster> <http://www.w3.org/2000/01/rdf-schema#comment> "dialect cluster of the Tumbuka language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Keramay> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Kalimantan"@id .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://www.w3.org/2000/01/rdf-schema#comment> "լեզու"@hy .
+<http://yago-knowledge.org/resource/Chaoui_Des_Amouchas> <http://schema.org/url> "https://fr.wikipedia.org/wiki/Chaoui_des_Amouchas"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Karompa> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Ware_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Uokha_language> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://www.w3.org/2000/01/rdf-schema#label> "Krui"@en .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://schema.org/alternateName> "bahasa Jahadian"@id .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://schema.org/alternateName> "晋城小片"@zh .
+<http://yago-knowledge.org/resource/Mutyanthi> <http://www.w3.org/2000/01/rdf-schema#comment> "Australian language or town"@en .
+<http://yago-knowledge.org/resource/Q15933359> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#label> "liberijska kreolščina"@sl .
+<http://yago-knowledge.org/resource/Rouran_language> <http://schema.org/url> "https://id.wikipedia.org/wiki/Bahasa_Rouran"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_As> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/alternateName> "Kade-kade language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Ambelan> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25853312> .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Morwap> <http://schema.org/alternateName> "bahasa Sawa"@id .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Język_Yau> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11732778> .
+<http://yago-knowledge.org/resource/Język_Notu> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Greater_Luyia_languages> <http://www.w3.org/2000/01/rdf-schema#comment> "kkowe ly'ennimi ennabantu ezoogerwa mu Bukiikakkono bwa Uganda."@lg .
+<http://yago-knowledge.org/resource/Ware_language> <http://schema.org/url> "https://pms.wikipedia.org/wiki/Lenga_Ware"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Seko> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Kadazan> <http://www.w3.org/2000/01/rdf-schema#comment> "sprog"@da .
+<http://yago-knowledge.org/resource/Maipure-Avane_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lanugage classification including the Maipure and Avane languages"@en .
+<http://yago-knowledge.org/resource/Buttjersprache> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Karompa> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://schema.org/sameAs> "/m/0wzpkqc" .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Sulawesi Tengah"@id .
+<http://yago-knowledge.org/resource/Bahasa_Barapasi> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Barapasi"@id .
+<http://yago-knowledge.org/resource/Tunxi_Dialect> <http://www.w3.org/2000/01/rdf-schema#label> "屯溪话"@zh .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/2000/01/rdf-schema#label> "ancien bavarois"@fr .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://schema.org/url> "https://hr.wikipedia.org/wiki/Cumeral_jezik"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Keramay> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Pedena_Q24705530> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://schema.org/alternateName> "bahasa Konjo Pesisir"@id .
+<http://yago-knowledge.org/resource/Q15933359> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Jiwafeta> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di provinsi Papua"@id .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://schema.org/alternateName> "bahasaLisela"@id .
+<http://yago-knowledge.org/resource/Język_Yau> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Dra> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Pakkado> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/alternateName> "bahasa Pakpak Boang"@id .
+<http://yago-knowledge.org/resource/Bahasa_Kayan_Sungai_Kayan> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Duoni_language> <http://schema.org/url> "https://zh.wikipedia.org/wiki/%E5%A4%9A%E5%B0%BC%E8%AF%AD"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Tukang_Besi> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/url> "https://kge.wikipedia.org/wiki/Basa_Singkil"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Northern_Betsimisaraka_dialect> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134389658> .
+<http://yago-knowledge.org/resource/Bahasa_Pakkado> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Sulawesi Barat"@id .
+<http://yago-knowledge.org/resource/Lenga_Piemontèisa_Stòria> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/alternateName> "Julu language"@en-gb .
+<http://yago-knowledge.org/resource/Język_Baburiwa> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://schema.org/url> "https://pms.wikipedia.org/wiki/Lenga_chorotega"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Jiwafeta> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25932543> .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://schema.org/alternateName> "vieux bavarois"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Batu_Payung> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://schema.org/alternateName> "Kru Pidgin English"@en .
+<http://yago-knowledge.org/resource/Bahasa_Honitetu> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://schema.org/alternateName> "bahasa Buru Utara"@id .
+<http://yago-knowledge.org/resource/Bahasa_Belaban> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Język_Tobo> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Pilpikoro> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Lau_Q25932459> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Język_Banihemo> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Mixtec_Of_Tlaltempan> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Pilpikoro> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Kayan_Sungai_Kayan> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Guyinbaraay> <http://www.w3.org/2000/01/rdf-schema#label> "Guyinbaraay"@en .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Kayan_Sungai_Kayan> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25337173> .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Muara> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Samrai_Q30579936> <http://www.w3.org/2000/01/rdf-schema#label> "Samrai"@en .
+<http://yago-knowledge.org/resource/Cauho_language> <http://www.w3.org/2000/01/rdf-schema#label> "焦霍语"@zh .
+<http://yago-knowledge.org/resource/Bahasa_Barapasi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Kadazan> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Belaban> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Badala> <http://www.w3.org/2000/01/rdf-schema#comment> "endangered indigenous language of Australia"@en .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://schema.org/alternateName> "bahasa Liet Enjorot"@id .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Beape-ape"@id .
+<http://yago-knowledge.org/resource/Bahasa_Lau_Q25932459> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Uokha_language> <http://www.w3.org/2000/01/rdf-schema#label> "Uokha jezik"@hr .
+<http://yago-knowledge.org/resource/Bahasa_Pilpikoro> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Pakkado> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Karompa> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Keramay> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Bouni_language> <http://schema.org/url> "https://gl.wikipedia.org/wiki/Lingua_bouni"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Yarú_language> <http://schema.org/url> "https://en.wikipedia.org/wiki/Yar%C3%BA_language"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa rumpun Batak yang dituturkan oleh etnik Singkil"@id .
+<http://yago-knowledge.org/resource/Khasali> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Q15933359> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Ambon_Tengah> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Uokha_language> <http://schema.org/alternateName> "Uokha language"@en .
+<http://yago-knowledge.org/resource/Yombe_dialect_Zambia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Kadazan> <http://www.w3.org/2000/01/rdf-schema#label> "Kadazan"@en .
+<http://yago-knowledge.org/resource/Changjiang_language> <http://schema.org/url> "https://en.wikipedia.org/wiki/Changjiang_language"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Guachichil_language> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130456773> .
+<http://yago-knowledge.org/resource/Interlingua_Q10943981> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bahasa_Paus> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Bada_Besona> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/2000/01/rdf-schema#label> "Ruan-ruan"@en .
+<http://yago-knowledge.org/resource/Sunum> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://schema.org/alternateName> "bahasa Buol"@id .
+<http://yago-knowledge.org/resource/Q5692316> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q10723597> .
+<http://yago-knowledge.org/resource/Samrai_Q30579936> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Ambelan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Kai> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Język_Saki> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Mixtec_Of_Tlaltempan> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Kayan_Sungai_Kayan> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Kalimantan Timur"@id .
+<http://yago-knowledge.org/resource/Bahasa_Batu_Payung> <http://schema.org/alternateName> "bahasa Batu Payung"@id .
+<http://yago-knowledge.org/resource/Bahasa_Keramay> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Thanjavur_Marathi_dialect> <http://www.w3.org/2000/01/rdf-schema#comment> "தஞ்சாவூர் மராத்தி"@ta .
+<http://yago-knowledge.org/resource/Język_Biksi> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Duoni_language> <http://www.w3.org/2000/01/rdf-schema#label> "多尼语"@zh .
+<http://yago-knowledge.org/resource/Khasali> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25934578> .
+<http://yago-knowledge.org/resource/Sunum> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Bahasa_Kayan_Sungai_Kayan> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://schema.org/sameAs> "/g/120z16by" .
+<http://yago-knowledge.org/resource/So-Ng> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Asmat_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Pilpikoro> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Język_Saki> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Seko> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Honitetu> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25893648> .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://schema.org/alternateName> "bahasa Tialo"@id .
+<http://yago-knowledge.org/resource/Cauho_language> <http://schema.org/url> "https://zh.wikipedia.org/wiki/%E7%84%A6%E9%9C%8D%E8%AF%AD"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Bada_Besona> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25804349> .
+<http://yago-knowledge.org/resource/Guanchi_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://yago-knowledge.org/resource/siteLinks> "3"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Rouran_language> <http://schema.org/alternateName> "Rouran"@en .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Samrai_Q30579936> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Tukang_Besi> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Ware_language> <http://www.w3.org/2000/01/rdf-schema#label> "Lenga Ware"@pms .
+<http://yago-knowledge.org/resource/Khasali> <http://www.w3.org/2000/01/rdf-schema#label> "Khasali"@en .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://schema.org/alternateName> "bahasa Poso"@id .
+<http://yago-knowledge.org/resource/Weinheimer_Brotsprache> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bahasa_Bada_Besona> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://schema.org/alternateName> "Kolokwa"@en .
+<http://yago-knowledge.org/resource/Badala> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q30304253> .
+<http://yago-knowledge.org/resource/Natipi> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Guanchi_Dialects> <http://schema.org/url> "https://zh.wikipedia.org/wiki/%E7%81%8C%E8%B5%A4%E7%89%87"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bahasa_Barapasi> <http://schema.org/alternateName> "bahasa Barapasi"@id .
+<http://yago-knowledge.org/resource/India> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federal_republic> .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Język_Yau> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/South_Kyoga_languages> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Natipi> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Tunxi_Dialect> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Yarú_language> <http://www.w3.org/2000/01/rdf-schema#label> "Yarú language"@en .
+<http://yago-knowledge.org/resource/Thanjavur_Marathi_dialect> <http://schema.org/location> <http://yago-knowledge.org/resource/India> .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://www.w3.org/2000/01/rdf-schema#label> "Lenga cumeral"@pms .
+<http://yago-knowledge.org/resource/Bahasa_Lau_Q25932459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Ambon_Tengah> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Język_Banihemo> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://schema.org/url> "https://en.wikipedia.org/wiki/Liberian_Kreyol"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://www.w3.org/2000/01/rdf-schema#label> "Rejang Lebong"@en .
+<http://yago-knowledge.org/resource/Bahasa_Keramay> <http://schema.org/alternateName> "bahasa Keramay"@id .
+<http://yago-knowledge.org/resource/Bahasa_Bipim_As-So> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25929385> .
+<http://yago-knowledge.org/resource/Gambiri> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Neo_Hanzi> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Język_Baburiwa> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Muara> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Yombe_dialect_Zambia> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Gaudi_Prakrit> <http://www.w3.org/2000/01/rdf-schema#comment> "a Prakrit language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Bipim_As-So> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Natipi> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Język_Yau> <http://www.w3.org/2000/01/rdf-schema#label> "Język yau"@pl .
+<http://yago-knowledge.org/resource/Rouran_language> <http://schema.org/url> "https://en.wikipedia.org/wiki/Rouran_language"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Yombe_dialect_Zambia> <http://schema.org/url> "https://en.wikipedia.org/wiki/Yombe_dialect_(Zambia)"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sama-Bajau_Q25037658> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Tunxi_Dialect> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Kai> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di provinsi Maluku"@id .
+<http://yago-knowledge.org/resource/Khabi_language> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Sama-Bajau_Q25037658> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Yarú_language> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Język_Banihemo> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q48816637> .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Duoni_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Guanchi_Dialects> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bahasa_As> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25927443> .
+<http://yago-knowledge.org/resource/Ware_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Changjiang_language> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://schema.org/sameAs> "/m/04pnvz" .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Asmat_Utara> <http://schema.org/alternateName> "bahasa Keenok"@id .
+<http://yago-knowledge.org/resource/Ware_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Język_Notu> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Late_Modern_Swedish> <http://www.w3.org/2000/01/rdf-schema#label> "pozna moderna švedščina"@sl .
+<http://yago-knowledge.org/resource/Yarú_language> <http://www.w3.org/2000/01/rdf-schema#comment> "extinct Chapacuran language"@en .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://schema.org/alternateName> "bahasa Rejang Lebong"@id .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Tumbuka_language_cluster> <http://schema.org/url> "https://en.wikipedia.org/wiki/Tumbuka_language_cluster"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sama-Bajau_Q25037658> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Tunxi_Dialect> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Singkil"@id .
+<http://yago-knowledge.org/resource/Angku> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Ambelan> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://schema.org/alternateName> "bahasa Beape-ape"@id .
+<http://yago-knowledge.org/resource/Badala> <http://www.w3.org/2000/01/rdf-schema#label> "Badala"@en .
+<http://yago-knowledge.org/resource/Cambodian_English> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132745846> .
+<http://yago-knowledge.org/resource/Uokha_language> <http://schema.org/url> "https://hr.wikipedia.org/wiki/Uokha_jezik"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Weinheimer_Brotsprache> <http://www.w3.org/2000/01/rdf-schema#comment> "Fachsprache zur Erstellung von Genussbeschreibungen beim Verzehr von Brot"@de .
+<http://yago-knowledge.org/resource/Bahasa_Honitetu> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_As> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Keramay> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Greater_Luyia_languages> <http://schema.org/url> "https://en.wikipedia.org/wiki/Greater_Luyia_languages"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Rejang_Lebong> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Khabi_language> <http://schema.org/alternateName> "Kabie language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Ambon_Tengah> <http://schema.org/alternateName> "bahasa Laha"@id .
+<http://yago-knowledge.org/resource/Bahasa_Kai> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Samrai_Q30579936> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Socialist_state> .
+<http://yago-knowledge.org/resource/Ware_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Natipi> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Cumeral_language> <http://schema.org/url> "https://en.wikipedia.org/wiki/Cumeral_language"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://www.w3.org/2000/01/rdf-schema#label> "Čorotega jezik"@hr .
+<http://yago-knowledge.org/resource/Pedena_Q24705530> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Język_Notu> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/2000/01/rdf-schema#comment> "4-6세기 몽골과 중국 북부의 미분류 사어"@ko .
+<http://yago-knowledge.org/resource/Gaudi_Prakrit> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130641498> .
+<http://yago-knowledge.org/resource/Pedena_Q24705530> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Pamona> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#label> "利比里亞克里奧爾語"@zh-hant .
+<http://yago-knowledge.org/resource/Bahasa_Batu_Payung> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q24835794> .
+<http://yago-knowledge.org/resource/Bahasa_Ambelan> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Bipim_As-So> <http://schema.org/location> <http://yago-knowledge.org/resource/Indonesia> .
+<http://yago-knowledge.org/resource/Bahasa_Kondjo> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25805126> .
+<http://yago-knowledge.org/resource/Bahasa_Beape-Ape> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Kai> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Kai"@id .
+<http://yago-knowledge.org/resource/Greater_Luyia_languages> <http://schema.org/alternateName> "ennimi z'omu Greater Luyia"@lg .
+<http://yago-knowledge.org/resource/Chaoui_Des_Amouchas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Asmat_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Honitetu> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Honitetu"@id .
+<http://yago-knowledge.org/resource/Lu_Liang_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Keramay> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Pakkado> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Gaudi_Prakrit> <http://schema.org/url> "https://bn.wikipedia.org/wiki/%E0%A6%97%E0%A7%8C%E0%A6%A1%E0%A6%BC%E0%A7%80_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%83%E0%A6%A4"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Guanchi_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/alternateName> "bahasa Batak Singkil"@id .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Molokai_Dialect> <http://www.w3.org/2000/01/rdf-schema#comment> "dialect of Hawaiian language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Jahadian> <http://schema.org/alternateName> "bahasa Yabin Yahadian"@id .
+<http://yago-knowledge.org/resource/Chorotega_Q12645985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Batu_Payung> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Krui_Q24702038> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Język_Banihemo> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://schema.org/location> <http://yago-knowledge.org/resource/Liberia> .
+<http://yago-knowledge.org/resource/Q5692316> <http://schema.org/url> "https://fa.wikipedia.org/wiki/%D8%A2%D9%85%D8%B1%D9%87%E2%80%8C%D8%A7%DB%8C"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sama-Bajau_Q25037658> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Batu_Payung> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://www.w3.org/2000/01/rdf-schema#label> "Singkil"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Bipim_As-So> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Honitetu> <http://schema.org/alternateName> "bahasa Tala"@id .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://schema.org/alternateName> "Tomini"@en .
+<http://yago-knowledge.org/resource/Bahasa_Bulik> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Dra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Język_Biksi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Ware_language> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Muara> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Kalimantan"@id .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Hatue"@id .
+<http://yago-knowledge.org/resource/Tunxi_Dialect> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Bahasa_Dra> <http://schema.org/alternateName> "bahasa Kamberataro"@id .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Natipi> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di Indonesia"@id .
+<http://yago-knowledge.org/resource/Liberian_Kreyol> <http://www.w3.org/2000/01/rdf-schema#comment> "jezik"@sl .
+<http://yago-knowledge.org/resource/Język_Tobo> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Ambon_Tengah> <http://schema.org/alternateName> "bahasa Ambon Tengah"@id .
+<http://yago-knowledge.org/resource/Khasali> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://schema.org/alternateName> "Kupang Malay"@en .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Gambiri> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Kadazan> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q45845782> .
+<http://schema.org/Language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Tapajó_language> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bahasa_Bulik> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Język_Notu> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Mixtec_Of_Tlaltempan> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q28744623> .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://www.w3.org/2000/01/rdf-schema#comment> "language of Indonesia"@en .
+<http://yago-knowledge.org/resource/Interlingua_Q10943981> <http://www.w3.org/2000/01/rdf-schema#label> "媒介语"@zh .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Angku> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Angku> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Weinheimer_Brotsprache> <http://schema.org/alternateName> "Lenguaje panadero de Weinheim"@es .
+<http://yago-knowledge.org/resource/Changjiang_language> <http://www.w3.org/2000/01/rdf-schema#label> "Changjiang"@en .
+<http://yago-knowledge.org/resource/Bahasa_Ambelan> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Barapasi> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Ambon_Tengah> <http://www.w3.org/2000/01/rdf-schema#comment> "Sprache"@de .
+<http://yago-knowledge.org/resource/Bahasa_Honitetu> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di provinsi Maluku"@id .
+<http://yago-knowledge.org/resource/Rouran_language> <http://www.w3.org/2000/01/rdf-schema#label> "Jujan dili"@az .
+<http://yago-knowledge.org/resource/Khasali> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Kai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Bahasa_Kai> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Guanaca_language> <http://www.w3.org/2000/01/rdf-schema#comment> "yezh"@br .
+<http://yago-knowledge.org/resource/Bahasa_Keramay> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Kupang_Q24750566> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Guanchi_Dialects> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://www.w3.org/2000/01/rdf-schema#label> "Singkil"@en .
+<http://yago-knowledge.org/resource/Bahasa_Karompa> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Belaban> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Belaban"@id .
+<http://yago-knowledge.org/resource/Cauho_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Duoni_language> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Bahasa_Lau_Q25932459> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25932459> .
+<http://yago-knowledge.org/resource/Bahasa_Ambelan> <http://www.w3.org/2000/01/rdf-schema#label> "bahasa Ambelan"@id .
+<http://yago-knowledge.org/resource/Badala> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Uokha_language> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Buru_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Q15933359> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Język_Yau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> .
+<http://yago-knowledge.org/resource/Singkil_Q12473471> <http://schema.org/alternateName> "Pakpak Boang language"@en .
+<http://yago-knowledge.org/resource/Bahasa_Paus> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/2000/01/rdf-schema#label> "Morwap"@jv .
+<http://yago-knowledge.org/resource/Badala> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Changjiang_language> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q107722601> .
+<http://yago-knowledge.org/resource/Q5692316> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Paus> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Cambodian_English> <http://www.w3.org/2000/01/rdf-schema#label> "Cambodian English"@en .
+<http://yago-knowledge.org/resource/So-Ng> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Asmat_Utara> <http://www.w3.org/2000/01/rdf-schema#comment> "language"@en .
+<http://yago-knowledge.org/resource/Q5692316> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Old_Bavarian> <http://schema.org/url> "https://de.wikipedia.org/wiki/Altbairisch"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/So-Ng> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Thanjavur_Marathi_dialect> <http://schema.org/alternateName> "Thanjavur Marathi dialect"@en .
+<http://yago-knowledge.org/resource/Banaban_language> <http://www.w3.org/2000/01/rdf-schema#label> "Banaban language"@en .
+<http://yago-knowledge.org/resource/Northern_Betsimisaraka_dialect> <http://www.w3.org/2000/01/rdf-schema#comment> "austronesian language of Madagascar"@en .
+<http://yago-knowledge.org/resource/Tialo_Q25803943> <http://schema.org/alternateName> "bahasa Mouton"@id .
+<http://yago-knowledge.org/resource/Tapajó_language> <http://www.w3.org/2000/01/rdf-schema#comment> "extinct language of Brazil"@en .
+<http://yago-knowledge.org/resource/Bahasa_Pilpikoro> <http://www.w3.org/2000/01/rdf-schema#comment> "שפה"@he .
+<http://yago-knowledge.org/resource/Bahasa_Hatue> <http://www.w3.org/2000/01/rdf-schema#comment> "bahasa di provinsi Maluku"@id .
+<http://yago-knowledge.org/resource/Bahasa_Honitetu> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_As> <http://www.w3.org/2000/01/rdf-schema#comment> "iaith"@cy .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Bahasa_Barapasi> <http://www.w3.org/2000/01/rdf-schema#comment> "мова"@uk .
+<http://yago-knowledge.org/resource/Pedena_Q24705530> <http://www.w3.org/2000/01/rdf-schema#comment> "langue"@fr .
+<http://yago-knowledge.org/resource/Gambiri> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Bahasa_Buol> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@it .
+<http://yago-knowledge.org/resource/Bahasa_Jiwafeta> <http://www.w3.org/2000/01/rdf-schema#comment> "lengua"@es .
+<http://yago-knowledge.org/resource/Bahasa_Seko> <http://www.w3.org/2000/01/rdf-schema#comment> "lingua"@la .
+<http://yago-knowledge.org/resource/Bahasa_Bulik> <http://www.w3.org/2000/01/rdf-schema#comment> "taal"@nl .
+<http://yago-knowledge.org/resource/Morwap> <http://www.w3.org/2000/01/rdf-schema#comment> "language in Papua"@en .

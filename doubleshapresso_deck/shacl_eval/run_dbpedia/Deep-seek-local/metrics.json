@@ -1,0 +1,738 @@
+{
+  "run": {
+    "timestamp": "2026-04-29T09:27:45.791822+00:00",
+    "random_seed": 42,
+    "budget_per_class": 1000,
+    "min_class_population": 30,
+    "tolerated_error_rate": 0.5,
+    "significance_level": 0.05,
+    "baseline_violation_rate": 0.0,
+    "data_size": 1374049,
+    "sample_size": 1400
+  },
+  "shapes": [
+    {
+      "shape_iri": "http://example.org/shapes/BuildingShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/Building"
+      ],
+      "property_coverage": 0.694444,
+      "generality_estimate": 0.089273,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 185,
+      "violations_per_failing_node": 1.85,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "maxcount": 23,
+        "datatype": 153,
+        "mincount": 9
+      },
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/Building",
+          "n_sample": 100,
+          "class_population": 122666,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://example.org/shapes/MonumentShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/Monument"
+      ],
+      "property_coverage": 0.444444,
+      "generality_estimate": 0.00128,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 172,
+      "violations_per_failing_node": 1.72,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "mincount": 64,
+        "datatype": 43,
+        "maxcount": 2,
+        "class": 63
+      },
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/Monument",
+          "n_sample": 100,
+          "class_population": 1759,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://example.org/shapes/MusicalWorkShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/MusicalWork"
+      ],
+      "property_coverage": 0.941176,
+      "generality_estimate": 0.177606,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 356,
+      "violations_per_failing_node": 3.56,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "mincount": 299,
+        "datatype": 54,
+        "maxcount": 3
+      },
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/MusicalWork",
+          "n_sample": 100,
+          "class_population": 244040,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://example.org/shapes/ScientistShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/Scientist"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/Scientist",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/AirportShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/Airport"
+      ],
+      "property_coverage": 0.933333,
+      "generality_estimate": 0.010912,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 380,
+      "violations_per_failing_node": 3.8,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 310,
+        "class": 70
+      },
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/Airport",
+          "n_sample": 100,
+          "class_population": 14994,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/ArtistShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/Artist"
+      ],
+      "property_coverage": 1.0,
+      "generality_estimate": 0.076873,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 1035,
+      "violations_per_failing_node": 10.35,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "or": 196,
+        "datatype": 454,
+        "mincount": 90,
+        "class": 258,
+        "nodekind": 22,
+        "maxcount": 15
+      },
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/Artist",
+          "n_sample": 100,
+          "class_population": 105627,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/AstronautShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/Astronaut"
+      ],
+      "property_coverage": 1.0,
+      "generality_estimate": 0.000494,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 1371,
+      "violations_per_failing_node": 13.71,
+      "dominant_component": "class",
+      "violations_by_component": {
+        "datatype": 464,
+        "mincount": 44,
+        "maxcount": 37,
+        "class": 511,
+        "nodekind": 10,
+        "or": 305
+      },
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/Astronaut",
+          "n_sample": 100,
+          "class_population": 679,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/AthleteShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/Athlete"
+      ],
+      "property_coverage": 0.8,
+      "generality_estimate": 0.38681,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 1041,
+      "violations_per_failing_node": 10.41,
+      "dominant_component": "or",
+      "violations_by_component": {
+        "maxcount": 37,
+        "mincount": 71,
+        "class": 174,
+        "nodekind": 24,
+        "datatype": 367,
+        "or": 368
+      },
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/Athlete",
+          "n_sample": 100,
+          "class_population": 531496,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/CelestialBodyShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/CelestialBody"
+      ],
+      "property_coverage": 1.0,
+      "generality_estimate": 0.008791,
+      "reach": 100,
+      "violating_node_count": 50,
+      "conformance": 0.5,
+      "violation_rate": 0.5,
+      "total_result_count": 241,
+      "violations_per_failing_node": 4.82,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "mincount": 19,
+        "datatype": 201,
+        "class": 21
+      },
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/CelestialBody",
+          "n_sample": 100,
+          "class_population": 12079,
+          "violations": 50,
+          "trust": 0.5,
+          "trust_ci_low": 0.4038315303659956,
+          "trust_ci_high": 0.5961684696340044,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 0.5397946186935891,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/CityShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/City"
+      ],
+      "property_coverage": 0.775,
+      "generality_estimate": 0.015269,
+      "reach": 100,
+      "violating_node_count": 99,
+      "conformance": 0.01,
+      "violation_rate": 0.99,
+      "total_result_count": 800,
+      "violations_per_failing_node": 8.0808,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 504,
+        "class": 296
+      },
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/City",
+          "n_sample": 100,
+          "class_population": 20980,
+          "violations": 99,
+          "trust": 0.01,
+          "trust_ci_low": 0.0017674320641406505,
+          "trust_ci_high": 0.054486196178705315,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/ComicsCharacterShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/ComicsCharacter"
+      ],
+      "property_coverage": 0.3125,
+      "generality_estimate": 0.002571,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 204,
+      "violations_per_failing_node": 2.04,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "mincount": 186,
+        "class": 18
+      },
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/ComicsCharacter",
+          "n_sample": 100,
+          "class_population": 3532,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/CompanyShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/Company"
+      ],
+      "property_coverage": 0.96875,
+      "generality_estimate": 0.06457,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 865,
+      "violations_per_failing_node": 8.65,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "mincount": 431,
+        "datatype": 40,
+        "class": 394
+      },
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/Company",
+          "n_sample": 100,
+          "class_population": 88722,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/FilmShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/Film"
+      ],
+      "property_coverage": 1.0,
+      "generality_estimate": 0.107123,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 915,
+      "violations_per_failing_node": 9.15,
+      "dominant_component": "class",
+      "violations_by_component": {
+        "maxcount": 4,
+        "mincount": 319,
+        "datatype": 109,
+        "pattern": 1,
+        "class": 449,
+        "mininclusive": 33
+      },
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/Film",
+          "n_sample": 100,
+          "class_population": 147192,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/FoodShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/Food"
+      ],
+      "property_coverage": 0.695652,
+      "generality_estimate": 0.005489,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 162,
+      "violations_per_failing_node": 1.62,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 127,
+        "mincount": 34,
+        "maxcount": 1
+      },
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/Food",
+          "n_sample": 100,
+          "class_population": 7542,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/MeanOfTransportationShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/MeanOfTransportation"
+      ],
+      "property_coverage": 0.925926,
+      "generality_estimate": 0.052939,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 786,
+      "violations_per_failing_node": 7.86,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "mincount": 458,
+        "datatype": 206,
+        "maxcount": 1,
+        "class": 121
+      },
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/MeanOfTransportation",
+          "n_sample": 100,
+          "class_population": 72741,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/PersonShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/Person"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/Person",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/PoliticianShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/Politician"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/Politician",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/SportsTeamShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/SportsTeam"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/SportsTeam",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/UniversityShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/University"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/University",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/WrittenWorkShape",
+      "target_classes": [
+        "http://dbpedia.org/ontology/WrittenWork"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://dbpedia.org/ontology/WrittenWork",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "target_coverage_overall": 1.0,
+    "target_coverage_per_class": {
+      "http://dbpedia.org/ontology/Airport": 1.0,
+      "http://dbpedia.org/ontology/Artist": 1.0,
+      "http://dbpedia.org/ontology/Astronaut": 1.0,
+      "http://dbpedia.org/ontology/Athlete": 1.0,
+      "http://dbpedia.org/ontology/Building": 1.0,
+      "http://dbpedia.org/ontology/CelestialBody": 1.0,
+      "http://dbpedia.org/ontology/City": 1.0,
+      "http://dbpedia.org/ontology/ComicsCharacter": 1.0,
+      "http://dbpedia.org/ontology/Company": 1.0,
+      "http://dbpedia.org/ontology/Film": 1.0,
+      "http://dbpedia.org/ontology/Food": 1.0,
+      "http://dbpedia.org/ontology/MeanOfTransportation": 1.0,
+      "http://dbpedia.org/ontology/Monument": 1.0,
+      "http://dbpedia.org/ontology/MusicalWork": 1.0
+    }
+  },
+  "global": {
+    "total_violations": 8513,
+    "violated_shapes": 14,
+    "total_shapes": 14,
+    "violated_shapes_rate": 1.0,
+    "most_violated_shape": "http://example.org/shapes/BuildingShape",
+    "violated_paths": 132,
+    "total_paths": 374,
+    "violated_paths_rate": 0.352941,
+    "most_violated_path": "http://xmlns.com/foaf/0.1/name",
+    "violated_focus_nodes": 1349,
+    "most_violated_focus_node": "http://dbpedia.org/resource/Viktor_Patsayev",
+    "violated_components": 8,
+    "total_components": 9,
+    "violated_components_rate": 0.888889,
+    "most_violated_component": "datatype"
+  }
+}

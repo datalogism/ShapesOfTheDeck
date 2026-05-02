@@ -1,0 +1,85 @@
+@prefix dbd: <http://dbpedia.org/datatype/> .
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema1: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<file:///C:/Users/doccr/PycharmProjects/DoubleShapespresso/Film> a sh:NodeShape ;
+    sh:property [ sh:datatype dbd:poundSterling ;
+            sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:path dbo:budget ],
+        [ sh:class dbo:Film ;
+            sh:minCount 1 ;
+            sh:path dbo:cinematography ],
+        [ sh:class dbo:Film ;
+            sh:minCount 0 ;
+            sh:path dbo:country ],
+        [ sh:class dbo:Film ;
+            sh:minCount 1 ;
+            sh:path dbo:director ],
+        [ sh:class dbo:Film ;
+            sh:minCount 1 ;
+            sh:path dbo:distributor ],
+        [ sh:minCount 1 ;
+            sh:or ( [ sh:class dbo:Film ] [ sh:class owl:Thing ] [ sh:class dbo:Animal ] [ sh:class dbo:Eukaryote ] ) ;
+            sh:path dbo:editing ],
+        [ sh:datatype dbd:usDollar ;
+            sh:minCount 1 ;
+            sh:path dbo:gross ],
+        [ sh:datatype xsd:string ;
+            sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:path dbo:imdbId ],
+        [ sh:minCount 1 ;
+            sh:or ( [ sh:class dbo:Language ] [ sh:class schema1:Language ] [ sh:class owl:Thing ] ) ;
+            sh:path dbo:language ],
+        [ sh:minCount 1 ;
+            sh:or ( [ sh:class dbo:Film ] [ sh:class owl:Thing ] [ sh:class dbo:Animal ] [ sh:class dbo:Eukaryote ] ) ;
+            sh:path dbo:musicComposer ],
+        [ sh:minCount 1 ;
+            sh:or ( [ sh:class dbo:Film ] [ sh:class dbo:Animal ] [ sh:class dbo:Eukaryote ] ) ;
+            sh:path dbo:producer ],
+        [ sh:minCount 1 ;
+            sh:or ( [ sh:class owl:Thing ] [ sh:class dbo:Agent ] [ sh:class dbo:Organisation ] ) ;
+            sh:path dbo:productionCompany ],
+        [ sh:datatype xsd:date ;
+            sh:minCount 0 ;
+            sh:path dbo:releaseDate ],
+        [ sh:datatype xsd:double ;
+            sh:minCount 1 ;
+            sh:path dbo:runtime ],
+        [ sh:minCount 1 ;
+            sh:or ( [ sh:class dbo:Film ] [ sh:class owl:Thing ] [ sh:class dbo:Animal ] [ sh:class dbo:Eukaryote ] ) ;
+            sh:path dbo:starring ],
+        [ sh:datatype xsd:integer ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path dbo:wikiPageRevisionID ],
+        [ sh:minCount 1 ;
+            sh:or ( [ sh:class dbo:Film ] [ sh:class dbo:Animal ] [ sh:class dbo:Eukaryote ] ) ;
+            sh:path dbo:writer ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:path foaf:name ],
+        [ sh:datatype xsd:double ;
+            sh:minCount 1 ;
+            sh:path dcat:resource_identifier ],
+        [ sh:class dbo:Film ;
+            sh:maxCount 8 ;
+            sh:minCount 1 ;
+            sh:path rdf:type ],
+        [ sh:datatype rdf:langString ;
+            sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass dbo:Film .
+

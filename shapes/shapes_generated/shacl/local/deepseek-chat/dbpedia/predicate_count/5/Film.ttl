@@ -1,0 +1,113 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:FilmShape a sh:NodeShape ;
+    sh:targetClass dbo:Film ;
+    sh:property [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype rdf:langString ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every film must have exactly one name (foaf:name)."@en
+    ], [
+        sh:path dbo:releaseDate ;
+        sh:minCount 1 ;
+        sh:datatype xsd:date ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every film must have at least one release date (dbo:releaseDate)."@en
+    ], [
+        sh:path dbo:runtime ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:double ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every film must have exactly one runtime (dbo:runtime) in seconds."@en
+    ], [
+        sh:path dbo:imdbId ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+        sh:pattern "^[0-9]{7}$" ;
+        sh:message "Every film must have exactly one IMDb ID (dbo:imdbId) consisting of 7 digits."@en
+    ], [
+        sh:path dbo:country ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Country ;
+        sh:message "Every film must have at least one country (dbo:country)."@en
+    ], [
+        sh:path dbo:director ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+        sh:message "Every film must have at least one director (dbo:director)."@en
+    ], [
+        sh:path dbo:starring ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Actor ;
+        sh:message "Every film must have at least one starring actor (dbo:starring)."@en
+    ], [
+        sh:path dbo:writer ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+        sh:message "Writers (dbo:writer) must be persons."@en
+    ], [
+        sh:path dbo:producer ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+        sh:message "Producers (dbo:producer) must be persons."@en
+    ], [
+        sh:path dbo:musicComposer ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+        sh:message "Music composers (dbo:musicComposer) must be persons."@en
+    ], [
+        sh:path dbo:cinematography ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+        sh:message "Cinematographers (dbo:cinematography) must be persons."@en
+    ], [
+        sh:path dbo:editing ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+        sh:message "Editors (dbo:editing) must be persons."@en
+    ], [
+        sh:path dbo:distributor ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Company ;
+        sh:message "Distributors (dbo:distributor) must be companies."@en
+    ], [
+        sh:path dbo:productionCompany ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Company ;
+        sh:message "Production companies (dbo:productionCompany) must be companies."@en
+    ], [
+        sh:path dbo:language ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Language ;
+        sh:message "Languages (dbo:language) must be languages."@en
+    ], [
+        sh:path dbo:gross ;
+        sh:datatype xsd:double ;
+        sh:nodeKind sh:Literal ;
+        sh:minInclusive 0.0 ;
+        sh:message "Gross revenue (dbo:gross) must be a non-negative number."@en
+    ], [
+        sh:path dbo:budget ;
+        sh:datatype xsd:double ;
+        sh:nodeKind sh:Literal ;
+        sh:minInclusive 0.0 ;
+        sh:message "Budget (dbo:budget) must be a non-negative number."@en
+    ], [
+        sh:path dbo:narrator ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+        sh:message "Narrators (dbo:narrator) must be persons."@en
+    ] .

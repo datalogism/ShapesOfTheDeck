@@ -1,0 +1,521 @@
+<http://yago-knowledge.org/resource/Q132421446> <http://www.w3.org/2000/01/rdf-schema#label> "昭帝五铢"@zh .
+<http://yago-knowledge.org/resource/Q132408414> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q132630863> <http://www.w3.org/2000/01/rdf-schema#comment> "上海博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132709283> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132709283> .
+<http://yago-knowledge.org/resource/Q134792543> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134792543> .
+<http://yago-knowledge.org/resource/Q134793523> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132630863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134188896> <http://www.w3.org/2000/01/rdf-schema#comment> "山西博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q134824189> <http://www.w3.org/2000/01/rdf-schema#comment> "安徽博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132388470> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132545409> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134043969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134809736> <http://www.w3.org/2000/01/rdf-schema#comment> "广东省博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132388470> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q132915297> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132952656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132545409> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Q134898103> <http://www.w3.org/2000/01/rdf-schema#comment> "吉林省博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q133226541> <http://www.w3.org/2000/01/rdf-schema#label> "长石斧"@zh .
+<http://yago-knowledge.org/resource/Q134102487> <http://www.w3.org/2000/01/rdf-schema#label> "第二次国内革命战争时期中华苏维埃共和国国家银行发行的贰角券"@zh .
+<http://yago-knowledge.org/resource/Q132442971> <http://www.w3.org/2000/01/rdf-schema#label> "明 洪宝通宝折十（背广十左右列）"@zh .
+<http://yago-knowledge.org/resource/Q133118594> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Tianjin Museum"@en .
+<http://yago-knowledge.org/resource/Q132593547> <http://www.w3.org/2000/01/rdf-schema#comment> "上海博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132525779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/National_Museum_of_China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/National_Museum> .
+<http://yago-knowledge.org/resource/Q134046850> <http://www.w3.org/2000/01/rdf-schema#comment> "四川博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134265850> <http://www.w3.org/2000/01/rdf-schema#label> "战国“郛氏”方足布币"@zh .
+<http://yago-knowledge.org/resource/Q133227864> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133227864> .
+<http://yago-knowledge.org/resource/Q133036784> <http://www.w3.org/2000/01/rdf-schema#label> "正书开元通宝"@zh .
+<http://yago-knowledge.org/resource/Y-Qb98-----_Q132714934> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Shanghai Museum"@en .
+<http://yago-knowledge.org/resource/Q134188896> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Shanxi Museum"@en .
+<http://yago-knowledge.org/resource/Q133900071> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Nanjing Municipal Museum"@en .
+<http://yago-knowledge.org/resource/Y---------_--------------One_Rupee-_Q132548221> <http://www.w3.org/2000/01/rdf-schema#label> "英属印度一卢比银币(面维多利亚女皇左向像背花圈内one rupee）"@zh .
+<http://yago-knowledge.org/resource/Q132553896> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132553896> .
+<http://yago-knowledge.org/resource/Q132630863> <http://www.w3.org/2000/01/rdf-schema#comment> "上海博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/1947-------------_Q132729057> <http://www.w3.org/2000/01/rdf-schema#label> "1947年东北银行地方流通券一百元"@zh .
+<http://yago-knowledge.org/resource/Q133116100> <http://www.w3.org/2000/01/rdf-schema#comment> "天津博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133053931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132408414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132709283> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Shanghai Museum"@en .
+<http://yago-knowledge.org/resource/Q133226541> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Gansu Provincial Museum"@en .
+<http://yago-knowledge.org/resource/Q132794013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132628815> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Shanghai Museum"@en .
+<http://yago-knowledge.org/resource/Q132547989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133227864> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Tianjin Museum"@en .
+<http://yago-knowledge.org/resource/Q132534753> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133226541> <http://www.w3.org/2000/01/rdf-schema#comment> "甘肅省博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132534753> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q132388470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134110871> <http://www.w3.org/2000/01/rdf-schema#comment> "福建博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132677491> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132677491> .
+<http://yago-knowledge.org/resource/Q132423834> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Q133053330> <http://www.w3.org/2000/01/rdf-schema#label> "楷书   熙宁元宝"@zh .
+<http://yago-knowledge.org/resource/Q132487706> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132464733> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132464733> .
+<http://yago-knowledge.org/resource/Q132915297> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Henan Museum"@en .
+<http://yago-knowledge.org/resource/Q134110871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132441250> <http://www.w3.org/2000/01/rdf-schema#label> "大定通宝小平(光背)"@zh .
+<http://yago-knowledge.org/resource/Q133917964> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Nanjing Municipal Museum"@en .
+<http://yago-knowledge.org/resource/Q134043969> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Sichuan Museum"@en .
+<http://yago-knowledge.org/resource/Q134788678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Capital_Museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Art_museum> .
+<http://yago-knowledge.org/resource/Q134047751> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134790323> <http://www.w3.org/2000/01/rdf-schema#label> "北宋楷书“元符通宝”铜钱"@zh .
+<http://yago-knowledge.org/resource/Q133036784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133965628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133909550> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Nanjing Municipal Museum"@en .
+<http://yago-knowledge.org/resource/Q132920228> <http://www.w3.org/2000/01/rdf-schema#label> "民国陶器玻璃底片"@zh .
+<http://yago-knowledge.org/resource/Q134755410> <http://www.w3.org/2000/01/rdf-schema#comment> "辽宁省博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q133917964> <http://www.w3.org/2000/01/rdf-schema#comment> "南京市博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132408414> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132408414> .
+<http://yago-knowledge.org/resource/Q133900071> <http://www.w3.org/2000/01/rdf-schema#comment> "南京市博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132442971> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132442971> .
+<http://yago-knowledge.org/resource/Q133236495> <http://www.w3.org/2000/01/rdf-schema#comment> "山东博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132430589> <http://www.w3.org/2000/01/rdf-schema#label> "宋元通宝小平(背穿左星)"@zh .
+<http://yago-knowledge.org/resource/Q132547989> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q133965628> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133965628> .
+<http://yago-knowledge.org/resource/Q133229746> <http://www.w3.org/2000/01/rdf-schema#comment> "天津博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132525779> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132430589> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q134790722> <http://www.w3.org/2000/01/rdf-schema#comment> "新鄉市博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132421446> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Q132422610> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Q132441250> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Q134261313> <http://www.w3.org/2000/01/rdf-schema#label> "战国'蔺'方足布币"@zh .
+<http://yago-knowledge.org/resource/Q133053330> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133053330> .
+<http://yago-knowledge.org/resource/Q132553896> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132430589> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q134809736> <http://www.w3.org/2000/01/rdf-schema#label> "商玉戈"@zh .
+<http://yago-knowledge.org/resource/Q134189668> <http://www.w3.org/2000/01/rdf-schema#comment> "山西博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132630863> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132630863> .
+<http://yago-knowledge.org/resource/Q132525779> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Q132553896> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q132628815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134790722> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Xinxiang Museum"@en .
+<http://yago-knowledge.org/resource/Q133236495> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Shandong Museum"@en .
+<http://yago-knowledge.org/resource/Q133051642> <http://www.w3.org/2000/01/rdf-schema#comment> "甘肃省博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132408414> <http://www.w3.org/2000/01/rdf-schema#label> "护军营停操牌"@zh .
+<http://yago-knowledge.org/resource/Q134792543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134794624> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132952656> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Henan Museum"@en .
+<http://schema.org/Product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/shacl#NodeShape> .
+<http://yago-knowledge.org/resource/Q133053931> <http://www.w3.org/2000/01/rdf-schema#comment> "甘肃省博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134790722> <http://www.w3.org/2000/01/rdf-schema#label> "唐隶书“开元通宝”铜钱"@zh .
+<http://yago-knowledge.org/resource/Q134839928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132487706> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132487706> .
+<http://yago-knowledge.org/resource/Q134265850> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134265850> .
+<http://yago-knowledge.org/resource/Q133904682> <http://www.w3.org/2000/01/rdf-schema#comment> "南京市博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134265850> <http://www.w3.org/2000/01/rdf-schema#comment> "山西博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132408414> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q133073299> <http://www.w3.org/2000/01/rdf-schema#comment> "甘肃省博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132422065> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q134809736> <http://www.w3.org/2000/01/rdf-schema#comment> "廣東省博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132422065> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q134189668> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Shanxi Museum"@en .
+<http://yago-knowledge.org/resource/Q134824189> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Anhui Museum"@en .
+<http://yago-knowledge.org/resource/Q134792543> <http://www.w3.org/2000/01/rdf-schema#label> "北宋楷书折二“政和通宝”铜钱"@zh .
+<http://yago-knowledge.org/resource/Q132865114> <http://www.w3.org/2000/01/rdf-schema#comment> "河南博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q133900071> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133900071> .
+<http://yago-knowledge.org/resource/Q134898103> <http://www.w3.org/2000/01/rdf-schema#label> "汉蓝料串珠"@zh .
+<http://yago-knowledge.org/resource/Q134222068> <http://www.w3.org/2000/01/rdf-schema#comment> "浙江省博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132388470> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134188896> <http://www.w3.org/2000/01/rdf-schema#label> "宋桥钮铜花押"@zh .
+<http://yago-knowledge.org/resource/Q132534753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132667145> <http://www.w3.org/2000/01/rdf-schema#comment> "上海博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q133909550> <http://www.w3.org/2000/01/rdf-schema#comment> "南京市博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132388470> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Q134265850> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Shanxi Museum"@en .
+<http://yago-knowledge.org/resource/Q134222068> <http://www.w3.org/2000/01/rdf-schema#comment> "浙江省博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q134222068> <http://www.w3.org/2000/01/rdf-schema#label> "解放战争时期呢大衣"@zh .
+<http://yago-knowledge.org/resource/Q132430589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133965628> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Sichuan Museum"@en .
+<http://yago-knowledge.org/resource/Q134188896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132879697> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132879697> .
+<http://yago-knowledge.org/resource/Q133243915> <http://www.w3.org/2000/01/rdf-schema#label> "清末民国玛瑙扳指"@zh .
+<http://yago-knowledge.org/resource/Q134222068> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Zhejiang Provincial Museum"@en .
+<http://yago-knowledge.org/resource/Q134247742> <http://www.w3.org/2000/01/rdf-schema#comment> "湖北省博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132630863> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Shanghai Museum"@en .
+<http://yago-knowledge.org/resource/Q134188896> <http://www.w3.org/2000/01/rdf-schema#comment> "山西博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134046850> <http://www.w3.org/2000/01/rdf-schema#comment> "四川博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132464733> <http://www.w3.org/2000/01/rdf-schema#label> "晋察冀边区银行拾圆钞  纸"@zh .
+<http://yago-knowledge.org/resource/Q133130058> <http://www.w3.org/2000/01/rdf-schema#comment> "天津博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133906689> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133906689> .
+<http://yago-knowledge.org/resource/Q133904682> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133904682> .
+<http://yago-knowledge.org/resource/Q132880008> <http://www.w3.org/2000/01/rdf-schema#comment> "河南博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132463417> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132422610> <http://www.w3.org/2000/01/rdf-schema#label> "无面郭泉泉"@zh .
+<http://yago-knowledge.org/resource/Q132534753> <http://www.w3.org/2000/01/rdf-schema#label> "石刀"@zh .
+<http://yago-knowledge.org/resource/Q134939283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132897645> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132897645> .
+<http://yago-knowledge.org/resource/Green_Jade_generic_instance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Green_Jade> .
+<http://yago-knowledge.org/resource/Q132463417> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q132794013> <http://schema.org/location> <http://yago-knowledge.org/resource/Capital_Museum> .
+<http://yago-knowledge.org/resource/Q133051642> <http://www.w3.org/2000/01/rdf-schema#label> "篆书景祐元宝"@zh .
+<http://yago-knowledge.org/resource/Q132422065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133121014> <http://www.w3.org/2000/01/rdf-schema#comment> "天津博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133116100> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133116100> .
+<http://yago-knowledge.org/resource/Q132677491> <http://www.w3.org/2000/01/rdf-schema#comment> "上海博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134790323> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Xinxiang Museum"@en .
+<http://yago-knowledge.org/resource/Q132534753> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132534753> .
+<http://yago-knowledge.org/resource/Q133965628> <http://www.w3.org/2000/01/rdf-schema#label> "清玉扳指"@zh .
+<http://yago-knowledge.org/resource/Q132489225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://schema.org/Product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://yago-knowledge.org/resource/Q132667145> <http://www.w3.org/2000/01/rdf-schema#comment> "上海博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132677491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132534753> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134047751> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Sichuan Museum"@en .
+<http://yago-knowledge.org/resource/Q132897645> <http://www.w3.org/2000/01/rdf-schema#comment> "河南博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132630863> <http://www.w3.org/2000/01/rdf-schema#label> "秦  丹印"@zh .
+<http://yago-knowledge.org/resource/Q132442971> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133051642> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133051642> .
+<http://yago-knowledge.org/resource/Q132952656> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132952656> .
+<http://yago-knowledge.org/resource/Q134809736> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134809736> .
+<http://yago-knowledge.org/resource/Q132553896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132442971> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q133116100> <http://www.w3.org/2000/01/rdf-schema#comment> "天津博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132547989> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132547989> .
+<http://yago-knowledge.org/resource/Q133906689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134793523> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Xinxiang Museum"@en .
+<http://yago-knowledge.org/resource/Q134809736> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Guangdong Museum"@en .
+<http://yago-knowledge.org/resource/Y-Qb98-----_Q132714934> <http://www.w3.org/2000/01/rdf-schema#label> "“Qb98阳”方足布"@zh .
+<http://yago-knowledge.org/resource/Q134247742> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134247742> .
+<http://yago-knowledge.org/resource/Q133073299> <http://www.w3.org/2000/01/rdf-schema#label> "骨镞"@zh .
+<http://yago-knowledge.org/resource/Q133904682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132464733> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Q132880008> <http://www.w3.org/2000/01/rdf-schema#comment> "河南博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133909550> <http://www.w3.org/2000/01/rdf-schema#label> "宋阜昌通宝铜钱"@zh .
+<http://yago-knowledge.org/resource/Q132690506> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132690506> .
+<http://yago-knowledge.org/resource/Q133053330> <http://www.w3.org/2000/01/rdf-schema#comment> "甘肃省博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134790722> <http://www.w3.org/2000/01/rdf-schema#comment> "新乡市博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132463417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133118594> <http://www.w3.org/2000/01/rdf-schema#comment> "天津博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q134839928> <http://www.w3.org/2000/01/rdf-schema#comment> "辽宁省博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132865114> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132865114> .
+<http://yago-knowledge.org/resource/Q134824189> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134824189> .
+<http://yago-knowledge.org/resource/Q134046850> <http://www.w3.org/2000/01/rdf-schema#label> "近代海螺小杯"@zh .
+<http://yago-knowledge.org/resource/Q133900071> <http://www.w3.org/2000/01/rdf-schema#comment> "南京市博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132677491> <http://www.w3.org/2000/01/rdf-schema#comment> "上海博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133116100> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Tianjin Museum"@en .
+<http://yago-knowledge.org/resource/Q134755410> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134755410> .
+<http://yago-knowledge.org/resource/Q134784803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133229746> <http://www.w3.org/2000/01/rdf-schema#label> "常平五铢"@zh .
+<http://yago-knowledge.org/resource/Q134102487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133236495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134188896> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134188896> .
+<http://yago-knowledge.org/resource/Q132760540> <http://www.w3.org/2000/01/rdf-schema#label> "台纽'张会'铜印"@zh .
+<http://yago-knowledge.org/resource/Q133051642> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Gansu Provincial Museum"@en .
+<http://yago-knowledge.org/resource/Q132760540> <http://www.w3.org/2000/01/rdf-schema#comment> "首都博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134755410> <http://www.w3.org/2000/01/rdf-schema#comment> "遼寧省博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132952656> <http://www.w3.org/2000/01/rdf-schema#label> "新石器时代龙山文化单孔石铲"@zh .
+<http://yago-knowledge.org/resource/Q132897645> <http://www.w3.org/2000/01/rdf-schema#comment> "河南博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132430589> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132463417> <http://www.w3.org/2000/01/rdf-schema#label> "兴朝通宝折十(背壹分)"@zh .
+<http://yago-knowledge.org/resource/Q132690506> <http://www.w3.org/2000/01/rdf-schema#label> "战国木俑"@zh .
+<http://yago-knowledge.org/resource/Q133130058> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133130058> .
+<http://yago-knowledge.org/resource/Q132553896> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134793523> <http://www.w3.org/2000/01/rdf-schema#label> "唐隶书“开元通宝”铜钱"@zh .
+<http://yago-knowledge.org/resource/Q132430589> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Q132442971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134102487> <http://www.w3.org/2000/01/rdf-schema#comment> "福建博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q133073299> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Gansu Provincial Museum"@en .
+<http://yago-knowledge.org/resource/Q134247742> <http://www.w3.org/2000/01/rdf-schema#label> "战国时代骨马镳"@zh .
+<http://yago-knowledge.org/resource/Q132487706> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Q133182882> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133182882> .
+<http://yago-knowledge.org/resource/Q133116100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133900071> <http://www.w3.org/2000/01/rdf-schema#label> "北宋元丰通宝铜钱"@zh .
+<http://yago-knowledge.org/resource/Q133227864> <http://www.w3.org/2000/01/rdf-schema#comment> "天津博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132760540> <http://www.w3.org/2000/01/rdf-schema#comment> "首都博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133073299> <http://www.w3.org/2000/01/rdf-schema#comment> "甘肅省博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132430589> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132430589> .
+<http://yago-knowledge.org/resource/Q134043969> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134043969> .
+<http://yago-knowledge.org/resource/Q134261313> <http://www.w3.org/2000/01/rdf-schema#comment> "山西博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132422065> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134046850> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134046850> .
+<http://yago-knowledge.org/resource/Q134189668> <http://www.w3.org/2000/01/rdf-schema#comment> "山西博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134793523> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134793523> .
+<http://yago-knowledge.org/resource/Q132489225> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q133236495> <http://www.w3.org/2000/01/rdf-schema#comment> "山東博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132920228> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132920228> .
+<http://yago-knowledge.org/resource/Q133226541> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134247742> <http://www.w3.org/2000/01/rdf-schema#comment> "湖北省博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132422065> <http://www.w3.org/2000/01/rdf-schema#label> "小五铢(穿下半星五下一星)"@zh .
+<http://yago-knowledge.org/resource/Q133909550> <http://www.w3.org/2000/01/rdf-schema#comment> "南京市博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134265850> <http://www.w3.org/2000/01/rdf-schema#comment> "山西博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134755410> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Liaoning Provincial Museum"@en .
+<http://yago-knowledge.org/resource/Q134261313> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Shanxi Museum"@en .
+<http://yago-knowledge.org/resource/Q133182882> <http://www.w3.org/2000/01/rdf-schema#comment> "山東博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q134790323> <http://www.w3.org/2000/01/rdf-schema#comment> "新乡市博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q133182882> <http://www.w3.org/2000/01/rdf-schema#comment> "山东博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q133229746> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133229746> .
+<http://yago-knowledge.org/resource/Q132920228> <http://www.w3.org/2000/01/rdf-schema#comment> "河南博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132760540> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Capital Museum in Beijing"@en .
+<http://yago-knowledge.org/resource/Q134824189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134110871> <http://www.w3.org/2000/01/rdf-schema#label> "清金漆木雕加冠进爵图建筑构件"@zh .
+<http://yago-knowledge.org/resource/Q134809736> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134898103> <http://www.w3.org/2000/01/rdf-schema#comment> "吉林省博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/National_Museum_of_China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Town_square> .
+<http://yago-knowledge.org/resource/Q134189668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133906689> <http://www.w3.org/2000/01/rdf-schema#label> "清碎银"@zh .
+<http://yago-knowledge.org/resource/Q132463417> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Y-Qb98-----_Q132714934> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132714934> .
+<http://yago-knowledge.org/resource/Q134839928> <http://www.w3.org/2000/01/rdf-schema#label> "新石器时代残有孔球状石器"@zh .
+<http://yago-knowledge.org/resource/Q133182882> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Shandong Museum"@en .
+<http://yago-knowledge.org/resource/Q132441250> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q134793523> <http://www.w3.org/2000/01/rdf-schema#comment> "新乡市博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132545409> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132545409> .
+<http://yago-knowledge.org/resource/Q132667145> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Shanghai Museum"@en .
+<http://yago-knowledge.org/resource/Q133906689> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Nanjing Municipal Museum"@en .
+<http://yago-knowledge.org/resource/Q132879697> <http://www.w3.org/2000/01/rdf-schema#comment> "河南博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132545409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133226541> <http://www.w3.org/2000/01/rdf-schema#comment> "甘肃省博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132463417> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Q132441250> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q134939283> <http://www.w3.org/2000/01/rdf-schema#comment> "武汉博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132489225> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132408414> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Q134265850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132489225> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q134898103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134792543> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Xinxiang Museum"@en .
+<http://yago-knowledge.org/resource/Q133243915> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133243915> .
+<http://yago-knowledge.org/resource/Q132525779> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132525779> .
+<http://yago-knowledge.org/resource/Q134794624> <http://www.w3.org/2000/01/rdf-schema#label> "北宋草书折二“元丰通宝”铜钱"@zh .
+<http://yago-knowledge.org/resource/Q134102487> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134102487> .
+<http://yago-knowledge.org/resource/Q132547989> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Q132628815> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132628815> .
+<http://yago-knowledge.org/resource/Q134788678> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Xinxiang Museum"@en .
+<http://yago-knowledge.org/resource/Q133130058> <http://www.w3.org/2000/01/rdf-schema#comment> "天津博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q133116100> <http://www.w3.org/2000/01/rdf-schema#label> "元中统元宝"@zh .
+<http://yago-knowledge.org/resource/Q133130058> <http://www.w3.org/2000/01/rdf-schema#label> "民国特种邮戳"@zh .
+<http://yago-knowledge.org/resource/Q133118594> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133118594> .
+<http://yago-knowledge.org/resource/Q133965628> <http://www.w3.org/2000/01/rdf-schema#comment> "四川博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134784803> <http://www.w3.org/2000/01/rdf-schema#label> "北宋楷书“天禧通宝”铜钱"@zh .
+<http://yago-knowledge.org/resource/Q132442971> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q133243915> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Shandong Museum"@en .
+<http://yago-knowledge.org/resource/Q132545409> <http://www.w3.org/2000/01/rdf-schema#label> "乾亨重宝(光背)"@zh .
+<http://yago-knowledge.org/resource/Q132628815> <http://www.w3.org/2000/01/rdf-schema#label> "龙首螭纹玉带钩"@zh .
+<http://yago-knowledge.org/resource/Q132489225> <http://www.w3.org/2000/01/rdf-schema#label> "石鼻塞"@zh .
+<http://yago-knowledge.org/resource/Q133053931> <http://www.w3.org/2000/01/rdf-schema#label> "白玉环"@zh .
+<http://yago-knowledge.org/resource/Q133130058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132920228> <http://www.w3.org/2000/01/rdf-schema#comment> "河南博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q134939283> <http://www.w3.org/2000/01/rdf-schema#label> "元青玉镂雕戏狮纹桃形銙"@zh .
+<http://yago-knowledge.org/resource/Q133053330> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Gansu Provincial Museum"@en .
+<http://yago-knowledge.org/resource/Q133121014> <http://www.w3.org/2000/01/rdf-schema#comment> "天津博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134102487> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Fujian Museum"@en .
+<http://yago-knowledge.org/resource/Q132879697> <http://www.w3.org/2000/01/rdf-schema#label> "民国赵先正字画玻璃底片"@zh .
+<http://yago-knowledge.org/resource/Q134046850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132677491> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Shanghai Museum"@en .
+<http://yago-knowledge.org/resource/Q132421446> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132709283> <http://www.w3.org/2000/01/rdf-schema#label> "日本 日本寄北京邮资明信片"@zh .
+<http://yago-knowledge.org/resource/Q132880008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132421446> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q132760540> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132760540> .
+<http://yago-knowledge.org/resource/Q133121014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134790323> <http://www.w3.org/2000/01/rdf-schema#comment> "新鄉市博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q134788678> <http://www.w3.org/2000/01/rdf-schema#label> "北宋隶书“至道元宝”铜钱"@zh .
+<http://yago-knowledge.org/resource/Q133917964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132879697> <http://www.w3.org/2000/01/rdf-schema#comment> "河南博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132760540> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134794624> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Xinxiang Museum"@en .
+<http://yago-knowledge.org/resource/Q134222068> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134222068> .
+<http://yago-knowledge.org/resource/Y---------_--------------One_Rupee-_Q132548221> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q134222068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Y---------_--------------One_Rupee-_Q132548221> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132548221> .
+<http://yago-knowledge.org/resource/Y---------_--------------One_Rupee-_Q132548221> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q132865114> <http://www.w3.org/2000/01/rdf-schema#comment> "河南博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132880008> <http://www.w3.org/2000/01/rdf-schema#label> "北宋崇宁元宝铜钱"@zh .
+<http://yago-knowledge.org/resource/Q132667145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134824189> <http://www.w3.org/2000/01/rdf-schema#comment> "安徽博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133906689> <http://www.w3.org/2000/01/rdf-schema#comment> "南京市博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133036784> <http://www.w3.org/2000/01/rdf-schema#comment> "甘肃省博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134793523> <http://www.w3.org/2000/01/rdf-schema#comment> "新鄉市博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132897645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132534753> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Q132690506> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Shanghai Museum"@en .
+<http://yago-knowledge.org/resource/Q133073299> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133073299> .
+<http://yago-knowledge.org/resource/Q134189668> <http://www.w3.org/2000/01/rdf-schema#label> "清咸丰九年大清宝钞答字号贰千文纸币"@zh .
+<http://yago-knowledge.org/resource/Q133118594> <http://www.w3.org/2000/01/rdf-schema#comment> "天津博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132422065> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132422065> .
+<http://yago-knowledge.org/resource/Q133053931> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133053931> .
+<http://yago-knowledge.org/resource/Q132463417> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132463417> .
+<http://yago-knowledge.org/resource/Q132865114> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Henan Museum"@en .
+<http://yago-knowledge.org/resource/Q134047751> <http://www.w3.org/2000/01/rdf-schema#label> "近代野猪牙毕母法器"@zh .
+<http://yago-knowledge.org/resource/1947-------------_Q132729057> <http://www.w3.org/2000/01/rdf-schema#comment> "上海博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134043969> <http://www.w3.org/2000/01/rdf-schema#comment> "四川博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132897645> <http://www.w3.org/2000/01/rdf-schema#label> "西汉“货布”铜布币"@zh .
+<http://yago-knowledge.org/resource/Q133118594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132690506> <http://www.w3.org/2000/01/rdf-schema#comment> "上海博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134047751> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134047751> .
+<http://yago-knowledge.org/resource/Q134784803> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134784803> .
+<http://yago-knowledge.org/resource/1947-------------_Q132729057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134939283> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134939283> .
+<http://yago-knowledge.org/resource/Q132388470> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132388470> .
+<http://yago-knowledge.org/resource/Q132915297> <http://www.w3.org/2000/01/rdf-schema#comment> "河南博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q133236495> <http://www.w3.org/2000/01/rdf-schema#label> "新石器时代大汶口文化小石锛"@zh .
+<http://yago-knowledge.org/resource/Q132690506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132794013> <http://www.w3.org/2000/01/rdf-schema#label> "青玉龙凤配"@zh .
+<http://yago-knowledge.org/resource/Q132422610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134110871> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134110871> .
+<http://yago-knowledge.org/resource/Q132421446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132593547> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132593547> .
+<http://yago-knowledge.org/resource/Q132441250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132423834> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134189668> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134189668> .
+<http://yago-knowledge.org/resource/Q132525779> <http://www.w3.org/2000/01/rdf-schema#label> "中法战争时冯子材部扼守广西镇南关城全图"@zh .
+<http://yago-knowledge.org/resource/Q133243915> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132880008> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Henan Museum"@en .
+<http://yago-knowledge.org/resource/Q132464733> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132794013> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132794013> .
+<http://yago-knowledge.org/resource/Q132915297> <http://www.w3.org/2000/01/rdf-schema#label> "唐“乾元重宝”铜钱"@zh .
+<http://yago-knowledge.org/resource/Q134261313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134046850> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Sichuan Museum"@en .
+<http://yago-knowledge.org/resource/Q132464733> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q133227864> <http://www.w3.org/2000/01/rdf-schema#comment> "天津博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134839928> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Liaoning Provincial Museum"@en .
+<http://yago-knowledge.org/resource/Q133053931> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Gansu Provincial Museum"@en .
+<http://yago-knowledge.org/resource/Q134261313> <http://www.w3.org/2000/01/rdf-schema#comment> "山西博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134784803> <http://www.w3.org/2000/01/rdf-schema#comment> "新鄉市博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133051642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134792543> <http://www.w3.org/2000/01/rdf-schema#comment> "新乡市博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132421446> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132421446> .
+<http://yago-knowledge.org/resource/Q133051642> <http://www.w3.org/2000/01/rdf-schema#comment> "甘肅省博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133118594> <http://www.w3.org/2000/01/rdf-schema#label> "西周元钱"@zh .
+<http://yago-knowledge.org/resource/Q133917964> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133917964> .
+<http://yago-knowledge.org/resource/Q133182882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133036784> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133036784> .
+<http://yago-knowledge.org/resource/Q133227864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134261313> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134261313> .
+<http://yago-knowledge.org/resource/Q133053931> <http://www.w3.org/2000/01/rdf-schema#comment> "甘肅省博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q134790323> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134790323> .
+<http://yago-knowledge.org/resource/Q134788678> <http://www.w3.org/2000/01/rdf-schema#comment> "新乡市博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134898103> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Jilin Provincial Museum"@en .
+<http://yago-knowledge.org/resource/Q134043969> <http://www.w3.org/2000/01/rdf-schema#comment> "四川博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/1947-------------_Q132729057> <http://www.w3.org/2000/01/rdf-schema#comment> "上海博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q134784803> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Xinxiang Museum"@en .
+<http://yago-knowledge.org/resource/National_Museum_of_China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Vice-Ministerial_Level_Institution> .
+<http://yago-knowledge.org/resource/Q134102487> <http://www.w3.org/2000/01/rdf-schema#comment> "福建博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Y-Qb98-----_Q132714934> <http://www.w3.org/2000/01/rdf-schema#comment> "上海博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134043969> <http://www.w3.org/2000/01/rdf-schema#label> "战国梁方足布币"@zh .
+<http://yago-knowledge.org/resource/Q132690506> <http://www.w3.org/2000/01/rdf-schema#comment> "上海博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133236495> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133236495> .
+<http://yago-knowledge.org/resource/Q134898103> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134898103> .
+<http://yago-knowledge.org/resource/Q132920228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132897645> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Henan Museum"@en .
+<http://yago-knowledge.org/resource/Q132952656> <http://www.w3.org/2000/01/rdf-schema#comment> "河南博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132545409> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133229746> <http://www.w3.org/2000/01/rdf-schema#comment> "天津博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134110871> <http://www.w3.org/2000/01/rdf-schema#comment> "福建博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132915297> <http://www.w3.org/2000/01/rdf-schema#comment> "河南博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132545409> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q132441250> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132423834> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132709283> <http://www.w3.org/2000/01/rdf-schema#comment> "上海博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q133904682> <http://www.w3.org/2000/01/rdf-schema#comment> "南京市博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133182882> <http://www.w3.org/2000/01/rdf-schema#label> "清菱角形披肩"@zh .
+<http://yago-knowledge.org/resource/Q132423834> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q133226541> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133226541> .
+<http://yago-knowledge.org/resource/Q132422065> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Y---------_--------------One_Rupee-_Q132548221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132915297> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132915297> .
+<http://yago-knowledge.org/resource/Q133121014> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133121014> .
+<http://yago-knowledge.org/resource/Q132794013> <http://www.w3.org/2000/01/rdf-schema#comment> "首都博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132628815> <http://www.w3.org/2000/01/rdf-schema#comment> "上海博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132879697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134824189> <http://www.w3.org/2000/01/rdf-schema#label> "清木雕如意云纹樑陀"@zh .
+<http://yago-knowledge.org/resource/Q132489225> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Q134755410> <http://www.w3.org/2000/01/rdf-schema#label> "清祺祥重宝铜钱"@zh .
+<http://yago-knowledge.org/resource/Q134794624> <http://www.w3.org/2000/01/rdf-schema#comment> "新乡市博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q133229746> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Tianjin Museum"@en .
+<http://yago-knowledge.org/resource/Q133227864> <http://www.w3.org/2000/01/rdf-schema#label> "三鹿灵芝钮长方章料"@zh .
+<http://yago-knowledge.org/resource/Q133965628> <http://www.w3.org/2000/01/rdf-schema#comment> "四川博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132553896> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Y-Qb98-----_Q132714934> <http://www.w3.org/2000/01/rdf-schema#comment> "上海博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132794013> <http://www.w3.org/2000/01/rdf-schema#comment> "首都博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q134790722> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134790722> .
+<http://yago-knowledge.org/resource/Q132489225> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132489225> .
+<http://yago-knowledge.org/resource/Q134790722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133073299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133121014> <http://www.w3.org/2000/01/rdf-schema#label> "民国三十六年国民党中央银行蓝版左中山像一万元劵"@zh .
+<http://yago-knowledge.org/resource/Q132593547> <http://www.w3.org/2000/01/rdf-schema#label> "汉 王成两面印"@zh .
+<http://yago-knowledge.org/resource/Y-Qb98-----_Q132714934> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132880008> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132880008> .
+<http://yago-knowledge.org/resource/Q132952656> <http://www.w3.org/2000/01/rdf-schema#comment> "河南博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132421446> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132422610> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q133909550> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133909550> .
+<http://yago-knowledge.org/resource/Q132709283> <http://www.w3.org/2000/01/rdf-schema#comment> "上海博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132760540> <http://schema.org/location> <http://yago-knowledge.org/resource/Capital_Museum> .
+<http://yago-knowledge.org/resource/Q134792543> <http://www.w3.org/2000/01/rdf-schema#comment> "新鄉市博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133900071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133904682> <http://www.w3.org/2000/01/rdf-schema#label> "清咸丰元宝铜钱"@zh .
+<http://yago-knowledge.org/resource/Q133229746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133243915> <http://www.w3.org/2000/01/rdf-schema#comment> "山東博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133243915> <http://www.w3.org/2000/01/rdf-schema#comment> "山东博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132709283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134788678> <http://www.w3.org/2000/01/rdf-schema#comment> "新鄉市博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132547989> <http://www.w3.org/2000/01/rdf-schema#label> "香港贰毫银币(面维多利亚女皇左向像背点圈内“贰毫”)"@zh .
+<http://yago-knowledge.org/resource/Y---------_--------------One_Rupee-_Q132548221> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132628815> <http://www.w3.org/2000/01/rdf-schema#comment> "上海博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133036784> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Gansu Provincial Museum"@en .
+<http://yago-knowledge.org/resource/Q132487706> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133904682> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Nanjing Municipal Museum"@en .
+<http://yago-knowledge.org/resource/Q132487706> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q132487706> <http://www.w3.org/2000/01/rdf-schema#label> "朝鲜常平通宝(背“营”“二”列穿上下)"@zh .
+<http://yago-knowledge.org/resource/Q134047751> <http://www.w3.org/2000/01/rdf-schema#comment> "四川博物院藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Y---------_--------------One_Rupee-_Q132548221> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Q133906689> <http://www.w3.org/2000/01/rdf-schema#comment> "南京市博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132388470> <http://schema.org/material> <http://yago-knowledge.org/resource/Green_Jade_generic_instance> .
+<http://yago-knowledge.org/resource/Q132464733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132865114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133036784> <http://www.w3.org/2000/01/rdf-schema#comment> "甘肅省博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/1947-------------_Q132729057> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132729057> .
+<http://yago-knowledge.org/resource/Q132667145> <http://www.w3.org/2000/01/rdf-schema#label> "宣和通宝小平（隶书）"@zh .
+<http://yago-knowledge.org/resource/Q134790323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134788678> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134788678> .
+<http://yago-knowledge.org/resource/Q134939283> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Wuhan Museum"@en .
+<http://yago-knowledge.org/resource/Q132794013> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Capital Museum in Beijing"@en .
+<http://yago-knowledge.org/resource/Q134755410> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132677491> <http://www.w3.org/2000/01/rdf-schema#label> "天定通宝（折三）"@zh .
+<http://yago-knowledge.org/resource/Q132442971> <http://schema.org/location> <http://yago-knowledge.org/resource/National_Museum_of_China> .
+<http://yago-knowledge.org/resource/Q132388470> <http://www.w3.org/2000/01/rdf-schema#label> "青玉渔翁"@zh .
+<http://yago-knowledge.org/resource/Q133053330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133130058> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Tianjin Museum"@en .
+<http://yago-knowledge.org/resource/Q132547989> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132422610> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133053330> <http://www.w3.org/2000/01/rdf-schema#comment> "甘肅省博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q134839928> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134839928> .
+<http://yago-knowledge.org/resource/Q133917964> <http://www.w3.org/2000/01/rdf-schema#comment> "南京市博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q133917964> <http://www.w3.org/2000/01/rdf-schema#label> "明永历通宝铜钱"@zh .
+<http://yago-knowledge.org/resource/Q134794624> <http://www.w3.org/2000/01/rdf-schema#comment> "新鄉市博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132593547> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Shanghai Museum"@en .
+<http://yago-knowledge.org/resource/Q132547989> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q132422610> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q132553896> <http://www.w3.org/2000/01/rdf-schema#label> "碎石片"@zh .
+<http://yago-knowledge.org/resource/Q132525779> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q134784803> <http://www.w3.org/2000/01/rdf-schema#comment> "新乡市博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132920228> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Henan Museum"@en .
+<http://yago-knowledge.org/resource/Q132423834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134110871> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Fujian Museum"@en .
+<http://yago-knowledge.org/resource/Q132525779> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of National Museum of China"@en .
+<http://yago-knowledge.org/resource/Q134939283> <http://www.w3.org/2000/01/rdf-schema#comment> "武漢博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q134247742> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Hubei Provincial Museum"@en .
+<http://yago-knowledge.org/resource/Q132422610> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132422610> .
+<http://yago-knowledge.org/resource/Q134047751> <http://www.w3.org/2000/01/rdf-schema#comment> "四川博物院藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132441250> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132441250> .
+<http://yago-knowledge.org/resource/Q133909550> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q132593547> <http://www.w3.org/2000/01/rdf-schema#comment> "上海博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q134247742> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q133121014> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Tianjin Museum"@en .
+<http://yago-knowledge.org/resource/Q132423834> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132423834> .
+<http://yago-knowledge.org/resource/Q132487706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/Q134794624> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134794624> .
+<http://yago-knowledge.org/resource/Q132464733> <http://www.w3.org/2000/01/rdf-schema#comment> "中国国家博物馆藏品"@zh-hans .
+<http://yago-knowledge.org/resource/Q132865114> <http://www.w3.org/2000/01/rdf-schema#label> "西汉“货泉”铜钱"@zh .
+<http://yago-knowledge.org/resource/Q134839928> <http://www.w3.org/2000/01/rdf-schema#comment> "遼寧省博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132593547> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://yago-knowledge.org/resource/1947-------------_Q132729057> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Shanghai Museum"@en .
+<http://yago-knowledge.org/resource/Q132423834> <http://www.w3.org/2000/01/rdf-schema#label> "明灵五铢(背下阴文囗)"@zh .
+<http://yago-knowledge.org/resource/Q132879697> <http://www.w3.org/2000/01/rdf-schema#comment> "item from the collection of Henan Museum"@en .
+<http://yago-knowledge.org/resource/Q132408414> <http://www.w3.org/2000/01/rdf-schema#comment> "中國國家博物館藏品"@zh-hant .
+<http://yago-knowledge.org/resource/Q132667145> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132667145> .

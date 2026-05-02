@@ -1,0 +1,827 @@
+<http://yago-knowledge.org/resource/G_L_S_Travaux_Pro_Construction_De_Provence> <http://schema.org/alternateName> "G.L.S TRAVAUX PRO CONSTRUCTION DE PROVENCE"@fr .
+<http://yago-knowledge.org/resource/Luc_Besson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Screenwriter> .
+<http://yago-knowledge.org/resource/B_Ment> <http://schema.org/alternateName> "B.MENT"@fr .
+<http://yago-knowledge.org/resource/Asia_Dinosaur_Association> <http://www.w3.org/2000/01/rdf-schema#label> "アジア恐竜協会"@ja .
+<http://yago-knowledge.org/resource/Peyzaj_Mimarları_Odası> <http://www.w3.org/2000/01/rdf-schema#comment> "կազմակերպություն"@hy .
+<http://yago-knowledge.org/resource/Qualifruits> <http://www.w3.org/2000/01/rdf-schema#label> "Qualifruits"@fr .
+<http://yago-knowledge.org/resource/Auswanderungsfonds_Für_Böhmen_Und_Mähren> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة"@ar .
+<http://yago-knowledge.org/resource/Auswanderungsfonds_Für_Böhmen_Und_Mähren> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q115995132> .
+<http://yago-knowledge.org/resource/Caisse_Des_Écoles_De_Courchaton> <http://www.w3.org/2000/01/rdf-schema#comment> "rechtspersoon"@nl .
+<http://yago-knowledge.org/resource/G_L_S_Travaux_Pro_Construction_De_Provence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Argo_Yachting> <http://schema.org/dateCreated> "2011-10-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Syndicat_Mixte_Collecte_Et_Le_Traitement_Des_Ordures_Ménagères_Des_Cantons_D_Arpajon_Dourdan_Limours_Saint-Cheron_Sictom_De_L_Hurepoix> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Asia_Dinosaur_Association> <http://schema.org/alternateName> "ADA"@en .
+<http://yago-knowledge.org/resource/Direction_Régionale_Des_Entreprises_De_La_Concurrence_De_La_Consommation_Du_Travail_Et_De_L_Emploi_D_Île_De_France> <http://schema.org/alternateName> "DIRECTION REGIONALE DES ENTREPRISES DE LA CONCURRENCE DE LA CONSOMMATION DU TRAVAIL ET DE L'EMPLOI ILE-DE-FRANCE"@fr .
+<http://yago-knowledge.org/resource/Société_Belair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Kmne> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131808211> .
+<http://yago-knowledge.org/resource/Stuk_Q131661860> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131661860> .
+<http://yago-knowledge.org/resource/First_United_Methodist_Church_Q30287234> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في وارن، الولايات المتحدة"@ar .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3480099> .
+<http://yago-knowledge.org/resource/Herpy_Distribution> <http://www.w3.org/2000/01/rdf-schema#label> "Herpy Distribution"@fr .
+<http://yago-knowledge.org/resource/Direction_Régionale_Des_Entreprises_De_La_Concurrence_De_La_Consommation_Du_Travail_Et_De_L_Emploi_D_Île_De_France> <http://www.w3.org/2000/01/rdf-schema#label> "direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi d'Île de France"@fr .
+<http://yago-knowledge.org/resource/Établissements_Rebouillat> <http://www.w3.org/2000/01/rdf-schema#label> "Établissements Rebouillat"@fr .
+<http://yago-knowledge.org/resource/Stuk_Q131661860> <http://www.w3.org/2000/01/rdf-schema#label> "Stuk"@fr .
+<http://yago-knowledge.org/resource/Yachting_C_Maintenance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Asia_Dinosaur_Association> <http://schema.org/url> "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%82%A2%E6%81%90%E7%AB%9C%E5%8D%94%E4%BC%9A"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/S_A_S_U_Muriel_Gaboret> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Urbana> <http://schema.org/alternateName> "URBANA"@fr .
+<http://yago-knowledge.org/resource/Reignsound_Press> <http://yago-knowledge.org/resource/ownedBy> <http://yago-knowledge.org/resource/Reignsound> .
+<http://yago-knowledge.org/resource/V_D_T_France> <http://schema.org/dateCreated> "2025-04-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Premium_Q132078865> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Premium_Q132078865> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في أوبارفيلييه، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Sarl_Mutin_Primeurs> <http://schema.org/dateCreated> "1990"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Anjou_Machines_Outils> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Société_D_Économie_Mixte_Locale_Colomiers_Amen_Constr> <http://www.w3.org/2000/01/rdf-schema#label> "Société d'économie mixte locale Colomiers Amen Constr"@fr .
+<http://yago-knowledge.org/resource/United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federal_republic> .
+<http://yago-knowledge.org/resource/Caisse_Des_Écoles_De_Beyssac> <http://schema.org/alternateName> "CAISSE DES ECOLES DE BEYSSAC"@fr .
+<http://yago-knowledge.org/resource/Asia_Dinosaur_Association> <http://www.w3.org/2000/01/rdf-schema#label> "Asia Dinosaur Association"@en .
+<http://yago-knowledge.org/resource/Studio_Monet> <http://www.w3.org/2000/01/rdf-schema#label> "Studio Monet"@fr .
+<http://yago-knowledge.org/resource/Peyzaj_Mimarları_Odası> <http://www.w3.org/2000/01/rdf-schema#comment> "Mesleki örgütlenme"@tr .
+<http://yago-knowledge.org/resource/Entreprise_Des_Travaux_Du_Bois> <http://www.w3.org/2000/01/rdf-schema#label> "Entreprise des Travaux du Bois"@fr .
+<http://yago-knowledge.org/resource/Peyzaj_Mimarları_Odası> <http://www.w3.org/2000/01/rdf-schema#comment> "організація"@uk .
+<http://yago-knowledge.org/resource/Europacorp_Distribution> <http://schema.org/sameAs> "co0088063" .
+<http://yago-knowledge.org/resource/Diadez_France> <http://schema.org/dateCreated> "2015-06-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Centre_Communal_D_Action_Sociale_De_La_Trinité> <http://www.w3.org/2000/01/rdf-schema#comment> "rechtspersoon"@nl .
+<http://yago-knowledge.org/resource/Direction_Régionale_Des_Entreprises_De_La_Concurrence_De_La_Consommation_Du_Travail_Et_De_L_Emploi_D_Île_De_France> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q56477264> .
+<http://yago-knowledge.org/resource/First_United_Methodist_Church_Q30287234> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://schema.org/alternateName> "BOUCLE NORD DE SEINE"@fr .
+<http://yago-knowledge.org/resource/B_Ment> <http://www.w3.org/2000/01/rdf-schema#label> "B.Ment"@fr .
+<http://yago-knowledge.org/resource/Vercors_Bois_Emballage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Capoeira4Refugees> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Sas_Vinopia> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132060285> .
+<http://yago-knowledge.org/resource/Peters_Surgical> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في بولون-بيانكور، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Yachting_C_Maintenance> <http://schema.org/alternateName> "YACHTING C MAINTENANCE"@fr .
+<http://yago-knowledge.org/resource/Peyzaj_Mimarları_Odası> <http://schema.org/sameAs> "/g/1229l3fd" .
+<http://yago-knowledge.org/resource/Brousse_Produits_Industriels> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Dream_Team_Yachting> <http://www.w3.org/2000/01/rdf-schema#label> "Dream Team Yachting"@fr .
+<http://yago-knowledge.org/resource/Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federation> .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Diadez_France> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Bey_Tp> <http://schema.org/dateCreated> "2012-05-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://schema.org/alternateName> "Service d'Assistance Canadienne aux Organismes"@fr .
+<http://yago-knowledge.org/resource/Gyd_Equestrian> <http://schema.org/alternateName> "GYD EQUESTRIAN"@fr .
+<http://yago-knowledge.org/resource/Centre_Communal_D_Action_Sociale_De_L_Escarène> <http://schema.org/alternateName> "CTRE COM ACTION SOCIALE DE L'ESCARENE"@fr .
+<http://yago-knowledge.org/resource/Pgm_Rangement> <http://schema.org/alternateName> "PGM RANGEMENT"@fr .
+<http://yago-knowledge.org/resource/Sudseetraum_Gmbh> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132098984> .
+<http://yago-knowledge.org/resource/Schelde-Dijle> <http://www.w3.org/2000/01/rdf-schema#label> "Schelde-Dijle"@en .
+<http://yago-knowledge.org/resource/Warren_Pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/County_seat> .
+<http://yago-knowledge.org/resource/Mjh_Distribution> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في سان ماندي، فرنسا"@ar .
+<http://yago-knowledge.org/resource/B_Ment> <http://schema.org/dateCreated> "2016-04-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Sarl_Guillet_Joguet> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131268040> .
+<http://yago-knowledge.org/resource/Agence_Martinique_Distribution_Presse> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Stuk_Q131661860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Social_state> .
+<http://yago-knowledge.org/resource/L_Atelier_2D> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فولكس أون فيلين، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Ldhg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Meubles_Suteau_Aubron> <http://www.w3.org/2000/01/rdf-schema#label> "Meubles Suteau Aubron"@fr .
+<http://yago-knowledge.org/resource/Antwerp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Port_City_Q2264924> .
+<http://yago-knowledge.org/resource/Map_Skin_Cartons_Packaging> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://schema.org/location> <http://yago-knowledge.org/resource/Grand_Paris> .
+<http://yago-knowledge.org/resource/Anjou_Machines_Outils> <http://www.w3.org/2000/01/rdf-schema#label> "Anjou Machines Outils"@fr .
+<http://yago-knowledge.org/resource/Urbana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Empe_Q125538732> <http://www.w3.org/2000/01/rdf-schema#label> "Empe"@fr .
+<http://yago-knowledge.org/resource/Azur_Mobile_Dentaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Kmne> <http://schema.org/dateCreated> "2024-10-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Luc_Besson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Film_editor> .
+<http://yago-knowledge.org/resource/Europacorp_Distribution> <http://www.w3.org/2000/01/rdf-schema#label> "EuropaCorp Distribution"@ca .
+<http://yago-knowledge.org/resource/Wheeling_West_Virginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/City_In_The_United_States> .
+<http://yago-knowledge.org/resource/Vrouw_En_Universiteit_Ku_Leuven> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q118218980> .
+<http://yago-knowledge.org/resource/Marbre_Et_Création> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Asia_Dinosaur_Association> <http://www.w3.org/2000/01/rdf-schema#comment> "アジアの恐竜に関する研究、教育、文化を推進するために2013年に設立された専門組織"@ja .
+<http://yago-knowledge.org/resource/Colorado_Health_Network> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q120497664> .
+<http://yago-knowledge.org/resource/Fj_Sécurité> <http://schema.org/dateCreated> "2017-08-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Peters_Surgical> <http://schema.org/dateCreated> "2002-10-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/B_Ment> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132018771> .
+<http://yago-knowledge.org/resource/Caisse_Des_Écoles_De_Courchaton> <http://www.w3.org/2000/01/rdf-schema#comment> "organisme public chargé de la vie scolaire dans la commune de Courchaton, en Haute-Saône, en France"@fr .
+<http://yago-knowledge.org/resource/A_Bientot> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Syndicat_Mixte_Eau_Maisons_-_Port-En-Bessin> <http://schema.org/dateCreated> "1960-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Finlands_Svenska_Skidförbund> <http://schema.org/location> <http://yago-knowledge.org/resource/Finland> .
+<http://yago-knowledge.org/resource/Établissements_Rebouillat> <http://schema.org/alternateName> "ETABLISSEMENTS REBOUILLAT"@fr .
+<http://yago-knowledge.org/resource/Europacorp_Distribution> <http://schema.org/locationCreated> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Imprimerie_Bonnaud> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في درغواينيان، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Galerie_Smend> <http://schema.org/location> <http://yago-knowledge.org/resource/Germany> .
+<http://yago-knowledge.org/resource/Naulie> <http://schema.org/dateCreated> "2022-01-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Asia_Dinosaur_Association> <http://schema.org/sameAs> "/g/11fkf8jh6m" .
+<http://yago-knowledge.org/resource/My_Gainable> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Somepic_Technologie> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Leuven> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Big_City_Q1549591> .
+<http://yago-knowledge.org/resource/G_L_S_Travaux_Pro_Construction_De_Provence> <http://www.w3.org/2000/01/rdf-schema#label> "G.L.S Travaux Pro Construction de Provence"@fr .
+<http://yago-knowledge.org/resource/Gyd_Equestrian> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132039677> .
+<http://yago-knowledge.org/resource/Baneuropa_Cooperativa_Agricola> <http://www.w3.org/2000/01/rdf-schema#label> "Baneuropa Cooperativa Agricola"@fr .
+<http://yago-knowledge.org/resource/Yachting_C_Maintenance> <http://schema.org/dateCreated> "2020-03-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://schema.org/url> "http://www.flsheriffs.org"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Saskatchewan_River_Sturgeon_Management_Board> <http://www.w3.org/2000/01/rdf-schema#label> "Saskatchewan River Sturgeon Management Board"@fr .
+<http://yago-knowledge.org/resource/Sarl_Defi_Systèmes> <http://schema.org/dateCreated> "1994-10-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Peters_Surgical> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Pompes_Funèbres_Dubois_Q125540405> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة فرنسية"@ar .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://www.w3.org/2000/01/rdf-schema#comment> "організація"@uk .
+<http://yago-knowledge.org/resource/Saskatchewan_River_Sturgeon_Management_Board> <http://www.w3.org/2000/01/rdf-schema#comment> "կազմակերպություն"@hy .
+<http://yago-knowledge.org/resource/Map_Skin_Cartons_Packaging> <http://schema.org/alternateName> "MAP & SKIN CARTONS PACKAGING"@fr .
+<http://yago-knowledge.org/resource/Agence_Martinique_Distribution_Presse> <http://schema.org/alternateName> "AGENCE MARTINIQUE DISTRIBUTION PRESSE"@fr .
+<http://yago-knowledge.org/resource/Agro_Life_Foundation> <http://www.w3.org/2000/01/rdf-schema#label> "Agro Life Foundation"@en .
+<http://yago-knowledge.org/resource/Sas_Vinopia> <http://www.w3.org/2000/01/rdf-schema#label> "SAS Vinopia"@fr .
+<http://yago-knowledge.org/resource/Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Country_Bordering_The_Baltic_Sea> .
+<http://yago-knowledge.org/resource/Pyrénées_Tp_Services> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/First_United_Methodist_Church_Q30287234> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q30287234> .
+<http://yago-knowledge.org/resource/Vrouw_En_Universiteit_Ku_Leuven> <http://schema.org/url> "https://www.kuleuven.be/samenwerking/vapl/VenU"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Auswanderungsfonds_Für_Böhmen_Und_Mähren> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Peyzaj_Mimarları_Odası> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Uko_Q132121454> <http://www.w3.org/2000/01/rdf-schema#label> "Uko"@fr .
+<http://yago-knowledge.org/resource/Baneuropa_Cooperativa_Agricola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Mep_Factory> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132097791> .
+<http://yago-knowledge.org/resource/Schelde-Dijle> <http://www.w3.org/2000/01/rdf-schema#comment> "organisatie uit België"@nl .
+<http://yago-knowledge.org/resource/Europacorp_Distribution> <http://schema.org/founder> <http://yago-knowledge.org/resource/Luc_Besson> .
+<http://yago-knowledge.org/resource/Ibercacao> <http://schema.org/dateCreated> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Assistance_Funéraire_Audoise> <http://schema.org/alternateName> "ASSISTANCE FUNERAIRE AUDOISE"@fr .
+<http://yago-knowledge.org/resource/Reignsound_Press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Kmne> <http://schema.org/alternateName> "KMNE"@fr .
+<http://yago-knowledge.org/resource/Bleu_Tex> <http://www.w3.org/2000/01/rdf-schema#label> "Bleu Tex"@fr .
+<http://yago-knowledge.org/resource/Sarl_Guillet_Joguet> <http://schema.org/alternateName> "SARL GUILLET JOGUET"@fr .
+<http://yago-knowledge.org/resource/Gyd_Equestrian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Imprimerie_Bonnaud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Qualifruits> <http://schema.org/dateCreated> "2014-02-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Société_D_Économie_Mixte_Locale_Colomiers_Amen_Constr> <http://schema.org/alternateName> "SOC ECON MIXT LOCA COLOMIERS AMEN CONSTR"@fr .
+<http://yago-knowledge.org/resource/Vercors_Bois_Emballage> <http://www.w3.org/2000/01/rdf-schema#label> "Vercors Bois Emballage"@fr .
+<http://yago-knowledge.org/resource/First_United_Methodist_Church_Q30287234> <http://www.w3.org/2000/01/rdf-schema#comment> "church in Warren, Pennsylvania, USA"@en .
+<http://yago-knowledge.org/resource/Souchon_Thomas> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Yves_Russon_Sarl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Many_Wines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Marty_Chaudronnerie_Charentaise> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131802350> .
+<http://yago-knowledge.org/resource/B_Ment> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Schelde-Dijle> <http://www.w3.org/2000/01/rdf-schema#label> "Schelde-Dijle"@de .
+<http://yago-knowledge.org/resource/Indivision_Allemand_Jean_Laurent> <http://www.w3.org/2000/01/rdf-schema#label> "Indivision Allemand Jean Laurent"@fr .
+<http://yago-knowledge.org/resource/Société_Jacques_Pescheur_International> <http://www.w3.org/2000/01/rdf-schema#label> "Société Jacques Pescheur International"@fr .
+<http://yago-knowledge.org/resource/Caisse_Des_Écoles_De_Beyssac> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Brousse_Produits_Industriels> <http://schema.org/dateCreated> "1993-02-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Caisse_Des_Écoles_De_Courchaton> <http://www.w3.org/2000/01/rdf-schema#label> "caisse des écoles de Courchaton"@fr .
+<http://yago-knowledge.org/resource/S_A_S_U_Muriel_Gaboret> <http://schema.org/dateCreated> "2021-03-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Fryske_Underrjochtliga> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q13138478> .
+<http://yago-knowledge.org/resource/Mep_Factory> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فالبوني، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Saskatchewan_River_Sturgeon_Management_Board> <http://www.w3.org/2000/01/rdf-schema#comment> "організація"@uk .
+<http://yago-knowledge.org/resource/Demeures_Et_Decors> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131232269> .
+<http://yago-knowledge.org/resource/Ibercacao> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Ldhg> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131667237> .
+<http://yago-knowledge.org/resource/Sarl_Guillet_Joguet> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Studio_Monet> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Finlands_Svenska_Skidförbund> <http://schema.org/url> "https://fss.idrott.fi/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/New_Couture> <http://www.w3.org/2000/01/rdf-schema#label> "New Couture"@fr .
+<http://yago-knowledge.org/resource/Sarl_Guillet_Joguet> <http://schema.org/dateCreated> "1989-10-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Pleyel_International> <http://www.w3.org/2000/01/rdf-schema#label> "Pleyel International"@fr .
+<http://yago-knowledge.org/resource/Demeures_Et_Decors> <http://schema.org/dateCreated> "1991-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Assistance_Funéraire_Audoise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Dominion> .
+<http://schema.org/Organization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/shacl#NodeShape> .
+<http://yago-knowledge.org/resource/Owaste> <http://schema.org/dateCreated> "2020-03-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Europacorp_Distribution> <http://yago-knowledge.org/resource/ownedBy> <http://yago-knowledge.org/resource/EuropaCorp> .
+<http://yago-knowledge.org/resource/Demeures_Et_Decors> <http://schema.org/alternateName> "DEMEURES ET DECORS"@fr .
+<http://yago-knowledge.org/resource/Fj_Sécurité> <http://schema.org/alternateName> "FJ SECURITE"@fr .
+<http://yago-knowledge.org/resource/Marbre_Et_Création> <http://www.w3.org/2000/01/rdf-schema#label> "Marbre et Création"@fr .
+<http://yago-knowledge.org/resource/Sarl_Mutin_Primeurs> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Schelde-Dijle> <http://schema.org/location> <http://yago-knowledge.org/resource/Belgium> .
+<http://yago-knowledge.org/resource/Children_S_Home_Of_Wheeling> <http://schema.org/location> <http://yago-knowledge.org/resource/United_States> .
+<http://yago-knowledge.org/resource/Société_D_Économie_Mixte_Locale_Colomiers_Amen_Constr> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q115469824> .
+<http://yago-knowledge.org/resource/Sarl_Defi_Systèmes> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Education_generic_instance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Education> .
+<http://yago-knowledge.org/resource/Caisse_Des_Écoles_De_Beyssac> <http://www.w3.org/2000/01/rdf-schema#comment> "rechtspersoon"@nl .
+<http://yago-knowledge.org/resource/Sarl_Mutin_Primeurs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://schema.org/alternateName> "Établissement public territorial Boucle Nord de Seine"@fr .
+<http://yago-knowledge.org/resource/Schelde-Dijle> <http://schema.org/location> <http://yago-knowledge.org/resource/Antwerp> .
+<http://yago-knowledge.org/resource/Pyrénées_Tp_Services> <http://schema.org/alternateName> "PYRENEES TP SERVICES"@fr .
+<http://yago-knowledge.org/resource/Gyd_Equestrian> <http://schema.org/dateCreated> "2024-07-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Centre_Communal_D_Action_Sociale_De_La_Trinité> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://www.w3.org/2000/01/rdf-schema#label> "Florida Sheriffs Association"@en .
+<http://yago-knowledge.org/resource/Bleu_Tex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Mep_Factory> <http://www.w3.org/2000/01/rdf-schema#label> "Mep Factory"@fr .
+<http://yago-knowledge.org/resource/Argo_Yachting> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131798849> .
+<http://yago-knowledge.org/resource/Notify_Licensing> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في باريس، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Pompes_Funèbres_Dubois_Q125540405> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://www.w3.org/2000/01/rdf-schema#comment> "সংস্থা"@bn .
+<http://yago-knowledge.org/resource/First_United_Methodist_Church_Q30287234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Children_S_Home_Of_Wheeling> <http://schema.org/location> <http://yago-knowledge.org/resource/Wheeling_West_Virginia> .
+<http://yago-knowledge.org/resource/Caisse_Des_Écoles_De_Beyssac> <http://schema.org/dateCreated> "1983-08-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Caisse_Des_Écoles_De_Beyssac> <http://www.w3.org/2000/01/rdf-schema#label> "caisse des écoles de Beyssac"@fr .
+<http://yago-knowledge.org/resource/Ibercacao> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Société_Jacques_Pescheur_International> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Pleyel_International> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Facility_Kub> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/D_B_M> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Syndicat_Intercommunal_À_Vocation_Unique_Du_Labyrinthe_Fabuleux> <http://www.w3.org/2000/01/rdf-schema#comment> "syndicat intercommunal in Fossoy"@nl .
+<http://yago-knowledge.org/resource/Pompes_Funèbres_Dubois_Q125540405> <http://schema.org/alternateName> "POMPES FUNEBRES DUBOIS"@fr .
+<http://yago-knowledge.org/resource/Empe_Q125538732> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125538732> .
+<http://yago-knowledge.org/resource/Souchon_Thomas> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131218117> .
+<http://yago-knowledge.org/resource/Coexpan_France_S_A> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q126879480> .
+<http://yago-knowledge.org/resource/Bey_Tp> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://www.w3.org/2000/01/rdf-schema#comment> "կազմակերպություն"@hy .
+<http://yago-knowledge.org/resource/Asia_Dinosaur_Association> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة"@ar .
+<http://yago-knowledge.org/resource/Europacorp_Distribution> <http://schema.org/sameAs> "/g/1n36g8l0d" .
+<http://yago-knowledge.org/resource/Marty_Chaudronnerie_Charentaise> <http://www.w3.org/2000/01/rdf-schema#label> "Marty Chaudronnerie Charentaise"@fr .
+<http://yago-knowledge.org/resource/Fryske_Underrjochtliga> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة"@ar .
+<http://yago-knowledge.org/resource/Europacorp_Distribution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Finlands_Svenska_Skidförbund> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Uko_Q132121454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Herpy_Distribution> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Many_Wines> <http://schema.org/dateCreated> "2007-01-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/V_D_T_France> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134685976> .
+<http://yago-knowledge.org/resource/Colorado_Health_Network> <http://www.w3.org/2000/01/rdf-schema#label> "Colorado Health Network"@en .
+<http://yago-knowledge.org/resource/Nigeria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/First_United_Methodist_Church_Q30287234> <http://www.w3.org/2000/01/rdf-schema#comment> "US-amerikanische Organisation"@de .
+<http://yago-knowledge.org/resource/Masque_Protection> <http://www.w3.org/2000/01/rdf-schema#label> "Masque Protection"@fr .
+<http://yago-knowledge.org/resource/Anjou_Machines_Outils> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131790541> .
+<http://yago-knowledge.org/resource/Société_Jacques_Pescheur_International> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132048682> .
+<http://yago-knowledge.org/resource/Europacorp_Distribution> <http://schema.org/dateCreated> "2001"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Sarl_Defi_Systèmes> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في نيم، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Sarl_Carnielli_Jean_Pierre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Stuk_Q131661860> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في سان مور ديه فوسيه، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Peyzaj_Mimarları_Odası> <http://www.w3.org/2000/01/rdf-schema#label> "Peyzaj Mimarları Odası"@tr .
+<http://yago-knowledge.org/resource/Entreprise_Des_Travaux_Du_Bois> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130580397> .
+<http://yago-knowledge.org/resource/Indivision_Allemand_Jean_Laurent> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في كاربينتراس، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Peyzaj_Mimarları_Odası> <http://www.w3.org/2000/01/rdf-schema#comment> "Organisation"@de .
+<http://yago-knowledge.org/resource/Owaste> <http://www.w3.org/2000/01/rdf-schema#label> "Owaste"@fr .
+<http://yago-knowledge.org/resource/Saskatchewan_River_Sturgeon_Management_Board> <http://schema.org/location> <http://yago-knowledge.org/resource/Canada> .
+<http://yago-knowledge.org/resource/Centre_Communal_D_Action_Sociale_De_L_Escarène> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q104932227> .
+<http://yago-knowledge.org/resource/Asia_Dinosaur_Association> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Assistance_Funéraire_Audoise> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125538307> .
+<http://yago-knowledge.org/resource/Saskatchewan_River_Sturgeon_Management_Board> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Naulie> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في باريس، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Urbana> <http://www.w3.org/2000/01/rdf-schema#label> "Urbana"@fr .
+<http://yago-knowledge.org/resource/Caisse_Des_Écoles_De_Courchaton> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Établissements_Rebouillat> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Yachting_C_Maintenance> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131799473> .
+<http://yago-knowledge.org/resource/Argo_Yachting> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Entreprise_Des_Travaux_Du_Bois> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Qualifruits> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132046271> .
+<http://yago-knowledge.org/resource/Peters_Surgical> <http://www.w3.org/2000/01/rdf-schema#label> "Peters Surgical"@fr .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://schema.org/image> "http://commons.wikimedia.org/wiki/Special:FilePath/Perkins-Phillips%20Building%20at%20Florida%20Sheriffs%20Association.jpg"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sarl_Mutin_Primeurs> <http://www.w3.org/2000/01/rdf-schema#label> "SARL Mutin Primeurs"@fr .
+<http://yago-knowledge.org/resource/Massalia_Location> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://www.w3.org/2000/01/rdf-schema#comment> "організація"@uk .
+<http://yago-knowledge.org/resource/Galerie_Smend> <http://schema.org/url> "https://de.wikipedia.org/wiki/Galerie_Smend"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Anjou_Machines_Outils> <http://schema.org/dateCreated> "2004-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Anjou_Machines_Outils> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Peyzaj_Mimarları_Odası> <http://www.w3.org/2000/01/rdf-schema#comment> "organisaatio"@fi .
+<http://yago-knowledge.org/resource/Souchon_Thomas> <http://schema.org/alternateName> "SOUCHON THOMAS"@fr .
+<http://yago-knowledge.org/resource/Vrouw_En_Universiteit_Ku_Leuven> <http://yago-knowledge.org/resource/fieldOfWork> <http://yago-knowledge.org/resource/Education_generic_instance> .
+<http://yago-knowledge.org/resource/Peyzaj_Mimarları_Odası> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6081945> .
+<http://yago-knowledge.org/resource/Galerie_Smend> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Colorado_Health_Network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Vercors_Bois_Emballage> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Historical_Unrecognized_State> .
+<http://yago-knowledge.org/resource/Mjh_Distribution> <http://www.w3.org/2000/01/rdf-schema#label> "Mjh Distribution"@fr .
+<http://yago-knowledge.org/resource/Vrouw_En_Universiteit_Ku_Leuven> <http://schema.org/location> <http://yago-knowledge.org/resource/Leuven> .
+<http://yago-knowledge.org/resource/Uko_Q132121454> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Saskatchewan_River_Sturgeon_Management_Board> <http://www.w3.org/2000/01/rdf-schema#label> "Saskatchewan River Sturgeon Management Board"@en .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://www.w3.org/2000/01/rdf-schema#label> "Boucle Nord de Seine"@ca .
+<http://yago-knowledge.org/resource/Assistance_Funéraire_Audoise> <http://www.w3.org/2000/01/rdf-schema#label> "Assistance funéraire audoise"@fr .
+<http://yago-knowledge.org/resource/Sas_Vinopia> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://schema.org/alternateName> "BNDS"@fr .
+<http://yago-knowledge.org/resource/Saskatchewan_River_Sturgeon_Management_Board> <http://www.w3.org/2000/01/rdf-schema#comment> "organization"@en .
+<http://yago-knowledge.org/resource/Azur_Mobile_Dentaire> <http://www.w3.org/2000/01/rdf-schema#label> "Azur Mobile Dentaire"@fr .
+<http://yago-knowledge.org/resource/New_Couture> <http://schema.org/alternateName> "NEW COUTURE"@fr .
+<http://yago-knowledge.org/resource/Sarl_Carnielli_Jean_Pierre> <http://schema.org/alternateName> "SARL CARNIELLI JEAN PIERRE"@fr .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Sudseetraum_Gmbh> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Reignsound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Europacorp_Distribution> <http://schema.org/url> "https://fr.wikipedia.org/wiki/EuropaCorp_Distribution"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Grand_Paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Public_Institution_Of_Intermunicipal_Cooperation_With_Own_Taxation> .
+<http://yago-knowledge.org/resource/Dream_Team_Yachting> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131651200> .
+<http://yago-knowledge.org/resource/Agro_Life_Foundation> <http://schema.org/location> <http://yago-knowledge.org/resource/Asaba> .
+<http://yago-knowledge.org/resource/Agence_Martinique_Distribution_Presse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Syndicat_Mixte_Collecte_Et_Le_Traitement_Des_Ordures_Ménagères_Des_Cantons_D_Arpajon_Dourdan_Limours_Saint-Cheron_Sictom_De_L_Hurepoix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Sarl_Defi_Systèmes> <http://schema.org/alternateName> "SARL DEFI SYSTEMES"@fr .
+<http://yago-knowledge.org/resource/Colorado_Health_Network> <http://www.w3.org/2000/01/rdf-schema#comment> "American nonprofit organization"@en .
+<http://yago-knowledge.org/resource/Auswanderungsfonds_Für_Böhmen_Und_Mähren> <http://schema.org/url> "https://de.wikipedia.org/wiki/Auswanderungsfonds_f%C3%BCr_B%C3%B6hmen_und_M%C3%A4hren"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Map_Skin_Cartons_Packaging> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Indivision_Allemand_Jean_Laurent> <http://schema.org/alternateName> "INDIVISION ALLEMAND JEAN LAURENT"@fr .
+<http://yago-knowledge.org/resource/New_Couture> <http://schema.org/dateCreated> "2019-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Europacorp_Distribution> <http://www.w3.org/2000/01/rdf-schema#label> "EuropaCorp Distribution"@fr .
+<http://yago-knowledge.org/resource/Syndicat_Mixte_Eau_Maisons_-_Port-En-Bessin> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Masque_Protection> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Syndicat_Mixte_Eau_Maisons_-_Port-En-Bessin> <http://schema.org/alternateName> "SM eau Maisons - Port-en-Bessin"@fr .
+<http://yago-knowledge.org/resource/Stuk_Q131661860> <http://schema.org/alternateName> "STUK"@fr .
+<http://yago-knowledge.org/resource/Europacorp_Distribution> <http://www.w3.org/2000/01/rdf-schema#label> "EuropaCorp Distribution"@ru .
+<http://yago-knowledge.org/resource/Bek_Veggie> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q112204502> .
+<http://yago-knowledge.org/resource/Kmne> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Agro_Life_Foundation> <http://www.w3.org/2000/01/rdf-schema#comment> "otu mmepe mmekọrịta ọha na eze nke na-enye ọrụ ugbo na ọrụ ugbo bara uru maka ndị ọrụ ugbo n'ofe Africa"@ig .
+<http://yago-knowledge.org/resource/Marbre_Et_Création> <http://schema.org/dateCreated> "1993-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Asia_Dinosaur_Association> <http://www.w3.org/2000/01/rdf-schema#comment> "professional organization that established in 2013 to advance research, education, and culture related to Asian dinosaurs"@en .
+<http://yago-knowledge.org/resource/Peyzaj_Mimarları_Odası> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة"@ar .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://www.w3.org/2000/01/rdf-schema#comment> "Organisation"@de .
+<http://yago-knowledge.org/resource/Syndicat_Mixte_Collecte_Et_Le_Traitement_Des_Ordures_Ménagères_Des_Cantons_D_Arpajon_Dourdan_Limours_Saint-Cheron_Sictom_De_L_Hurepoix> <http://schema.org/dateCreated> "1970-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Urbana> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134685891> .
+<http://yago-knowledge.org/resource/Herpy_Distribution> <http://schema.org/alternateName> "HERPY DISTRIBUTION"@fr .
+<http://yago-knowledge.org/resource/A_Bientot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Facility_Kub> <http://schema.org/dateCreated> "2018-01-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Sudseetraum_Gmbh> <http://schema.org/dateCreated> "2016-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Herpy_Distribution> <http://schema.org/dateCreated> "1991-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Schelde-Dijle> <http://www.w3.org/2000/01/rdf-schema#label> "Schelde-Dijle"@fr .
+<http://yago-knowledge.org/resource/Urbana> <http://schema.org/dateCreated> "2001-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Société_Jacques_Pescheur_International> <http://schema.org/alternateName> "SOCIETE JACQUES PESCHEUR INTERNATIONAL"@fr .
+<http://yago-knowledge.org/resource/V_D_T_France> <http://www.w3.org/2000/01/rdf-schema#label> "V.D.T. France"@fr .
+<http://yago-knowledge.org/resource/Sarl_Carnielli_Jean_Pierre> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130669717> .
+<http://yago-knowledge.org/resource/Massalia_Location> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130664729> .
+<http://yago-knowledge.org/resource/Mjh_Distribution> <http://schema.org/alternateName> "MJH DISTRIBUTION"@fr .
+<http://yago-knowledge.org/resource/Children_S_Home_Of_Wheeling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Empe_Q125538732> <http://schema.org/alternateName> "EMPE"@fr .
+<http://yago-knowledge.org/resource/Sarl_Carnielli_Jean_Pierre> <http://www.w3.org/2000/01/rdf-schema#label> "SARL Carnielli Jean Pierre"@fr .
+<http://yago-knowledge.org/resource/My_Gainable> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://schema.org/location> <http://yago-knowledge.org/resource/Canada> .
+<http://yago-knowledge.org/resource/Demeures_Et_Decors> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://www.w3.org/2000/01/rdf-schema#comment> "organisaatio"@fi .
+<http://yago-knowledge.org/resource/Agro_Life_Foundation> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة نيجيرية"@ar .
+<http://yago-knowledge.org/resource/France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Mediterranean_Country> .
+<http://yago-knowledge.org/resource/Souchon_Thomas> <http://www.w3.org/2000/01/rdf-schema#label> "Souchon Thomas"@fr .
+<http://yago-knowledge.org/resource/Herpy_Distribution> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132114035> .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Vrouw_En_Universiteit_Ku_Leuven> <http://schema.org/address> "2 - bus 3225 Andreas Vesaliusstraat , Instituut voor de Overheid" .
+<http://yago-knowledge.org/resource/Finlands_Svenska_Skidförbund> <http://schema.org/url> "https://fi.wikipedia.org/wiki/Finlands_svenska_skidf%C3%B6rbund"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Établissements_Rebouillat> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131206125> .
+<http://yago-knowledge.org/resource/Marbre_Et_Création> <http://schema.org/alternateName> "MARBRE ET CREATION"@fr .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://www.w3.org/2000/01/rdf-schema#label> "Boucle Nord de Seine"@fr .
+<http://yago-knowledge.org/resource/Herpy_Distribution> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في شارانتوني، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Fryske_Underrjochtliga> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Antwerp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Big_City_Q1549591> .
+<http://yago-knowledge.org/resource/Baneuropa_Cooperativa_Agricola> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Pyrénées_Tp_Services> <http://schema.org/dateCreated> "2000-06-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Notify_Licensing> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Fj_Sécurité> <http://www.w3.org/2000/01/rdf-schema#label> "Fj Sécurité"@fr .
+<http://yago-knowledge.org/resource/Mbj> <http://schema.org/alternateName> "MBJ"@fr .
+<http://yago-knowledge.org/resource/Antwerp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/City_status_in_Belgium> .
+<http://yago-knowledge.org/resource/Meubles_Suteau_Aubron> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Coexpan_France_S_A> <http://www.w3.org/2000/01/rdf-schema#label> "Coexpan France S.A."@fr .
+<http://yago-knowledge.org/resource/Entreprise_Des_Travaux_Du_Bois> <http://schema.org/alternateName> "ENTREPRISE DES TRAVAUX DU BOIS"@fr .
+<http://yago-knowledge.org/resource/Mep_Factory> <http://schema.org/dateCreated> "2024-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Direction_Régionale_Des_Entreprises_De_La_Concurrence_De_La_Consommation_Du_Travail_Et_De_L_Emploi_D_Île_De_France> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Diadez_France> <http://schema.org/alternateName> "DIADEZ FRANCE"@fr .
+<http://yago-knowledge.org/resource/Children_S_Home_Of_Wheeling> <http://www.w3.org/2000/01/rdf-schema#comment> "US-amerikanische Organisation"@de .
+<http://yago-knowledge.org/resource/Warren_Pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Home_rule_municipality_Pennsylvania> .
+<http://yago-knowledge.org/resource/Yves_Russon_Sarl> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Many_Wines> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Bey_Tp> <http://www.w3.org/2000/01/rdf-schema#label> "Bey TP"@fr .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://www.w3.org/2000/01/rdf-schema#comment> "organization"@en .
+<http://yago-knowledge.org/resource/Pyrénées_Tp_Services> <http://www.w3.org/2000/01/rdf-schema#label> "Pyrénées TP Services"@fr .
+<http://yago-knowledge.org/resource/Many_Wines> <http://schema.org/alternateName> "MANY WINES"@fr .
+<http://yago-knowledge.org/resource/Masque_Protection> <http://schema.org/dateCreated> "2012-06-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Many_Wines> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132057975> .
+<http://yago-knowledge.org/resource/Société_D_Économie_Mixte_Locale_Colomiers_Amen_Constr> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Saskatchewan_River_Sturgeon_Management_Board> <http://schema.org/sameAs> "/m/047c5fn" .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://www.w3.org/2000/01/rdf-schema#comment> "divisió territorial francesa"@ca .
+<http://yago-knowledge.org/resource/Uko_Q132121454> <http://schema.org/dateCreated> "1999-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Masque_Protection> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131671804> .
+<http://yago-knowledge.org/resource/Ldhg> <http://schema.org/alternateName> "LDHG"@fr .
+<http://yago-knowledge.org/resource/Qualifruits> <http://schema.org/alternateName> "QUALIFRUITS"@fr .
+<http://yago-knowledge.org/resource/Children_S_Home_Of_Wheeling> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في ويلينغ، الولايات المتحدة"@ar .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q22248153> .
+<http://yago-knowledge.org/resource/Caisse_Des_Écoles_De_Beyssac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://www.w3.org/2000/01/rdf-schema#comment> "organizatë"@sq .
+<http://yago-knowledge.org/resource/Massalia_Location> <http://schema.org/dateCreated> "2014-03-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Luc_Besson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Film_director> .
+<http://yago-knowledge.org/resource/Imprimerie_Bonnaud> <http://schema.org/alternateName> "IMPRIMERIE BONNAUD"@fr .
+<http://yago-knowledge.org/resource/V_D_T_France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Marty_Chaudronnerie_Charentaise> <http://schema.org/alternateName> "MARTY CHAUDRONNERIE CHARENTAISE"@fr .
+<http://yago-knowledge.org/resource/Notify_Licensing> <http://www.w3.org/2000/01/rdf-schema#label> "Notify Licensing"@fr .
+<http://yago-knowledge.org/resource/Studio_Monet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Empe_Q125538732> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة فرنسية"@ar .
+<http://yago-knowledge.org/resource/Peyzaj_Mimarları_Odası> <http://www.w3.org/2000/01/rdf-schema#comment> "সংস্থা"@bn .
+<http://yago-knowledge.org/resource/Finlands_Svenska_Skidförbund> <http://www.w3.org/2000/01/rdf-schema#label> "Finlands Svenska Skidförbund"@sv .
+<http://yago-knowledge.org/resource/Premium_Q132078865> <http://schema.org/dateCreated> "2024-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Kmne> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Syndicat_Mixte_Eau_Maisons_-_Port-En-Bessin> <http://schema.org/alternateName> "SI ALIMENTATION EAU MAISONS PORT..."@fr .
+<http://yago-knowledge.org/resource/Premium_Q132078865> <http://schema.org/alternateName> "PREMIUM"@fr .
+<http://yago-knowledge.org/resource/Schelde-Dijle> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في أنتويرب، بلجيكا"@ar .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فلوريدا، الولايات المتحدة"@ar .
+<http://yago-knowledge.org/resource/Pompes_Funèbres_Dubois_Q125540405> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125540405> .
+<http://yago-knowledge.org/resource/Studio_Monet> <http://schema.org/alternateName> "STUDIO MONET"@fr .
+<http://yago-knowledge.org/resource/Syndicat_Mixte_Collecte_Et_Le_Traitement_Des_Ordures_Ménagères_Des_Cantons_D_Arpajon_Dourdan_Limours_Saint-Cheron_Sictom_De_L_Hurepoix> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q94360701> .
+<http://yago-knowledge.org/resource/Pyrénées_Tp_Services> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Diadez_France> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Coexpan_France_S_A> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Naulie> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Fryske_Underrjochtliga> <http://schema.org/url> "https://fy.wikipedia.org/wiki/Fryske_Underrjochtliga"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Sarl_Defi_Systèmes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Bleu_Tex> <http://schema.org/alternateName> "BLEU TEX"@fr .
+<http://yago-knowledge.org/resource/Antwerp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Border_town> .
+<http://yago-knowledge.org/resource/Syndicat_Intercommunal_À_Vocation_Unique_Du_Labyrinthe_Fabuleux> <http://schema.org/dateCreated> "1999-07-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Sas_Vinopia> <http://schema.org/alternateName> "SAS VINOPIA"@fr .
+<http://yago-knowledge.org/resource/Dream_Team_Yachting> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في باريس، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Luc_Besson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Film_producer> .
+<http://yago-knowledge.org/resource/Fryske_Underrjochtliga> <http://www.w3.org/2000/01/rdf-schema#comment> "Organisation"@de .
+<http://yago-knowledge.org/resource/Fj_Sécurité> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Somepic_Technologie> <http://schema.org/alternateName> "SOMEPIC TECHNOLOGIE"@fr .
+<http://yago-knowledge.org/resource/Pleyel_International> <http://schema.org/alternateName> "PLEYEL INTERNATIONAL"@fr .
+<http://yago-knowledge.org/resource/Colorado_Health_Network> <http://schema.org/url> "https://en.wikipedia.org/wiki/Colorado_Health_Network"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Empe_Q125538732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Galerie_Smend> <http://www.w3.org/2000/01/rdf-schema#comment> "Galerie für Textilkunst in Köln"@de .
+<http://yago-knowledge.org/resource/Pompes_Funèbres_Dubois_Q125540405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Centre_Communal_D_Action_Sociale_De_La_Trinité> <http://www.w3.org/2000/01/rdf-schema#label> "centre communal d'action sociale de La Trinité"@fr .
+<http://yago-knowledge.org/resource/Sarl_Mutin_Primeurs> <http://schema.org/alternateName> "SARL MUTIN PRIMEURS"@fr .
+<http://yago-knowledge.org/resource/Ldhg> <http://schema.org/dateCreated> "2012-01-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Agence_Martinique_Distribution_Presse> <http://www.w3.org/2000/01/rdf-schema#label> "Agence Martinique Distribution Presse"@fr .
+<http://yago-knowledge.org/resource/Agro_Life_Foundation> <http://schema.org/location> <http://yago-knowledge.org/resource/Nigeria> .
+<http://yago-knowledge.org/resource/Yachting_C_Maintenance> <http://www.w3.org/2000/01/rdf-schema#label> "Yachting C Maintenance"@fr .
+<http://yago-knowledge.org/resource/Auswanderungsfonds_Für_Böhmen_Und_Mähren> <http://www.w3.org/2000/01/rdf-schema#label> "Auswanderungsfonds für Böhmen und Mähren"@de .
+<http://yago-knowledge.org/resource/V_D_T_France> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/S_A_S_U_Muriel_Gaboret> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/A_Bientot> <http://schema.org/alternateName> "A BIENTOT"@fr .
+<http://yago-knowledge.org/resource/Vercors_Bois_Emballage> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130576042> .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://schema.org/sameAs> "/m/0fq0c5g" .
+<http://yago-knowledge.org/resource/D_B_M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/D_B_M> <http://schema.org/dateCreated> "1999-01-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Argo_Yachting> <http://www.w3.org/2000/01/rdf-schema#label> "Argo Yachting"@fr .
+<http://yago-knowledge.org/resource/L_Atelier_2D> <http://www.w3.org/2000/01/rdf-schema#label> "L'Atelier 2d"@fr .
+<http://yago-knowledge.org/resource/Saskatchewan_River_Sturgeon_Management_Board> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة"@ar .
+<http://yago-knowledge.org/resource/Belgium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federation> .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://www.w3.org/2000/01/rdf-schema#label> "塞纳河北湾地方公共社区"@zh-hans .
+<http://yago-knowledge.org/resource/Baneuropa_Cooperativa_Agricola> <http://schema.org/alternateName> "BANEUROPA COOPERATIVA AGRICOLA"@fr .
+<http://yago-knowledge.org/resource/Indivision_Allemand_Jean_Laurent> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132044696> .
+<http://yago-knowledge.org/resource/Peyzaj_Mimarları_Odası> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Pyrénées_Tp_Services> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131814199> .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://www.w3.org/2000/01/rdf-schema#label> "Service d'assistance canadienne aux organismes"@fr .
+<http://yago-knowledge.org/resource/Herpy_Distribution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Sudseetraum_Gmbh> <http://schema.org/alternateName> "SUDSEETRAUM GMBH"@fr .
+<http://yago-knowledge.org/resource/Peyzaj_Mimarları_Odası> <http://www.w3.org/2000/01/rdf-schema#comment> "സംഘടന"@ml .
+<http://yago-knowledge.org/resource/Sarl_Carnielli_Jean_Pierre> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://schema.org/url> "https://commons.wikimedia.org/wiki/Category:Florida_Sheriffs_Association"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Souchon_Thomas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Centre_Communal_D_Action_Sociale_De_L_Escarène> <http://schema.org/dateCreated> "1984-10-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Facility_Kub> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131800948> .
+<http://yago-knowledge.org/resource/Pleyel_International> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132118205> .
+<http://yago-knowledge.org/resource/Baneuropa_Cooperativa_Agricola> <http://schema.org/dateCreated> "1999-01-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Centre_Communal_D_Action_Sociale_De_L_Escarène> <http://www.w3.org/2000/01/rdf-schema#comment> "rechtspersoon"@nl .
+<http://yago-knowledge.org/resource/Somepic_Technologie> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/First_United_Methodist_Church_Q30287234> <http://www.w3.org/2000/01/rdf-schema#label> "First United Methodist Church"@en .
+<http://yago-knowledge.org/resource/Brousse_Produits_Industriels> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Owaste> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://www.w3.org/2000/01/rdf-schema#comment> "territorial public establishment of the Greater Paris Metropolis in France"@en .
+<http://yago-knowledge.org/resource/Syndicat_Mixte_Collecte_Et_Le_Traitement_Des_Ordures_Ménagères_Des_Cantons_D_Arpajon_Dourdan_Limours_Saint-Cheron_Sictom_De_L_Hurepoix> <http://www.w3.org/2000/01/rdf-schema#comment> "syndicat mixte in Breuillet"@nl .
+<http://yago-knowledge.org/resource/Saskatchewan_River_Sturgeon_Management_Board> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7425610> .
+<http://yago-knowledge.org/resource/Empe_Q125538732> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Direction_Régionale_Des_Entreprises_De_La_Concurrence_De_La_Consommation_Du_Travail_Et_De_L_Emploi_D_Île_De_France> <http://schema.org/url> "http://idf.direccte.gouv.fr"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Notify_Licensing> <http://schema.org/alternateName> "NOTIFY LICENSING"@fr .
+<http://yago-knowledge.org/resource/Yves_Russon_Sarl> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134688030> .
+<http://yago-knowledge.org/resource/Vrouw_En_Universiteit_Ku_Leuven> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة بلجيكية"@ar .
+<http://yago-knowledge.org/resource/First_United_Methodist_Church_Q30287234> <http://schema.org/location> <http://yago-knowledge.org/resource/Warren_Pennsylvania> .
+<http://yago-knowledge.org/resource/Bey_Tp> <http://schema.org/alternateName> "BEY TP"@fr .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Syndicat_Mixte_Collecte_Et_Le_Traitement_Des_Ordures_Ménagères_Des_Cantons_D_Arpajon_Dourdan_Limours_Saint-Cheron_Sictom_De_L_Hurepoix> <http://schema.org/alternateName> "SM collecte et le traitement des ordures ménagères des cantons d'ARPAJON, DOURDAN, LIMOURS, SAINT-CHERON (SICTOM de l'Hurepoix)"@fr .
+<http://yago-knowledge.org/resource/New_Couture> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في بانتان، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Ldhg> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في نانت، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Centre_Communal_D_Action_Sociale_De_L_Escarène> <http://www.w3.org/2000/01/rdf-schema#comment> "organisme public chargé de l'action sociale dans la commune de L'Escarène, dans les Alpes-Maritimes, en France"@fr .
+<http://yago-knowledge.org/resource/Luc_Besson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Actor> .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://www.w3.org/2000/01/rdf-schema#comment> "organisaatio"@fi .
+<http://yago-knowledge.org/resource/Caisse_Des_Écoles_De_Courchaton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Établissements_Rebouillat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Map_Skin_Cartons_Packaging> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130590713> .
+<http://yago-knowledge.org/resource/Pgm_Rangement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Mep_Factory> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Fj_Sécurité> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134649475> .
+<http://yago-knowledge.org/resource/Facility_Kub> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/G_L_S_Travaux_Pro_Construction_De_Provence> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في آكس أون بروفانس، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Vercors_Bois_Emballage> <http://schema.org/alternateName> "VERCORS BOIS EMBALLAGE"@fr .
+<http://yago-knowledge.org/resource/Meubles_Suteau_Aubron> <http://schema.org/alternateName> "MEUBLES SUTEAU AUBRON"@fr .
+<http://yago-knowledge.org/resource/Meubles_Suteau_Aubron> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة فرنسية"@ar .
+<http://yago-knowledge.org/resource/Sarl_Defi_Systèmes> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131636490> .
+<http://yago-knowledge.org/resource/Europacorp_Distribution> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Galerie_Smend> <http://schema.org/url> "https://www.smend.de"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Souchon_Thomas> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Sas_Vinopia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Peters_Surgical> <http://schema.org/alternateName> "PETERS SURGICAL"@fr .
+<http://yago-knowledge.org/resource/Mjh_Distribution> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Naulie> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132106394> .
+<http://yago-knowledge.org/resource/Marty_Chaudronnerie_Charentaise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/L_Atelier_2D> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Mjh_Distribution> <http://schema.org/dateCreated> "2016-12-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Saskatchewan_River_Sturgeon_Management_Board> <http://www.w3.org/2000/01/rdf-schema#comment> "সংস্থা"@bn .
+<http://yago-knowledge.org/resource/My_Gainable> <http://schema.org/dateCreated> "2022-04-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Brousse_Produits_Industriels> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131249516> .
+<http://yago-knowledge.org/resource/Finlands_Svenska_Skidförbund> <http://schema.org/url> "https://sv.wikipedia.org/wiki/Finlands_Svenska_Skidf%C3%B6rbund"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Pleyel_International> <http://schema.org/dateCreated> "2006-02-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://www.w3.org/2000/01/rdf-schema#comment> "organisme de bienfaisance"@fr .
+<http://yago-knowledge.org/resource/Schelde-Dijle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Premium_Q132078865> <http://www.w3.org/2000/01/rdf-schema#label> "Premium"@fr .
+<http://yago-knowledge.org/resource/S_A_S_U_Muriel_Gaboret> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132118910> .
+<http://yago-knowledge.org/resource/Syndicat_Mixte_Eau_Maisons_-_Port-En-Bessin> <http://www.w3.org/2000/01/rdf-schema#comment> "syndicat mixte in Port-en-Bessin-Huppain"@nl .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://schema.org/url> "https://fr.wikipedia.org/wiki/%C3%89tablissement_public_territorial_Boucle_Nord_de_Seine"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Syndicat_Intercommunal_À_Vocation_Unique_Du_Labyrinthe_Fabuleux> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q94692566> .
+<http://yago-knowledge.org/resource/Notify_Licensing> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132087866> .
+<http://yago-knowledge.org/resource/Pgm_Rangement> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Many_Wines> <http://www.w3.org/2000/01/rdf-schema#label> "Many Wines"@fr .
+<http://yago-knowledge.org/resource/Asaba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> .
+<http://yago-knowledge.org/resource/Sarl_Mutin_Primeurs> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Caisse_Des_Écoles_De_Courchaton> <http://schema.org/dateCreated> "1986"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Bek_Veggie> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Société_Belair> <http://schema.org/dateCreated> "1991-10-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Qualifruits> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في مونتيليمار، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Map_Skin_Cartons_Packaging> <http://schema.org/dateCreated> "2020-07-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://schema.org/alternateName> "北部塞纳河湾公共土地管理局"@zh .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://www.w3.org/2000/01/rdf-schema#comment> "സംഘടന"@ml .
+<http://yago-knowledge.org/resource/Syndicat_Mixte_Eau_Maisons_-_Port-En-Bessin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة"@ar .
+<http://yago-knowledge.org/resource/Coexpan_France_S_A> <http://schema.org/alternateName> "COEXPAN FRANCE S.A."@fr .
+<http://yago-knowledge.org/resource/Premium_Q132078865> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132078865> .
+<http://yago-knowledge.org/resource/Masque_Protection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Masque_Protection> <http://schema.org/alternateName> "MASQUE PROTECTION"@fr .
+<http://yago-knowledge.org/resource/Demeures_Et_Decors> <http://www.w3.org/2000/01/rdf-schema#label> "Demeures et Decors"@fr .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://schema.org/url> "https://en.wikipedia.org/wiki/Florida_Sheriffs_Association"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Finland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Country_Bordering_The_Baltic_Sea> .
+<http://yago-knowledge.org/resource/Agence_Martinique_Distribution_Presse> <http://schema.org/dateCreated> "2021-02-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Anjou_Machines_Outils> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Mbj> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Caisse_Des_Écoles_De_Courchaton> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q105013221> .
+<http://yago-knowledge.org/resource/Sas_Vinopia> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في شافيل، فرنسا"@ar .
+<http://schema.org/Organization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://yago-knowledge.org/resource/Marty_Chaudronnerie_Charentaise> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/New_Couture> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Brousse_Produits_Industriels> <http://schema.org/alternateName> "BROUSSE PRODUITS INDUSTRIELS"@fr .
+<http://yago-knowledge.org/resource/Syndicat_Intercommunal_À_Vocation_Unique_Du_Labyrinthe_Fabuleux> <http://schema.org/dissolutionDate> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/My_Gainable> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://www.w3.org/2000/01/rdf-schema#comment> "établissement public territorial de la Métropole du Grand Paris"@fr .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://www.w3.org/2000/01/rdf-schema#label> "Boucle Nord de Seine"@en .
+<http://yago-knowledge.org/resource/Europacorp_Distribution> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16635235> .
+<http://yago-knowledge.org/resource/Société_Belair> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Qualifruits> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Société_Jacques_Pescheur_International> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Saskatchewan_River_Sturgeon_Management_Board> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/D_B_M> <http://www.w3.org/2000/01/rdf-schema#label> "D.B.M."@fr .
+<http://yago-knowledge.org/resource/Bey_Tp> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Dream_Team_Yachting> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Sarl_Carnielli_Jean_Pierre> <http://schema.org/dateCreated> "2000-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Ibercacao> <http://schema.org/alternateName> "IBERCACAO"@fr .
+<http://yago-knowledge.org/resource/Imprimerie_Bonnaud> <http://www.w3.org/2000/01/rdf-schema#label> "Imprimerie Bonnaud"@fr .
+<http://yago-knowledge.org/resource/Ldhg> <http://www.w3.org/2000/01/rdf-schema#label> "Ldhg"@fr .
+<http://yago-knowledge.org/resource/Marbre_Et_Création> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131261289> .
+<http://yago-knowledge.org/resource/Demeures_Et_Decors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/A_Bientot> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125707745> .
+<http://yago-knowledge.org/resource/Diadez_France> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131252592> .
+<http://yago-knowledge.org/resource/Agence_Martinique_Distribution_Presse> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132008196> .
+<http://yago-knowledge.org/resource/Société_Belair> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131789172> .
+<http://yago-knowledge.org/resource/Saskatchewan_River_Sturgeon_Management_Board> <http://www.w3.org/2000/01/rdf-schema#comment> "സംഘടന"@ml .
+<http://yago-knowledge.org/resource/Azur_Mobile_Dentaire> <http://schema.org/dateCreated> "2017-01-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Finland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Unitary_state> .
+<http://yago-knowledge.org/resource/Indivision_Allemand_Jean_Laurent> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Sarl_Guillet_Joguet> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Peyzaj_Mimarları_Odası> <http://www.w3.org/2000/01/rdf-schema#comment> "organizatë"@sq .
+<http://yago-knowledge.org/resource/Notify_Licensing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Map_Skin_Cartons_Packaging> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Reignsound_Press> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130463213> .
+<http://yago-knowledge.org/resource/Galerie_Smend> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Colorado_Health_Network> <http://yago-knowledge.org/resource/siteLinks> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Bleu_Tex> <http://schema.org/dateCreated> "2009-09-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Luc_Besson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Executive_producer> .
+<http://yago-knowledge.org/resource/Meubles_Suteau_Aubron> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Europacorp_Distribution> <http://schema.org/alternateName> "EUROPACORP.DISTRIBUTION"@fr .
+<http://yago-knowledge.org/resource/Mbj> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134663658> .
+<http://yago-knowledge.org/resource/Anjou_Machines_Outils> <http://schema.org/alternateName> "ANJOU MACHINES OUTILS"@fr .
+<http://yago-knowledge.org/resource/Finlands_Svenska_Skidförbund> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q10495378> .
+<http://yago-knowledge.org/resource/Direction_Régionale_Des_Entreprises_De_La_Concurrence_De_La_Consommation_Du_Travail_Et_De_L_Emploi_D_Île_De_France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Caisse_Des_Écoles_De_Beyssac> <http://www.w3.org/2000/01/rdf-schema#comment> "organisme public chargé de la vie scolaire dans la commune de Beyssac, en Corrèze, en France"@fr .
+<http://yago-knowledge.org/resource/Sudseetraum_Gmbh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://schema.org/url> "https://ca.wikipedia.org/wiki/Boucle_Nord_de_Seine"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Schelde-Dijle> <http://www.w3.org/2000/01/rdf-schema#label> "Schelde-Dijle"@nl .
+<http://yago-knowledge.org/resource/Centre_Communal_D_Action_Sociale_De_La_Trinité> <http://schema.org/dateCreated> "1981-06-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Somepic_Technologie> <http://schema.org/dateCreated> "1961"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Syndicat_Intercommunal_À_Vocation_Unique_Du_Labyrinthe_Fabuleux> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Meubles_Suteau_Aubron> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125717537> .
+<http://yago-knowledge.org/resource/Children_S_Home_Of_Wheeling> <http://www.w3.org/2000/01/rdf-schema#comment> "американська організація"@uk .
+<http://yago-knowledge.org/resource/Naulie> <http://www.w3.org/2000/01/rdf-schema#label> "Naulie"@fr .
+<http://yago-knowledge.org/resource/Argo_Yachting> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Syndicat_Mixte_Eau_Maisons_-_Port-En-Bessin> <http://www.w3.org/2000/01/rdf-schema#label> "Syndicat mixte eau Maisons - Port-en-Bessin"@fr .
+<http://yago-knowledge.org/resource/V_D_T_France> <http://schema.org/alternateName> "V.D.T. FRANCE"@fr .
+<http://yago-knowledge.org/resource/Bleu_Tex> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في باريس، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Pompes_Funèbres_Dubois_Q125540405> <http://www.w3.org/2000/01/rdf-schema#label> "Pompes funèbres Dubois"@fr .
+<http://yago-knowledge.org/resource/Massalia_Location> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://www.w3.org/2000/01/rdf-schema#comment> "সংস্থা"@bn .
+<http://yago-knowledge.org/resource/Uko_Q132121454> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132121454> .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Centre_Communal_D_Action_Sociale_De_L_Escarène> <http://www.w3.org/2000/01/rdf-schema#label> "centre communal d'action sociale de L'Escarène"@fr .
+<http://yago-knowledge.org/resource/Naulie> <http://schema.org/alternateName> "NAULIE"@fr .
+<http://yago-knowledge.org/resource/Studio_Monet> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Argo_Yachting> <http://schema.org/alternateName> "ARGO YACHTING"@fr .
+<http://yago-knowledge.org/resource/Vrouw_En_Universiteit_Ku_Leuven> <http://www.w3.org/2000/01/rdf-schema#label> "Vrouw en Universiteit / KU Leuven"@nl .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5461591> .
+<http://yago-knowledge.org/resource/Sarl_Defi_Systèmes> <http://www.w3.org/2000/01/rdf-schema#label> "SARL Defi Systèmes"@fr .
+<http://yago-knowledge.org/resource/Direction_Régionale_Des_Entreprises_De_La_Concurrence_De_La_Consommation_Du_Travail_Et_De_L_Emploi_D_Île_De_France> <http://schema.org/alternateName> "DIRECCTE Île de France"@fr .
+<http://yago-knowledge.org/resource/Vercors_Bois_Emballage> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Asia_Dinosaur_Association> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/First_United_Methodist_Church_Q30287234> <http://www.w3.org/2000/01/rdf-schema#comment> "organisatie uit Verenigde Staten van Amerika"@nl .
+<http://yago-knowledge.org/resource/Yves_Russon_Sarl> <http://schema.org/alternateName> "YVES RUSSON SARL"@fr .
+<http://yago-knowledge.org/resource/Agro_Life_Foundation> <http://www.w3.org/2000/01/rdf-schema#label> "Agro Life Foundation"@ig .
+<http://yago-knowledge.org/resource/Pleyel_International> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Entreprise_Des_Travaux_Du_Bois> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في لا ترينيت، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Centre_Communal_D_Action_Sociale_De_La_Trinité> <http://schema.org/alternateName> "CTRE COM ACTION SOCIALE DE TRINITE"@fr .
+<http://yago-knowledge.org/resource/Kmne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Mjh_Distribution> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132028493> .
+<http://yago-knowledge.org/resource/Capoeira4Refugees> <http://www.w3.org/2000/01/rdf-schema#label> "Capoeira4Refugees"@mul .
+<http://yago-knowledge.org/resource/Saskatchewan_River_Sturgeon_Management_Board> <http://www.w3.org/2000/01/rdf-schema#comment> "Organisation"@de .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://schema.org/alternateName> "塞納河北灣地方公共社區"@zh-hant .
+<http://yago-knowledge.org/resource/Coexpan_France_S_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Diadez_France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/G_L_S_Travaux_Pro_Construction_De_Provence> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Sudseetraum_Gmbh> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Établissements_Rebouillat> <http://schema.org/dateCreated> "1986"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Uko_Q132121454> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في باريس، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Société_Belair> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Bek_Veggie> <http://schema.org/dateCreated> "2019-02-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Ldhg> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://www.w3.org/2000/01/rdf-schema#label> "Canadian Executive Service Organization"@en .
+<http://yago-knowledge.org/resource/Yachting_C_Maintenance> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في إيرش، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Fj_Sécurité> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Dream_Team_Yachting> <http://schema.org/dateCreated> "2020-10-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Yachting_C_Maintenance> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/S_A_S_U_Muriel_Gaboret> <http://schema.org/alternateName> "S.A.S.U. MURIEL GABORET"@fr .
+<http://yago-knowledge.org/resource/Société_Jacques_Pescheur_International> <http://schema.org/dateCreated> "1984-10-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Saskatchewan_River_Sturgeon_Management_Board> <http://www.w3.org/2000/01/rdf-schema#comment> "organisaatio"@fi .
+<http://yago-knowledge.org/resource/Gyd_Equestrian> <http://www.w3.org/2000/01/rdf-schema#label> "Gyd Equestrian"@fr .
+<http://yago-knowledge.org/resource/Facility_Kub> <http://schema.org/alternateName> "FACILITY KUB"@fr .
+<http://yago-knowledge.org/resource/EuropaCorp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Film_Production_Company> .
+<http://yago-knowledge.org/resource/D_B_M> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://www.w3.org/2000/01/rdf-schema#label> "Florida Sheriffs Association"@fr .
+<http://yago-knowledge.org/resource/Asia_Dinosaur_Association> <http://www.w3.org/2000/01/rdf-schema#label> "亚洲恐龙协会"@zh .
+<http://yago-knowledge.org/resource/Premium_Q132078865> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Owaste> <http://schema.org/alternateName> "OWASTE"@fr .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://schema.org/url> "http://www.bouclenorddeseine.fr"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/S_A_S_U_Muriel_Gaboret> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Société_D_Économie_Mixte_Locale_Colomiers_Amen_Constr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Assistance_Funéraire_Audoise> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة فرنسية"@ar .
+<http://yago-knowledge.org/resource/Centre_Communal_D_Action_Sociale_De_L_Escarène> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://www.w3.org/2000/01/rdf-schema#comment> "կազմակերպություն"@hy .
+<http://yago-knowledge.org/resource/New_Couture> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131238468> .
+<http://yago-knowledge.org/resource/France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Colonial_Power> .
+<http://yago-knowledge.org/resource/Auswanderungsfonds_Für_Böhmen_Und_Mähren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://www.w3.org/2000/01/rdf-schema#comment> "സംഘടന"@ml .
+<http://yago-knowledge.org/resource/Map_Skin_Cartons_Packaging> <http://www.w3.org/2000/01/rdf-schema#label> "Map & Skin Cartons Packaging"@fr .
+<http://yago-knowledge.org/resource/Europacorp_Distribution> <http://www.w3.org/2000/01/rdf-schema#label> "EuropaCorp Distribution"@nb .
+<http://yago-knowledge.org/resource/Luc_Besson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Children_s_writer> .
+<http://yago-knowledge.org/resource/Azur_Mobile_Dentaire> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في نيس، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Galerie_Smend> <http://schema.org/dateCreated> "1973"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Children_S_Home_Of_Wheeling> <http://www.w3.org/2000/01/rdf-schema#comment> "organization in Wheeling, West Virginia, United States"@en .
+<http://yago-knowledge.org/resource/Syndicat_Mixte_Collecte_Et_Le_Traitement_Des_Ordures_Ménagères_Des_Cantons_D_Arpajon_Dourdan_Limours_Saint-Cheron_Sictom_De_L_Hurepoix> <http://www.w3.org/2000/01/rdf-schema#label> "Syndicat mixte collecte et le traitement des ordures ménagères des cantons d'ARPAJON, DOURDAN, LIMOURS, SAINT-CHERON (SICTOM de l'Hurepoix)"@fr .
+<http://yago-knowledge.org/resource/Schelde-Dijle> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q52224488> .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://yago-knowledge.org/resource/siteLinks> "3"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/G_L_S_Travaux_Pro_Construction_De_Provence> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130659996> .
+<http://yago-knowledge.org/resource/Brousse_Produits_Industriels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Yves_Russon_Sarl> <http://www.w3.org/2000/01/rdf-schema#label> "Yves Russon Sarl"@fr .
+<http://yago-knowledge.org/resource/Somepic_Technologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Gyd_Equestrian> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في آكس أون بروفانس، فرنسا"@ar .
+<http://yago-knowledge.org/resource/Reignsound_Press> <http://www.w3.org/2000/01/rdf-schema#label> "Reignsound Press"@en .
+<http://yago-knowledge.org/resource/Massalia_Location> <http://schema.org/alternateName> "MASSALIA LOCATION"@fr .
+<http://yago-knowledge.org/resource/Naulie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/D_B_M> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131251887> .
+<http://yago-knowledge.org/resource/Finlands_Svenska_Skidförbund> <http://www.w3.org/2000/01/rdf-schema#label> "Finlands svenska skidförbund"@fi .
+<http://yago-knowledge.org/resource/Stuk_Q131661860> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Centre_Communal_D_Action_Sociale_De_La_Trinité> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q104933017> .
+<http://yago-knowledge.org/resource/Saskatchewan_River_Sturgeon_Management_Board> <http://www.w3.org/2000/01/rdf-schema#comment> "organizatë"@sq .
+<http://yago-knowledge.org/resource/Dream_Team_Yachting> <http://schema.org/alternateName> "DREAM TEAM YACHTING"@fr .
+<http://yago-knowledge.org/resource/Imprimerie_Bonnaud> <http://schema.org/dateCreated> "1998-09-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Syndicat_Mixte_Eau_Maisons_-_Port-En-Bessin> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q92944325> .
+<http://yago-knowledge.org/resource/Pgm_Rangement> <http://www.w3.org/2000/01/rdf-schema#label> "Pgm Rangement"@fr .
+<http://yago-knowledge.org/resource/Ibercacao> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132062674> .
+<http://yago-knowledge.org/resource/Mbj> <http://www.w3.org/2000/01/rdf-schema#label> "Mbj"@fr .
+<http://yago-knowledge.org/resource/Owaste> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134668603> .
+<http://yago-knowledge.org/resource/Mbj> <http://schema.org/dateCreated> "2018-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Leuven> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/City_status_in_Belgium> .
+<http://yago-knowledge.org/resource/Marty_Chaudronnerie_Charentaise> <http://schema.org/dateCreated> "2007-02-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Centre_Communal_D_Action_Sociale_De_L_Escarène> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Urbana> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Azur_Mobile_Dentaire> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/My_Gainable> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q134666034> .
+<http://yago-knowledge.org/resource/Société_Belair> <http://schema.org/alternateName> "SOCIETE BELAIR"@fr .
+<http://yago-knowledge.org/resource/Caisse_Des_Écoles_De_Courchaton> <http://schema.org/alternateName> "CAISSE DES ECOLES DE COURCHATON"@fr .
+<http://yago-knowledge.org/resource/Children_S_Home_Of_Wheeling> <http://www.w3.org/2000/01/rdf-schema#label> "Children's Home of Wheeling"@en .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://schema.org/url> "https://en.wikipedia.org/wiki/Canadian_Executive_Service_Organization"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/B_Ment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Mep_Factory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://schema.org/sameAs> "/g/11clg708bn" .
+<http://yago-knowledge.org/resource/Ibercacao> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Marbre_Et_Création> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Somepic_Technologie> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131271336> .
+<http://yago-knowledge.org/resource/Saskatchewan_River_Sturgeon_Management_Board> <http://schema.org/url> "https://en.wikipedia.org/wiki/Saskatchewan_River_Sturgeon_Management_Board"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Agro_Life_Foundation> <http://www.w3.org/2000/01/rdf-schema#comment> "social development organization that provides practical agriculture and farming skills for farmers across Africa"@en .
+<http://yago-knowledge.org/resource/Uko_Q132121454> <http://schema.org/alternateName> "UKO"@fr .
+<http://yago-knowledge.org/resource/Diadez_France> <http://www.w3.org/2000/01/rdf-schema#label> "Diadez France"@fr .
+<http://yago-knowledge.org/resource/Europacorp_Distribution> <http://www.w3.org/2000/01/rdf-schema#label> "ヨーロッパ・コープ・ディストリビューション"@ja .
+<http://yago-knowledge.org/resource/Bleu_Tex> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131230632> .
+<http://yago-knowledge.org/resource/Sas_Vinopia> <http://schema.org/dateCreated> "2015-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/My_Gainable> <http://schema.org/alternateName> "MY GAINABLE"@fr .
+<http://yago-knowledge.org/resource/L_Atelier_2D> <http://schema.org/alternateName> "L'ATELIER 2D"@fr .
+<http://yago-knowledge.org/resource/Capoeira4Refugees> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131849868> .
+<http://yago-knowledge.org/resource/D_B_M> <http://schema.org/alternateName> "D.B.M."@fr .
+<http://yago-knowledge.org/resource/Marty_Chaudronnerie_Charentaise> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://www.w3.org/2000/01/rdf-schema#comment> "Organisation"@de .
+<http://yago-knowledge.org/resource/Somepic_Technologie> <http://www.w3.org/2000/01/rdf-schema#label> "Somepic Technologie"@fr .
+<http://yago-knowledge.org/resource/Studio_Monet> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130578360> .
+<http://yago-knowledge.org/resource/Mjh_Distribution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Marbre_Et_Création> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في موان سارتو، فرنسا"@ar .
+<http://yago-knowledge.org/resource/My_Gainable> <http://www.w3.org/2000/01/rdf-schema#label> "My Gainable"@fr .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://www.w3.org/2000/01/rdf-schema#label> "塞納河北灣地方公共社群"@zh-hant .
+<http://yago-knowledge.org/resource/L_Atelier_2D> <http://schema.org/dateCreated> "2004-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/L_Atelier_2D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Commonwealth_realm> .
+<http://yago-knowledge.org/resource/Galerie_Smend> <http://schema.org/sameAs> "/m/0134d4ht" .
+<http://yago-knowledge.org/resource/S_A_S_U_Muriel_Gaboret> <http://www.w3.org/2000/01/rdf-schema#label> "S.A.S.U. Muriel Gaboret"@fr .
+<http://yago-knowledge.org/resource/Belgium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Sovereign_state> .
+<http://yago-knowledge.org/resource/Peyzaj_Mimarları_Odası> <http://www.w3.org/2000/01/rdf-schema#comment> "organization"@en .
+<http://yago-knowledge.org/resource/Schelde-Dijle> <http://www.w3.org/2000/01/rdf-schema#comment> "belgische Organisation"@de .
+<http://yago-knowledge.org/resource/First_United_Methodist_Church_Q30287234> <http://www.w3.org/2000/01/rdf-schema#comment> "американська організація"@uk .
+<http://yago-knowledge.org/resource/Bey_Tp> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130654026> .
+<http://yago-knowledge.org/resource/Fryske_Underrjochtliga> <http://www.w3.org/2000/01/rdf-schema#label> "Fryske Underrjochtliga"@fy .
+<http://yago-knowledge.org/resource/Vrouw_En_Universiteit_Ku_Leuven> <http://schema.org/location> <http://yago-knowledge.org/resource/Belgium> .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://schema.org/url> "https://de.wikipedia.org/wiki/%C3%89tablissement_public_territorial_Boucle_Nord_de_Seine"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Children_S_Home_Of_Wheeling> <http://www.w3.org/2000/01/rdf-schema#comment> "organisatie uit Verenigde Staten van Amerika"@nl .
+<http://yago-knowledge.org/resource/Owaste> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Peters_Surgical> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Pyrénées_Tp_Services> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Vrouw_En_Universiteit_Ku_Leuven> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Asia_Dinosaur_Association> <http://schema.org/alternateName> "ADA"@ja .
+<http://yago-knowledge.org/resource/Société_Belair> <http://www.w3.org/2000/01/rdf-schema#label> "Société Belair"@fr .
+<http://yago-knowledge.org/resource/Bek_Veggie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Établissements_Rebouillat> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Syndicat_Intercommunal_À_Vocation_Unique_Du_Labyrinthe_Fabuleux> <http://www.w3.org/2000/01/rdf-schema#label> "Syndicat intercommunal à vocation unique du Labyrinthe Fabuleux"@fr .
+<http://yago-knowledge.org/resource/Baneuropa_Cooperativa_Agricola> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://www.w3.org/2000/01/rdf-schema#label> "Établissement public territorial Boucle Nord de Seine"@de .
+<http://yago-knowledge.org/resource/Sarl_Mutin_Primeurs> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132046651> .
+<http://yago-knowledge.org/resource/Gyd_Equestrian> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Mbj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Imprimerie_Bonnaud> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Galerie_Smend> <http://www.w3.org/2000/01/rdf-schema#label> "Galerie Smend"@en .
+<http://yago-knowledge.org/resource/Belgium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Realm> .
+<http://yago-knowledge.org/resource/Kmne> <http://www.w3.org/2000/01/rdf-schema#label> "KMNE"@fr .
+<http://yago-knowledge.org/resource/Indivision_Allemand_Jean_Laurent> <http://schema.org/dateCreated> "2017-08-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Yves_Russon_Sarl> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Many_Wines> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/New_Couture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://schema.org/sameAs> "/m/0ch401c" .
+<http://yago-knowledge.org/resource/Mep_Factory> <http://schema.org/alternateName> "MEP FACTORY"@fr .
+<http://yago-knowledge.org/resource/Asia_Dinosaur_Association> <http://schema.org/url> "https://en.wikipedia.org/wiki/Asia_Dinosaur_Association"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Agro_Life_Foundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Galerie_Smend> <http://www.w3.org/2000/01/rdf-schema#label> "Galerie Smend"@de .
+<http://yago-knowledge.org/resource/Imprimerie_Bonnaud> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q130588661> .
+<http://yago-knowledge.org/resource/Qualifruits> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/A_Bientot> <http://www.w3.org/2000/01/rdf-schema#label> "A Bientot"@fr .
+<http://yago-knowledge.org/resource/G_L_S_Travaux_Pro_Construction_De_Provence> <http://schema.org/dateCreated> "2022-04-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://www.w3.org/2000/01/rdf-schema#label> "塞纳河北湾地方公共社区"@zh .
+<http://yago-knowledge.org/resource/Syndicat_Mixte_Collecte_Et_Le_Traitement_Des_Ordures_Ménagères_Des_Cantons_D_Arpajon_Dourdan_Limours_Saint-Cheron_Sictom_De_L_Hurepoix> <http://schema.org/alternateName> "SMICTOM DES CANTONS D ARPAJON DOURDAN LIMOURS ST CHERON ET COMMUNES LIMITROPHES SICTOM DU HUREPOIX"@fr .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://www.w3.org/2000/01/rdf-schema#comment> "organizatë"@sq .
+<http://yago-knowledge.org/resource/Bey_Tp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Massalia_Location> <http://www.w3.org/2000/01/rdf-schema#label> "Massalia Location"@fr .
+<http://yago-knowledge.org/resource/Children_S_Home_Of_Wheeling> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q30288856> .
+<http://yago-knowledge.org/resource/Dream_Team_Yachting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Agro_Life_Foundation> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q128597814> .
+<http://yago-knowledge.org/resource/Syndicat_Mixte_Collecte_Et_Le_Traitement_Des_Ordures_Ménagères_Des_Cantons_D_Arpajon_Dourdan_Limours_Saint-Cheron_Sictom_De_L_Hurepoix> <http://schema.org/dissolutionDate> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Florida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/U_S_state> .
+<http://yago-knowledge.org/resource/Saskatchewan_River_Sturgeon_Management_Board> <http://schema.org/url> "http://www.saskriversturgeon.ca/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Assistance_Funéraire_Audoise> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Facility_Kub> <http://www.w3.org/2000/01/rdf-schema#label> "Facility Kub"@fr .
+<http://yago-knowledge.org/resource/Souchon_Thomas> <http://schema.org/dateCreated> "2021-09-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Fryske_Underrjochtliga> <http://www.w3.org/2000/01/rdf-schema#comment> "організація"@uk .
+<http://yago-knowledge.org/resource/Stuk_Q131661860> <http://schema.org/dateCreated> "1990-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Indivision_Allemand_Jean_Laurent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Sarl_Guillet_Joguet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Sarl_Carnielli_Jean_Pierre> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Yves_Russon_Sarl> <http://schema.org/dateCreated> "1992-10-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Azur_Mobile_Dentaire> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131664114> .
+<http://yago-knowledge.org/resource/Warren_Pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/City_Of_Pennsylvania> .
+<http://yago-knowledge.org/resource/Masque_Protection> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/L_Atelier_2D> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131656942> .
+<http://yago-knowledge.org/resource/Galerie_Smend> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19810396> .
+<http://yago-knowledge.org/resource/Centre_Communal_D_Action_Sociale_De_La_Trinité> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Finlands_Svenska_Skidförbund> <http://yago-knowledge.org/resource/siteLinks> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://yago-knowledge.org/resource/Reignsound_Press> <http://www.w3.org/2000/01/rdf-schema#comment> "American publication"@en .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://www.w3.org/2000/01/rdf-schema#comment> "organization"@en .
+<http://yago-knowledge.org/resource/Entreprise_Des_Travaux_Du_Bois> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Peyzaj_Mimarları_Odası> <http://schema.org/url> "https://tr.wikipedia.org/wiki/Peyzaj_Mimarlar%C4%B1_Odas%C4%B1"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Bleu_Tex> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Ibercacao> <http://www.w3.org/2000/01/rdf-schema#label> "Ibercacao"@fr .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://schema.org/dateCreated> "1893"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://yago-knowledge.org/resource/Sudseetraum_Gmbh> <http://www.w3.org/2000/01/rdf-schema#label> "Sudseetraum Gmbh"@fr .
+<http://yago-knowledge.org/resource/Pgm_Rangement> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q125718628> .
+<http://yago-knowledge.org/resource/Syndicat_Intercommunal_À_Vocation_Unique_Du_Labyrinthe_Fabuleux> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Bek_Veggie> <http://schema.org/alternateName> "BEK & VEGGIE"@fr .
+<http://yago-knowledge.org/resource/Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Rechtsstaat> .
+<http://yago-knowledge.org/resource/Agro_Life_Foundation> <http://schema.org/address> "No 1-4 Kingsley Emu Street, Off Summit Road, Asaba, Delta Nigeria" .
+<http://yago-knowledge.org/resource/Centre_Communal_D_Action_Sociale_De_La_Trinité> <http://www.w3.org/2000/01/rdf-schema#comment> "organisme public chargé de l'action sociale dans la commune de Nordhouse, en Martinique, en France"@fr .
+<http://yago-knowledge.org/resource/Fryske_Underrjochtliga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Notify_Licensing> <http://schema.org/dateCreated> "2005-12-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://yago-knowledge.org/resource/Argo_Yachting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Sarl_Guillet_Joguet> <http://www.w3.org/2000/01/rdf-schema#label> "SARL Guillet Joguet"@fr .
+<http://yago-knowledge.org/resource/Bek_Veggie> <http://www.w3.org/2000/01/rdf-schema#label> "Bek & Veggie"@fr .
+<http://yago-knowledge.org/resource/Caisse_Des_Écoles_De_Beyssac> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q105011273> .
+<http://yago-knowledge.org/resource/Massalia_Location> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Florida_Sheriffs_Association> <http://schema.org/location> <http://yago-knowledge.org/resource/Florida> .
+<http://yago-knowledge.org/resource/Nigeria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/Federal_republic> .
+<http://yago-knowledge.org/resource/Syndicat_Intercommunal_À_Vocation_Unique_Du_Labyrinthe_Fabuleux> <http://schema.org/alternateName> "SIVU DU LABYRINTHE FABULEUX"@fr .
+<http://yago-knowledge.org/resource/Canadian_Executive_Service_Organization> <http://schema.org/url> "https://fr.wikipedia.org/wiki/Service_d%27assistance_canadienne_aux_organismes"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://yago-knowledge.org/resource/Facility_Kub> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .
+<http://yago-knowledge.org/resource/Brousse_Produits_Industriels> <http://www.w3.org/2000/01/rdf-schema#label> "Brousse Produits Industriels"@fr .
+<http://yago-knowledge.org/resource/Peters_Surgical> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131668084> .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://yago-knowledge.org/resource/partOf> <http://yago-knowledge.org/resource/Grand_Paris> .
+<http://yago-knowledge.org/resource/Asia_Dinosaur_Association> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q65121531> .
+<http://yago-knowledge.org/resource/Azur_Mobile_Dentaire> <http://schema.org/alternateName> "AZUR MOBILE DENTAIRE"@fr .
+<http://yago-knowledge.org/resource/Baneuropa_Cooperativa_Agricola> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132042999> .
+<http://yago-knowledge.org/resource/Boucle_Nord_De_Seine> <http://schema.org/alternateName> "塞纳河北部湾公共土地管理局"@zh .
+<http://yago-knowledge.org/resource/Demeures_Et_Decors> <http://www.w3.org/2000/01/rdf-schema#comment> "منظمة في فرنسا"@ar .
+<http://yago-knowledge.org/resource/Société_Jacques_Pescheur_International> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Pleyel_International> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://yago-knowledge.org/resource/Europacorp_Distribution> <http://schema.org/location> <http://yago-knowledge.org/resource/France> .

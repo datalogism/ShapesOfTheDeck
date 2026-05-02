@@ -1,0 +1,40 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<file:///C:/Users/doccr/PycharmProjects/DoubleShapespresso/Politician> a sh:NodeShape ;
+    sh:property [ sh:class dbo:Politician ;
+            sh:minCount 1 ;
+            sh:path dbo:birthPlace ],
+        [ sh:class dbo:Politician ;
+            sh:minCount 1 ;
+            sh:path dbo:party ],
+        [ sh:minCount 1 ;
+            sh:or ( [ sh:class dbo:Tenure ] [ sh:class dbo:TimePeriod ] [ sh:class <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval> ] ) ;
+            sh:path dbo:termPeriod ],
+        [ sh:datatype xsd:integer ;
+            sh:minCount 1 ;
+            sh:path dbo:wikiPageRevisionID ],
+        [ sh:datatype rdf:langString ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path foaf:name ],
+        [ sh:datatype xsd:double ;
+            sh:minCount 1 ;
+            sh:path dcat:resource_identifier ],
+        [ sh:class dbo:Politician ;
+            sh:minCount 1 ;
+            sh:path rdf:type ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ sh:datatype rdf:langString ;
+            sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass dbo:Politician .
+

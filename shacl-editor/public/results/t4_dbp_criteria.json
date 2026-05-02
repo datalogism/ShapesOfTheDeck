@@ -1,0 +1,326 @@
+[
+  {
+    "model": "GPT-4o mini",
+    "setting": "local",
+    "node_constraint": "Exact",
+    "cardinality": "Exact",
+    "p": 0.082,
+    "r": 0.034,
+    "f1": 0.047
+  },
+  {
+    "model": "GPT-4o mini",
+    "setting": "local",
+    "node_constraint": "Exact",
+    "cardinality": "Loosened",
+    "p": 0.099,
+    "r": 0.04,
+    "f1": 0.055
+  },
+  {
+    "model": "GPT-4o mini",
+    "setting": "local",
+    "node_constraint": "Subclass",
+    "cardinality": "Exact",
+    "p": 0.093,
+    "r": 0.041,
+    "f1": 0.055
+  },
+  {
+    "model": "GPT-4o mini",
+    "setting": "local",
+    "node_constraint": "Subclass",
+    "cardinality": "Loosened",
+    "p": 0.114,
+    "r": 0.05,
+    "f1": 0.067
+  },
+  {
+    "model": "GPT-4o mini",
+    "setting": "local",
+    "node_constraint": "Datatype",
+    "cardinality": "Exact",
+    "p": 0.093,
+    "r": 0.041,
+    "f1": 0.055
+  },
+  {
+    "model": "GPT-4o mini",
+    "setting": "local",
+    "node_constraint": "Datatype",
+    "cardinality": "Loosened",
+    "p": 0.114,
+    "r": 0.05,
+    "f1": 0.067
+  },
+  {
+    "model": "GPT-4o mini",
+    "setting": "global",
+    "node_constraint": "Exact",
+    "cardinality": "Exact",
+    "p": 0.152,
+    "r": 0.112,
+    "f1": 0.122
+  },
+  {
+    "model": "GPT-4o mini",
+    "setting": "global",
+    "node_constraint": "Exact",
+    "cardinality": "Loosened",
+    "p": 0.237,
+    "r": 0.172,
+    "f1": 0.19
+  },
+  {
+    "model": "GPT-4o mini",
+    "setting": "global",
+    "node_constraint": "Subclass",
+    "cardinality": "Exact",
+    "p": 0.18,
+    "r": 0.131,
+    "f1": 0.144
+  },
+  {
+    "model": "GPT-4o mini",
+    "setting": "global",
+    "node_constraint": "Subclass",
+    "cardinality": "Loosened",
+    "p": 0.268,
+    "r": 0.192,
+    "f1": 0.215
+  },
+  {
+    "model": "GPT-4o mini",
+    "setting": "global",
+    "node_constraint": "Datatype",
+    "cardinality": "Exact",
+    "p": 0.282,
+    "r": 0.2,
+    "f1": 0.223
+  },
+  {
+    "model": "GPT-4o mini",
+    "setting": "global",
+    "node_constraint": "Datatype",
+    "cardinality": "Loosened",
+    "p": 0.458,
+    "r": 0.324,
+    "f1": 0.363
+  },
+  {
+    "model": "GPT-4o mini",
+    "setting": "triples",
+    "node_constraint": "Exact",
+    "cardinality": "Exact",
+    "p": 0.1,
+    "r": 0.039,
+    "f1": 0.054
+  },
+  {
+    "model": "GPT-4o mini",
+    "setting": "triples",
+    "node_constraint": "Exact",
+    "cardinality": "Loosened",
+    "p": 0.119,
+    "r": 0.046,
+    "f1": 0.064
+  },
+  {
+    "model": "GPT-4o mini",
+    "setting": "triples",
+    "node_constraint": "Subclass",
+    "cardinality": "Exact",
+    "p": 0.143,
+    "r": 0.073,
+    "f1": 0.089
+  },
+  {
+    "model": "GPT-4o mini",
+    "setting": "triples",
+    "node_constraint": "Subclass",
+    "cardinality": "Loosened",
+    "p": 0.164,
+    "r": 0.081,
+    "f1": 0.101
+  },
+  {
+    "model": "GPT-4o mini",
+    "setting": "triples",
+    "node_constraint": "Datatype",
+    "cardinality": "Exact",
+    "p": 0.143,
+    "r": 0.073,
+    "f1": 0.089
+  },
+  {
+    "model": "GPT-4o mini",
+    "setting": "triples",
+    "node_constraint": "Datatype",
+    "cardinality": "Loosened",
+    "p": 0.164,
+    "r": 0.081,
+    "f1": 0.101
+  },
+  {
+    "model": "DeepSeek-V3",
+    "setting": "local",
+    "node_constraint": "Exact",
+    "cardinality": "Exact",
+    "p": 0.161,
+    "r": 0.112,
+    "f1": 0.124
+  },
+  {
+    "model": "DeepSeek-V3",
+    "setting": "local",
+    "node_constraint": "Exact",
+    "cardinality": "Loosened",
+    "p": 0.333,
+    "r": 0.245,
+    "f1": 0.269
+  },
+  {
+    "model": "DeepSeek-V3",
+    "setting": "local",
+    "node_constraint": "Subclass",
+    "cardinality": "Exact",
+    "p": 0.221,
+    "r": 0.165,
+    "f1": 0.178
+  },
+  {
+    "model": "DeepSeek-V3",
+    "setting": "local",
+    "node_constraint": "Subclass",
+    "cardinality": "Loosened",
+    "p": 0.408,
+    "r": 0.309,
+    "f1": 0.335
+  },
+  {
+    "model": "DeepSeek-V3",
+    "setting": "local",
+    "node_constraint": "Datatype",
+    "cardinality": "Exact",
+    "p": 0.253,
+    "r": 0.187,
+    "f1": 0.202
+  },
+  {
+    "model": "DeepSeek-V3",
+    "setting": "local",
+    "node_constraint": "Datatype",
+    "cardinality": "Loosened",
+    "p": 0.458,
+    "r": 0.343,
+    "f1": 0.374
+  },
+  {
+    "model": "DeepSeek-V3",
+    "setting": "global",
+    "node_constraint": "Exact",
+    "cardinality": "Exact",
+    "p": 0.143,
+    "r": 0.109,
+    "f1": 0.121
+  },
+  {
+    "model": "DeepSeek-V3",
+    "setting": "global",
+    "node_constraint": "Exact",
+    "cardinality": "Loosened",
+    "p": 0.404,
+    "r": 0.305,
+    "f1": 0.333
+  },
+  {
+    "model": "DeepSeek-V3",
+    "setting": "global",
+    "node_constraint": "Subclass",
+    "cardinality": "Exact",
+    "p": 0.202,
+    "r": 0.144,
+    "f1": 0.161
+  },
+  {
+    "model": "DeepSeek-V3",
+    "setting": "global",
+    "node_constraint": "Subclass",
+    "cardinality": "Loosened",
+    "p": 0.542,
+    "r": 0.397,
+    "f1": 0.437
+  },
+  {
+    "model": "DeepSeek-V3",
+    "setting": "global",
+    "node_constraint": "Datatype",
+    "cardinality": "Exact",
+    "p": 0.246,
+    "r": 0.184,
+    "f1": 0.203
+  },
+  {
+    "model": "DeepSeek-V3",
+    "setting": "global",
+    "node_constraint": "Datatype",
+    "cardinality": "Loosened",
+    "p": 0.639,
+    "r": 0.469,
+    "f1": 0.515
+  },
+  {
+    "model": "DeepSeek-V3",
+    "setting": "triples",
+    "node_constraint": "Exact",
+    "cardinality": "Exact",
+    "p": 0.316,
+    "r": 0.203,
+    "f1": 0.239
+  },
+  {
+    "model": "DeepSeek-V3",
+    "setting": "triples",
+    "node_constraint": "Exact",
+    "cardinality": "Loosened",
+    "p": 0.523,
+    "r": 0.335,
+    "f1": 0.396
+  },
+  {
+    "model": "DeepSeek-V3",
+    "setting": "triples",
+    "node_constraint": "Subclass",
+    "cardinality": "Exact",
+    "p": 0.338,
+    "r": 0.216,
+    "f1": 0.255
+  },
+  {
+    "model": "DeepSeek-V3",
+    "setting": "triples",
+    "node_constraint": "Subclass",
+    "cardinality": "Loosened",
+    "p": 0.561,
+    "r": 0.36,
+    "f1": 0.425
+  },
+  {
+    "model": "DeepSeek-V3",
+    "setting": "triples",
+    "node_constraint": "Datatype",
+    "cardinality": "Exact",
+    "p": 0.395,
+    "r": 0.246,
+    "f1": 0.292
+  },
+  {
+    "model": "DeepSeek-V3",
+    "setting": "triples",
+    "node_constraint": "Datatype",
+    "cardinality": "Loosened",
+    "p": 0.627,
+    "r": 0.394,
+    "f1": 0.468
+  }
+]

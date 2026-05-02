@@ -1,0 +1,117 @@
+shacl
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:ArtistShape a sh:NodeShape ;
+    sh:targetClass dbo:Artist ;
+    sh:property [
+        sh:path rdf:type ;
+        sh:minCount 1 ;
+        sh:hasValue dbo:Artist ;
+        sh:message "Every Artist must be of type dbo:Artist"@en
+    ], [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+        sh:message "Every Artist must have exactly one foaf:name"@en
+    ], [
+        sh:path dbo:birthDate ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:date ;
+        sh:message "Every Artist must have exactly one dbo:birthDate"@en
+    ], [
+        sh:path dbo:deathDate ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:date ;
+        sh:message "Artists may have at most one dbo:deathDate"@en
+    ], [
+        sh:path dbo:birthPlace ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Every Artist must have at least one dbo:birthPlace"@en
+    ], [
+        sh:path dbo:deathPlace ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Artists may have dbo:deathPlace"@en
+    ], [
+        sh:path dbo:birthYear ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:gYear ;
+        sh:message "Artists may have at most one dbo:birthYear"@en
+    ], [
+        sh:path dbo:deathYear ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:gYear ;
+        sh:message "Artists may have at most one dbo:deathYear"@en
+    ], [
+        sh:path dbo:activeYearsStartYear ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:gYear ;
+        sh:message "Artists may have at most one dbo:activeYearsStartYear"@en
+    ], [
+        sh:path dbo:activeYearsEndYear ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:gYear ;
+        sh:message "Artists may have at most one dbo:activeYearsEndYear"@en
+    ], [
+        sh:path dbo:alias ;
+        sh:datatype xsd:string ;
+        sh:message "Artists may have dbo:alias"@en
+    ], [
+        sh:path dbo:background ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+        sh:message "Artists may have at most one dbo:background"@en
+    ], [
+        sh:path foaf:givenName ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+        sh:message "Artists may have at most one foaf:givenName"@en
+    ], [
+        sh:path dbo:recordLabel ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Artists may have dbo:recordLabel"@en
+    ], [
+        sh:path dbo:hometown ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Artists may have dbo:hometown"@en
+    ], [
+        sh:path dbo:associatedMusicalArtist ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Artists may have dbo:associatedMusicalArtist"@en
+    ], [
+        sh:path dbo:associatedBand ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Artists may have dbo:associatedBand"@en
+    ], [
+        sh:path dbo:genre ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Artists may have dbo:genre"@en
+    ], [
+        sh:path foaf:homepage ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Artists may have foaf:homepage"@en
+    ], [
+        sh:path dbo:occupation ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Artists may have dbo:occupation"@en
+    ], [
+        sh:path dbo:instrument ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Artists may have dbo:instrument"@en
+    ], [
+        sh:path dbo:soundRecording ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Artists may have dbo:soundRecording"@en
+    ], [
+        sh:path dbo:imdbId ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+        sh:message "Artists may have at most one dbo:imdbId"@en
+    ] .

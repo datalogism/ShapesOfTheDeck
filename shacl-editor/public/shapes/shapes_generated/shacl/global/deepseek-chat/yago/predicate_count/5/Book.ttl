@@ -1,0 +1,70 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://shaclshapes.org/BookShape> a sh:NodeShape ;
+    sh:property [ sh:class schema:Organization ;
+            sh:path schema:publisher ],
+        [ sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:sameAs ],
+        [ sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/BookShape> ;
+            sh:path rdf:type ],
+        [ sh:datatype <xsd:dateTime> ;
+            sh:maxCount 1 ;
+            sh:path schema:dateCreated ],
+        [ sh:class schema:Person ;
+            sh:path schema:illustrator ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path schema:material ],
+        [ sh:class schema:Person ;
+            sh:path schema:director ],
+        [ sh:class schema:Person ;
+            sh:path schema:author ],
+        [ sh:class schema:Organization ;
+            sh:path schema:productionCompany ],
+        [ sh:datatype <xsd:decimal> ;
+            sh:maxCount 1 ;
+            sh:path schema:numberOfPages ],
+        [ sh:datatype <rdf:langString> ;
+            sh:path schema:alternateName ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path schema:actor ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path schema:award ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:path schema:mainEntityOfPage ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path schema:contentLocation ],
+        [ sh:datatype <rdf:langString> ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path schema:musicBy ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path schema:inLanguage ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:path schema:url ],
+        [ sh:class schema:Person ;
+            sh:path schema:editor ],
+        [ sh:datatype <rdf:langString> ;
+            sh:path rdfs:comment ],
+        [ sh:datatype <xsd:string> ;
+            sh:maxCount 1 ;
+            sh:path schema:isbn ],
+        [ sh:datatype <xsd:string> ;
+            sh:path schema:sameAs ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path schema:locationCreated ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path schema:about ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:path schema:image ],
+        [ sh:datatype <xsd:decimal> ;
+            sh:path schema:duration ] ;
+    sh:targetClass schema:Book .
+

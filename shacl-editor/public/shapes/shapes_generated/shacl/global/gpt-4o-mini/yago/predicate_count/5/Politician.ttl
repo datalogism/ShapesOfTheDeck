@@ -1,0 +1,104 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix yago: <http://yago-knowledge.org/resource/> .
+
+<http://shaclshapes.org/PoliticianShape> a sh:NodeShape ;
+    sh:property [ sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:sameAs ],
+        [ sh:node <http://shaclshapes.org/PoliticianShape> ;
+            sh:path yago:influencedBy ],
+        [ sh:node <http://shaclshapes.org/PoliticianShape> ;
+            sh:path schema:children ],
+        [ sh:node <http://shaclshapes.org/PoliticianShape> ;
+            sh:path schema:owns ],
+        [ sh:node <http://shaclshapes.org/PoliticianShape> ;
+            sh:path schema:performer ],
+        [ sh:datatype <xsd:dateTime> ;
+            sh:path schema:deathDate ],
+        [ sh:node <http://shaclshapes.org/PoliticianShape> ;
+            sh:path yago:appearsIn ],
+        [ sh:class <http://dbpedia.org/ontology/Place> ;
+            sh:path schema:deathPlace ],
+        [ sh:node <http://shaclshapes.org/PoliticianShape> ;
+            sh:path yago:candidateIn ],
+        [ sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/PoliticianShape> ;
+            sh:path rdf:type ],
+        [ sh:datatype <rdf:langString> ;
+            sh:path schema:alternateName ],
+        [ sh:node <http://shaclshapes.org/PoliticianShape> ;
+            sh:path yago:doctoralAdvisor ],
+        [ sh:node <http://shaclshapes.org/PoliticianShape> ;
+            sh:path schema:memberOf ],
+        [ sh:node <http://shaclshapes.org/PoliticianShape> ;
+            sh:path schema:affiliation ],
+        [ sh:node <http://shaclshapes.org/PoliticianShape> ;
+            sh:path schema:author ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:minCount 1 ;
+            sh:path schema:mainEntityOfPage ],
+        [ sh:datatype <rdf:langString> ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ sh:node <http://shaclshapes.org/PoliticianShape> ;
+            sh:path schema:birthPlace ],
+        [ sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path schema:nationality ],
+        [ sh:maxCount 2 ;
+            sh:node <http://shaclshapes.org/PoliticianShape> ;
+            sh:path schema:spouse ],
+        [ sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path schema:knowsLanguage ],
+        [ sh:node <http://shaclshapes.org/PoliticianShape> ;
+            sh:path yago:academicDegree ],
+        [ sh:datatype <xsd:string> ;
+            sh:path yago:sportNumber ],
+        [ sh:datatype <rdf:langString> ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ sh:node <http://shaclshapes.org/PoliticianShape> ;
+            sh:path yago:notableWork ],
+        [ sh:node <http://shaclshapes.org/PoliticianShape> ;
+            sh:path schema:award ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path yago:studentOf ],
+        [ sh:datatype <xsd:dateTime> ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path schema:birthDate ],
+        [ sh:node <http://shaclshapes.org/PoliticianShape> ;
+            sh:path yago:playsIn ],
+        [ sh:class <http://dbpedia.org/ontology/Place> ;
+            sh:minCount 1 ;
+            sh:path schema:homeLocation ],
+        [ sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path schema:gender ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:path schema:url ],
+        [ sh:datatype <xsd:string> ;
+            sh:maxCount 3 ;
+            sh:minCount 1 ;
+            sh:path schema:sameAs ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:minCount 1 ;
+            sh:path schema:image ],
+        [ sh:class <http://dbpedia.org/ontology/Organisation> ;
+            sh:path schema:alumniOf ],
+        [ sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/PoliticianShape> ;
+            sh:path yago:beliefSystem ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path schema:worksFor ] ;
+    sh:targetClass yago:Politician .
+

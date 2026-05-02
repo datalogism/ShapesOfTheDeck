@@ -1,0 +1,232 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix shapes: <http://shaclshapes.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:PersonShape a sh:NodeShape ;
+    sh:property [ sh:datatype xsd:double ;
+                        sh:maxCount 1 ;
+                        sh:nodeKind sh:Literal ;
+                        sh:path dbo:height ],
+        [ sh:datatype xsd:double ;
+                        sh:maxCount 1 ;
+                        sh:nodeKind sh:Literal ;
+                        sh:path dbo:weight ];
+    sh:property [ sh:datatype xsd:string ;
+            sh:path foaf:givenName ],
+        [ sh:datatype xsd:gYear ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:draftYear ],
+        [ sh:datatype xsd:gYear ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:undraftedYear ],
+        [ sh:class dbo:Country ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:country ],
+        [ sh:class dbo:Country ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:stateOfOrigin ],
+        [ sh:class dbo:Place ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:residence ],
+        [ sh:class dbo:Place ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:restingPlace ],
+        [ sh:class dbo:Settlement ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:hometown ],
+        [ sh:datatype xsd:string ;
+            sh:path foaf:nick ],
+        [ sh:class dbo:Profession ;
+            sh:nodeKind sh:IRI ;
+            sh:path [ sh:alternativePath ( dbo:occupation dbo:profession ) ] ],
+        [ sh:datatype rdf:langString ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:title ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path dbo:knownFor ],
+        [ sh:class dbo:Genre ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:genre ],
+        [ sh:class dbo:Instrument ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:instrument ],
+        [ sh:class dbo:Award ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:award ],
+        [ sh:class dbo:CareerStation ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:careerStation ],
+        [ sh:class dbo:EducationalInstitution ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:education ],
+        [ sh:class dbo:EducationalInstitution ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:almaMater ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:abstract ],
+        [ sh:class dbo:EducationalInstitution ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:college ],
+        [ sh:class dbo:EducationalInstitution ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:school ],
+        [ sh:class dbo:School ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:highschool ],
+        [ sh:nodeKind sh:IRI ;
+            sh:or ( [ sh:class dbo:AcademicSubject ] [ sh:class dbo:MedicalSpecialty ] ) ;
+            sh:path dbo:academicDiscipline ],
+        [ sh:class dbo:Person ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:doctoralAdvisor ],
+        [ sh:class dbo:Organisation ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:institution ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path rdfs:comment ],
+        [ sh:class dbo:Organisation ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:employer ],
+        [ sh:class dbo:Band ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:associatedBand ],
+        [ sh:nodeKind sh:IRI ;
+            sh:or ( [ sh:class dbo:Person ] [ sh:class dbo:Band ] ) ;
+            sh:path dbo:associatedMusicalArtist ],
+        [ sh:class dbo:RecordLabel ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:recordLabel ],
+        [ sh:class dbo:MilitaryService ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:militaryService ],
+        [ sh:class dbo:MilitaryUnit ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:militaryBranch ],
+        [ sh:datatype xsd:gYear ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:activeYearsStartYear ],
+        [ sh:class dbo:MilitaryUnit ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:militaryUnit ],
+        [ sh:datatype xsd:string ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:militaryCommand ],
+        [ sh:datatype xsd:string ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:allegiance ],
+        [ sh:class dbo:Person ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:spouse ],
+        [ sh:class dbo:Person ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:parent ],
+        [ sh:class dbo:Person ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:child ],
+        [ sh:class dbo:Person ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:relative ],
+        [ sh:class dbo:Person ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:relation ],
+        [ sh:class dbo:Person ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:successor ],
+        [ sh:class dbo:Person ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:predecessor ],
+        [ sh:datatype xsd:gYear ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:activeYearsEndYear ],
+        [ sh:class dbo:SportsTeam ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:team ],
+        [ sh:class dbo:SportsTeam ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:formerTeam ],
+        [ sh:class dbo:SportsTeam ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:debutTeam ],
+        [ sh:class dbo:SportsTeam ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:draftTeam ],
+        [ sh:class dbo:SportsTeam ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:managerClub ],
+        [ sh:class dbo:SportsLeague ;
+            sh:nodeKind sh:IRI ;
+            sh:path dbo:league ],
+        [ sh:datatype xsd:string ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:draft ],
+        [ sh:datatype xsd:string ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:draftPick ],
+        [ sh:datatype xsd:string ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:draftRound ],
+        [ sh:datatype xsd:string ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:battingSide ],
+        [ sh:datatype xsd:gYear ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:serviceStartYear ],
+        [ sh:datatype xsd:string ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:bowlingSide ],
+        [ sh:datatype xsd:string ;
+            sh:maxCount 2 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:shoots ],
+        [ sh:datatype xsd:string ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:overallRecord ],
+        [ sh:class dbo:Image ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path foaf:depiction ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path foaf:homepage ],
+        [ sh:datatype xsd:string ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:imdbId ],
+        [ sh:datatype xsd:anyURI ;
+            sh:nodeKind sh:Literal ;
+            sh:path owl:differentFrom ],
+        [ sh:datatype xsd:anyURI ;
+            sh:nodeKind sh:Literal ;
+            sh:path rdfs:seeAlso ],
+        [ sh:datatype xsd:gYear ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:serviceEndYear ],
+        [ sh:datatype xsd:integer ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:Literal ;
+            sh:path dbo:wikiPageRevisionID ] ;
+    sh:targetClass dbo:Person .
+

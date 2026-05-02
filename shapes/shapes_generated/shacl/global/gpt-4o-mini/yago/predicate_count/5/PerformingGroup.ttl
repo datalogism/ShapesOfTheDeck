@@ -1,0 +1,57 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix yago: <http://yago-knowledge.org/resource/> .
+
+<http://shaclshapes.org/PerformingGroupShape> a sh:NodeShape ;
+    sh:property [ sh:maxCount 3 ;
+            sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/PerformingGroupShape> ;
+            sh:path rdf:type ],
+        [ sh:node <http://shaclshapes.org/PerformingGroupShape> ;
+            sh:path yago:notableWork ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:path schema:logo ],
+        [ sh:datatype <xsd:string> ;
+            sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:path schema:sameAs ],
+        [ sh:node <http://shaclshapes.org/PerformingGroupShape> ;
+            sh:path schema:founder ],
+        [ sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/PerformingGroupShape> ;
+            sh:path schema:location ],
+        [ sh:datatype <rdf:langString> ;
+            sh:path schema:alternateName ],
+        [ sh:node <http://shaclshapes.org/PerformingGroupShape> ;
+            sh:path schema:locationCreated ],
+        [ sh:datatype <rdf:langString> ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ sh:datatype <xsd:decimal> ;
+            sh:path yago:elevation ],
+        [ sh:datatype <rdf:langString> ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ sh:datatype <xsd:dateTime> ;
+            sh:path schema:dateCreated ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:path schema:url ],
+        [ sh:node <http://shaclshapes.org/PerformingGroupShape> ;
+            sh:path yago:ownedBy ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:path schema:image ],
+        [ sh:datatype <geo:wktLiteral> ;
+            sh:path schema:geo ],
+        [ sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/PerformingGroupShape> ;
+            sh:path owl:sameAs ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:minCount 1 ;
+            sh:path schema:mainEntityOfPage ] ;
+    sh:targetClass schema:PerformingGroup .
+

@@ -1,0 +1,95 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix shapes: <http://shaclshapes.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:ComicsCharacterShape a sh:NodeShape ;
+    sh:targetClass dbo:ComicsCharacter ;
+    sh:property [
+        sh:path rdf:type ;
+        sh:minCount 1 ;
+        sh:hasValue dbo:ComicsCharacter ;
+        sh:message "Every instance must be of type dbo:ComicsCharacter."@en
+    ], [
+        sh:path foaf:name ;
+        sh:minCount 1 ;
+        sh:datatype rdf:langString ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every ComicsCharacter must have at least one foaf:name."@en
+    ], [
+        sh:path foaf:givenName ;
+        sh:minCount 1 ;
+        sh:datatype rdf:langString ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every ComicsCharacter must have at least one foaf:givenName."@en
+    ], [
+        sh:path dbo:firstAppearance ;
+        sh:minCount 1 ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every ComicsCharacter must have at least one dbo:firstAppearance."@en
+    ], [
+        sh:path dbo:creator ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+        sh:message "Every ComicsCharacter must have at least one dbo:creator (Person)."@en
+    ], [
+        sh:path dbo:voice ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+        sh:message "dbo:voice must be a Person."@en
+    ], [
+        sh:path dbo:series ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Film ;
+        sh:message "dbo:series must be a Film."@en
+    ], [
+        sh:path dbo:gender ;
+        sh:nodeKind sh:IRI ;
+        sh:or ( [ sh:hasValue dbr:Masculinity ] [ sh:hasValue dbr:Femininity ] [ sh:hasValue dbr:Genderqueer ] ) ;
+        sh:message "dbo:gender must be one of the recognized gender concepts."@en
+    ], [
+        sh:path dbo:alias ;
+        sh:datatype rdf:langString ;
+        sh:nodeKind sh:Literal ;
+        sh:message "dbo:alias must be a literal."@en
+    ], [
+        sh:path dbo:child ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:FictionalCharacter ;
+        sh:message "dbo:child must be a FictionalCharacter."@en
+    ], [
+        sh:path dbo:relative ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:FictionalCharacter ;
+        sh:message "dbo:relative must be a FictionalCharacter."@en
+    ], [
+        sh:path dbo:species ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Species ;
+        sh:message "dbo:species must be a Species."@en
+    ], [
+        sh:path dbo:lastAppearance ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+        sh:message "dbo:lastAppearance must be a string literal."@en
+    ], [
+        sh:path dbo:portrayer ;
+        sh:nodeKind sh:IRI ;
+        sh:class dbo:Person ;
+        sh:message "dbo:portrayer must be a Person."@en
+    ], [
+        sh:path dbo:imdbId ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+        sh:message "dbo:imdbId must be a string literal."@en
+    ], [
+        sh:path foaf:nick ;
+        sh:datatype rdf:langString ;
+        sh:nodeKind sh:Literal ;
+        sh:message "foaf:nick must be a literal."@en
+    ] .

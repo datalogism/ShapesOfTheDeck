@@ -1,0 +1,12 @@
+[
+  {
+    "id": "doubleshapresso",
+    "name": "DoubleShapresso",
+    "icon": "☕",
+    "color": "#c89b3c",
+    "description": "GT vs DeepSeek-V3 vs ShExer — evaluated on DBpedia & YAGO",
+    "kgs": ["dbpedia", "yago"],
+    "slots_count": 6,
+    "classes_count": { "dbpedia": 20, "yago": 37 }
+  }
+]

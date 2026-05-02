@@ -1,0 +1,117 @@
+```turtle
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix shapes: <http://shaclshapes.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:ArtistShape a sh:NodeShape ;
+    sh:targetClass dbo:Artist ;
+    sh:property [
+        sh:path foaf:name ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ],
+    [
+        sh:path dbo:birthDate ;
+        sh:datatype xsd:date ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ],
+    [
+        sh:path dbo:birthPlace ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:class dbo:Place ;
+    ],
+    [
+        sh:path dbo:birthYear ;
+        sh:datatype xsd:gYear ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ],
+    [
+        sh:path dbo:activeYearsStartYear ;
+        sh:datatype xsd:gYear ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ],
+    [
+        sh:path dbo:activeYearsEndYear ;
+        sh:datatype xsd:gYear ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ],
+    [
+        sh:path dbo:genre ;
+        sh:nodeKind sh:IRI ;
+        sh:minCount 1 ;
+        sh:class dbo:Genre ;
+    ],
+    [
+        sh:path dbo:recordLabel ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:class dbo:RecordLabel ;
+    ],
+    [
+        sh:path dbo:associatedBand ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:class dbo:Band ;
+    ],
+    [
+        sh:path dbo:associatedMusicalArtist ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:class dbo:MusicalArtist ;
+    ],
+    [
+        sh:path dbo:hometown ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:class dbo:Place ;
+    ],
+    [
+        sh:path dbo:alias ;
+        sh:datatype rdf:langString ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ],
+    [
+        sh:path dbo:instrument ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:class dbo:Instrument ;
+    ],
+    [
+        sh:path dbo:occupation ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:class dbo:Occupation ;
+    ],
+    [
+        sh:path dbo:deathDate ;
+        sh:datatype xsd:date ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ],
+    [
+        sh:path dbo:deathPlace ;
+        sh:nodeKind sh:IRI ;
+        sh:maxCount 1 ;
+        sh:class dbo:Place ;
+    ],
+    [
+        sh:path dbo:deathYear ;
+        sh:datatype xsd:gYear ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:Literal ;
+    ].
+```
+
+This SHACL shape defines constraints for instances of the class `dbo:Artist`, specifying properties such as `foaf:name`, `dbo:birthDate`, `dbo:birthPlace`, and others, along with their expected data types and cardinality constraints.

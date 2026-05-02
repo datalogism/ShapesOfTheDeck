@@ -1,0 +1,74 @@
+Since there are no example triples provided for instances of the class `http://yago-knowledge.org/resource/Creator`, I will create a SHACL shape based on common properties typically associated with creators. This shape will include properties that are generally relevant for individuals classified as creators, such as their name, works, birth date, and nationality.
+
+```turtle
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema: <http://schema.org/> .
+@prefix yago: <http://yago-knowledge.org/resource/> .
+
+<http://shaclshapes.org/CreatorShape> a sh:NodeShape ;
+    sh:targetClass yago:Creator ;
+    sh:property [
+        sh:path rdf:type ;
+        sh:hasValue yago:Creator ;
+        sh:minCount 1
+    ] ,
+    [
+        sh:path rdfs:label ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1
+    ] ,
+    [
+        sh:path rdfs:comment ;
+        sh:datatype rdf:langString ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:birthDate ;
+        sh:datatype xsd:dateTime ;
+        sh:minCount 0 ;
+        sh:maxCount 1
+    ] ,
+    [
+        sh:path schema:deathDate ;
+        sh:datatype xsd:dateTime ;
+        sh:minCount 0 ;
+        sh:maxCount 1
+    ] ,
+    [
+        sh:path schema:birthPlace ;
+        sh:class schema:Place ;
+        sh:minCount 0 ;
+        sh:maxCount 1
+    ] ,
+    [
+        sh:path schema:nationality ;
+        sh:class schema:Country ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:works ;
+        sh:class schema:CreativeWork ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:gender ;
+        sh:class yago:Gender ;
+        sh:minCount 0 ;
+        sh:maxCount 1
+    ] ,
+    [
+        sh:path schema:mainEntityOfPage ;
+        sh:datatype xsd:anyURI ;
+        sh:minCount 0
+    ] ,
+    [
+        sh:path schema:image ;
+        sh:datatype xsd:anyURI ;
+        sh:minCount 0
+    ] .
+```
+
+This SHACL shape defines constraints for instances of the `Creator` class, ensuring that they have a type, a label, and optionally other properties such as comments, birth and death dates, nationality, works, gender, a main entity of page, and an image.

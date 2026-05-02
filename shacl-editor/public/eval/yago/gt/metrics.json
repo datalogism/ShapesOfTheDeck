@@ -1,0 +1,1306 @@
+{
+  "run": {
+    "timestamp": "2026-04-30T09:26:28.471635+00:00",
+    "random_seed": 42,
+    "budget_per_class": 1000,
+    "min_class_population": 30,
+    "tolerated_error_rate": 0.5,
+    "significance_level": 0.05,
+    "baseline_violation_rate": 0.0,
+    "data_size": 1000064,
+    "sample_size": 2660
+  },
+  "shapes": [
+    {
+      "shape_iri": "http://shaclshapes.org/AdministrativeArea",
+      "target_classes": [
+        "http://schema.org/AdministrativeArea"
+      ],
+      "property_coverage": 0.590909,
+      "generality_estimate": 0.084025,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 257,
+      "violations_per_failing_node": 2.57,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "mincount": 199,
+        "datatype": 58
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/AdministrativeArea",
+          "n_sample": 100,
+          "class_population": 84030,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/AirlineShape",
+      "target_classes": [
+        "http://schema.org/Airline"
+      ],
+      "property_coverage": 0.8,
+      "generality_estimate": 0.004216,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 2968,
+      "violations_per_failing_node": 29.68,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 2668,
+        "mincount": 300
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Airline",
+          "n_sample": 100,
+          "class_population": 4216,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/AirportShape",
+      "target_classes": [
+        "http://schema.org/Airport"
+      ],
+      "property_coverage": 0.705882,
+      "generality_estimate": 0.011291,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 203,
+      "violations_per_failing_node": 2.03,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "mincount": 102,
+        "datatype": 101
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Airport",
+          "n_sample": 100,
+          "class_population": 11292,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/AstronomicalObjectShape",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/AstronomicalObject"
+      ],
+      "property_coverage": 0.461538,
+      "generality_estimate": 3.7e-05,
+      "reach": 37,
+      "violating_node_count": 37,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 44,
+      "violations_per_failing_node": 1.1892,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "mincount": 42,
+        "datatype": 2
+      },
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/AstronomicalObject",
+          "n_sample": 37,
+          "class_population": 37,
+          "violations": 37,
+          "trust": 0.0,
+          "trust_ci_low": 0.0,
+          "trust_ci_high": 0.0940578258372025,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/AwardShape",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/Award"
+      ],
+      "property_coverage": 0.538462,
+      "generality_estimate": 0.008955,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 174,
+      "violations_per_failing_node": 1.74,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "datatype": 73,
+        "mincount": 101
+      },
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/Award",
+          "n_sample": 100,
+          "class_population": 8956,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/BeliefSystemShape",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/BeliefSystem"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/BeliefSystem",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/BodyOfWaterShape",
+      "target_classes": [
+        "http://schema.org/BodyOfWater"
+      ],
+      "property_coverage": 0.846154,
+      "generality_estimate": 0.000317,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 306,
+      "violations_per_failing_node": 3.06,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "mincount": 200,
+        "datatype": 106
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/BodyOfWater",
+          "n_sample": 100,
+          "class_population": 317,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/BookShape",
+      "target_classes": [
+        "http://schema.org/Book"
+      ],
+      "property_coverage": 0.85,
+      "generality_estimate": 0.003283,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 828,
+      "violations_per_failing_node": 8.28,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 573,
+        "mincount": 200,
+        "class": 55
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Book",
+          "n_sample": 100,
+          "class_population": 3283,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/CityShape",
+      "target_classes": [
+        "http://schema.org/City"
+      ],
+      "property_coverage": 0.64,
+      "generality_estimate": 0.006129,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 1728,
+      "violations_per_failing_node": 17.28,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "mincount": 294,
+        "datatype": 1432,
+        "maxcount": 2
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/City",
+          "n_sample": 100,
+          "class_population": 6129,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/ContinentShape",
+      "target_classes": [
+        "http://schema.org/Continent"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://schema.org/Continent",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/CorporationShape",
+      "target_classes": [
+        "http://schema.org/Corporation"
+      ],
+      "property_coverage": 0.869565,
+      "generality_estimate": 0.047128,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 881,
+      "violations_per_failing_node": 8.81,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 681,
+        "mincount": 200
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Corporation",
+          "n_sample": 100,
+          "class_population": 47131,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/CountryShape",
+      "target_classes": [
+        "http://schema.org/Country"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://schema.org/Country",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/CreativeWorkShape",
+      "target_classes": [
+        "http://schema.org/CreativeWork"
+      ],
+      "property_coverage": 0.785714,
+      "generality_estimate": 0.000295,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 468,
+      "violations_per_failing_node": 4.68,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 368,
+        "mincount": 100
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/CreativeWork",
+          "n_sample": 100,
+          "class_population": 295,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/CreatorShape",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/Creator"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/Creator",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/EducationalOrganizationShape",
+      "target_classes": [
+        "http://schema.org/EducationalOrganization"
+      ],
+      "property_coverage": 0.608696,
+      "generality_estimate": 0.000185,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 1458,
+      "violations_per_failing_node": 14.58,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 1258,
+        "mincount": 200
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/EducationalOrganization",
+          "n_sample": 100,
+          "class_population": 185,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/ElectionShape",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/Election"
+      ],
+      "property_coverage": 0.466667,
+      "generality_estimate": 0.010713,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 903,
+      "violations_per_failing_node": 9.03,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 703,
+        "mincount": 200
+      },
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/Election",
+          "n_sample": 100,
+          "class_population": 10714,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/EventShape",
+      "target_classes": [
+        "http://schema.org/Event"
+      ],
+      "property_coverage": 0.764706,
+      "generality_estimate": 0.00537,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 728,
+      "violations_per_failing_node": 7.28,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 625,
+        "mincount": 100,
+        "maxcount": 3
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Event",
+          "n_sample": 100,
+          "class_population": 5370,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/FictionalEntityShape",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/FictionalEntity"
+      ],
+      "property_coverage": 0.8,
+      "generality_estimate": 8.5e-05,
+      "reach": 85,
+      "violating_node_count": 85,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 540,
+      "violations_per_failing_node": 6.3529,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 428,
+        "mincount": 111,
+        "maxcount": 1
+      },
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/FictionalEntity",
+          "n_sample": 85,
+          "class_population": 85,
+          "violations": 85,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.04323948381405149,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/GenderShape",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/Gender"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/Gender",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/HumanMadeGeographicalEntityShape",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/HumanMadeGeographicalEntity"
+      ],
+      "property_coverage": 0.75,
+      "generality_estimate": 0.005872,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 109,
+      "violations_per_failing_node": 1.09,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "mincount": 100,
+        "datatype": 9
+      },
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/HumanMadeGeographicalEntity",
+          "n_sample": 100,
+          "class_population": 5872,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/LandformShape",
+      "target_classes": [
+        "http://schema.org/Landform"
+      ],
+      "property_coverage": 0.785714,
+      "generality_estimate": 0.000918,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 245,
+      "violations_per_failing_node": 2.45,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "mincount": 101,
+        "datatype": 84,
+        "maxcount": 60
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Landform",
+          "n_sample": 100,
+          "class_population": 918,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/LanguageShape",
+      "target_classes": [
+        "http://schema.org/Language"
+      ],
+      "property_coverage": 0.714286,
+      "generality_estimate": 0.000503,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 117,
+      "violations_per_failing_node": 1.17,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "mincount": 100,
+        "datatype": 17
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Language",
+          "n_sample": 100,
+          "class_population": 503,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/MovieShape",
+      "target_classes": [
+        "http://schema.org/Movie"
+      ],
+      "property_coverage": 0.857143,
+      "generality_estimate": 0.141777,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 1512,
+      "violations_per_failing_node": 15.12,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 1259,
+        "mincount": 200,
+        "class": 53
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Movie",
+          "n_sample": 100,
+          "class_population": 141786,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/MusicCompositionShape",
+      "target_classes": [
+        "http://schema.org/MusicComposition"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://schema.org/MusicComposition",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/MusicGroupShape",
+      "target_classes": [
+        "http://schema.org/MusicGroup"
+      ],
+      "property_coverage": 0.666667,
+      "generality_estimate": 0.00129,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 981,
+      "violations_per_failing_node": 9.81,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 780,
+        "mincount": 201
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/MusicGroup",
+          "n_sample": 100,
+          "class_population": 1290,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/NewspaperShape",
+      "target_classes": [
+        "http://schema.org/Newspaper"
+      ],
+      "property_coverage": 0.625,
+      "generality_estimate": 0.007516,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 1564,
+      "violations_per_failing_node": 15.64,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 1364,
+        "mincount": 200
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Newspaper",
+          "n_sample": 100,
+          "class_population": 7516,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/OrganizationShape",
+      "target_classes": [
+        "http://schema.org/Organization"
+      ],
+      "property_coverage": 0.583333,
+      "generality_estimate": 0.021535,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 538,
+      "violations_per_failing_node": 5.38,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 438,
+        "mincount": 100
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Organization",
+          "n_sample": 100,
+          "class_population": 21536,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/PerformingGroupShape",
+      "target_classes": [
+        "http://schema.org/PerformingGroup"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://schema.org/PerformingGroup",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/PersonShape",
+      "target_classes": [
+        "http://schema.org/Person"
+      ],
+      "property_coverage": 0.703704,
+      "generality_estimate": 0.13446,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 771,
+      "violations_per_failing_node": 7.71,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 671,
+        "mincount": 100
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Person",
+          "n_sample": 100,
+          "class_population": 134469,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/PoliticianShape",
+      "target_classes": [
+        "http://schema.org/Politician"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://schema.org/Politician",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/ProductShape",
+      "target_classes": [
+        "http://schema.org/Product"
+      ],
+      "property_coverage": 0.307692,
+      "generality_estimate": 8.2e-05,
+      "reach": 82,
+      "violating_node_count": 82,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 410,
+      "violations_per_failing_node": 5.0,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 328,
+        "mincount": 82
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Product",
+          "n_sample": 82,
+          "class_population": 82,
+          "violations": 82,
+          "trust": 0.0,
+          "trust_ci_low": 0.0,
+          "trust_ci_high": 0.04475062369010032,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/ScientistShape",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/Scientist"
+      ],
+      "property_coverage": 0.785714,
+      "generality_estimate": 0.030623,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 1789,
+      "violations_per_failing_node": 17.89,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "mincount": 200,
+        "datatype": 1589
+      },
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/Scientist",
+          "n_sample": 100,
+          "class_population": 30625,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/SportsPersonShape",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/SportsPerson"
+      ],
+      "property_coverage": 0.76,
+      "generality_estimate": 5.6e-05,
+      "reach": 56,
+      "violating_node_count": 56,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 1051,
+      "violations_per_failing_node": 18.7679,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 884,
+        "mincount": 112,
+        "class": 51,
+        "maxcount": 4
+      },
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/SportsPerson",
+          "n_sample": 56,
+          "class_population": 56,
+          "violations": 56,
+          "trust": 0.0,
+          "trust_ci_low": 0.0,
+          "trust_ci_high": 0.06419393671876342,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/TVSeriesShape",
+      "target_classes": [
+        "http://schema.org/TVSeries"
+      ],
+      "property_coverage": 0.809524,
+      "generality_estimate": 0.037094,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 1574,
+      "violations_per_failing_node": 15.74,
+      "dominant_component": "datatype",
+      "violations_by_component": {
+        "datatype": 1374,
+        "mincount": 200
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/TVSeries",
+          "n_sample": 100,
+          "class_population": 37096,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/TaxonShape",
+      "target_classes": [
+        "http://schema.org/Taxon"
+      ],
+      "property_coverage": 0.777778,
+      "generality_estimate": 0.435781,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 173,
+      "violations_per_failing_node": 1.73,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "mincount": 100,
+        "datatype": 34,
+        "maxcount": 39
+      },
+      "per_class": [
+        {
+          "class": "http://schema.org/Taxon",
+          "n_sample": 100,
+          "class_population": 435809,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/WayShape",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/Way"
+      ],
+      "property_coverage": 0.647059,
+      "generality_estimate": 0.000466,
+      "reach": 100,
+      "violating_node_count": 100,
+      "conformance": 0.0,
+      "violation_rate": 1.0,
+      "total_result_count": 163,
+      "violations_per_failing_node": 1.63,
+      "dominant_component": "mincount",
+      "violations_by_component": {
+        "mincount": 100,
+        "maxcount": 49,
+        "datatype": 14
+      },
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/Way",
+          "n_sample": 100,
+          "class_population": 466,
+          "violations": 100,
+          "trust": 0.0,
+          "trust_ci_low": 3.469446951953614e-18,
+          "trust_ci_high": 0.03699349820698568,
+          "acceptability_wilson": "rejected",
+          "acceptability_binomial": "rejected",
+          "binomial_pvalue": 1.0,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "shape_iri": "http://shaclshapes.org/WorkerShape",
+      "target_classes": [
+        "http://yago-knowledge.org/resource/Worker"
+      ],
+      "property_coverage": 0.0,
+      "generality_estimate": 0.0,
+      "reach": 0,
+      "violating_node_count": 0,
+      "conformance": null,
+      "violation_rate": null,
+      "total_result_count": 0,
+      "violations_per_failing_node": null,
+      "dominant_component": null,
+      "violations_by_component": {},
+      "per_class": [
+        {
+          "class": "http://yago-knowledge.org/resource/Worker",
+          "n_sample": 0,
+          "class_population": 0,
+          "violations": 0,
+          "trust": null,
+          "trust_ci_low": null,
+          "trust_ci_high": null,
+          "acceptability_wilson": "n/a",
+          "acceptability_binomial": "n/a",
+          "binomial_pvalue": null,
+          "status": "no_sampled_nodes_for_class"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "target_coverage_overall": 1.0,
+    "target_coverage_per_class": {
+      "http://schema.org/AdministrativeArea": 1.0,
+      "http://schema.org/Airline": 1.0,
+      "http://schema.org/Airport": 1.0,
+      "http://schema.org/BodyOfWater": 1.0,
+      "http://schema.org/Book": 1.0,
+      "http://schema.org/City": 1.0,
+      "http://schema.org/Corporation": 1.0,
+      "http://schema.org/CreativeWork": 1.0,
+      "http://schema.org/EducationalOrganization": 1.0,
+      "http://schema.org/Event": 1.0,
+      "http://schema.org/Landform": 1.0,
+      "http://schema.org/Language": 1.0,
+      "http://schema.org/Movie": 1.0,
+      "http://schema.org/MusicGroup": 1.0,
+      "http://schema.org/Newspaper": 1.0,
+      "http://schema.org/Organization": 1.0,
+      "http://schema.org/Person": 1.0,
+      "http://schema.org/Product": 1.0,
+      "http://schema.org/TVSeries": 1.0,
+      "http://schema.org/Taxon": 1.0,
+      "http://yago-knowledge.org/resource/AstronomicalObject": 1.0,
+      "http://yago-knowledge.org/resource/Award": 1.0,
+      "http://yago-knowledge.org/resource/Election": 1.0,
+      "http://yago-knowledge.org/resource/FictionalEntity": 1.0,
+      "http://yago-knowledge.org/resource/HumanMadeGeographicalEntity": 1.0,
+      "http://yago-knowledge.org/resource/Scientist": 1.0,
+      "http://yago-knowledge.org/resource/SportsPerson": 1.0,
+      "http://yago-knowledge.org/resource/Way": 1.0
+    }
+  },
+  "global": {
+    "total_violations": 22483,
+    "violated_shapes": 28,
+    "total_shapes": 28,
+    "violated_shapes_rate": 1.0,
+    "most_violated_shape": "http://shaclshapes.org/AdministrativeArea",
+    "violated_paths": 29,
+    "total_paths": 111,
+    "violated_paths_rate": 0.261261,
+    "most_violated_path": "http://www.w3.org/2000/01/rdf-schema#label",
+    "violated_focus_nodes": 2660,
+    "most_violated_focus_node": "http://yago-knowledge.org/resource/Prešov",
+    "violated_components": 4,
+    "total_components": 7,
+    "violated_components_rate": 0.571429,
+    "most_violated_component": "datatype"
+  }
+}

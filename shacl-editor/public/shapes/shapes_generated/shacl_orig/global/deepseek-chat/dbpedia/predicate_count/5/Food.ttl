@@ -1,0 +1,81 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<file:///C:/Users/doccr/PycharmProjects/DoubleShapespresso/Food> a sh:NodeShape ;
+    sh:property [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path dbo:alias ],
+        [ sh:class dbo:Place ;
+            sh:minCount 0 ;
+            sh:path dbo:country ],
+        [ sh:minCount 0 ;
+            sh:or ( [ sh:class dbo:EthnicGroup ] [ sh:class owl:Thing ] [ sh:class wd:Q41710 ] ) ;
+            sh:path dbo:creatorOfDish ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path dbo:cuisine ],
+        [ sh:class dbo:Food ;
+            sh:minCount 0 ;
+            sh:path dbo:ingredient ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path dbo:ingredientName ],
+        [ sh:minCount 0 ;
+            sh:or ( [ sh:class dbo:Company ] [ sh:class dbo:Agent ] ) ;
+            sh:path dbo:manufacturer ],
+        [ sh:class dbo:Place ;
+            sh:minCount 0 ;
+            sh:path dbo:origin ],
+        [ sh:class dbo:Place ;
+            sh:minCount 0 ;
+            sh:path dbo:region ],
+        [ sh:minCount 0 ;
+            sh:or ( [ sh:class owl:Thing ] [ sh:class dbo:Food ] [ sh:class wd:Q2095 ] ) ;
+            sh:path dbo:related ],
+        [ sh:datatype xsd:double ;
+            sh:maxCount 1 ;
+            sh:minCount 0 ;
+            sh:path dbo:servingSize ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path dbo:servingTemperature ],
+        [ sh:class dbo:Food ;
+            sh:minCount 0 ;
+            sh:path dbo:type ],
+        [ sh:datatype xsd:integer ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path dbo:wikiPageRevisionID ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 0 ;
+            sh:path dc:type ],
+        [ sh:class foaf:Document ;
+            sh:minCount 0 ;
+            sh:path foaf:homepage ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 0 ;
+            sh:path foaf:name ],
+        [ sh:datatype xsd:double ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path dcat:resource_identifier ],
+        [ sh:class dbo:Food ;
+            sh:minCount 1 ;
+            sh:path rdf:type ],
+        [ sh:datatype rdf:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ sh:datatype rdf:langString ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass dbo:Food .
+

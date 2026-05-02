@@ -1,0 +1,167 @@
+```shacl
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+shapes:WrittenWorkShape a sh:NodeShape ;
+    sh:targetClass dbo:WrittenWork ;
+    sh:property [
+        sh:path rdf:type ;
+        sh:class dbo:WrittenWork ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Every WrittenWork must be of type dbo:WrittenWork."@en
+    ], [
+        sh:path dbo:wikiPageRevisionID ;
+        sh:datatype xsd:integer ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every WrittenWork must have at least one wikiPageRevisionID."@en
+    ], [
+        sh:path rdfs:label ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every WrittenWork must have at least one rdfs:label."@en
+    ], [
+        sh:path rdfs:comment ;
+        sh:datatype rdf:langString ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every WrittenWork must have at least one rdfs:comment."@en
+    ], [
+        sh:path foaf:name ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every WrittenWork must have at least one foaf:name."@en
+    ], [
+        sh:path dbo:author ;
+        sh:class dbo:Person ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Every WrittenWork must have at least one author."@en
+    ], [
+        sh:path dbo:numberOfPages ;
+        sh:datatype xsd:integer ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every WrittenWork must have at least one numberOfPages."@en
+    ], [
+        sh:path dbo:literaryGenre ;
+        sh:class dbo:Genre ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Every WrittenWork must have at least one literaryGenre."@en
+    ], [
+        sh:path dbo:publisher ;
+        sh:class dbo:Organisation ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+        sh:message "Every WrittenWork must have at least one publisher."@en
+    ], [
+        sh:path dbo:isbn ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every WrittenWork must have at least one isbn."@en
+    ], [
+        sh:path dbo:oclc ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every WrittenWork must have at least one oclc."@en
+    ], [
+        sh:path dc:publisher ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:Literal ;
+        sh:message "Every WrittenWork must have at least one dc:publisher."@en
+    ], [
+        sh:path dbo:previousWork ;
+        sh:class dbo:WrittenWork ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, previousWork must be a WrittenWork."@en
+    ], [
+        sh:path dbo:subsequentWork ;
+        sh:class dbo:WrittenWork ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, subsequentWork must be a WrittenWork."@en
+    ], [
+        sh:path dbo:lcc ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+        sh:message "If present, lcc must be a string."@en
+    ], [
+        sh:path dbo:dcc ;
+        sh:datatype xsd:string ;
+        sh:nodeKind sh:Literal ;
+        sh:message "If present, dcc must be a string."@en
+    ], [
+        sh:path dbo:mediaType ;
+        sh:class dbo:MediaType ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, mediaType must be a MediaType."@en
+    ], [
+        sh:path dbo:country ;
+        sh:class dbo:Country ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, country must be a Country."@en
+    ], [
+        sh:path dbo:language ;
+        sh:class dbo:Language ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, language must be a Language."@en
+    ], [
+        sh:path dbo:numberOfVolumes ;
+        sh:datatype xsd:integer ;
+        sh:nodeKind sh:Literal ;
+        sh:message "If present, numberOfVolumes must be an integer."@en
+    ], [
+        sh:path dbo:publicationDate ;
+        sh:datatype xsd:date ;
+        sh:nodeKind sh:Literal ;
+        sh:message "If present, publicationDate must be a date."@en
+    ], [
+        sh:path dbo:type ;
+        sh:class dbo:Type ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, type must be a Type."@en
+    ], [
+        sh:path dbo:magazine ;
+        sh:class dbo:Magazine ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, magazine must be a Magazine."@en
+    ], [
+        sh:path dbo:firstPublicationDate ;
+        sh:datatype xsd:date ;
+        sh:nodeKind sh:Literal ;
+        sh:message "If present, firstPublicationDate must be a date."@en
+    ], [
+        sh:path dbo:nonFictionSubject ;
+        sh:class dbo:Subject ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, nonFictionSubject must be a Subject."@en
+    ], [
+        sh:path dbo:genre ;
+        sh:class dbo:Genre ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, genre must be a Genre."@en
+    ], [
+        sh:path dbo:lastPublicationDate ;
+        sh:datatype xsd:date ;
+        sh:nodeKind sh:Literal ;
+        sh:message "If present, lastPublicationDate must be a date."@en
+    ], [
+        sh:path foaf:homepage ;
+        sh:datatype xsd:anyURI ;
+        sh:nodeKind sh:IRI ;
+        sh:message "If present, homepage must be a URI."@en
+    ] .
+```

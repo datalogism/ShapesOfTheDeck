@@ -1,0 +1,75 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://shaclshapes.org/MovieShape> a sh:NodeShape ;
+    sh:property [ sh:datatype <xsd:anyURI> ;
+            sh:minCount 1 ;
+            sh:path schema:url ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:path schema:image ],
+        [ sh:datatype <xsd:decimal> ;
+            sh:path schema:numberOfSeasons ],
+        [ sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:sameAs ],
+        [ sh:datatype <xsd:anyURI> ;
+            sh:minCount 1 ;
+            sh:path schema:mainEntityOfPage ],
+        [ sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/MovieShape> ;
+            sh:path schema:director ],
+        [ sh:maxCount 4 ;
+            sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/MovieShape> ;
+            sh:path rdf:type ],
+        [ sh:node <http://shaclshapes.org/MovieShape> ;
+            sh:path schema:author ],
+        [ sh:node <http://shaclshapes.org/MovieShape> ;
+            sh:path schema:productionCompany ],
+        [ sh:datatype <rdf:langString> ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/MovieShape> ;
+            sh:path schema:actor ],
+        [ sh:node <http://shaclshapes.org/MovieShape> ;
+            sh:path schema:musicBy ],
+        [ sh:node <http://shaclshapes.org/MovieShape> ;
+            sh:path schema:about ],
+        [ sh:datatype <rdf:langString> ;
+            sh:path schema:alternateName ],
+        [ sh:datatype <xsd:string> ;
+            sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:path schema:sameAs ],
+        [ sh:datatype <xsd:decimal> ;
+            sh:path schema:numberOfEpisodes ],
+        [ sh:node <http://shaclshapes.org/MovieShape> ;
+            sh:path schema:award ],
+        [ sh:nodeKind sh:IRI ;
+            sh:path schema:inLanguage ],
+        [ sh:maxCount 2 ;
+            sh:minCount 1 ;
+            sh:node <http://shaclshapes.org/MovieShape> ;
+            sh:path schema:locationCreated ],
+        [ sh:datatype <xsd:string> ;
+            sh:path schema:isbn ],
+        [ sh:datatype <xsd:dateTime> ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path schema:dateCreated ],
+        [ sh:datatype <rdf:langString> ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ sh:datatype <xsd:decimal> ;
+            sh:path schema:duration ],
+        [ sh:datatype <xsd:decimal> ;
+            sh:path schema:numberOfPages ],
+        [ sh:class schema:Place ;
+            sh:path schema:contentLocation ] ;
+    sh:targetClass schema:Movie .
+
