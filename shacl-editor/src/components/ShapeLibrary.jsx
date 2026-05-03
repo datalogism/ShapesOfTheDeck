@@ -1,4 +1,5 @@
 import { useState, useEffect, useMemo, useCallback } from 'react';
+import { QuickSaveDeckDialog, AddToDeckDialog } from './DeckView';
 
 // ── Stats extraction ──────────────────────────────────────────────────────────
 function computeStats(ttlText) {
@@ -76,15 +77,19 @@ function classIcon(name) {
 }
 
 // ── Yugioh deck card ──────────────────────────────────────────────────────────
-function DeckCard({ className, entries, selected, onClick }) {
+function DeckCard({ className, entries, selected, onClick, checkedPaths, onTogglePaths }) {
   const theme  = cardTheme(entries);
   const icon   = classIcon(className);
   const kgs    = [...new Set(entries.map(e => e.kg))];
   const total  = entries.length;
 
+  const checkedCount = checkedPaths ? entries.filter(e => checkedPaths.has(e.path)).length : 0;
+  const allChecked  = checkedCount === total && total > 0;
+  const someChecked = checkedCount > 0 && checkedCount < total;
+
   return (
     <div
-      className={`yu-card${selected ? ' yu-selected' : ''}`}
+      className={`yu-card${selected ? ' yu-selected' : ''}${checkedCount > 0 ? ' yu-checked' : ''}`}
       style={{ '--card-border': theme.border, '--card-glow': theme.glow, '--card-bg': theme.bg }}
       onClick={onClick}
       title={className}
@@ -115,6 +120,15 @@ function DeckCard({ className, entries, selected, onClick }) {
         <span className="yu-variant-count">
           {total} variant{total !== 1 ? 's' : ''}
         </span>
+        {onTogglePaths && (
+          <button
+            className={`yu-card-check${allChecked ? ' checked' : someChecked ? ' partial' : ''}`}
+            title={allChecked ? 'Deselect all variants' : 'Select all variants'}
+            onClick={e => { e.stopPropagation(); onTogglePaths(entries); }}
+          >
+            {allChecked ? '☑' : someChecked ? '▣' : '□'}
+          </button>
+        )}
       </div>
     </div>
   );
@@ -198,7 +212,7 @@ function FilterBar({ filters, onChange, search, onSearch, counts }) {
 }
 
 // ── Stats panel (right side) ──────────────────────────────────────────────────
-function StatsPanel({ className, entries, stats, onLoad, onClone, onClose }) {
+function StatsPanel({ className, entries, stats, onLoad, onClone, onClose, checkedPaths, onTogglePath }) {
   if (!className) {
     return (
       <div className="yu-panel yu-panel-empty">
@@ -226,6 +240,7 @@ function StatsPanel({ className, entries, stats, onLoad, onClone, onClose }) {
         <table className="yu-stats-table">
           <thead>
             <tr>
+              {onTogglePath && <th className="yu-th-check" title="Add to deck selection"></th>}
               <th className="yu-th-variant">Variant</th>
               <th className="yu-th-kg">KG</th>
               <th title="Total properties">Tot.</th>
@@ -240,8 +255,20 @@ function StatsPanel({ className, entries, stats, onLoad, onClone, onClose }) {
           <tbody>
             {entries.map(e => {
               const s = stats[e.path];
+              const isChecked = checkedPaths?.has(e.path) ?? false;
               return (
-                <tr key={e.path} className="yu-stats-row">
+                <tr key={e.path} className={`yu-stats-row${isChecked ? ' yu-row-checked' : ''}`}>
+                  {onTogglePath && (
+                    <td className="yu-td-check">
+                      <button
+                        className={`yu-row-check${isChecked ? ' checked' : ''}`}
+                        onClick={() => onTogglePath(e.path)}
+                        title={isChecked ? 'Remove from selection' : 'Add to selection'}
+                      >
+                        {isChecked ? '☑' : '□'}
+                      </button>
+                    </td>
+                  )}
                   <td className="yu-td-variant">
                     <span className="yu-variant-pill" style={{ background: SOURCE_COLORS[e.source]??'#475569' }}>
                       {variantLabel(e)}
@@ -540,6 +567,30 @@ export function ShapeLibrary({ onLoad, onClone, onCreate, onNavigate }) {
   const [selectedClass, setSelectedClass] = useState(null);
   const [stats, setStats]             = useState({});
   const [panelTab, setPanelTab]       = useState('stats'); // 'stats' | 'charts'
+  const [savingDeck, setSavingDeck]   = useState(false);
+  const [selectedPaths, setSelectedPaths] = useState(() => new Set());
+  const [addingToDeck, setAddingToDeck]   = useState(false);
+
+  const toggleClassPaths = useCallback((entries) => {
+    setSelectedPaths(prev => {
+      const next = new Set(prev);
+      const allSelected = entries.every(e => prev.has(e.path));
+      if (allSelected) {
+        for (const e of entries) next.delete(e.path);
+      } else {
+        for (const e of entries) next.add(e.path);
+      }
+      return next;
+    });
+  }, []);
+
+  const togglePath = useCallback((path) => {
+    setSelectedPaths(prev => {
+      const next = new Set(prev);
+      if (next.has(path)) next.delete(path); else next.add(path);
+      return next;
+    });
+  }, []);
 
   useEffect(() => {
     fetch('/shapes/index.json').then(r=>r.json()).then(setIndex).catch(()=>{});
@@ -600,6 +651,22 @@ export function ShapeLibrary({ onLoad, onClone, onCreate, onNavigate }) {
 
   return (
     <div className="yu-root">
+      {savingDeck && (
+        <QuickSaveDeckDialog
+          filters={filters}
+          index={index}
+          onSaved={() => { setSavingDeck(false); onNavigate?.('decks'); }}
+          onClose={() => setSavingDeck(false)}
+        />
+      )}
+      {addingToDeck && (
+        <AddToDeckDialog
+          selectedPaths={selectedPaths}
+          index={index}
+          onSaved={() => { setAddingToDeck(false); setSelectedPaths(new Set()); onNavigate?.('decks'); }}
+          onClose={() => setAddingToDeck(false)}
+        />
+      )}
       {/* Left pane */}
       <div className="yu-left">
         {/* Header */}
@@ -635,6 +702,15 @@ export function ShapeLibrary({ onLoad, onClone, onCreate, onNavigate }) {
             search={search} onSearch={setSearch}
             counts={{ shapes: filteredEntries.length, classes: classGroups.length }}
           />
+          {/* Save as Deck — visible when any filter is active */}
+          {(filters.kg !== 'all' || filters.source !== 'all' || filters.mode !== 'all' || filters.model !== 'all') && (
+            <div className="yu-save-deck-bar">
+              <span className="yu-save-deck-hint">{filteredEntries.length} shapes selected</span>
+              <button className="yu-save-deck-btn" onClick={() => setSavingDeck(true)}>
+                📦 Save as Deck
+              </button>
+            </div>
+          )}
         </div>
 
         {/* Deck */}
@@ -649,9 +725,24 @@ export function ShapeLibrary({ onLoad, onClone, onCreate, onNavigate }) {
               entries={entries}
               selected={selectedClass === cls}
               onClick={() => selectClass(cls)}
+              checkedPaths={selectedPaths}
+              onTogglePaths={toggleClassPaths}
             />
           ))}
         </div>
+
+        {/* Selection bar — pinned at bottom when paths are selected */}
+        {selectedPaths.size > 0 && (
+          <div className="yu-sel-bar">
+            <span className="yu-sel-count">
+              📌 {selectedPaths.size} shape{selectedPaths.size !== 1 ? 's' : ''} selected
+            </span>
+            <button className="yu-sel-clear" onClick={() => setSelectedPaths(new Set())}>Clear</button>
+            <button className="yu-sel-add" onClick={() => setAddingToDeck(true)}>
+              Add to Deck →
+            </button>
+          </div>
+        )}
       </div>
 
       {/* Right panel — tab-switched between Stats and Charts */}
@@ -678,6 +769,8 @@ export function ShapeLibrary({ onLoad, onClone, onCreate, onNavigate }) {
             onLoad={onLoad}
             onClone={onClone}
             onClose={() => { setSelectedClass(null); setPanelTab('stats'); }}
+            checkedPaths={selectedPaths}
+            onTogglePath={togglePath}
           />
         ) : (
           <ChartsPanel
