@@ -186,6 +186,14 @@ function resolvePropertyNode(store, item, prefixMap) {
   return [{ path: '', constraints }];
 }
 
+// Derive a topic from the path prefix when no comment topic is available.
+// 'dbo:airport' → 'dbo', 'foaf:name' → 'foaf', '<http://...>' → ''
+function topicFromPath(path) {
+  if (!path || path.startsWith('<') || path.startsWith('(')) return '';
+  const colon = path.indexOf(':');
+  return colon > 0 ? path.slice(0, colon) : '';
+}
+
 export async function importFromTurtle(turtle) {
   const topicMap = extractTopicMap(turtle);
   const { store, prefixes } = await parseStore(turtle);
@@ -249,7 +257,7 @@ export async function importFromTurtle(turtle) {
           id: psId,
           type: 'propertyShape',
           position: { x: 80 + nsIdx * 320 + (propFlatIdx - Math.floor(propertyNodes.length / 2)) * 210, y: 260 },
-          data: { path, constraints, topic: topicMap.get(path) || '' },
+          data: { path, constraints, topic: topicMap.get(path) || topicFromPath(path) },
         });
         edges.push({
           id: uid(),
@@ -297,7 +305,7 @@ export async function importFromTurtle(turtle) {
                 x: 80 + nsIdx * 320 + lIdx * 220 + (iIdx - Math.floor(items.length / 2)) * 200,
                 y: 620 + rIdx * 80,
               },
-              data: { path: resolved.path, constraints: resolved.constraints, topic: topicMap.get(resolved.path) || '' },
+              data: { path: resolved.path, constraints: resolved.constraints, topic: topicMap.get(resolved.path) || topicFromPath(resolved.path) },
             });
             edges.push({
               id: uid(),

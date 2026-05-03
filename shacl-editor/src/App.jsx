@@ -33,6 +33,7 @@ import { exportToTurtle } from './utils/turtleExport';
 import { topicColor } from './utils/topicColors';
 import { computeLayout } from './utils/graphLayout';
 import { shacl2shex, shex2shacl, checkTranslatorHealth } from './utils/translator';
+import { useTheme } from './utils/useTheme';
 import './App.css';
 
 // ── Inner component: lives inside <ReactFlow> so it can use useReactFlow ─────
@@ -157,6 +158,7 @@ const initialEdges = [
 const MAX_HISTORY = 50;
 
 export default function App() {
+  const { isDark, toggleTheme } = useTheme();
   const [activeMode, setActiveMode] = useState('library'); // 'library' | 'editor'
   const [activeShapeName, setActiveShapeName] = useState('');
   const [nodes, setNodes, onNodesChange] = useNodesState(initialNodes);
@@ -538,41 +540,50 @@ export default function App() {
     }
   }, [setNodes, setEdges]);
 
+  const themeBtn = (
+    <button className="theme-toggle" onClick={toggleTheme} title={isDark ? 'Switch to light mode' : 'Switch to dark mode'}>
+      {isDark ? '☀' : '🌙'}
+    </button>
+  );
+
   if (activeMode === 'library') {
-    return (
+    return (<>
       <ShapeLibrary
         onLoad={handleLibraryLoad}
         onClone={handleLibraryClone}
         onCreate={handleLibraryCreate}
         onNavigate={setActiveMode}
       />
-    );
+      {themeBtn}
+    </>);
   }
 
   if (activeMode === 'arena') {
-    return <ShapeArena onBack={() => setActiveMode('library')} />;
+    return (<><ShapeArena onBack={() => setActiveMode('library')} />{themeBtn}</>);
   }
 
   if (activeMode === 'report') {
-    return <ShapeReport onBack={() => setActiveMode('library')} />;
+    return (<><ShapeReport onBack={() => setActiveMode('library')} />{themeBtn}</>);
   }
 
   if (activeMode === 'fusion') {
-    return (
+    return (<>
       <ShapeFusion
         onBack={() => setActiveMode('library')}
         onLoad={handleFusionLoad}
       />
-    );
+      {themeBtn}
+    </>);
   }
 
   if (activeMode === 'decks') {
-    return (
+    return (<>
       <DeckView
         onLoad={handleLibraryLoad}
         onBack={() => setActiveMode('library')}
       />
-    );
+      {themeBtn}
+    </>);
   }
 
   return (
@@ -856,6 +867,7 @@ export default function App() {
           onClose={() => setShowConfig(false)}
         />
       )}
+      {themeBtn}
     </div>
   );
 }
