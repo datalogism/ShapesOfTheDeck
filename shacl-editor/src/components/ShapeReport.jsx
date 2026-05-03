@@ -228,7 +228,7 @@ export function ShapeReport({ onBack }) {
     <div className="rp-root">
       <div className="rp-header">
         <button className="ar-back-btn" onClick={onBack}>← Library</button>
-        <span className="rp-logo">📋</span>
+        <img src="/img/logo.png" className="app-logo-img" alt="ShapeOfTheDecks" />
         <h1 className="rp-title">Shape Report</h1>
 
         <select

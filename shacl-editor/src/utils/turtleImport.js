@@ -5,7 +5,7 @@ import { Store, Parser } from 'n3';
 //   DBpedia:  # ═══...  /  # TOPIC NAME  /  # ═══...
 //   YAGO:     ############################## topic name
 // Returns Map<shortPath, topicName>
-function extractTopicMap(turtle) {
+export function extractTopicMap(turtle) {
   const lines = turtle.split('\n');
   const topicMap = new Map();
   let currentTopic = null;
@@ -188,7 +188,7 @@ function resolvePropertyNode(store, item, prefixMap) {
 
 // Derive a topic from the path prefix when no comment topic is available.
 // 'dbo:airport' → 'dbo', 'foaf:name' → 'foaf', '<http://...>' → ''
-function topicFromPath(path) {
+export function topicFromPath(path) {
   if (!path || path.startsWith('<') || path.startsWith('(')) return '';
   const colon = path.indexOf(':');
   return colon > 0 ? path.slice(0, colon) : '';
@@ -257,7 +257,7 @@ export async function importFromTurtle(turtle) {
           id: psId,
           type: 'propertyShape',
           position: { x: 80 + nsIdx * 320 + (propFlatIdx - Math.floor(propertyNodes.length / 2)) * 210, y: 260 },
-          data: { path, constraints, topic: topicMap.get(path) || topicFromPath(path) },
+          data: { path, constraints, topic: topicMap.get(path) || '' },
         });
         edges.push({
           id: uid(),
@@ -305,7 +305,7 @@ export async function importFromTurtle(turtle) {
                 x: 80 + nsIdx * 320 + lIdx * 220 + (iIdx - Math.floor(items.length / 2)) * 200,
                 y: 620 + rIdx * 80,
               },
-              data: { path: resolved.path, constraints: resolved.constraints, topic: topicMap.get(resolved.path) || topicFromPath(resolved.path) },
+              data: { path: resolved.path, constraints: resolved.constraints, topic: topicMap.get(resolved.path) || '' },
             });
             edges.push({
               id: uid(),

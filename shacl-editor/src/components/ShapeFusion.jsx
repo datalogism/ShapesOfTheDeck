@@ -2,14 +2,45 @@ import { useState, useEffect, useMemo, useCallback } from 'react';
 
 const SHORT_CLASS = iri => iri.split(/[/#]/).pop().replace(/Shape$/, '');
 
-// Extract sh:path values from a Turtle property block
+// Source/model badge: text + CSS class
+function sourceBadge(e) {
+  if (e.source === 'ground-truth') return { label: 'GT', cls: 'sf-badge-gt' };
+  if (e.model === 'deepseek-chat')  return { label: 'DeepSeek', cls: 'sf-badge-ds' };
+  if (e.model === 'gpt-4o-mini')   return { label: 'GPT-4o-mini', cls: 'sf-badge-gpt' };
+  if (e.source === 'kastor')        return { label: 'Kastor', cls: 'sf-badge-kastor' };
+  return { label: e.model || e.source, cls: 'sf-badge-other' };
+}
+
+// Short meta line: model/source · kg [· variant hint]
+function shortMeta(e) {
+  const badge = sourceBadge(e);
+  const variant = e.variant?.split('/').pop();
+  const showVariant = variant && !badge.label.toLowerCase().includes(variant.toLowerCase())
+    && variant !== e.kg && variant !== e.source;
+  return { badge, kg: e.kg, variant: showVariant ? variant : null };
+}
+
+// Extract sh:path values from all top-level [...] blocks in a Turtle shape.
+// Handles both repeated-keyword format (sh:property []; sh:property [])
+// AND comma-separated shorthand (sh:property [], [], []) used by most shape files.
 function extractPaths(ttl) {
-  const paths = new Map(); // path -> full block text
-  const blocks = ttl.split(/sh:property\s*\[/);
-  for (let i = 1; i < blocks.length; i++) {
-    const b = blocks[i];
-    const m = b.match(/sh:path\s+(\S+)/);
-    if (m) paths.set(m[1], b);
+  const paths = new Map();
+  let depth = 0;
+  let start = -1;
+  for (let i = 0; i < ttl.length; i++) {
+    if (ttl[i] === '[') {
+      if (depth === 0) start = i + 1;
+      depth++;
+    } else if (ttl[i] === ']') {
+      depth--;
+      if (depth === 0 && start >= 0) {
+        const block = ttl.slice(start, i);
+        // Match simple prefixed paths (dbo:name, schema:age) — skip complex [ sh:alternativePath ]
+        const m = block.match(/sh:path\s+([^\s\[\],;()]+)/);
+        if (m) paths.set(m[1], block);
+        start = -1;
+      }
+    }
   }
   return paths;
 }
@@ -38,8 +69,16 @@ function buildFusedTurtle(ttlA, ttlB, strategy, fusedName) {
   const prefA = extractPrefixes(ttlA);
   const prefB = extractPrefixes(ttlB);
 
-  // Merge prefix lines (deduplicate)
-  const prefLines = new Set([...prefA.split('\n'), ...prefB.split('\n')].filter(l => l.trim()));
+  // Always include sh: and the shapes: base prefix so the generated IRI resolves
+  const REQUIRED = [
+    '@prefix sh: <http://www.w3.org/ns/shacl#> .',
+    '@prefix shapes: <http://shaclshapes.org/> .',
+  ];
+  const prefLines = new Set([
+    ...REQUIRED,
+    ...prefA.split('\n'),
+    ...prefB.split('\n'),
+  ].filter(l => l.trim()));
   const prefixes = [...prefLines].join('\n');
 
   let paths;
@@ -55,11 +94,11 @@ function buildFusedTurtle(ttlA, ttlB, strategy, fusedName) {
   }
 
   const tc = extractTargetClass(ttlA) ?? extractTargetClass(ttlB) ?? 'owl:Thing';
-  const iri = fusedName ? `:${fusedName}Shape` : ':FusedShape';
+  // Use the declared shapes: prefix — bare ':' is undefined in most parsers
+  const iri = `shapes:${fusedName ? fusedName : 'Fused'}Shape`;
 
   const propBlocks = [...paths.values()].map(b => {
-    // Clean up the block: remove trailing ] . or ] ; from the original
-    const clean = b.replace(/\]\s*[.;]?\s*$/, '').trim();
+    const clean = b.trim(); // block is content-only (no outer brackets)
     return `  sh:property [\n    ${clean.split('\n').join('\n    ')}\n  ]`;
   });
 
@@ -78,7 +117,12 @@ function ShapePicker({ index, value, onChange, label, color }) {
 
   const filtered = useMemo(() => {
     const q = search.toLowerCase();
-    return index.filter(e => !q || e.class.toLowerCase().includes(q)).slice(0, 60);
+    return index.filter(e => !q ||
+      e.class.toLowerCase().includes(q) ||
+      (e.model && e.model.toLowerCase().includes(q)) ||
+      e.kg.toLowerCase().includes(q) ||
+      e.source.toLowerCase().includes(q)
+    ).slice(0, 60);
   }, [index, search]);
 
   const selected = value ? index.find(e => e.path === value) : null;
@@ -89,24 +133,35 @@ function ShapePicker({ index, value, onChange, label, color }) {
       {selected ? (
         <div className="sf-picked">
           <span className="sf-picked-name">{selected.class}</span>
-          <span className="sf-picked-meta">{selected.source} · {selected.kg}</span>
+          {(() => { const { badge, kg, variant } = shortMeta(selected); return (
+            <span className="sf-picked-meta">
+              <span className={`sf-badge ${badge.cls}`}>{badge.label}</span>
+              {' '}{kg}{variant ? <> · <em>{variant}</em></> : null}
+            </span>
+          ); })()}
           <button className="sf-picked-clear" onClick={() => onChange(null)}>✕</button>
         </div>
       ) : (
         <>
           <input
             className="sf-search"
-            placeholder="Search class…"
+            placeholder="Search class, model, kg…"
             value={search}
             onChange={e => setSearch(e.target.value)}
           />
           <div className="sf-list">
-            {filtered.map(e => (
-              <button key={e.path} className="sf-list-item" onClick={() => onChange(e.path)}>
-                <span className="sf-li-class">{e.class}</span>
-                <span className="sf-li-meta">{e.source.replace('shapes_generated', 'llm')} · {e.kg}</span>
-              </button>
-            ))}
+            {filtered.map(e => {
+              const { badge, kg, variant } = shortMeta(e);
+              return (
+                <button key={e.path} className="sf-list-item" onClick={() => onChange(e.path)}>
+                  <span className="sf-li-class">{e.class}</span>
+                  <span className="sf-li-meta">
+                    <span className={`sf-badge ${badge.cls}`}>{badge.label}</span>
+                    {' '}{kg}{variant ? ` · ${variant}` : ''}
+                  </span>
+                </button>
+              );
+            })}
           </div>
         </>
       )}
@@ -175,6 +230,69 @@ function DiffPreview({ pathsA, pathsB, strategy, labelA, labelB }) {
   );
 }
 
+// ── Colored Turtle preview ───────────────────────────────────────────────────
+function ColoredFusionPreview({ fusedTtl, pathsA, pathsB, labelA, labelB }) {
+  const [showRaw, setShowRaw] = useState(false);
+
+  const segments = useMemo(() => {
+    const propIdx = fusedTtl.search(/sh:property\s*\[/);
+    if (propIdx < 0) return [{ type: 'header', text: fusedTtl }];
+
+    const header = fusedTtl.slice(0, propIdx);
+    const rest   = fusedTtl.slice(propIdx);
+    // Split on each "sh:property [" — parts[0] is '' since rest starts with it
+    const parts  = rest.split(/sh:property\s*\[/);
+
+    const blocks = parts.slice(1).map(content => {
+      const pathMatch = content.match(/sh:path\s+(\S+)/);
+      const path = pathMatch?.[1] ?? null;
+      const inA  = path ? pathsA.has(path) : false;
+      const inB  = path ? pathsB.has(path) : false;
+      const origin = inA && inB ? 'both' : inA ? 'A' : 'B';
+      return { type: 'block', path, origin, raw: 'sh:property [' + content };
+    });
+
+    return [{ type: 'header', text: header }, ...blocks];
+  }, [fusedTtl, pathsA, pathsB]);
+
+  return (
+    <div className="sf-cp-root">
+      <div className="sf-cp-toolbar">
+        <div className="sf-cp-legend">
+          <span className="sf-cp-leg sf-cp-leg-A">■ {labelA} (A)</span>
+          <span className="sf-cp-leg sf-cp-leg-B">■ {labelB} (B)</span>
+          <span className="sf-cp-leg sf-cp-leg-both">■ Shared</span>
+        </div>
+        <button
+          className={`sf-cp-raw-btn${showRaw ? ' active' : ''}`}
+          onClick={() => setShowRaw(r => !r)}
+        >
+          {showRaw ? '◐ Colored' : '⌨ Raw'}
+        </button>
+      </div>
+
+      {showRaw ? (
+        <pre className="sf-turtle-preview">{fusedTtl}</pre>
+      ) : (
+        <div className="sf-cp-blocks">
+          {segments.map((seg, i) =>
+            seg.type === 'header' ? (
+              <pre key={i} className="sf-cp-header">{seg.text}</pre>
+            ) : (
+              <div key={i} className={`sf-cp-block sf-cp-${seg.origin}`}>
+                <span className={`sf-cp-tag sf-cp-tag-${seg.origin}`}>
+                  {seg.origin === 'A' ? labelA : seg.origin === 'B' ? labelB : 'shared'}
+                </span>
+                <pre className="sf-cp-pre">{seg.raw}</pre>
+              </div>
+            )
+          )}
+        </div>
+      )}
+    </div>
+  );
+}
+
 // ── Main ──────────────────────────────────────────────────────────────────────
 export function ShapeFusion({ onBack, onLoad }) {
   const [shapeIndex, setShapeIndex] = useState([]);
@@ -217,14 +335,17 @@ export function ShapeFusion({ onBack, onLoad }) {
   }, [ttlA, ttlB, strategy, fusedName, canFuse]);
 
   const openInEditor = useCallback(() => {
-    if (fusedTtl) onLoad({ ttl: fusedTtl, name: `${fusedName}Shape` });
-  }, [fusedTtl, fusedName, onLoad]);
+    if (!fusedTtl) return;
+    const key = `shacl_load_${Date.now()}`;
+    localStorage.setItem(key, JSON.stringify({ ttl: fusedTtl, name: `${fusedName}Shape` }));
+    window.open(`${window.location.origin}${window.location.pathname}?load=${key}`, '_blank');
+  }, [fusedTtl, fusedName]);
 
   return (
     <div className="sf-root">
       <div className="sf-header">
         <button className="ar-back-btn" onClick={onBack}>← Library</button>
-        <span className="sf-logo">⚗</span>
+        <img src="/img/logo.png" className="app-logo-img" alt="ShapeOfTheDecks" />
         <h1 className="sf-title">Shape Fusion</h1>
       </div>
 
@@ -322,7 +443,13 @@ export function ShapeFusion({ onBack, onLoad }) {
                 ← Edit
               </button>
             </div>
-            <pre className="sf-turtle-preview">{fusedTtl}</pre>
+            <ColoredFusionPreview
+              fusedTtl={fusedTtl}
+              pathsA={pathsA}
+              pathsB={pathsB}
+              labelA={entryA?.class ?? 'A'}
+              labelB={entryB?.class ?? 'B'}
+            />
           </div>
         )}
       </div>

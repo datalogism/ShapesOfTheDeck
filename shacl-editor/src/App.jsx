@@ -26,9 +26,11 @@ import { ShapeArena } from './components/ShapeArena';
 import { ShapeReport } from './components/ShapeReport';
 import { ShapeFusion } from './components/ShapeFusion';
 import { DeckView } from './components/DeckView';
+import { TopicStudio } from './components/TopicStudio';
+import { NamespaceStudio } from './components/NamespaceStudio';
 import { LOGIC_OPERATORS } from './data/shaclConstraints';
 import { INITIAL_PREFIXES } from './data/commonPrefixes';
-import { importFromTurtle } from './utils/turtleImport';
+import { importFromTurtle, topicFromPath } from './utils/turtleImport';
 import { exportToTurtle } from './utils/turtleExport';
 import { topicColor } from './utils/topicColors';
 import { computeLayout } from './utils/graphLayout';
@@ -38,7 +40,8 @@ import './App.css';
 
 // ── Inner component: lives inside <ReactFlow> so it can use useReactFlow ─────
 // Handles dagre re-layout + fitView whenever the topic filter or graph mode changes.
-function LayoutAndFitEffect({ activeTopics, graphMode, nodes, edges, setNodes, shapeKey }) {
+function LayoutAndFitEffect({ activeTopics, topicPerspective, graphMode, nodes, edges, setNodes, shapeKey }) {
+  const effectiveTopic = (n) => topicPerspective === 'namespace' ? topicFromPath(n.data.path) : n.data.topic;
   const { fitView } = useReactFlow();
   // Saved positions let us restore the user's original layout when the filter is cleared.
   const savedPositions = useRef(null);
@@ -82,7 +85,8 @@ function LayoutAndFitEffect({ activeTopics, graphMode, nodes, edges, setNodes, s
           e => embeddingTypes.has(nodeById[e.source]?.type) && e.target === n.id
         );
         if (isOwned) return true;
-        return n.data.topic && !activeTopics.has(n.data.topic);
+        const et = effectiveTopic(n);
+        return et && !activeTopics.has(et);
       }).map(n => n.id)
     );
 
@@ -92,7 +96,7 @@ function LayoutAndFitEffect({ activeTopics, graphMode, nodes, edges, setNodes, s
     const t = setTimeout(() => fitView({ padding: 0.15, duration: 500 }), 80);
     return () => clearTimeout(t);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [activeTopics, graphMode, shapeKey]);
+  }, [activeTopics, topicPerspective, graphMode, shapeKey]);
 }
 
 const nodeTypes = {
@@ -157,6 +161,124 @@ const initialEdges = [
 
 const MAX_HISTORY = 50;
 
+// ── Bulk topic assignment panel ────────────────────────────
+function BulkTopicPanel({ nodes, allTopics, onAssign, onClose }) {
+  const [newTopic, setNewTopic] = useState('');
+
+  const assign = (t) => { onAssign(nodes.map(n => n.id), t); };
+
+  return (
+    <div className="bulk-panel">
+      <div className="bulk-header">
+        <span className="bulk-title">◉ {nodes.length} properties selected</span>
+        <button className="bulk-close" onClick={onClose} title="Deselect all">✕</button>
+      </div>
+
+      <div className="bulk-section-label">Assign topic</div>
+
+      {allTopics.length > 0 && (
+        <div className="bulk-existing-topics">
+          {allTopics.map(t => {
+            const color = topicColor(t);
+            return (
+              <button
+                key={t}
+                className="bulk-topic-chip"
+                style={{ borderColor: color, color }}
+                onClick={() => assign(t)}
+                title={`Assign all to "${t}"`}
+              >
+                {t}
+              </button>
+            );
+          })}
+        </div>
+      )}
+
+      <div className="bulk-new-row">
+        <input
+          className="bulk-new-input"
+          placeholder="New topic name…"
+          value={newTopic}
+          onChange={e => setNewTopic(e.target.value)}
+          onKeyDown={e => { if (e.key === 'Enter' && newTopic.trim()) assign(newTopic.trim()); }}
+        />
+        <button
+          className="bulk-assign-btn"
+          disabled={!newTopic.trim()}
+          onClick={() => assign(newTopic.trim())}
+        >
+          Assign
+        </button>
+      </div>
+
+      <button className="bulk-clear-btn" onClick={() => assign('')}>
+        Remove topics
+      </button>
+    </div>
+  );
+}
+
+// ── Save to Library dialog ─────────────────────────────────
+function SaveLibraryDialog({ defaultName, defaultClass, onSave, onClose }) {
+  const [className, setClassName] = useState(defaultClass || '');
+  const [kg, setKg]               = useState('dbpedia');
+  const [saving, setSaving]       = useState(false);
+  const [error, setError]         = useState('');
+
+  const filename = `user/${(className || 'Shape').replace(/\s+/g, '')}.ttl`;
+
+  const handleSave = async () => {
+    if (!className.trim()) { setError('Class name is required.'); return; }
+    setSaving(true);
+    setError('');
+    try {
+      await onSave({ className: className.trim(), kg, filename });
+      onClose();
+    } catch (e) {
+      setError(e.message);
+      setSaving(false);
+    }
+  };
+
+  return (
+    <div className="sld-overlay" onClick={onClose}>
+      <div className="sld-box" onClick={e => e.stopPropagation()}>
+        <div className="sld-header">
+          <span className="sld-title">📚 Save to Library</span>
+          <button className="sld-close" onClick={onClose}>✕</button>
+        </div>
+        <div className="sld-body">
+          <label className="sld-label">Class name</label>
+          <input
+            className="sld-input"
+            value={className}
+            onChange={e => setClassName(e.target.value)}
+            placeholder="e.g. Person"
+            autoFocus
+          />
+          <label className="sld-label">Knowledge graph</label>
+          <select className="sld-select" value={kg} onChange={e => setKg(e.target.value)}>
+            <option value="dbpedia">DBpedia</option>
+            <option value="yago">YAGO</option>
+            <option value="wikidata">Wikidata</option>
+            <option value="other">Other</option>
+          </select>
+          <label className="sld-label">Saved as</label>
+          <div className="sld-path">user/{(className || 'Shape').replace(/\s+/g, '')}.ttl</div>
+          {error && <div className="sld-error">{error}</div>}
+        </div>
+        <div className="sld-footer">
+          <button className="sld-cancel" onClick={onClose}>Cancel</button>
+          <button className="sld-save-btn" onClick={handleSave} disabled={saving}>
+            {saving ? 'Saving…' : '💾 Save'}
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 export default function App() {
   const { isDark, toggleTheme } = useTheme();
   const [activeMode, setActiveMode] = useState('library'); // 'library' | 'editor'
@@ -164,6 +286,7 @@ export default function App() {
   const [nodes, setNodes, onNodesChange] = useNodesState(initialNodes);
   const [edges, setEdges, onEdgesChange] = useEdgesState(initialEdges);
   const [selectedNodeId, setSelectedNodeId] = useState(null);
+  const [multiSelectedIds, setMultiSelectedIds] = useState(new Set());
   const [showConfig, setShowConfig] = useState(false);
   const [viewMode, setViewMode] = useState('graph');
   const [graphMode, setGraphMode] = useState('uml'); // 'uml' | 'vowl'
@@ -171,7 +294,35 @@ export default function App() {
   const [ontologies, setOntologies] = useState([]);
   const [activeTopics, setActiveTopics] = useState(null); // null = all, Set = visible topics
   const [topicFilterOpen, setTopicFilterOpen] = useState(false);
+  const [topicPerspective, setTopicPerspective] = useState('namespace'); // 'namespace' | 'topics'
   const [shapeKey, setShapeKey] = useState(0); // increments on each shape load to reset layout state
+
+  // ── Save to library ───────────────────────────────────
+  const [showSaveLibrary, setShowSaveLibrary] = useState(false);
+
+  const handleSaveToLibrary = useCallback(async ({ className, kg, filename }) => {
+    const ttl = exportToTurtle(nodes, edges, prefixes);
+    const resp = await fetch('/save-shape', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        ttl,
+        filename,
+        entry: {
+          source: 'user',
+          kg,
+          gen_mode: 'manual',
+          model: '',
+          variant: 'user',
+          class: className,
+        },
+      }),
+    });
+    if (!resp.ok) {
+      const { error } = await resp.json().catch(() => ({ error: `HTTP ${resp.status}` }));
+      throw new Error(error || `HTTP ${resp.status}`);
+    }
+  }, [nodes, edges, prefixes]);
 
   // ── Translator state ─────────────────────────────────
   const [translatorOnline, setTranslatorOnline] = useState(null); // null=unknown, true, false
@@ -181,6 +332,34 @@ export default function App() {
 
   useEffect(() => {
     checkTranslatorHealth().then(ok => setTranslatorOnline(ok));
+  }, []);
+
+  // Load a fused shape passed from a ShapeFusion "Open in Editor" new-tab action.
+  // sessionStorage persists across React 18 StrictMode's simulated remount unlike a ref.
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const key = params.get('load');
+    if (!key) return;
+    if (sessionStorage.getItem(`_sf_done_${key}`)) return; // already consumed
+    const stored = localStorage.getItem(key);
+    if (!stored) return;
+    sessionStorage.setItem(`_sf_done_${key}`, '1');
+    localStorage.removeItem(key);
+    window.history.replaceState({}, '', window.location.pathname);
+    const { ttl, name } = JSON.parse(stored);
+    importFromTurtle(ttl).then(({ nodes: n, edges: e }) => {
+      setPast([]);
+      setFuture([]);
+      setNodes(n);
+      setEdges(e);
+      setSelectedNodeId(null);
+      setActiveShapeName(name ?? 'FusedShape');
+      setActiveTopics(null);
+      setShapeKey(k => k + 1);
+      setActiveMode('editor');
+      setViewMode('graph');
+    }).catch(err => console.error('Fusion load failed:', err));
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   // ── Undo / Redo ──────────────────────────────────────
@@ -232,22 +411,52 @@ export default function App() {
   // ── Derived state ─────────────────────────────────────
   const selectedNode = nodes.find(n => n.id === selectedNodeId) || null;
 
-  // All unique non-empty topics in the current graph
+  // Multi-selected property shapes (only meaningful when > 1)
+  const multiSelectedProps = useMemo(
+    () => nodes.filter(n => multiSelectedIds.has(n.id) && n.type === 'propertyShape'),
+    [nodes, multiSelectedIds]
+  );
+  const showBulkPanel = multiSelectedProps.length > 1;
+
+  // Whether any property shape has an annotation-based topic
+  const hasAnnotations = useMemo(
+    () => nodes.some(n => n.type === 'propertyShape' && n.data.topic),
+    [nodes]
+  );
+
+  // Grouping key for a node based on current perspective
+  const getGroup = useCallback((n) =>
+    topicPerspective === 'namespace' ? topicFromPath(n.data.path) : n.data.topic,
+    [topicPerspective]
+  );
+
+  // All unique non-empty group labels in the current graph
   const allTopics = useMemo(() => {
     const seen = new Set();
     const ordered = [];
     for (const n of nodes) {
-      if (n.type === 'propertyShape' && n.data.topic) {
-        if (!seen.has(n.data.topic)) { seen.add(n.data.topic); ordered.push(n.data.topic); }
+      if (n.type === 'propertyShape') {
+        const g = getGroup(n);
+        if (g && !seen.has(g)) { seen.add(g); ordered.push(g); }
       }
     }
     return ordered;
-  }, [nodes]);
+  }, [nodes, getGroup]);
 
-  // Reset filter when topics disappear (e.g. new shape loaded)
+  // Reset filter when topics disappear (e.g. new shape loaded) or perspective changes
   useEffect(() => {
     if (allTopics.length === 0) setActiveTopics(null);
   }, [allTopics]);
+
+  useEffect(() => { setActiveTopics(null); }, [topicPerspective]);
+
+  // Update a property shape's annotation topic
+  const onSetTopic = useCallback((nodeId, topicName) => {
+    pushToHistory(nodes, edges);
+    setNodes(nds => nds.map(n =>
+      n.id === nodeId ? { ...n, data: { ...n.data, topic: topicName } } : n
+    ));
+  }, [nodes, edges, pushToHistory, setNodes]);
 
   const toggleTopic = useCallback((topic) => {
     setActiveTopics(prev => {
@@ -287,18 +496,20 @@ export default function App() {
             onSelectProperty: handleSelectProperty,
             selectedPropertyId: selectedNodeId,
             activeTopics,
+            topicPerspective,
           },
         };
       }
       if (n.type === 'propertyShape') {
-        // In VOWL mode, hide topic-filtered nodes (nodes with no topic are always shown)
-        const filtered = graphMode === 'vowl' && activeTopics !== null && n.data.topic && !activeTopics.has(n.data.topic);
-        if (ownedByParent.has(n.id) || filtered) return { ...n, hidden: true };
-        return n;
+        const et = getGroup(n);
+        // In VOWL mode, hide topic-filtered nodes (nodes with no group are always shown)
+        const filtered = graphMode === 'vowl' && activeTopics !== null && et && !activeTopics.has(et);
+        if (ownedByParent.has(n.id) || filtered) return { ...n, hidden: true, data: { ...n.data, effectiveTopic: et } };
+        return { ...n, data: { ...n.data, effectiveTopic: et } };
       }
       return n;
     });
-  }, [nodes, edges, graphMode, handleSelectProperty, selectedNodeId, activeTopics]);
+  }, [nodes, edges, graphMode, handleSelectProperty, selectedNodeId, activeTopics, getGroup, topicPerspective]);
 
   // In UML mode hide parent→PropertyShape edges.
   // In VOWL mode hide edges to topic-filtered nodes.
@@ -312,12 +523,13 @@ export default function App() {
         return { ...e, hidden: true };
       }
       // VOWL: hide edges to topic-filtered property nodes
-      if (graphMode === 'vowl' && activeTopics !== null && target?.type === 'propertyShape' && target.data.topic && !activeTopics.has(target.data.topic)) {
-        return { ...e, hidden: true };
+      if (graphMode === 'vowl' && activeTopics !== null && target?.type === 'propertyShape') {
+        const et = getGroup(target);
+        if (et && !activeTopics.has(et)) return { ...e, hidden: true };
       }
       return e;
     });
-  }, [nodes, edges, graphMode, activeTopics]);
+  }, [nodes, edges, graphMode, activeTopics, getGroup]);
 
   // ── Graph callbacks ───────────────────────────────────
   const onConnect = useCallback(
@@ -334,7 +546,29 @@ export default function App() {
 
   const onPaneClick = useCallback(() => {
     setSelectedNodeId(null);
+    setMultiSelectedIds(new Set());
   }, []);
+
+  // Track multi-selection from ReactFlow (box-select / Shift-click)
+  const onSelectionChange = useCallback(({ nodes: selNodes }) => {
+    const propIds = selNodes.filter(n => n.type === 'propertyShape').map(n => n.id);
+    setMultiSelectedIds(new Set(propIds));
+    if (propIds.length === 1) setSelectedNodeId(propIds[0]);
+    if (propIds.length === 0) {
+      const other = selNodes.find(n => n.type !== 'propertyShape');
+      if (other) setSelectedNodeId(other.id);
+    }
+  }, []);
+
+  // Bulk-assign topic to multiple property shapes (single undo step)
+  const assignTopicBulk = useCallback((nodeIds, topicName) => {
+    const idSet = new Set(nodeIds);
+    pushToHistory(nodes, edges);
+    setNodes(nds => nds.map(n =>
+      idSet.has(n.id) ? { ...n, data: { ...n.data, topic: topicName } } : n
+    ));
+    setMultiSelectedIds(new Set());
+  }, [nodes, edges, pushToHistory, setNodes]);
 
   const onNodeDragStop = useCallback(() => {
     pushToHistory(nodes, edges);
@@ -493,6 +727,18 @@ export default function App() {
     setSelectedNodeId(null);
   }, [selectedNodeId, nodes, edges, pushToHistory, setNodes, setEdges]);
 
+  // ── Save Turtle ───────────────────────────────────────
+  const handleSaveTurtle = useCallback(() => {
+    const turtle = exportToTurtle(nodes, edges, prefixes);
+    const blob   = new Blob([turtle], { type: 'text/turtle' });
+    const url    = URL.createObjectURL(blob);
+    const a      = document.createElement('a');
+    a.href       = url;
+    a.download   = `${activeShapeName || 'shape'}.ttl`;
+    a.click();
+    URL.revokeObjectURL(url);
+  }, [nodes, edges, prefixes, activeShapeName]);
+
   // ── Translator handlers ───────────────────────────────
   const handleExportShEx = useCallback(async () => {
     setTranslatorError(null);
@@ -586,6 +832,20 @@ export default function App() {
     </>);
   }
 
+  if (activeMode === 'topics') {
+    return (<>
+      <TopicStudio onBack={() => setActiveMode('library')} />
+      {themeBtn}
+    </>);
+  }
+
+  if (activeMode === 'namespaces') {
+    return (<>
+      <NamespaceStudio onBack={() => setActiveMode('library')} />
+      {themeBtn}
+    </>);
+  }
+
   return (
     <div className="app-root">
       <header className="app-header">
@@ -593,7 +853,7 @@ export default function App() {
           <button className="btn-back-library" onClick={() => setActiveMode('library')} title="Back to library">
             ← Library
           </button>
-          <span className="app-logo">◈</span>
+          <img src="/img/logo.png" className="app-logo-img" alt="ShapeOfTheDecks" />
           {activeShapeName ? (
             <span className="app-shape-name">{activeShapeName}</span>
           ) : (
@@ -664,6 +924,24 @@ export default function App() {
                 ⌨ Code
               </button>
             </div>
+            {/* Save Turtle */}
+            <button
+              className="btn-toolbar btn-save-ttl"
+              onClick={handleSaveTurtle}
+              disabled={!nodes.some(n => n.type === 'nodeShape')}
+              title="Download current shape as Turtle (.ttl)"
+            >
+              💾 .ttl
+            </button>
+            <button
+              className="btn-toolbar btn-save-library"
+              onClick={() => setShowSaveLibrary(true)}
+              disabled={!nodes.some(n => n.type === 'nodeShape')}
+              title="Save shape to the local library"
+            >
+              📚 Library
+            </button>
+
             {/* ShEx translator buttons */}
             <div className="translator-group">
               <span
@@ -710,7 +988,7 @@ export default function App() {
       )}
 
       <div className="app-body">
-        <div className={`canvas-area${selectedNode && viewMode !== 'code' ? ' with-panel' : ''}`}>
+        <div className={`canvas-area${(selectedNode || showBulkPanel) && viewMode !== 'code' ? ' with-panel' : ''}`}>
           {viewMode === 'graph' && (
             <ReactFlow
               nodes={displayNodes}
@@ -723,6 +1001,7 @@ export default function App() {
               onNodeClick={onNodeClick}
               onPaneClick={onPaneClick}
               onNodeDragStop={onNodeDragStop}
+              onSelectionChange={onSelectionChange}
               defaultEdgeOptions={defaultEdgeOptions}
               fitView
             >
@@ -731,6 +1010,7 @@ export default function App() {
               <MiniMap nodeStrokeWidth={3} zoomable pannable />
               <LayoutAndFitEffect
                 activeTopics={activeTopics}
+                topicPerspective={topicPerspective}
                 graphMode={graphMode}
                 nodes={nodes}
                 edges={edges}
@@ -745,7 +1025,7 @@ export default function App() {
                       onClick={() => setTopicFilterOpen(o => !o)}
                     >
                       <span className="tfp-icon">◉</span>
-                      Topics
+                      {topicPerspective === 'namespace' ? 'Namespaces' : 'Topics'}
                       {activeTopics !== null && (
                         <span className="tfp-active-count">{activeTopics.size}/{allTopics.length}</span>
                       )}
@@ -753,6 +1033,22 @@ export default function App() {
                     </button>
                     {topicFilterOpen && (
                       <div className="tfp-body">
+                        {/* Perspective selector */}
+                        <div className="tfp-persp-row">
+                          <button
+                            className={`tfp-persp-btn${topicPerspective === 'namespace' ? ' active' : ''}`}
+                            onClick={() => setTopicPerspective('namespace')}
+                          >
+                            Namespaces
+                          </button>
+                          <button
+                            className={`tfp-persp-btn${topicPerspective === 'topics' ? ' active' : ''}${!hasAnnotations ? ' disabled' : ''}`}
+                            onClick={() => hasAnnotations && setTopicPerspective('topics')}
+                            title={!hasAnnotations ? 'No topic annotations found in this shape' : ''}
+                          >
+                            Topics
+                          </button>
+                        </div>
                         <div className="tfp-actions">
                           <button
                             className={`tfp-all-btn${activeTopics === null ? ' active' : ''}`}
@@ -830,6 +1126,10 @@ export default function App() {
               onAddProperty={addPropertyShape}
               onAddLogicToShape={addLogicToShape}
               onAddPropertyToLogic={addPropertyToLogic}
+              topicPerspective={topicPerspective}
+              onSetTopic={onSetTopic}
+              onAssignTopicBulk={assignTopicBulk}
+              allTopics={allTopics}
             />
           )}
 
@@ -845,15 +1145,24 @@ export default function App() {
           )}
         </div>
 
-        {selectedNode && viewMode !== 'code' && (
+        {(selectedNode || showBulkPanel) && viewMode !== 'code' && (
           <aside className="side-panel">
-            <ConstraintPanel
-              node={selectedNode}
-              onUpdate={updateNodeData}
-              onClose={() => setSelectedNodeId(null)}
-              prefixes={prefixes}
-              ontologies={ontologies}
-            />
+            {showBulkPanel ? (
+              <BulkTopicPanel
+                nodes={multiSelectedProps}
+                allTopics={allTopics}
+                onAssign={assignTopicBulk}
+                onClose={() => setMultiSelectedIds(new Set())}
+              />
+            ) : (
+              <ConstraintPanel
+                node={selectedNode}
+                onUpdate={updateNodeData}
+                onClose={() => setSelectedNodeId(null)}
+                prefixes={prefixes}
+                ontologies={ontologies}
+              />
+            )}
           </aside>
         )}
       </div>
@@ -865,6 +1174,13 @@ export default function App() {
           ontologies={ontologies}
           onOntologiesChange={setOntologies}
           onClose={() => setShowConfig(false)}
+        />
+      )}
+      {showSaveLibrary && (
+        <SaveLibraryDialog
+          defaultClass={nodes.find(n => n.type === 'nodeShape')?.data?.targetClass?.split(/[/#:]/).pop() || activeShapeName}
+          onSave={handleSaveToLibrary}
+          onClose={() => setShowSaveLibrary(false)}
         />
       )}
       {themeBtn}

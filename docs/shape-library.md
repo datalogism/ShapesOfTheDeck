@@ -1,6 +1,6 @@
 # Shape Library
 
-The Shape Library is the home screen of SHACLEditor. It displays all 568 shapes as Yugioh-style cards and lets you filter, inspect, load, and select shapes.
+The Shape Library is the home screen of ShapeOfTheDecks. It displays all 606 shapes as cards and lets you filter, inspect, load, compare, and select them.
 
 ## Layout
 
@@ -19,28 +19,46 @@ The Shape Library is the home screen of SHACLEditor. It displays all 568 shapes 
 └──────────────────────────────┴─────────────────────────┘
 ```
 
+## Shape counts
+
+| Source | Shapes |
+|---|---:|
+| Ground Truth | 169 |
+| LLM-generated (DeepSeek-V3, GPT-4o-mini) | 342 |
+| ShExer | 57 |
+| Kastor | 38 |
+| **Total** | **606** |
+
+Knowledge graphs covered: **DBpedia · YAGO · Wikidata**.
+
 ## Filters
 
 | Filter | Values |
 |---|---|
 | KG | All · DBpedia · YAGO · Wikidata |
-| Source | All · Ground Truth · LLM Generated · ShExer |
+| Source | All · Ground Truth · LLM Generated · ShExer · Kastor |
 | Mode | All · Local · Triples · Global · Global (orig) |
-| Model | All · DeepSeek-V3 · GPT-4o mini |
+| Model | All · DeepSeek-V3 · GPT-4o-mini |
 | Search | Free-text on class name |
 
 Filters combine with AND. The count chip updates live.
 
 ## Card interactions
 
-**Click the card body** — opens the Stats panel for that class on the right. Shows all variants in a table with property-type stats and Load / Clone buttons.
+**Click the card body** — opens the Stats panel on the right. Shows all variants of that class in a table with property-type statistics and **Load** / **Clone** buttons.
 
 **Click the □ checkbox** (bottom-right of card) — toggles all variants of that class into the selection set. The checkbox shows:
 - `□` — nothing selected
 - `▣` — some variants selected
 - `☑` — all variants selected
 
-Cards with any selection get a green outline (`.yu-checked`).
+Cards with any selection get a highlighted outline.
+
+## Loading a shape into the Shape Builder
+
+Click **Load** in the Stats panel row for a specific variant. The app switches to the **Shape Builder** in graph view with that shape loaded.
+
+**Clone** works the same way but names the shape `<original> (clone)`, giving you an independent editable copy.
 
 ## Selection bar
 
@@ -58,7 +76,7 @@ Both modes ask for a deck name and slot name. After saving, the app navigates to
 
 ## Right panel — Stats tab
 
-Each row in the stats table corresponds to one shape file (one path in `shapes/index.json`). Columns:
+Each row corresponds to one shape file (one entry in `shapes/index.json`). Columns:
 
 | Column | Meaning |
 |---|---|
@@ -72,9 +90,6 @@ Each row in the stats table corresponds to one shape file (one path in `shapes/i
 | Funct. | `sh:maxCount = 1` |
 | □ | Per-row selection checkbox for fine-grained deck building |
 
-**Load** — opens the shape in the editor.  
-**Clone** — opens a copy named `<original> (clone)`.
-
 ## Right panel — Analysis tab
 
 Aggregate bar charts for the full filtered set:
@@ -86,6 +101,10 @@ Aggregate bar charts for the full filtered set:
 - Variant Depth (histogram: how many classes have N variants)
 - Top Classes (most represented by variant count)
 
+## Side-by-side comparison
+
+From the Stats panel, open any two variants of the same class using **Load** to have them side-by-side in the Shape Builder for manual inspection. For a diff-based comparison, use the **Shape Fusion** module.
+
 ## Save as Deck (filter-based)
 
 When any filter differs from "All", a banner appears below the filter bar:
@@ -94,6 +113,6 @@ When any filter differs from "All", a banner appears below the filter bar:
 N shapes selected    [📦 Save as Deck]
 ```
 
-This creates a deck slot using the current filter object (source/kg/mode/model). Every shape that matches the filter at save time is included. Future index additions that match will also appear in the slot.
+This creates a deck slot using the current filter object (source/kg/mode/model). Every shape that matches the filter at save time is included. Future index additions that match will also appear in the slot automatically.
 
-This is different from the selection-based Add to Deck, which stores an explicit list of paths (`filter.paths`).
+This is distinct from the selection-based **Add to Deck**, which stores an explicit list of paths (`filter.paths`).

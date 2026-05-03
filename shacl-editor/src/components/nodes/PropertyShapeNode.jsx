@@ -26,7 +26,7 @@ export function PropertyShapeNode({ data, selected }) {
   const typeLabel = getTypeLabel(data);
   const extraCount = getExtraCount(data);
   const path = data.path || '';
-  const topic = data.topic || '';
+  const topic = data.effectiveTopic || data.topic || '';
 
   const minCount = constraints['sh:minCount'];
   const maxCount = constraints['sh:maxCount'];

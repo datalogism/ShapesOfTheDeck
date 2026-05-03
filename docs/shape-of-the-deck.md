@@ -1,6 +1,6 @@
-# Shape of the Deck
+# Shape Deck Builder
 
-"Shape of the Deck" is the deck management system. A **deck** is a named collection of **slots**, where each slot selects a subset of shapes from the library. The Deck Detail view shows a class × slot matrix, making it easy to compare how different generation methods cover the same ontology classes.
+The Shape Deck Builder is the deck management module. A **deck** is a named collection of **slots**, where each slot selects a subset of shapes from the library. The Deck Detail view renders a class × slot matrix, making it easy to track coverage and compare generation methods across ontology classes.
 
 ## Deck anatomy
 
@@ -22,7 +22,7 @@
 
 ## Slot anatomy
 
-A slot has either a **filter** (dynamic — matches whatever the index contains) or an explicit **paths** list (static — exact shape files).
+A slot has either a **filter** (dynamic — matches whatever the index contains at runtime) or an explicit **paths** list (static — exact shape files).
 
 ### Filter-based slot
 ```json
@@ -57,7 +57,7 @@ A slot has either a **filter** (dynamic — matches whatever the index contains)
 }
 ```
 
-`matchSlot(entry, filter)` in `DeckView.jsx` handles both: it checks `filter.paths` first; if absent, it falls back to field-by-field matching.
+`matchSlot(entry, filter)` in `DeckView.jsx` handles both cases: it checks `filter.paths` first; if absent, it falls back to field-by-field matching.
 
 ## Built-in decks
 
@@ -65,7 +65,7 @@ Served as static JSON files from `public/decks/`:
 
 ```
 public/decks/
-  index.json          ← list of deck summaries (id, name, icon, kgs, slots_count, …)
+  index.json           ← list of deck summaries (id, name, icon, kgs, slots_count, …)
   doubleshapresso.json ← full deck with slots and classes
 ```
 
@@ -88,7 +88,7 @@ Coverage: 20 DBpedia classes · 37 YAGO classes.
 
 ## User decks
 
-Stored in `localStorage` with key `shapedeck_<id>`. They carry `_userCreated: true` and can be deleted from the deck list (🗑 button).
+Stored in `localStorage` with key `shapedeck_<id>`. They carry `_userCreated: true` and can be deleted from the deck list (🗑 button). User decks persist across browser sessions.
 
 ### Creating a deck — three ways
 
@@ -99,9 +99,12 @@ Opens `DeckBuilder`. Define name, icon, description, then add slots. Each slot h
 Appears when any filter differs from "All". One click → `QuickSaveDeckDialog` → names the deck and the slot, saves the filter object.
 
 **3. Add to Deck** (Shape Library selection bar)  
-Select individual shapes using the card checkboxes or the per-row checkboxes in the Stats panel. The green bar at the bottom shows the count. Click **Add to Deck →** → `AddToDeckDialog`:
+Select individual shapes using the card checkboxes or the per-row checkboxes in the Stats panel. Click **Add to Deck →** → `AddToDeckDialog`:
 - **New Deck** — creates a deck with one path-list slot.
 - **Add to Existing** — appends a path-list slot to an existing user deck.
+
+**4. Clone a shape from the library**  
+After loading a shape into the Shape Builder, any edited clone can be saved to `localStorage` for later retrieval.
 
 ## Deck Detail view
 
@@ -116,9 +119,9 @@ Airport      [Load]         —          [Load]
 ...
 ```
 
-Each cell shows **Load** if a matching shape is found in the index, or **—** if not. Clicking Load opens the shape in the editor.
+Each cell shows **Load** if a matching shape exists in the index, or **—** if not. Clicking **Load** opens the shape in the Shape Builder.
 
-The KG tab switcher filters slots and classes to the selected knowledge graph.
+The KG tab switcher filters slots and classes to the selected knowledge graph. The coverage percentage shows how many cells in the matrix are filled.
 
 ## Adding a new built-in deck
 
@@ -126,4 +129,4 @@ The KG tab switcher filters slots and classes to the selected knowledge graph.
 2. Add a summary entry to `public/decks/index.json`.
 3. Optionally place a logo image at `public/img/<id>.png` and add it to `DECK_LOGOS` in `DeckView.jsx`.
 
-No code changes are needed — `DeckView` fetches both files at runtime.
+No code changes are needed beyond step 3 — `DeckView` fetches both files at runtime.

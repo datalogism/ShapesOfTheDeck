@@ -19,12 +19,12 @@ function CardBadge({ constraints }) {
   return <span className="vns-card">{label}</span>;
 }
 
-// Group array of property nodes by topic, preserving order
+// Group array of property nodes by effectiveTopic, preserving order
 function groupByTopic(propertyNodes) {
   const groups = [];
   let current = null;
   for (const ps of propertyNodes) {
-    const t = ps.data.topic || '';
+    const t = ps.data.effectiveTopic || '';
     if (!current || current.topic !== t) {
       current = { topic: t, props: [] };
       groups.push(current);
@@ -80,12 +80,12 @@ export function NodeShapeNode({ id, data, selected }) {
     );
   }
 
-  // UML mode: filter by active topics (nodes with no topic always shown)
+  // UML mode: filter by active topics (nodes with no effectiveTopic always shown)
   const visibleProps = data.activeTopics
-    ? propertyNodes.filter(p => !p.data.topic || data.activeTopics.has(p.data.topic))
+    ? propertyNodes.filter(p => !p.data.effectiveTopic || data.activeTopics.has(p.data.effectiveTopic))
     : propertyNodes;
 
-  const hasTopics = visibleProps.some(p => p.data.topic);
+  const hasTopics = visibleProps.some(p => p.data.effectiveTopic);
   const groups = hasTopics ? groupByTopic(visibleProps) : [{ topic: '', props: visibleProps }];
 
   return (

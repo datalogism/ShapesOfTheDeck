@@ -486,7 +486,7 @@ export function ShapeArena({ onBack }) {
     <div className="ar-root">
       <div className="ar-header">
         <button className="ar-back-btn" onClick={onBack}>← Library</button>
-        <span className="ar-logo">⚔</span>
+        <img src="/img/logo.png" className="app-logo-img" alt="ShapeOfTheDecks" />
         <h1 className="ar-title">Shape Arena</h1>
         <div className="ar-kg-toggle">
           {['dbpedia','yago'].map(k => (

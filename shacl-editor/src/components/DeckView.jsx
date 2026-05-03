@@ -27,6 +27,7 @@ const SOURCE_OPTS = [
   { value: 'ground-truth',    label: 'Ground Truth',  icon: '👑' },
   { value: 'shapes_generated',label: 'LLM Generated', icon: '🤖' },
   { value: 'shexer',          label: 'ShExer',         icon: '🔬' },
+  { value: 'kastor',          label: 'Kastor',          icon: '🏗️' },
 ];
 const MODE_OPTS = [
   { value: 'shacl/local',      label: 'Local'         },
@@ -408,6 +409,7 @@ export function DeckView({ onLoad, onBack, initialBuilder = null }) {
       <div className="dk-root">
         <div className="dk-root-header">
           {onBack && <button className="dk-back-btn" onClick={onBack} style={{marginRight:8}}>← Library</button>}
+          <img src="/img/logo.png" className="app-logo-img" alt="ShapeOfTheDecks" />
           <span className="dk-root-title">Shape of the Deck</span>
         </div>
         <DeckBuilder
@@ -587,7 +589,7 @@ export function QuickSaveDeckDialog({ filters, index, onSaved, onClose }) {
   const [name, setName] = useState('My Deck');
   const [slotLabel, setSlotLabel] = useState(() => {
     const parts = [];
-    if (filters.source !== 'all') parts.push(filters.source === 'ground-truth' ? 'GT' : filters.source === 'shexer' ? 'ShExer' : 'LLM');
+    if (filters.source !== 'all') parts.push(filters.source === 'ground-truth' ? 'GT' : filters.source === 'shexer' ? 'ShExer' : filters.source === 'kastor' ? 'Kastor' : 'LLM');
     if (filters.kg !== 'all') parts.push(KG_LABELS[filters.kg] ?? filters.kg);
     if (filters.model !== 'all') parts.push(filters.model);
     return parts.join(' ') || 'Slot 1';
@@ -600,6 +602,7 @@ export function QuickSaveDeckDialog({ filters, index, onSaved, onClose }) {
         if (filters.source === 'ground-truth' && e.source !== 'ground-truth') return false;
         if (filters.source === 'generated'    && e.source !== 'shapes_generated') return false;
         if (filters.source === 'shexer'       && e.source !== 'shexer') return false;
+        if (filters.source === 'kastor'       && e.source !== 'kastor') return false;
       }
       if (filters.mode  !== 'all' && e.gen_mode !== filters.mode) return false;
       if (filters.model !== 'all' && e.model    !== filters.model) return false;
@@ -614,6 +617,7 @@ export function QuickSaveDeckDialog({ filters, index, onSaved, onClose }) {
     if (filters.source === 'ground-truth')    filter.source = 'ground-truth';
     if (filters.source === 'generated')       filter.source = 'shapes_generated';
     if (filters.source === 'shexer')          filter.source = 'shexer';
+    if (filters.source === 'kastor')          filter.source = 'kastor';
     if (filters.mode  !== 'all')  filter.gen_mode = filters.mode;
     if (filters.model !== 'all')  filter.model    = filters.model;
 

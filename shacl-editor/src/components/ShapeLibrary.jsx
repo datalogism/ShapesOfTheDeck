@@ -1,5 +1,6 @@
 import { useState, useEffect, useMemo, useCallback } from 'react';
 import { QuickSaveDeckDialog, AddToDeckDialog } from './DeckView';
+import { extractTopicMap } from '../utils/turtleImport';
 
 // ── Stats extraction ──────────────────────────────────────────────────────────
 function computeStats(ttlText) {
@@ -18,7 +19,11 @@ function computeStats(ttlText) {
     const maxM = b.match(/sh:maxCount\s+(\d+)/);
     if (maxM && parseInt(maxM[1]) === 1) functional++;
   }
-  return { total, dt, obj, noRange, mandatory, functional };
+  const topicMap = extractTopicMap(ttlText);
+  const topicSet = new Set(topicMap.values());
+  const pathSet  = new Set();
+  for (const m of ttlText.matchAll(/sh:path\s+([^\s;,\]]+)/g)) pathSet.add(m[1]);
+  return { total, dt, obj, noRange, mandatory, functional, topics: topicSet.size, distinctPaths: pathSet.size || total };
 }
 
 // ── Label / colour helpers ────────────────────────────────────────────────────
@@ -42,6 +47,7 @@ const MODEL_SHORT = { 'deepseek-chat': 'DeepSeek', 'gpt-4o-mini': 'GPT-4o', '': 
 function variantLabel(e) {
   if (e.source === 'ground-truth') return GT_VARIANT_LABELS[e.variant] ?? e.variant;
   if (e.source === 'shexer')       return 'ShExer';
+  if (e.source === 'kastor')       return e.variant === 'txt2kg_clean' ? 'TXT2KG Clean' : 'TXT2KG';
   const modeShort  = GEN_MODE_LABELS[e.gen_mode] ?? e.gen_mode;
   const modelShort = MODEL_SHORT[e.model] ?? e.model;
   return modelShort ? `${modeShort} · ${modelShort}` : modeShort;
@@ -59,6 +65,8 @@ function cardTheme(entries) {
   if (hasLLM && hasDbo) return { border: '#d97706', glow: '#f59e0b', label: 'LLM Generated', bg: 'linear-gradient(160deg,#1f0f00 0%,#0f0800 100%)' };
   if (hasLLM && hasYago)return { border: '#0891b2', glow: '#06b6d4', label: 'LLM Generated', bg: 'linear-gradient(160deg,#001f2a 0%,#000f14 100%)' };
   if (hasSX)            return { border: '#6d28d9', glow: '#8b5cf6', label: 'ShExer',         bg: 'linear-gradient(160deg,#170a2e 0%,#0a0518 100%)' };
+  const hasKastor = entries.some(e => e.source === 'kastor');
+  if (hasKastor)        return { border: '#2563eb', glow: '#60a5fa', label: 'Kastor',          bg: 'linear-gradient(160deg,#001533 0%,#000a1a 100%)' };
   return                       { border: '#475569', glow: '#64748b', label: 'Unknown',        bg: 'linear-gradient(160deg,#1e293b 0%,#0f172a 100%)' };
 }
 
@@ -77,7 +85,7 @@ function classIcon(name) {
 }
 
 // ── Yugioh deck card ──────────────────────────────────────────────────────────
-function DeckCard({ className, entries, selected, onClick, checkedPaths, onTogglePaths }) {
+function DeckCard({ className, entries, selected, onClick, checkedPaths, onTogglePaths, stats }) {
   const theme  = cardTheme(entries);
   const icon   = classIcon(className);
   const kgs    = [...new Set(entries.map(e => e.kg))];
@@ -86,6 +94,12 @@ function DeckCard({ className, entries, selected, onClick, checkedPaths, onToggl
   const checkedCount = checkedPaths ? entries.filter(e => checkedPaths.has(e.path)).length : 0;
   const allChecked  = checkedCount === total && total > 0;
   const someChecked = checkedCount > 0 && checkedCount < total;
+
+  // Aggregate stats across loaded entries for this class
+  const loadedStats = entries.map(e => stats?.[e.path]).filter(Boolean);
+  const maxProps = loadedStats.length > 0 ? Math.max(...loadedStats.map(s => s.distinctPaths ?? s.total)) : null;
+  const topicCounts = loadedStats.map(s => s.topics ?? 0);
+  const maxTopics = topicCounts.length > 0 ? Math.max(...topicCounts) : null;
 
   return (
     <div
@@ -114,6 +128,20 @@ function DeckCard({ className, entries, selected, onClick, checkedPaths, onToggl
           ))}
         </div>
       </div>
+
+      {/* Card stats row */}
+      {maxProps !== null && (
+        <div className="yu-card-stats">
+          <span className="yu-card-stat" title="Max distinct properties across variants">
+            <span className="yu-cs-icon">◼</span>{maxProps} props
+          </span>
+          {maxTopics > 0 && (
+            <span className="yu-card-stat yu-card-stat-topics" title="Max topics across variants">
+              <span className="yu-cs-icon">◉</span>{maxTopics} topics
+            </span>
+          )}
+        </div>
+      )}
 
       {/* Stats footer */}
       <div className="yu-footer">
@@ -148,7 +176,7 @@ function Chip({ label, active, onClick, color }) {
 }
 
 // ── Filter bar ────────────────────────────────────────────────────────────────
-const SOURCE_COLORS = { 'ground-truth': '#c89b3c', 'shapes_generated': '#d97706', 'shexer': '#7c3aed' };
+const SOURCE_COLORS = { 'ground-truth': '#c89b3c', 'shapes_generated': '#d97706', 'shexer': '#7c3aed', 'kastor': '#2563eb' };
 
 function FilterBar({ filters, onChange, search, onSearch, counts }) {
   const { kg, source, mode, model } = filters;
@@ -175,6 +203,7 @@ function FilterBar({ filters, onChange, search, onSearch, counts }) {
             { v:'ground-truth', l:'Ground Truth',  c:'#c89b3c' },
             { v:'generated',    l:'LLM Generated', c:'#d97706' },
             { v:'shexer',       l:'ShExer',         c:'#7c3aed' },
+            { v:'kastor',       l:'Kastor',          c:'#2563eb' },
           ].map(({v,l,c}) => (
             <Chip key={v} label={l} active={source===v} color={c}
               onClick={() => onChange({...filters,source:v,mode:'all',model:'all'})} />
@@ -452,12 +481,13 @@ function ChartsPanel({ index, onClose }) {
 
   // Per-source unique class coverage
   const classCoverage = useMemo(() => {
-    const m = { 'ground-truth': new Set(), 'shapes_generated': new Set(), 'shexer': new Set() };
+    const m = { 'ground-truth': new Set(), 'shapes_generated': new Set(), 'shexer': new Set(), 'kastor': new Set() };
     for (const e of index) (m[e.source] ?? new Set()).add(e.class);
     return {
       'Ground Truth': m['ground-truth'].size,
       'LLM Generated': m['shapes_generated'].size,
       'ShExer': m['shexer'].size,
+      'Kastor': m['kastor'].size,
     };
   }, [index]);
 
@@ -477,6 +507,7 @@ function ChartsPanel({ index, onClose }) {
     'Ground Truth': '#c89b3c',
     'LLM Generated': '#d97706',
     'ShExer': '#7c3aed',
+    'Kastor': '#2563eb',
   };
 
   return (
@@ -498,6 +529,7 @@ function ChartsPanel({ index, onClose }) {
             { label: 'Ground Truth',  value: bySource['ground-truth']    || 0, color: '#c89b3c' },
             { label: 'LLM Generated', value: bySource['shapes_generated'] || 0, color: '#d97706' },
             { label: 'ShExer',        value: bySource['shexer']           || 0, color: '#7c3aed' },
+            { label: 'Kastor',        value: bySource['kastor']           || 0, color: '#2563eb' },
           ]}
         />
 
@@ -602,6 +634,7 @@ export function ShapeLibrary({ onLoad, onClone, onCreate, onNavigate }) {
       if (filters.source === 'ground-truth' && e.source !== 'ground-truth') return false;
       if (filters.source === 'generated'    && e.source !== 'shapes_generated') return false;
       if (filters.source === 'shexer'       && e.source !== 'shexer') return false;
+      if (filters.source === 'kastor'       && e.source !== 'kastor') return false;
     }
     if (filters.mode  !== 'all' && e.gen_mode !== filters.mode) return false;
     if (filters.model !== 'all' && e.model    !== filters.model) return false;
@@ -639,6 +672,39 @@ export function ShapeLibrary({ onLoad, onClone, onCreate, onNavigate }) {
     }));
   }, [selectedClass, selectedEntries]);
 
+  // Background-load one representative entry per visible class card for card stats display
+  useEffect(() => {
+    let cancelled = false;
+    const batches = [];
+    for (const [, entries] of classGroups) {
+      const rep = entries.find(e => !stats[e.path]);
+      if (rep) batches.push(rep);
+    }
+    if (batches.length === 0) return;
+    const BATCH = 6;
+    let i = 0;
+    const runNext = () => {
+      if (cancelled || i >= batches.length) return;
+      const chunk = batches.slice(i, i + BATCH);
+      i += BATCH;
+      Promise.all(chunk.map(e =>
+        fetch(`/shapes/${e.path}`).then(r => r.text())
+          .then(t => ({ path: e.path, s: computeStats(t) }))
+          .catch(() => ({ path: e.path, s: null }))
+      )).then(results => {
+        if (cancelled) return;
+        setStats(prev => {
+          const next = { ...prev };
+          for (const r of results) if (r.s) next[r.path] = r.s;
+          return next;
+        });
+        setTimeout(runNext, 80);
+      });
+    };
+    runNext();
+    return () => { cancelled = true; };
+  }, [classGroups]);
+
   const selectClass = useCallback(cls => {
     setSelectedClass(c => {
       const next = c === cls ? null : cls;
@@ -672,14 +738,16 @@ export function ShapeLibrary({ onLoad, onClone, onCreate, onNavigate }) {
         {/* Header */}
         <div className="yu-header">
           <div className="yu-header-top">
-            <span className="yu-logo">◈</span>
-            <h1 className="yu-title">SHACL Shape Library</h1>
+            <img src="/img/logo.png" className="app-logo-img" alt="ShapeOfTheDecks" />
+            <h1 className="yu-title">ShapeOfTheDecks</h1>
             {onNavigate && (
               <div className="yu-nav-btns">
                 <button className="yu-nav-btn" onClick={() => onNavigate('decks')}  title="Shape of the Deck">🃏 Decks</button>
                 <button className="yu-nav-btn" onClick={() => onNavigate('fusion')} title="Shape Fusion">⚗ Fusion</button>
                 <button className="yu-nav-btn" onClick={() => onNavigate('arena')}  title="Shape Arena">⚔ Arena</button>
                 <button className="yu-nav-btn" onClick={() => onNavigate('report')} title="Shape Report">📋 Report</button>
+                <button className="yu-nav-btn" onClick={() => onNavigate('topics')}     title="Topic Studio">◉ Topics</button>
+                <button className="yu-nav-btn" onClick={() => onNavigate('namespaces')} title="Namespace Studio">⬡ Namespaces</button>
               </div>
             )}
             <button
@@ -727,6 +795,7 @@ export function ShapeLibrary({ onLoad, onClone, onCreate, onNavigate }) {
               onClick={() => selectClass(cls)}
               checkedPaths={selectedPaths}
               onTogglePaths={toggleClassPaths}
+              stats={stats}
             />
           ))}
         </div>

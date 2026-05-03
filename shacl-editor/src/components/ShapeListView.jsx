@@ -1,6 +1,7 @@
-import { useState } from 'react';
+import { useState, useCallback, useMemo } from 'react';
 import { LOGIC_OPERATORS } from '../data/shaclConstraints';
 import { topicColor, topicColorAlpha } from '../utils/topicColors';
+import { topicFromPath } from '../utils/turtleImport';
 
 function ConstraintChip({ label, value }) {
   return (
@@ -11,19 +12,81 @@ function ConstraintChip({ label, value }) {
   );
 }
 
-function PropertyRow({ node, selected, onClick }) {
+function TopicBadge({ topic, editable, onSave }) {
+  const [editing, setEditing] = useState(false);
+  const [val, setVal] = useState(topic);
+  const color = topicColor(topic);
+
+  const commit = () => {
+    onSave(val.trim());
+    setEditing(false);
+  };
+
+  if (editing) {
+    return (
+      <td className="cell-topic" onClick={e => e.stopPropagation()}>
+        <input
+          className="topic-inline-input"
+          autoFocus
+          value={val}
+          onChange={e => setVal(e.target.value)}
+          onBlur={commit}
+          onKeyDown={e => { if (e.key === 'Enter') commit(); if (e.key === 'Escape') setEditing(false); }}
+          style={{ borderColor: color || '#475569' }}
+        />
+      </td>
+    );
+  }
+
+  return (
+    <td className="cell-topic" onClick={e => e.stopPropagation()}>
+      {topic ? (
+        <span
+          className={`topic-inline-badge${editable ? ' editable' : ''}`}
+          style={{ background: color + '33', color, borderColor: color }}
+          onClick={editable ? () => { setVal(topic); setEditing(true); } : undefined}
+          title={editable ? 'Click to reassign topic' : topic}
+        >
+          {topic}
+        </span>
+      ) : editable ? (
+        <button
+          className="topic-assign-btn"
+          onClick={() => { setVal(''); setEditing(true); }}
+          title="Assign a topic"
+        >
+          + topic
+        </button>
+      ) : null}
+    </td>
+  );
+}
+
+function PropertyRow({ node, selected, onClick, topicPerspective, onSetTopic, checked, onCheck }) {
   const [expanded, setExpanded] = useState(false);
   const constraints = node.data.constraints || {};
   const entries = Object.entries(constraints).filter(([, v]) => v !== '' && v != null);
   const PREVIEW = 3;
   const hasMore = entries.length > PREVIEW;
   const visible = expanded ? entries : entries.slice(0, PREVIEW);
+  const showTopicCol = topicPerspective === 'topics';
+  const currentTopic = node.data.topic || '';
 
   return (
     <tr
-      className={`prop-row${selected ? ' prop-row-selected' : ''}`}
+      className={`prop-row${selected ? ' prop-row-selected' : ''}${checked ? ' prop-row-checked' : ''}`}
       onClick={() => onClick(node.id)}
     >
+      {onCheck !== undefined && (
+        <td className="cell-check" onClick={e => e.stopPropagation()}>
+          <input
+            type="checkbox"
+            className="prop-checkbox"
+            checked={checked}
+            onChange={e => onCheck(node.id, e.target.checked)}
+          />
+        </td>
+      )}
       <td className="cell-path">
         <span className="path-label">{node.data.path || <em className="muted">?</em>}</span>
       </td>
@@ -46,6 +109,13 @@ function PropertyRow({ node, selected, onClick }) {
           )
         }
       </td>
+      {showTopicCol && (
+        <TopicBadge
+          topic={currentTopic}
+          editable={!!onSetTopic}
+          onSave={name => onSetTopic?.(node.id, name)}
+        />
+      )}
     </tr>
   );
 }
@@ -140,19 +210,49 @@ function LogicGroup({ logicNode, children, selectedId, onSelectLogic, onSelectPr
 }
 
 // A collapsible topic panel inside a shape card
-function TopicPanel({ topic, props, selectedId, onSelectNode }) {
+function TopicPanel({ topic, props, selectedId, onSelectNode, topicPerspective, onSetTopic, checkedIds, onCheck }) {
   const [collapsed, setCollapsed] = useState(false);
+  const [renaming, setRenaming] = useState(false);
+  const [renameVal, setRenameVal] = useState(topic);
   const color = topicColor(topic);
+  const canRename = topicPerspective === 'topics' && !!onSetTopic && !!topic;
+
+  const commitRename = () => {
+    const newName = renameVal.trim();
+    if (newName && newName !== topic) {
+      props.forEach(ps => onSetTopic(ps.id, newName));
+    }
+    setRenaming(false);
+  };
 
   return (
     <div className="topic-panel" style={{ borderLeftColor: color }}>
       <div
         className="topic-panel-header"
         style={{ background: topicColorAlpha(topic, 0.12) }}
-        onClick={() => setCollapsed(c => !c)}
+        onClick={() => !renaming && setCollapsed(c => !c)}
       >
         <span className="topic-panel-dot" style={{ background: color }} />
-        <span className="topic-panel-name">{topic}</span>
+        {renaming ? (
+          <input
+            className="topic-rename-input"
+            autoFocus
+            value={renameVal}
+            onChange={e => setRenameVal(e.target.value)}
+            onBlur={commitRename}
+            onKeyDown={e => { if (e.key === 'Enter') commitRename(); if (e.key === 'Escape') setRenaming(false); }}
+            onClick={e => e.stopPropagation()}
+            style={{ borderColor: color }}
+          />
+        ) : (
+          <span
+            className={`topic-panel-name${canRename ? ' renameable' : ''}`}
+            title={canRename ? 'Click to rename' : topic}
+            onClick={canRename ? (e) => { e.stopPropagation(); setRenameVal(topic); setRenaming(true); } : undefined}
+          >
+            {topic}
+          </span>
+        )}
         <span className="topic-panel-count">{props.length}</span>
         <span className="topic-panel-toggle">{collapsed ? '▸' : '▾'}</span>
       </div>
@@ -165,6 +265,10 @@ function TopicPanel({ topic, props, selectedId, onSelectNode }) {
                 node={ps}
                 selected={selectedId === ps.id}
                 onClick={onSelectNode}
+                topicPerspective={topicPerspective}
+                onSetTopic={onSetTopic}
+                checked={checkedIds?.has(ps.id)}
+                onCheck={onCheck}
               />
             ))}
           </tbody>
@@ -174,8 +278,75 @@ function TopicPanel({ topic, props, selectedId, onSelectNode }) {
   );
 }
 
-export function ShapeListView({ nodes, edges, selectedNodeId, onSelectNode, onAddProperty, onAddLogicToShape, onAddPropertyToLogic }) {
+// ── Sticky bulk-action bar ────────────────────────────
+function BulkBar({ count, allTopics, onAssign, onClear, onDeselect }) {
+  const [newTopic, setNewTopic] = useState('');
+
+  return (
+    <div className="lv-bulk-bar">
+      <span className="lv-bulk-count">◉ {count} selected</span>
+      <div className="lv-bulk-topics">
+        {allTopics.map(t => {
+          const color = topicColor(t);
+          return (
+            <button
+              key={t}
+              className="lv-bulk-chip"
+              style={{ borderColor: color, color }}
+              onClick={() => onAssign(t)}
+              title={`Assign topic "${t}"`}
+            >
+              {t}
+            </button>
+          );
+        })}
+        <input
+          className="lv-bulk-input"
+          placeholder="New topic…"
+          value={newTopic}
+          onChange={e => setNewTopic(e.target.value)}
+          onKeyDown={e => {
+            if (e.key === 'Enter' && newTopic.trim()) { onAssign(newTopic.trim()); setNewTopic(''); }
+            if (e.key === 'Escape') setNewTopic('');
+          }}
+        />
+        {newTopic.trim() && (
+          <button className="lv-bulk-assign" onClick={() => { onAssign(newTopic.trim()); setNewTopic(''); }}>
+            Assign
+          </button>
+        )}
+      </div>
+      <button className="lv-bulk-clear" onClick={onClear} title="Remove topics from selected">✕ topics</button>
+      <button className="lv-bulk-deselect" onClick={onDeselect} title="Clear selection">Deselect</button>
+    </div>
+  );
+}
+
+export function ShapeListView({ nodes, edges, selectedNodeId, onSelectNode, onAddProperty, onAddLogicToShape, onAddPropertyToLogic, topicPerspective = 'namespace', onSetTopic, onAssignTopicBulk, allTopics = [] }) {
+  const effectiveTopic = useCallback((n) =>
+    topicPerspective === 'namespace' ? topicFromPath(n.data.path) : n.data.topic,
+    [topicPerspective]
+  );
   const [collapsedShapes, setCollapsedShapes] = useState(new Set());
+  const [checkedIds, setCheckedIds] = useState(new Set());
+
+  const handleCheck = useCallback((id, checked) => {
+    setCheckedIds(prev => {
+      const next = new Set(prev);
+      checked ? next.add(id) : next.delete(id);
+      return next;
+    });
+  }, []);
+
+  const handleAssignBulk = useCallback((topic) => {
+    if (onAssignTopicBulk) onAssignTopicBulk([...checkedIds], topic);
+    setCheckedIds(new Set());
+  }, [checkedIds, onAssignTopicBulk]);
+
+  const handleClearBulk = useCallback(() => {
+    if (onAssignTopicBulk) onAssignTopicBulk([...checkedIds], '');
+    setCheckedIds(new Set());
+  }, [checkedIds, onAssignTopicBulk]);
 
   const toggleShape = (id) => setCollapsedShapes(prev => {
     const next = new Set(prev);
@@ -202,6 +373,15 @@ export function ShapeListView({ nodes, edges, selectedNodeId, onSelectNode, onAd
 
   return (
     <div className="listview-root">
+      {checkedIds.size > 0 && (
+        <BulkBar
+          count={checkedIds.size}
+          allTopics={allTopics}
+          onAssign={handleAssignBulk}
+          onClear={handleClearBulk}
+          onDeselect={() => setCheckedIds(new Set())}
+        />
+      )}
       {nodeShapes.map(ns => {
         const isCollapsed = collapsedShapes.has(ns.id);
         const childIds = edgesBySource[ns.id] || [];
@@ -211,13 +391,13 @@ export function ShapeListView({ nodes, edges, selectedNodeId, onSelectNode, onAd
           return acc + (edgesBySource[lg.id] || []).filter(id => nodeById[id]?.type === 'propertyShape').length;
         }, 0);
 
-        // Group direct props by topic
-        const hasTopics = directProps.some(p => p.data.topic);
+        // Group direct props by effective topic (namespace or annotation)
+        const hasTopics = directProps.some(p => effectiveTopic(p));
         const topicGroups = [];
         if (hasTopics) {
           let currentGroup = null;
           for (const ps of directProps) {
-            const t = ps.data.topic || '';
+            const t = effectiveTopic(ps) || '';
             if (!currentGroup || currentGroup.topic !== t) {
               currentGroup = { topic: t, props: [] };
               topicGroups.push(currentGroup);
@@ -268,9 +448,12 @@ export function ShapeListView({ nodes, edges, selectedNodeId, onSelectNode, onAd
                           props={group.props}
                           selectedId={selectedNodeId}
                           onSelectNode={onSelectNode}
+                          topicPerspective={topicPerspective}
+                          onSetTopic={onSetTopic}
+                          checkedIds={checkedIds}
+                          onCheck={handleCheck}
                         />
                       ) : (
-                        // Untopiced properties
                         <div key={'notopic-' + gi} className="prop-table-wrapper">
                           <table className="prop-table">
                             <tbody>
@@ -280,6 +463,10 @@ export function ShapeListView({ nodes, edges, selectedNodeId, onSelectNode, onAd
                                   node={ps}
                                   selected={selectedNodeId === ps.id}
                                   onClick={onSelectNode}
+                                  topicPerspective={topicPerspective}
+                                  onSetTopic={onSetTopic}
+                                  checked={checkedIds.has(ps.id)}
+                                  onCheck={handleCheck}
                                 />
                               ))}
                             </tbody>
@@ -294,8 +481,24 @@ export function ShapeListView({ nodes, edges, selectedNodeId, onSelectNode, onAd
                       <table className="prop-table">
                         <thead>
                           <tr>
+                            <th className="th-check">
+                              <input
+                                type="checkbox"
+                                className="prop-checkbox"
+                                checked={directProps.length > 0 && directProps.every(p => checkedIds.has(p.id))}
+                                onChange={e => {
+                                  setCheckedIds(prev => {
+                                    const next = new Set(prev);
+                                    directProps.forEach(p => e.target.checked ? next.add(p.id) : next.delete(p.id));
+                                    return next;
+                                  });
+                                }}
+                                title="Select all"
+                              />
+                            </th>
                             <th className="th-path">sh:path</th>
                             <th className="th-constraints">Constraints</th>
+                            {topicPerspective === 'topics' && <th className="th-topic">Topic</th>}
                           </tr>
                         </thead>
                         <tbody>
@@ -305,6 +508,10 @@ export function ShapeListView({ nodes, edges, selectedNodeId, onSelectNode, onAd
                               node={ps}
                               selected={selectedNodeId === ps.id}
                               onClick={onSelectNode}
+                              topicPerspective={topicPerspective}
+                              onSetTopic={onSetTopic}
+                              checked={checkedIds.has(ps.id)}
+                              onCheck={handleCheck}
                             />
                           ))}
                         </tbody>

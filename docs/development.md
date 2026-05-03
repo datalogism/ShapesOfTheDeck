@@ -2,8 +2,11 @@
 
 ## Prerequisites
 
-- Node.js 18+
-- Python 3.10+ (only for the ShEx translator server)
+| Dependency | Minimum version | Notes |
+|---|---|---|
+| **Node.js** | **18.x** | 20 LTS or 22 LTS recommended |
+| **npm** | **9.x** | Bundled with Node.js |
+| **Python** | **3.10+** | Optional — only for the ShEx translator server |
 
 ## Setup
 
@@ -13,43 +16,55 @@ npm install
 npm run dev          # Vite dev server on http://localhost:5173
 ```
 
-The app is also available on port 5174 or 5175 if 5173 is busy (Vite auto-increments).
+If port 5173 is busy, Vite automatically tries 5174, 5175, etc.
 
-## Vite proxy
+## Optional: ShEx translator server
 
-`vite.config.js` proxies `/api` → `http://localhost:8765` for the optional ShEx translator:
+Enables the `→ ShEx` and `← ShEx` format-conversion buttons in the Shape Builder toolbar. Not required for any other feature.
+
+```bash
+pip install fastapi uvicorn shaclex-py
+python shacl-editor/translator_server.py
+```
+
+The translator starts on `http://localhost:8765`. `vite.config.js` proxies `/api` → `http://localhost:8765`. The Shape Builder toolbar shows a **green dot** when the server is reachable, or a **red dot** when it is not — the buttons are disabled but all other features work normally.
+
+## Save-shape Vite middleware
+
+`vite.config.js` includes a `saveShapePlugin()` that intercepts `POST /save-shape` requests in development mode. This is what powers the **📚 Library** toolbar button in the Shape Builder.
 
 ```js
-server: {
-  proxy: {
-    '/api': 'http://localhost:8765'
-  }
+// vite.config.js (simplified)
+function saveShapePlugin() {
+  return {
+    name: 'save-shape',
+    configureServer(server) {
+      server.middlewares.use('/save-shape', (req, res) => {
+        // reads JSON body: { ttl, path, meta }
+        // writes public/shapes/<path>.ttl
+        // updates public/shapes/index.json
+      });
+    }
+  };
 }
 ```
 
-The translator server (`main.py` at the project root) is a FastAPI app. Start it with:
+This middleware is **not available in the production build** (`npm run build`). The Library button is hidden in production.
 
-```bash
-cd ..          # project root
-python main.py
-```
-
-The UI shows a coloured dot (green = online, red = offline) next to the → ShEx / ← ShEx buttons.
-
-## Adding new shapes
+## Adding new shapes manually
 
 1. Place the `.ttl` file somewhere under `public/shapes/`.
 2. Add an entry to `public/shapes/index.json`:
 
 ```json
 {
-  "path":     "ground-truth/SHACL/wes_shacl/Q5.ttl",
-  "source":   "ground-truth",
-  "kg":       "wikidata",
-  "gen_mode": null,
-  "model":    null,
-  "variant":  "wes_shacl",
-  "class":    "Human"
+  "path":     "user/MyClassShape.ttl",
+  "source":   "user",
+  "kg":       "dbpedia",
+  "gen_mode": "manual",
+  "model":    "",
+  "variant":  "user",
+  "class":    "MyClass"
 }
 ```
 
@@ -59,25 +74,24 @@ The UI shows a coloured dot (green = online, red = offline) next to the → ShEx
 
 - Must be valid Turtle parseable by n3.js.
 - At least one `rdf:type sh:NodeShape` subject.
-- `sh:targetClass` for the target.
+- `sh:targetClass` for the target class.
 - For Wikidata shapes: include `sh:name "Label"@en` on the NodeShape subject.
+- Avoid bare `:` prefixes — n3.js requires all namespace prefixes to be declared.
 
 ## Adding a new built-in deck
 
 1. Create `public/decks/<id>.json` (see [data-formats.md](data-formats.md) for schema).
 2. Add a summary to `public/decks/index.json`.
-3. (Optional) Place a logo at `public/img/<id>.png` and register in `DeckView.jsx`:
+3. (Optional) Place a logo at `public/img/<id>.png` and register it in `DeckView.jsx`:
 
 ```js
 const DECK_LOGOS = {
   doubleshapresso: '/img/doubleshapresso.png',
-  myNewDeck:       '/img/myNewDeck.png',   // ← add this
+  myNewDeck:       '/img/myNewDeck.png',
 };
 ```
 
 ## Knowledge graph logos
-
-Logos for DBpedia, YAGO, and Wikidata are at `public/img/`:
 
 | File | Used for |
 |---|---|
@@ -92,50 +106,50 @@ Rendered via the `KgLogo` component (exported from `DeckView.jsx`) or directly w
 ```
 shacl-editor/
   public/
-    decks/           ← built-in deck JSON
-    eval/            ← evaluation run results
-    img/             ← KG and deck logos
-    shapes/          ← .ttl files + index.json
+    decks/                 ← built-in deck JSON
+    eval/                  ← evaluation run results
+    img/                   ← KG and deck logos
+    shapes/                ← .ttl files + index.json
   src/
-    App.jsx          ← root component, navigation state
-    App.css          ← all styles (~4 400 lines)
+    App.jsx                ← root component, navigation state, fusion load effect
+    App.css                ← all styles (~4 500 lines)
     components/
-      DeckView.jsx   ← Deck system (DeckView, DeckBuilder, AddToDeckDialog, …)
-      ShapeLibrary.jsx
-      ShapeArena.jsx
-      ShapeFusion.jsx
-      ShapeReport.jsx
-      ConstraintPanel.jsx
-      ConfigPanel.jsx
-      CodeEditorView.jsx
-      ShapeListView.jsx
-      TurtleExportPanel.jsx
-      ImportModal.jsx
+      ShapeLibrary.jsx     ← Shape Library module
+      DeckView.jsx         ← Shape Deck Builder (DeckView, DeckBuilder, dialogs)
+      ShapeFusion.jsx      ← Shape Fusion module (picker, diff preview, fuse)
+      NamespaceStudio.jsx  ← Namespace Manager
+      TopicStudio.jsx      ← Shape Topic Designer
+      ShapeArena.jsx       ← evaluation leaderboard
+      ShapeReport.jsx      ← validation report viewer
+      ShapeListView.jsx    ← Shape Builder — list view
+      CodeEditorView.jsx   ← Shape Builder — code view
+      ConstraintPanel.jsx  ← property constraint editor
+      ConfigPanel.jsx      ← prefix + ontology configuration
       nodes/
         NodeShapeNode.jsx
         PropertyShapeNode.jsx
         LogicNode.jsx
       edges/
         PropertyEdge.jsx
-    data/
-      shaclConstraints.js   ← constraint catalogue, default prefixes
-      commonPrefixes.js
     utils/
-      turtleImport.js       ← .ttl → ReactFlow
-      turtleExport.js       ← ReactFlow → .ttl
-      translator.js         ← SHACL ↔ ShEx API calls
-      graphLayout.js        ← Dagre auto-layout
-      ontologyLoader.js
-      topicColors.js
+      turtleImport.js      ← .ttl → ReactFlow nodes/edges
+      turtleExport.js      ← ReactFlow nodes/edges → .ttl
+      translator.js        ← SHACL ↔ ShEx API calls
+      graphLayout.js       ← Dagre auto-layout
+      topicColors.js       ← deterministic colour per topic
+  translator_server.py     ← optional FastAPI ShEx translator
+  vite.config.js           ← Vite config + saveShapePlugin middleware
 ```
 
 ## Building for production
 
 ```bash
-npm run build      # → dist/
+npm run build      # output → shacl-editor/dist/
 ```
 
-The build is a standard Vite SPA. Serve `dist/` from any static host. All shape files in `public/` are copied verbatim.
+`dist/` is a standard Vite SPA. Serve it from any static host or CDN. All files under `public/` (shapes, decks, images) are copied verbatim.
+
+> **Note:** The `📚 Library` save button requires the Vite dev-server middleware. It is absent in the production build.
 
 ## Linting / type-checking
 

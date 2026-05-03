@@ -5,6 +5,7 @@ import { EditorView, ViewPlugin, Decoration } from '@codemirror/view';
 import { RangeSetBuilder } from '@codemirror/state';
 import { exportToTurtle } from '../utils/turtleExport';
 import { importFromTurtle } from '../utils/turtleImport';
+import { COMMON_PREFIXES } from '../data/commonPrefixes';
 
 const lineWrap = EditorView.lineWrapping;
 
@@ -129,6 +130,91 @@ function HistoryPanel({ history, currentIdx, selectedIdx, onSelect, onRestore, p
   );
 }
 
+// ── Missing prefix detection ──────────────────────────────
+function useMissingPrefixes(code, active) {
+  return useMemo(() => {
+    if (!active) return [];
+
+    // Collect declared prefixes
+    const declared = new Set();
+    const DECL = /@prefix\s+(\w+):\s*</g;
+    let m;
+    while ((m = DECL.exec(code)) !== null) declared.add(m[1]);
+
+    // Strip URIs, strings, and comments to avoid false matches
+    const stripped = code
+      .replace(/<[^>]*>/g, ' ')
+      .replace(/"[^"\\]*(?:\\.[^"\\]*)*"/g, ' ')
+      .replace(/#[^\n]*/g, ' ');
+
+    // Collect used prefixes: word: followed by a name char
+    const used = new Set();
+    const USED = /\b([a-zA-Z][a-zA-Z0-9_-]*):[a-zA-Z_]/g;
+    while ((m = USED.exec(stripped)) !== null) {
+      const p = m[1];
+      if (p !== 'http' && p !== 'https' && p !== 'ftp') used.add(p);
+    }
+
+    // Diff: used but not declared
+    const missing = [];
+    for (const p of used) {
+      if (!declared.has(p)) {
+        const known = COMMON_PREFIXES.find(c => c.prefix === p);
+        missing.push({ prefix: p, uri: known?.uri ?? null, description: known?.description ?? null });
+      }
+    }
+    return missing.sort((a, b) => a.prefix.localeCompare(b.prefix));
+  }, [code, active]);
+}
+
+function insertPrefixes(code, toAdd) {
+  const lines = code.split('\n');
+  let lastPrefix = -1;
+  for (let i = 0; i < lines.length; i++) {
+    if (/^\s*@prefix\b/.test(lines[i])) lastPrefix = i;
+  }
+  const newLines = toAdd.map(m => `@prefix ${m.prefix}: <${m.uri}> .`);
+  if (lastPrefix >= 0) {
+    lines.splice(lastPrefix + 1, 0, ...newLines);
+  } else {
+    lines.unshift(...newLines, '');
+  }
+  return lines.join('\n');
+}
+
+function MissingPrefixBar({ missing, onAdd, onAddAll }) {
+  if (missing.length === 0) return null;
+  const known   = missing.filter(m => m.uri);
+  const unknown = missing.filter(m => !m.uri);
+  return (
+    <div className="pfx-bar">
+      <span className="pfx-bar-icon">⚠</span>
+      <span className="pfx-bar-label">Missing prefixes:</span>
+      {known.map(m => (
+        <button
+          key={m.prefix}
+          className="pfx-chip pfx-chip-known"
+          title={`Add @prefix ${m.prefix}: <${m.uri}>`}
+          onClick={() => onAdd(m)}
+        >
+          {m.prefix}
+          <span className="pfx-chip-plus">+</span>
+        </button>
+      ))}
+      {unknown.map(m => (
+        <span key={m.prefix} className="pfx-chip pfx-chip-unknown" title="No URI known for this prefix">
+          {m.prefix}?
+        </span>
+      ))}
+      {known.length > 1 && (
+        <button className="pfx-add-all" onClick={onAddAll}>
+          Add all ({known.length})
+        </button>
+      )}
+    </div>
+  );
+}
+
 // ── Main component ────────────────────────────────────────
 export function CodeEditorView({ nodes, edges, prefixes, past, future, onApply }) {
   const hasShapes = nodes.some(n => n.type === 'nodeShape');
@@ -204,6 +290,17 @@ export function CodeEditorView({ nodes, edges, prefixes, past, future, onApply }
   const isHistoryPreview = selectedHistIdx !== null && selectedHistIdx !== currentIdx;
   const editorReadOnly = !isEditing || isHistoryPreview;
 
+  const missingPrefixes = useMissingPrefixes(code, isEditing && !isHistoryPreview);
+
+  const handleAddPrefix = useCallback((m) => {
+    setCode(prev => insertPrefixes(prev, [m]));
+  }, []);
+
+  const handleAddAllPrefixes = useCallback(() => {
+    const known = missingPrefixes.filter(m => m.uri);
+    if (known.length > 0) setCode(prev => insertPrefixes(prev, known));
+  }, [missingPrefixes]);
+
   let modeBadge, modeHint;
   if (isHistoryPreview) {
     modeBadge = <span className="code-mode-badge history">⏱ History</span>;
@@ -257,6 +354,12 @@ export function CodeEditorView({ nodes, edges, prefixes, past, future, onApply }
       </div>
 
       {error && <div className="code-view-error">{error}</div>}
+
+      <MissingPrefixBar
+        missing={missingPrefixes}
+        onAdd={handleAddPrefix}
+        onAddAll={handleAddAllPrefixes}
+      />
 
       {/* Body: editor + optional history sidebar */}
       <div className="code-view-body">
