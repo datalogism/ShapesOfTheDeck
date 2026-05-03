@@ -344,8 +344,9 @@ export function ShapeFusion({ onBack, onLoad }) {
   return (
     <div className="sf-root">
       <div className="sf-header">
+        <img src="/img/logo.png" className="app-header-logo" alt="ShapeOfTheDecks" />
         <button className="ar-back-btn" onClick={onBack}>← Library</button>
-        <img src="/img/logo.png" className="app-logo-img" alt="ShapeOfTheDecks" />
+        <span className="sf-logo">⚗</span>
         <h1 className="sf-title">Shape Fusion</h1>
       </div>
 

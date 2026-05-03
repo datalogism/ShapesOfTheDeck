@@ -11,13 +11,17 @@
 [![DoubleShapespresso](https://img.shields.io/badge/Shapes%20from-DoubleShapespresso-brown)](https://github.com/datalogism/DoubleShapespresso)
 [![SHACL](https://img.shields.io/badge/Format-SHACL%20%2F%20Turtle-5B4A8A)](https://www.w3.org/TR/shacl/)
 
-![ShapeOfTheDecks — Shape Deck Builder](img/ShapeOfTheDeck.png)
+<p align="center">
+  <img src="img/ShapeOfTheDeck.png" alt="ShapeOfTheDecks — Shape Deck Builder" width="50%"/>
+</p>
 
 > **⚠️ Beta** — ShapeOfTheDecks is currently in active development. Expect breaking changes between releases.
 
 **ShapeOfTheDecks** is a local, browser-based workbench for working with **SHACL shapes** extracted from knowledge graphs. It provides a complete workflow from exploring a curated shape library to building, fusing, annotating, and evaluating shapes — all without any cloud dependency.
 
-![ShapeOfTheDecks — Shape Library](img/ShapeLib1.png)
+<p align="center">
+  <img src="img/ShapeLib1.png" alt="ShapeOfTheDecks — Shape Library" width="600"/>
+</p>
 
 ---
 

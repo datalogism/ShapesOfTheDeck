@@ -849,11 +849,12 @@ export default function App() {
   return (
     <div className="app-root">
       <header className="app-header">
+        <img src="/img/logo.png" className="app-header-logo" alt="ShapeOfTheDecks" />
         <div className="app-title">
           <button className="btn-back-library" onClick={() => setActiveMode('library')} title="Back to library">
             ← Library
           </button>
-          <img src="/img/logo.png" className="app-logo-img" alt="ShapeOfTheDecks" />
+          <span className="app-logo">◈</span>
           {activeShapeName ? (
             <span className="app-shape-name">{activeShapeName}</span>
           ) : (

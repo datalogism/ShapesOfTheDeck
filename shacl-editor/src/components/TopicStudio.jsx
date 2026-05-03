@@ -121,8 +121,9 @@ export function TopicStudio({ onBack }) {
     <div className="ts-root">
       {/* Header */}
       <div className="ts-header">
+        <img src="/img/logo.png" className="app-header-logo" alt="ShapeOfTheDecks" />
         <button className="ts-back-btn" onClick={onBack}>← Library</button>
-        <img src="/img/logo.png" className="app-logo-img" alt="ShapeOfTheDecks" />
+        <span className="ts-logo">◉</span>
         <span className="ts-title">Topic Studio</span>
       </div>
 

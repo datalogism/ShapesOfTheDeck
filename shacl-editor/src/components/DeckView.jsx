@@ -408,8 +408,8 @@ export function DeckView({ onLoad, onBack, initialBuilder = null }) {
     return (
       <div className="dk-root">
         <div className="dk-root-header">
+          <img src="/img/logo.png" className="app-header-logo" alt="ShapeOfTheDecks" />
           {onBack && <button className="dk-back-btn" onClick={onBack} style={{marginRight:8}}>← Library</button>}
-          <img src="/img/logo.png" className="app-logo-img" alt="ShapeOfTheDecks" />
           <span className="dk-root-title">Shape of the Deck</span>
         </div>
         <DeckBuilder

@@ -30,12 +30,14 @@
 }
 
 .app-logo { font-size: 18px; }
-.app-logo-img {
-  height: 34px;
-  width: 34px;
+
+.app-header-logo {
+  width: 32px;
+  height: 32px;
   object-fit: contain;
   flex-shrink: 0;
   display: block;
+  filter: brightness(0) invert(1);
 }
 
 .app-body {
@@ -5119,6 +5121,7 @@ select.constraint-input { width: 100%; }
   box-shadow: 0 1px 4px rgba(0,0,0,.08);
 }
 [data-theme="light"] .app-logo { color: #475569; }
+[data-theme="light"] .app-header-logo { filter: none; }
 [data-theme="light"] .app-shape-name { color: #0f172a; }
 [data-theme="light"] .btn-back-library {
   background: #f1f5f9;

@@ -738,7 +738,7 @@ export function ShapeLibrary({ onLoad, onClone, onCreate, onNavigate }) {
         {/* Header */}
         <div className="yu-header">
           <div className="yu-header-top">
-            <img src="/img/logo.png" className="app-logo-img" alt="ShapeOfTheDecks" />
+            <img src="/img/logo.png" className="app-header-logo" alt="ShapeOfTheDecks" />
             <h1 className="yu-title">ShapeOfTheDecks</h1>
             {onNavigate && (
               <div className="yu-nav-btns">
